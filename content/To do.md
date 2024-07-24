@@ -1,0 +1,2 @@
+- [ ] Sync Obsidian with iPhone and iPad
+- [x] Add image to Obsidian
