@@ -1,0 +1,1 @@
+[Internal links](https://help.obsidian.md/Linking+notes+and+files/Internal+links)
