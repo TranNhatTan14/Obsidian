@@ -1,4 +1,5 @@
 ---
+title: Superman
 Links:
   - "[[Habits]]"
 ---
