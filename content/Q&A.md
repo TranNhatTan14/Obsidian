@@ -18,18 +18,5 @@ What is the most important things to me?
 What are my goals
 Why are these goals important to me
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Khi đọc sách mình sẽ có nhiều thứ cần note lại
 Làm sao để hệ thống hóa kiến thức

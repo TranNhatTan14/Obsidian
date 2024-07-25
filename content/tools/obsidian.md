@@ -1,6 +1,8 @@
 ---
 title: Obsidian
 draft: false
+tags:
+  - tool
 ---
 [Basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 ### Add image with path

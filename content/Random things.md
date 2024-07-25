@@ -11,7 +11,6 @@ Blackbox
 I think the purple color like Obsidian and OpenAI ChatGPT 
 
 4G, v2ray, chai pin
-Can buy Garena card in Viettel Money
 Cashback 20,000 when thanh toán điện nước trên Viettel Money
 
 Strech create room for b
@@ -62,16 +61,5 @@ routine
 
 [[Eye]]
 
-que của Hiếu
-
 cobra
 giơ tay giãn cơ
-
-wall
-
-1. Yejin, _Learning the Hard Way_ (this manhwa)  
-2. Seyoung, _A Pervert's Daily Life Season 1_  
-3. June, _Close as Neighbors_  
-4. Ga-young (Psychic Witch), _Hero Manager_  
-5. Yeseul, _Excuse Me, This is My Room_  
-6. Hani, _Sexercise_
