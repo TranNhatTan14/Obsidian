@@ -13,7 +13,7 @@ Habitify
 Obsidian
 Surge
 
-1. [[Obsidian/content/Surge]] ^bdd3e2
+1. [[Surge]]
 2. [[Scribd]] (Skillshare, Testflight, Book, Audiobook, Podcast)
 3. [Open AI ChatGPT](ChatGPT.md)
 4. [**Libra**: Netflix and VieON](http://congmt.pro.vn/)

@@ -4,7 +4,7 @@ draft: false
 ---
 [Basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
 ### Add image with path
-![[einstein_imagination.webp]]
+
 ### Add image with URL
 ![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 ### Sample Python Code
