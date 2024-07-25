@@ -1,8 +1,8 @@
-### [[Article]]
+### Article
 
 - [ ] Manage Your Energy, Not Your Time
 
-### [[Paper]]
+### Research paper
 
 ###### Computer Vision
 
@@ -10,14 +10,19 @@
 
 ### YouTube
 
+###### Artificial Intelligence
+
+- [ ] [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+
+###### Computer Vision
+
+1. [ ] [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
+
 ###### Math
 
 1. [Reducible](https://www.youtube.com/@Reducible)
 2. [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov)
 3. [3blue1brown](https://www.youtube.com/@3blue1brown)
-
-###### Computer Vision
-1. [ ] [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
 
 ### Book
 

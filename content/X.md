@@ -11,3 +11,5 @@ AI CÓ KGAE NAVWF NHẮC NHỬO lên lịch
 Hiện giờ là cách chúng tab 
 
 https://mlu-explain.github.io/
+
+Bởi như Sam Altman, CEO của OpenAI đã nói "Có rất ít công ty đi xây foundation models cho riêng họ. Những cơ hội lớn nhất nằm ở chỗ biến những foundation models thành các sản phẩm ứng dụng khác nhau".
