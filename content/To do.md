@@ -1,2 +1,4 @@
-- [ ] Sync Obsidian with iPhone and iPad
+- [x] Sync Obsidian with iPhone and iPad
 - [x] Add image to Obsidian
+- [ ] Install MacOS in current laptop with [[Hackintosh]]
+- [ ] 
