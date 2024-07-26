@@ -1,9 +1,11 @@
-###### Most Important Tasks (MITs)
-
-- [ ] Tối ưu thời gian sử dụng điện thoại
-- [ ] Continute [[Research]]
-- [ ] Build [OpenCore](Apple.md#MacOS) to install MacOS in laptop
-- [ ] Buy items in [Wish list](Objects#Wish%20list)
+> [!todo] Most Important Tasks (MITs)
+> - [ ] Build assistant
+> - [ ] Tham gia challenges in Kaggle and ...
+> - [ ] Tối ưu thời gian sử dụng điện thoại
+> - [ ] Continute [[Research]]
+> - [ ] Build [OpenCore](Apple.md#MacOS) to install MacOS in laptop
+> - [ ] Buy items in [Wish list](Objects#Wish%20list)
+> - [ ] Surge for data
 ###### Personal
 
 - [ ] Build the [[Vision Board]]
@@ -23,6 +25,4 @@
 - [ ] Buy stocks
 ###### Other
 
-- [ ] Build [[Personal Assistant]]
 - [ ] Learn how to promt with [[ChatGPT]]
-- [ ] Build [OpenCore](Apple.md)

@@ -1,0 +1,1 @@
+Best football club in the world, Barca is trash.

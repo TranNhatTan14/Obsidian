@@ -1,17 +1,17 @@
-### Quote
+###### Quote
 
-**Sam Altman, CEO OpenAI**
-
+> [!quote] Sam Altman, Founder & CEO @ OpenAI
 > Có rất ít công ty đi xây foundation models cho riêng họ. Những cơ hội lớn nhất nằm ở chỗ biến những foundation models thành các sản phẩm ứng dụng khác nhau
 
-**Tam Vu, CEO Earable**
-
+> [!quote] Tam Vu, Founder & CEO @ Earable Neuroscience
 > People overestimate 1 years goal, but underestimate 5 year goal
 > Trash in, trash out
 
 **Others**
 
-- Lục bảng mộc, nhị lạng đinh, hoa linh tinh, đa nhân khóc, bát nhân khiêng, kèn trống chiêng, hạ huyệt
-### URLs
+- Học kém không đáng sợ, học kém mà mọi người tưởng mình học giỏi mới đáng sợ
 
-https://mlu-explain.github.io
+###### Event
+
+- Google I/O
+- Apple Event

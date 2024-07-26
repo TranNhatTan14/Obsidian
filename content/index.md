@@ -1,7 +1,8 @@
 ---
 title: Superman
 ---
-This is the digital note for Superman. I have bachelor background in Mechatronics and now I working as AI Engineer in Genestory. I speak Vietnamese and now I am learning [English](English.md), [Chinese] and I want to learn [Spanish]. Come to [resources](Resources) to see some books, articles, ... I have completed. 
+
+This is the digital note for Superman. I have bachelor background in Mechatronics and now I working as AI Engineer in Genestory. I speak Vietnamese and now I am learning [English](English.md), Chinese and I want to learn Spanish. Come to [resources](Resources) to see some books, articles, ... I have completed. 
 
 Project I am working on
 - [Multimodal Personal Assistant](Assistant.md)

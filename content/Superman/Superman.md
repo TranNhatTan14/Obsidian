@@ -6,6 +6,7 @@
 - Khi có nhiều tiền có nhiều lựa chọn và quyền lựa chọn
 - Cảm xúc liên tục 
 - Có sự kiểm soát mất kiểm soát
+
 - Thông tin đi kèm bối cảnh sẽ dễ nhớ hơn và chính xác hơn
 - Emotion context
 - Ấm siêu tốc nhà chú Cường
@@ -22,12 +23,15 @@
 - Minimalism
 - IKIGAI
 - Stoicism
+
 ###### Dream
 
 - [ ] Discover the world
 	- [ ] Go to Santiago Bernabéu Stadium - [Real Madrid](Real%20Madrid.md) 's stadium
 - [ ] Study [Master program](Research.md) aboard
 - [ ] Find true love
+
+
 ###### [[Health]]
 
 - Những lúc không đeo kính có ảnh hưởng thế nào
@@ -36,20 +40,20 @@
 - Nguyên nhân của bị cận là gì
 - Đau răng
 - Viêm tuyến lệ
-###### Q&A
 
-- How do I define success?
-- What are my strengths?
-- What are my weakness?
-- What activities do you enjoy most
-- Who am I
-- Who am I not
-- What are you grateful for?
-- What is your dream job?
-- What makes me happy?
-- What makes me afraid?
-- What is the most important things to me?
-- What are my goals
-- Why are these goals important to me
-- Khi đọc sách mình sẽ có nhiều thứ cần note lại
-- Làm sao để hệ thống hóa kiến thức
+> [!question] Q&A
+> - Who am I
+> - Who am I not
+> - What are my strengths?
+> - What are my weakness?
+> - How do I define success?
+> - What activities do you enjoy most
+> - What are you grateful for?
+> - What is your dream job?
+> - What makes me happy?
+> - What makes me afraid?
+>- What is the most important things to me?
+> - What are my goals
+> - Why are these goals important to me
+> - Khi đọc sách mình sẽ có nhiều thứ cần note lại
+> - Làm sao để hệ thống hóa kiến thức

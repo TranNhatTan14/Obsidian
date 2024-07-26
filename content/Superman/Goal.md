@@ -28,3 +28,6 @@
 - Nghĩa là có thể sử dụng sau này 
 - Đừng dành thời gian cho những danh hiệu tốn thời gian, thể hiện điều gì đó
 
+- Complete higher education
+- Continute to learn new things on a dauly basis
+

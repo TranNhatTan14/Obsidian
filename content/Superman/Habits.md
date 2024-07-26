@@ -3,26 +3,28 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 - [ ] ELSA Speak or The Coach for 20 minutes
 - [ ] 100 skp
 - [ ] 50 jump
-- [ ] 21:00 no glass?
 - [ ] Sống với cảm xúc vỡ òa
+
+- Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
 
 ### Good habits
 
-- Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
+> [!success]
+> Lorem ipsum dolor sit amet
 
 ###### Morning
 
 - Wake up early
 - Khi cơ thể tỉnh dậy hãy tỉnh dậy ngay,  đừng cố ngủ thêm một chút rồi mệt mỏi
-
+- 
 ###### Afternoon
 
 ###### Evening
 
-- 20:00: Take Omega 3.6.9 and Vitamin E
-- Giãn cơ trước khi ngủ
-- 23:00: Sleep enough and sleep well
-
+- [ ] 20:00: Take Omega 3.6.9 and Vitamin E
+- [ ] 21:00 no glass?
+- [ ] Giãn cơ trước khi ngủ
+- [ ] 23:00: Sleep enough and sleep well
 ###### Work
 
 - DON'T use iPhone when deep work
@@ -32,16 +34,9 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 
 - Đánh răng bằng THAN HOẠT TÍNH THƯỜNG XUYÊN HƠN
 - Hôm nay tôi thấy biết ơn vì điều gì
-- 
-- 
 - Hạn chế sử dụng media platform
 - Mình có đang sử dụng điện thoại nhiều không
 - Không sử dụng thiết bị sau 10 giờ
-- When I thinking, nhiều lúc mình nghĩ đến việc mở Facebook check thông tin. Làm sao để hạn chế điều này lại
-
-
-
-
 - Reading book
 - Mình thương đang không biết làm gì khi vừa ngồi vào làm việc
 - Tắt thông báo Viettel
@@ -57,8 +52,7 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 - Watch MU, Man City, Al Nasar's match highlight
 - Đọc thông tin chuyển nhượng của [Real Madrid](Real%20Madrid.md) 
 
-###### Bad habits
-
-- Toonily and Manga For Free
-- Mở YouTube và Facebook trên trình duyệt Safari
-- Mở điện thoại nghĩ đến TikTok
+> [!danger] Bad habits
+> - Toonily and Manga For Free
+> - Mở YouTube và Facebook trên trình duyệt Safari
+> - Mở điện thoại nghĩ đến TikTok

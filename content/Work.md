@@ -1,3 +1,4 @@
+[Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com)
 ### Interview
 
 - [ ] Tự tin
@@ -6,16 +7,11 @@
 - [ ] Thể hiện được mình đam mê với lĩnh vực Healthcare
 - [ ] Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
 - [ ] Email cảm ơn sau khi phỏng vấn
-
 ### Current Work
-
 ### Future Work
-
 ### Experienced
-
 ###### Healthcare monitoring system using brainwave control
 
-https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 Research on emotion classification using EEG signals
 1. Emotion classification using EEG signals
 2. Health data: heart rate, calories, distance, steps, ...
@@ -34,7 +30,6 @@ Frenz Brainband: EEG, EOG, EMG
 **Feature Extraction**
 EEG signal is divided into a sequence of windows of length one second, with consecutive windows overlapping by 0.5 s
 Features: mean, standard deviation, skewness, kurtosis, maximum, minimum, magnitude of the frequency component of each signal, obtained using a FFT
-
 
 **Proposed and developed an emotion classification algorithm based on brainwave signals**
 - Phân loại cảm xúc thành những nhóm nào
@@ -66,7 +61,6 @@ Can you discuss your approach to analyzing EEG/EMG/EOG signals and predicting us
     - To predict user states like focus or stress, I analyzed the power spectral density of different EEG frequency bands, as alterations in these bands are indicative of changes in focus and stress levels.
     - Điều khiển thông minh dựa trên chuyển động của mắt, khi ở trạng thái thư giãn thì xe sẽ đi thẳng, khi nhìn sang trái hoăc sang phải thì xe sẽ đi theo hướng
     - Làm sao để xác định xung (dưa trên tín hiệu như thế nào)
-
 ###### [Masked Face Detection with Illumination Awarenes](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/4775/1/2022_ISMICT_arxiv%20version.pdf)
 
 1. Real world dataset
