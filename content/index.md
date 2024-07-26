@@ -2,7 +2,7 @@
 title: Homepage
 ---
 
-This is the digital note for Superman. I have bachelor background in Mechatronics and now I working as AI Engineer in Genestory. I speak Vietnamese and now I am learning [English](English.md), Chinese and I want to learn Spanish. Come to [resources](Resources) to see some books, articles, ... I have completed. Some fact about me and something I interest in
+This is the digital note for Superman. I have bachelor background in Mechatronics and now I working as AI Engineer in Genestory. I speak Vietnamese and now I am learning [English](English.md), Chinese and I want to learn Spanish. Come to [resources](Resources.md) to see some books, articles, ... I have completed. Some fact about me and something I interest in
 
 Project I am working on
 - [Multimodal Personal Assistant](Assistant.md)

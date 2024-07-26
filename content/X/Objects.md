@@ -84,8 +84,6 @@ Name | Type | Description
 - Ứng dụng ngân hàng
     - BIDV Smart Banking
 
-
-
 Balance
 Hello Chinese
 

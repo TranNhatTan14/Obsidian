@@ -4,7 +4,7 @@
 > - [ ] Tối ưu thời gian sử dụng điện thoại
 > - [ ] Continute [[Research]]
 > - [ ] Build [OpenCore](Apple.md#MacOS) to install MacOS in laptop
-> - [ ] Buy items in [Wish list](Objects#Wish%20list)
+> - [ ] Buy items in [Wish list](Objects.md#Wish%20list)
 > - [ ] Surge for data
 
 ###### Personal
