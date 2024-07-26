@@ -1,6 +1,7 @@
 > [!todo] Most Important Tasks (MITs)
 > - [ ] Build assistant
 > - [ ] Tham gia challenges in Kaggle and ...
+> - [ ] Answer job in Linkedln
 > - [ ] Tối ưu thời gian sử dụng điện thoại
 > - [ ] Continute [[Research]]
 > - [ ] Build [OpenCore](Apple.md#MacOS) to install MacOS in laptop

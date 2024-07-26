@@ -1,22 +1,19 @@
+Phần lớn thói quen của bạn là thói quen tốt, điều này giúp bạn có thể thực hiện công việc một cách hiệu quả, một cách tự động và không tốn quá nhiều năng lượng. Giúp bạn có thể dành năng lượng cho những việc quan trọng hơn [^1]
+
 Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break bad habits with Habitify for check and [Redirector](https://chromewebstore.google.com/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd). We need to have reminder and data, streak
 
 - [ ] ELSA Speak or The Coach for 20 minutes
-- [ ] 100 skp
-- [ ] 50 jump
 - [ ] Sống với cảm xúc vỡ òa
 
 - Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
+- Continute to learn new things on a dauly basis
 
 ### Good habits
 
 > [!success]
-> Lorem ipsum dolor sit amet
+> - Wake up early, khi cơ thể tỉnh dậy hãy tỉnh dậy ngay, đừng cố ngủ thêm một chút rồi mệt mỏi
 
-###### Morning
 
-- Wake up early
-- Khi cơ thể tỉnh dậy hãy tỉnh dậy ngay,  đừng cố ngủ thêm một chút rồi mệt mỏi
-- 
 ###### Afternoon
 
 ###### Evening
@@ -25,6 +22,7 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 - [ ] 21:00 no glass?
 - [ ] Giãn cơ trước khi ngủ
 - [ ] 23:00: Sleep enough and sleep well
+
 ###### Work
 
 - DON'T use iPhone when deep work
@@ -52,7 +50,4 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 - Watch MU, Man City, Al Nasar's match highlight
 - Đọc thông tin chuyển nhượng của [Real Madrid](Real%20Madrid.md) 
 
-> [!danger] Bad habits
-> - Toonily and Manga For Free
-> - Mở YouTube và Facebook trên trình duyệt Safari
-> - Mở điện thoại nghĩ đến TikTok
+[^1]: [[Smart Thinking]]

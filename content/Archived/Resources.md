@@ -30,6 +30,10 @@
 
 ### Book
 
+###### Personal development
+
+- [ ] [[Smart Thinking]]
+
 ###### Artificial Intelligence
 
 - [ ] [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)

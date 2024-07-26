@@ -9,3 +9,13 @@
 ###### URLs
 
 https://mlu-explain.github.io
+
+###### Games
+
+- [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com)
+- [Tower Defense](https://qqgame.qq.com/webappframe/?appid=10094)
+- Ranked game
+
+###### Exercises
+
+- [ ] Lateral Raise

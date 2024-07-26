@@ -1,3 +1,10 @@
+> [!todo] 
+> - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T
+
+### [Finance](Finance.md)
+
+- [ ] Achieve [financial freedom](Financial%20Freedom.md)
+
 - Short-term goals (in a week, month, year)
 - Long-term goals (over a year, 5 year)
 - Personal goal linked to health relationships
@@ -10,8 +17,6 @@
 - Học bổng của VinUniversity
 
 ###### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
-
-###### Goals
 
 - Thu nhập từ nhiều nguồn
 - Thu nhập từ công việc chính
@@ -27,7 +32,4 @@
 - Tập trung vào thành tựu tích lũy theo thời gian 
 - Nghĩa là có thể sử dụng sau này 
 - Đừng dành thời gian cho những danh hiệu tốn thời gian, thể hiện điều gì đó
-
-- Complete higher education
-- Continute to learn new things on a dauly basis
 

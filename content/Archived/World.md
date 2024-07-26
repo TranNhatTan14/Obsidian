@@ -7,6 +7,9 @@
 > People overestimate 1 years goal, but underestimate 5 year goal
 > Trash in, trash out
 
+> [!quote] Andrew Ng, Founder & CEO @DeepLearning.AI
+> Just get your hand dirty, don’t overthinking
+
 **Others**
 
 - Học kém không đáng sợ, học kém mà mọi người tưởng mình học giỏi mới đáng sợ
