@@ -1,4 +1,4 @@
-Không kiểm tra điên thoại trong thời gian làm việc, điều này có thể được thực hiện bằng tính năng [[Operating system#Focus|focus]] trên hệ sinh thái của [[Operating system]]
+Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break bad habits with Habitify for check and [Redirector](https://chromewebstore.google.com/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd). We need to have reminder and data, streak
 
 - [ ] ELSA Speak or The Coach for 20 minutes
 - [ ] 100 skp
@@ -6,34 +6,59 @@ Không kiểm tra điên thoại trong thời gian làm việc, điều này có
 - [ ] 21:00 no glass?
 - [ ] Sống với cảm xúc vỡ òa
 
+### Good habits
+
+- Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
+
+###### Morning
+
+- Wake up early
+- Khi cơ thể tỉnh dậy hãy tỉnh dậy ngay,  đừng cố ngủ thêm một chút rồi mệt mỏi
+
+###### Afternoon
+
+###### Evening
+
+- 20:00: Take Omega 3.6.9 and Vitamin E
+- Giãn cơ trước khi ngủ
+- 23:00: Sleep enough and sleep well
+
+###### Work
+
+- DON'T use iPhone when deep work
+- Use Forest to focus and manage screentime
+
+###### Self-care
+
 - Đánh răng bằng THAN HOẠT TÍNH THƯỜNG XUYÊN HƠN
 - Hôm nay tôi thấy biết ơn vì điều gì
-- Khi cơ thể tỉnh dậy hãy tỉnh dậy ngay
-- Đừng cố ngủ thêm một chút rồi mệt mỏi
+- 
+- 
 - Hạn chế sử dụng media platform
-- Khi mở máy tính đầu tiên không biết làm gì mình lại xem YouTube, điêu này thật không tốt
 - Mình có đang sử dụng điện thoại nhiều không
-- Screen Time giúp gì được cho mình?
-- NẾU KHÔNG BIẾT NÊN LÀM GÌ THÌ ĐỪNG CÓ BẬT YOUTUBE
 - Không sử dụng thiết bị sau 10 giờ
 - When I thinking, nhiều lúc mình nghĩ đến việc mở Facebook check thông tin. Làm sao để hạn chế điều này lại
-- Mình hay mở Toonily
-- Minh hay 
-- Uống dầu cá
-- Giãn cơ trước khi ngủ
-- Khi mình vừa mở máy tính lên nghĩ đến việc mở YouTube Facebook 
-- Mở điện thoại nghĩ đến TikTok
-- Xem highlight Real Madrid 
-- Xem những trận khác có cần thiết không?
-- Mình sẽ xem MU, Man City, Al Nasar
-- Mình hay đọc bài trên Troll Bóng đá
-- Mở YouTube và Facebook trên trình duyệt Safari
-- Mình đọc thông tin chuyển nhượng của Real Madrid
-- Dùng chuyển hướng trang wweb
-- Sleep enough and wake up early
-- Omega 369
-- No Toonily
+
+
+
+
 - Reading book
 - Mình thương đang không biết làm gì khi vừa ngồi vào làm việc
 - Tắt thông báo Viettel
 - Read book
+
+###### Not bad
+
+- Xem highlight [Real Madrid](Real%20Madrid.md) 
+
+###### Not too bad, but should be removed
+
+- Đọc bài trên Troll Bóng Đá, Ghiền Bóng Đá
+- Watch MU, Man City, Al Nasar's match highlight
+- Đọc thông tin chuyển nhượng của [Real Madrid](Real%20Madrid.md) 
+
+###### Bad habits
+
+- Toonily and Manga For Free
+- Mở YouTube và Facebook trên trình duyệt Safari
+- Mở điện thoại nghĩ đến TikTok

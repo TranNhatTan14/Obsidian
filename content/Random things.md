@@ -17,7 +17,7 @@ Strech create room for b
 DHC
 TPNN
 
-Lục bảng mộc, nhị lạng đinh, hoa linh tinh, đa nhân khóc, bát nhân khiêng, kèn trống chiêng, hạ huyệt
+
 
 Cảm giác mọi thú đến với mình đúng thời điểm
 Hay là có một số lúc cầu được ước thấy?
