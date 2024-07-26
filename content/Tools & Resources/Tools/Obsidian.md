@@ -4,7 +4,7 @@ draft: false
 tags:
   - tool
 ---
-[Basic formatting syntax](https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax)
+
 ### Add image with path
 
 ### Add image with URL
@@ -26,10 +26,6 @@ print(factorial(5))  # Output: 120
 ```
 
 <div style="color: red;">This is blue text.</div>
-
-Here is a footnote reference[^1].
-
-[^1]: Here is the footnote.
 
 > This is a blockquote.
 > It can span multiple lines.

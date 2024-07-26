@@ -1,5 +1,4 @@
 ### Family
-### Friends
 ### Love
 ### People
 
@@ -41,16 +40,3 @@
 ### Group
 
 - [Chương trình Đào tạo Kỹ sư AI Vingroup](https://www.facebook.com/groups/ctaivingroup/)
-
-### Community
-
-###### Vingroup
-
-[VinUni-Illinois Smart Health Center](https://smarthealth.vinuni.edu.vn)
-
-- Minh Đỗ
-- [Huy Hieu Pham](https://huyhieupham.github.io)
-
-###### Developer
-
-- Cộng đồng System Design Việt Nam

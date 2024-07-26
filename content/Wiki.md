@@ -1,4 +1,4 @@
-### Article
+### Articles & Essays
 
 - [ ] Manage Your Energy, Not Your Time
 
@@ -62,3 +62,4 @@ Name | Type | Description
 [HIEUTV](https://www.youtube.com/@hieu-tv) | Finance | For job oppotunities and connect with people
 Monster Box | Science | Habitify is a user-friendly habit tracker that simplifies personal growth. It's designed to keep you inspired and focused as you elevate your everyday
 [Oddly Normal](https://oddly-podcast.com) | Science | Podcast about science, something about life.
+[Inner World Podcast](https://www.youtube.com/@Innerworld.podcast) | Science | Nơi chúng ta sẽ cùng nhau tìm hiểu cách bộ não và cơ thể bên trong chính mình hoạt động như thế nào, dựa trên nền tảng của khoa học thần kinh, khoa học hành vi, tâm lý học và các lĩnh vực khác, để cùng nhau - chúng ta từng bước xoay chuyển và làm chủ cuộc sống của mình.
