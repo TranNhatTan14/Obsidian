@@ -1,5 +1,4 @@
 ### Machine Learning
-
 ### Computer Vision
 
 ###### Image Processing
@@ -38,9 +37,7 @@
 - Emotion classification
 
 ### Natural Language Processing
-
 ### Recommendation systems
-
 ### Brain–Computer Interface
 
 ###### Electroencephalography

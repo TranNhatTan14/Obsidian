@@ -1,6 +1,7 @@
 ---
 title: Superman
 ---
+
 This is the digital note for Superman
 
 I have bachelor background in Mechatronics and now I working as AI Engineer in Genestory.
@@ -10,6 +11,10 @@ I speak Vietnamese and now I am learning [English](English.md), [Chinese] and I 
 Project I am working on
 - [Multimodal Personal Assistant](Assistant.md)
 - [[NSAID]]
+
+### Interest
+
+- Football team: Real Madrid CF
 
 ### [Finance](Finance.md)
 
@@ -22,4 +27,6 @@ My goals is achieved Financial Freedom
 - [ ] Lateral Raise
 
 ### Archived
-- Teamfight Tactics
+
+- [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com)
+- [Tower Defense](https://qqgame.qq.com/webappframe/?appid=10094)

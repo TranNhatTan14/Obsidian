@@ -40,8 +40,6 @@ Nỗi sợ
 Time, Knowledge management
 
 
-https://qqgame.qq.com/webappframe/?appid=10094
-
 Lên kế hoạch mua sắm
 Cân đối chi tiêu
 Hạn chế sử dụng thẻ tín dung trong giai đoạn
