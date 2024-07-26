@@ -12,13 +12,26 @@ Name | Description
 [Web Highlights](https://chromewebstore.google.com/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm) | PDF & Web Highlighter
 
 ###### Profiles
+
+I have 02 profiles. The first profile is for personal use and one for univesity use.
+
 ###### Group tabs
 ###### Folder
 
-### [Google Colab](https://colab.research.google.com)
+### [Google Colaboratory](https://colab.research.google.com)
 
 Restart the kernel and clear all the variables and outputs in Google Colab: Press `Ctrl+M` followed by `.`
 
-### Google Drive and Google One
+Working with Jupyter Notebook and have free GPU and TPU, can work with both Python and R
+
+### Google Drive
+
+### Google One
+
 ### Google Cloud
+
 ### TensorFlow
+
+
+
+###### Google Drive (cloud storage)

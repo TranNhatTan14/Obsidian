@@ -3,6 +3,7 @@
 - Mình sẽ làm gì với những note hoặc task đã hoàn thành
 - Mình sẽ làm gì trong thời gian làm việc
 - Học kiến thức mới khi ngoài giờ làm việc
+
 - Đọc sách ở màn hình có chất lượng cao
 - Kiến thức chất lượng cao
 - Chất lượng cao
@@ -13,7 +14,6 @@
 - Kiến thức (đầu vào)
 - Thành công
 - Sống với thiên nhiên
-- Tối ưu hóa
 - Tư duy
 - Mục đích của mua sắm là mua những gì thật sự cần thiết cho cuộc sống, với chi phí tối ưu
 - Sạc không dây cần thiết khi sạc được cho nhiều thiết bị
@@ -28,7 +28,6 @@
 - Cờ chín tướng
 - Cái gì cũng cần có điều kiện 
 - what we gave 
-- what another people ha ve that I d0nt have
 - technique
 - know trend
 - Tự do là gì?
@@ -42,9 +41,8 @@
 - Các ông nghĩ giống bây giờ
 - sao minh thấy có sự kết nối
 - Mình có muốn kết nối hay không
-- What you care 
-- Screen
-- compute
+
+
 - Tư duy và tái tư duy
 - Tiếp thu quan điểm và kiến thức mới
 - Cách đặt câu hỏi
@@ -139,3 +137,29 @@
 - Bán ứng dụng, dịch vụ global
 - Chênh lệch
 - Biết ngoại ngữ 
+
+what another people ha ve that I don't have
+
+- Nếu bạn cảm thấy khó khăn, mệt mỏi thì có thể bạn đang làm không đúng
+- Many things I can do but somehow I don’t dooo
+- Khi bạn nhìn không rõ, bạn sẽ tưởng tượng ra dựa trên những gì bạn nghĩ 
+- Khi có nhiều tiền có nhiều lựa chọn và quyền lựa chọn
+- Cảm xúc liên tục 
+- Có sự kiểm soát mất kiểm soát
+
+- Thông tin đi kèm bối cảnh sẽ dễ nhớ hơn và chính xác hơn
+- Emotion context
+- Ấm siêu tốc nhà chú Cường
+- Emotion
+- Cảm xúc của mình khi sự việc xảy ra, mình phản ứng như thế nào
+- Một thời gian sau khi mình nhìn lại sự việc mình sẽ thấy như thế nào
+- Mình nghĩ suy nghĩ tại thời điểm sau khi nhìn lại sẽ chính xác hơn
+- Đây có thể là một cách hiệu quả để quản lý cảm xúc
+
+- Trí nhớ khi ở trong đầu và khi mình viết ra như thế này thì có điểm gì khác biệt
+
+- Tâm sinh tướng
+
+- Minimalism
+- IKIGAI
+- Stoicism

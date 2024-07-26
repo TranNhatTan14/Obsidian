@@ -15,6 +15,10 @@ View [[Apple]] for more detail about how I use these device
 - [ ] Giá để được iPad hoặc Laptop
 ###### Operating system
 
+- MacOS
+- Ubuntu
+- Window
+
 ### Applications
 
 Name | Type | Description
@@ -29,7 +33,6 @@ Name | Type | Description
 [Xcode](https://developer.apple.com/xcode) | Developer | Source-code editor
 [Surge 5](https://manual.nssurge.com) | Developer | Web development and proxy utility
 
-
 ### Tools
 
 ###### Research, reading
@@ -40,6 +43,7 @@ Name | Type | Description
 
 - [Claude](https://claude.ai/chats) and [ChatGPT](https://chatgpt.com): Generative AI chatbot and language model act as assistant
 - [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com) help to learn [English](English.md)
+
 ### Other
 
 - [[Scribd]] (Skillshare, Testflight, Book, Audiobook, Podcast)
@@ -47,16 +51,8 @@ Name | Type | Description
 - [Credit Card Generator](https://dnschecker.org/credit-card-generator.php)
 - [LaTeX Equation Editor](https://latexeditor.lagrida.com/)
 - Money Lover
-###### Google One
 
-###### [[Google]]
 
-###### Google Drive (cloud storage)
-###### Google Colaboratory
-
-- CPU - GPU - TPU - A100
-- Jupyter Notebook
-- Python
 ###### YouTube
 
 - Em vào link này có hướng dẫn download và cài đặt cụ thể, đọc kỹ hướng dẫn tránh tải nhầm bản mà mất tiền oan nhé: [https://justpaste.it/d56tl](https://justpaste.it/d56tl?fbclid=IwAR0dMggFsamtquz7iPR5e0GXBiRJuurD3yCnJ7IA5WZjVfhs_YXfWeIis9g) Sau khi cài đặt thì nhập key này vào để upgrade lên bản Plus nhé: 1-1623204800356-49F2745C-A3BFF423-C52A6893-5ED7760A

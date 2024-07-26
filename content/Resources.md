@@ -1,11 +1,13 @@
 ### Article
 
 - [ ] Manage Your Energy, Not Your Time
+
 ### Research paper
 
 ###### Computer Vision
 
 - [ ] BENet: A lightweight bottom-up framework for context-aware emotion recognition
+
 ### YouTube
 
 ###### Artificial Intelligence
@@ -55,4 +57,4 @@ Name | Type | Description
 -- | -- | --
 [HIEUTV](https://www.youtube.com/@hieu-tv) | Finance | For job oppotunities and connect with people
 Monster Box | Science | Habitify is a user-friendly habit tracker that simplifies personal growth. It's designed to keep you inspired and focused as you elevate your everyday
-Oddly Normal | Science | Learn interactively Math, Computer Science concepts (also [English](English.md))
+[Oddly Normal](https://oddly-podcast.com) | Science | Podcast about science, something about life.

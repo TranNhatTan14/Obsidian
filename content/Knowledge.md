@@ -37,7 +37,7 @@
 - Emotion classification
 
 ### Natural Language Processing
-### Recommendation systems
+
 ### Brain–Computer Interface
 
 ###### Electroencephalography
