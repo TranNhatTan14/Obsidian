@@ -1,6 +1,6 @@
 Phần lớn thói quen của bạn là thói quen tốt, điều này giúp bạn có thể thực hiện công việc một cách hiệu quả, một cách tự động và không tốn quá nhiều năng lượng. Giúp bạn có thể dành năng lượng cho những việc quan trọng hơn [^1]
 
-Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break bad habits with Habitify for check and [Redirector](https://chromewebstore.google.com/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd). We need to have reminder and data, streak
+Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break bad habits with Habitify for check and [Redirector](Redirector.md). We need to have reminder and data, streak
 
 - [ ] ELSA Speak or The Coach for 20 minutes
 - [ ] Sống với cảm xúc vỡ òa
@@ -43,6 +43,7 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 ###### Not bad
 
 - Xem highlight [Real Madrid](Real%20Madrid.md) 
+- One Piece tóm tắt thay vì đọc
 
 ###### Not too bad, but should be removed
 

@@ -52,9 +52,6 @@ View [[Apple]] for more detail about how I use these device
 - [LaTeX Equation Editor](https://latexeditor.lagrida.com/)
 - Money Lover
 
-
-###### YouTube
-
 - Em vào link này có hướng dẫn download và cài đặt cụ thể, đọc kỹ hướng dẫn tránh tải nhầm bản mà mất tiền oan nhé: [https://justpaste.it/d56tl](https://justpaste.it/d56tl?fbclid=IwAR0dMggFsamtquz7iPR5e0GXBiRJuurD3yCnJ7IA5WZjVfhs_YXfWeIis9g) Sau khi cài đặt thì nhập key này vào để upgrade lên bản Plus nhé: 1-1623204800356-49F2745C-A3BFF423-C52A6893-5ED7760A
 
 1. Laptop MSI GF63 9RCX

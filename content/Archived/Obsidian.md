@@ -8,7 +8,7 @@ tags:
 ### Add image with path
 
 ### Add image with URL
-![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+![Engelbart](https://ds055uzetaobb.cloudfront.net/brioche/uploads/Course-Introduction-to-Neural-Networks-Re-illustration_chester-400w_5655-34051_52r4vK.png)
 ### Sample Python Code
 
 Here is an example of a Python function that calculates the factorial of a number:
