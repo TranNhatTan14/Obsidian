@@ -1,65 +1,111 @@
+> [!tip] 
+> Goal of the habits are make life eaiser with automation, effectively, and save time
+> For habit we need to connect habit with time, location, trigger and stack
+
 I am early bird.
 
-###### Smart habits
+Managed with [Habitify](Habitify.md) and use Apple devices to tracking.
 
-10 finger typing
+# Current habits [^1]
 
-### Current habits [^1]
+### Morning
+
+###### Wake up early without alarm (NO) with Early Rise
+    
+###### Brain workout
+
+###### Journal
+
+- [ ] What make you grateful today
+- [ ] I Don't Really Know
+- [ ] Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
 
 ###### Elevate
 
-###### Brilliant
-
 ###### Breakfast
+
+###### Deep Work
+
+### Afternoon
+
+###### Lunch
+
+###### Deep Work
 
 ###### Exercise
 
 - [ ] Ronaldo workout
 
-###### Write journal with Journal
+### Evening
 
-> [!danger] Bad habits
-> - Toonily and Manga For Free
-> - Mở [[YouTube]] và Facebook trên trình duyệt Chrome
+###### Dinner
+
+###### Brilliant
+
+###### Omega 3.6.9 and vitamin
+
+###### Deep Work
+
+###### Journal
+
+- [ ] Lên danh sách công việc cho ngày mai
+
+###### Stretch before sleep
+
+###### Sleep
+
+More detail about how to sleep well. Visit [Sleep](Sleep.md)
+
+### Good habits
+
+###### Drink enough water
+
+Drink 03 [LocknLock Stainless Steel Water Bottle 750 ml](Tool.md#LocknLock%20Stainless%20Steel%20Water%20Bottle%20750%20ml)
+
+###### Listening podcast
+###### Learning new language
+###### Meditation with Balance
+
+###### Reading
+
+[https://readwise.io/dailyreview](https://readwise.io/dailyreview)
+
+### Smart habits
+
+###### 10 Finger Typing
+###### Ngồi thẳng lưng
+###### Only watch Real Madrid's highlight on Real Madrid channel. Except important match
+###### Use screen time to reduce screen time
+
+Use people to trigger
+
+###### If can only read original book, know the meaning of author instead translate to another language
+###### Time for Meta and TikTok
+
+
+Sạc điện thoại hàng ngày ở nhà vì có chế độ bảo vệ pin
+Nhìn màn hình với khoảng cách xa
+
+###### Optimize time
+
+- Only watch videos in Watch Later
+- Xem viddeo dựa trên IDBM và Oscar from [Films](https://www.notion.so/bb6acc2866e845a387cbfce59caa9aef?pvs=21)
+
+### Habit need to change, or limit
+
+- Team Refund
+- Mình thường nhập “thông tin chuyển nhượng của Real Madrid” và đọc tin tức về Real Madrid
+
+### Block or rediect bad habits
+
+Visit [Redirector](Google.md#Redirector) for more detail about what will be block or redirect
+
+> [!danger]
 > - Mở điện thoại nghĩ đến TikTok
 > - See murder case
 > - Thói quen hay xem đánh giá thấp sao của app
 
-- [ ] Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack app, đóng gói thành IPA rồi đưa lên TestFlight bán, với mã liên quan đến UIID
-- [ ] Tệ khi thấy mấy em trẻ trẻ, hơi tự ti, so sánh và buồn, mình nên làm gì
-
-### Habits (managed with habitify)
-
-Regular habits
-
-- Wake up early
-    
-    Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
-    
-- Elevate
-    
-- Eat breakfast
-    
-Afternoon
-
-- Brilliant
-- Stretch before sleep
-- Meditation
-- Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
-
-**No Time**
-
-- Drink water
-- Time for Meta and TikTok
-- Deep Work enough, effectively with Forest
-- Listening podcast
-- Smart habits
-    
-- Sạc điện thoại hàng ngày ở nhà vì có chế độ bảo vệ pin
-- Only watch video in watch later
-- Nhìn màn hình với khoảng cách xa
-- Xem viddeo dựa trên IDBM và Oscar from [Films](https://www.notion.so/bb6acc2866e845a387cbfce59caa9aef?pvs=21)
-- Reading
+---
 
 ###### Games
 
@@ -72,64 +118,4 @@ Afternoon
 - MixiGaming
 - Tam Quốc Mèo
 
-### Block
-
-- YouTube
-- Facebook
-- Instagram
-- Messenger
-- Threads
-- TikTok
-- Adult
-
 [^1]: [Habitify](https://app.habitify.me)
-
-
-- Wake up early without alarm (NO) with Early Rise
-    
-- Brain workout
-    
-- I Don't Really Know
-    
-- Learning new language
-    
-- Exercise
-    
-- Meditation with Balance
-    
-- Sleep
-    
-    ### Early bird, not night owl
-    
-    - Always try to sleep at the right time
-    - 2 hours before basic time sleep we often buồn ngủ
-    - Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
-    - Sleep enough
-
-#### Morning
-
-1. Wake up early with or without alarm
-2. Use Balance to
-3. Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
-5. Uông Omega 3.6.9
-6. [https://readwise.io/dailyreview](https://readwise.io/dailyreview)
-
-```
-Mỗi vật đều có tính riêng, 
-```
-
-8. Danh sách công việc cần thực hiện
-9. Breakfast
-10. Làm việc hiệu quả
-11. Uống đủ nước
-#### Afternoon
-
-
-2. Deep work
-#### Evening
-
-1. Lên danh sách công việc cho ngày mai
-3. Stretch
-
-
-- [ ] Only watch videos in Watch Later

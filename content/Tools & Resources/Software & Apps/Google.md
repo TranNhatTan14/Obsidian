@@ -11,6 +11,15 @@ Name | Description
 [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Ad block
 [Web Highlights](https://chromewebstore.google.com/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm) | PDF & Web Highlighter
 
+###### Redirector
+
+- Meta: Facebook, Messenger, Instagram, Threads
+- TikTok
+- YouTube
+- Adult content in Toonily and Manga For Free
+
+###### Social
+
 ###### Profiles
 
 I have 02 profiles. The first profile is for personal use and one for univesity use.

@@ -47,3 +47,13 @@ Cause
     3. Vật lý trị liệu
 
 Tâng cơ, giảm mỡ
+
+#### States: Trạng thái hiện tại của mình như thế nào
+
+- Đau lưng
+    
+- Mắt cận
+    
+- Thừa cân
+    
+- Sức bền không tốt
