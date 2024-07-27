@@ -85,66 +85,69 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 - **University of Melbourne**
     
     - [**Long Nguyen PhD in Biomedical Engineering**](https://www.linkedin.com/in/longvhnguyen/)
-- **Monash University**
+
+**Monash University**
     
     - [Minh Duc Cao](https://scholar.google.com/citations?user=5uZ3O4sAAAAJ&hl=en)
-- **UNSW**
+
+**UNSW**
     
-    [https://medicalrobotics-lab.com/](https://medicalrobotics-lab.com/)
+[https://medicalrobotics-lab.com/](https://medicalrobotics-lab.com/)
+
+[https://medicalrobotics-lab.weebly.com/](https://medicalrobotics-lab.weebly.com/)
+
+**Thanh Nho Do**
+
+- Graduate School of Biomedical Engineering, Faculty of Engineering, University of New South Wales (UNSW), Sydney, NSW, 2052, Australia
+- [**Cong (Brian) Nguyen**](https://www.linkedin.com/in/chicong-brian/)
     
-    [https://medicalrobotics-lab.weebly.com/](https://medicalrobotics-lab.weebly.com/)
+**University of Queensland**
     
-    **Thanh Nho Do**
+[Insect-machine hybrid robots, bio-inspired robots, biomechanics, fast lock-on tracking for high magnification imaging of insect locomotion and brain imaging in untethered insects](https://www.facebook.com/groups/14115377990/user/100000791280179/)
     
-    - Graduate School of Biomedical Engineering, Faculty of Engineering, University of New South Wales (UNSW), Sydney, NSW, 2052, Australia
-    - [**Cong (Brian) Nguyen**](https://www.linkedin.com/in/chicong-brian/)
-- **University of Queensland**
+**UTS**
     
-    [Insect-machine hybrid robots, bio-inspired robots, biomechanics, fast lock-on tracking for high magnification imaging of insect locomotion and brain imaging in untethered insects](https://www.facebook.com/groups/14115377990/user/100000791280179/)
+[https://www.threads.net/@yanguynn](https://www.threads.net/@yanguynn)
+
+- [Tien Thong Do](https://www.facebook.com/groups/14115377990/user/100000406471894/)
+- [Hubert Nguyen](https://www.facebook.com/groups/14115377990/user/100000104374361/)
+
+[https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre](https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre)
+
+[https://www.uts.edu.au/research-and-teaching/our-research/computational-intelligence-and-brain-computer-interface-centre](https://www.uts.edu.au/research-and-teaching/our-research/computational-intelligence-and-brain-computer-interface-centre)
+
+[https://www.uts.edu.au/research/australian-artificial-intelligence-institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute)
+
+[https://www.uts.edu.au/research/centre-health-technologies](https://www.uts.edu.au/research/centre-health-technologies)
     
-- **UTS**
+**Deakin University**
     
-    [https://www.threads.net/@yanguynn](https://www.threads.net/@yanguynn)
-    
-    - [Tien Thong Do](https://www.facebook.com/groups/14115377990/user/100000406471894/)
-    - [Hubert Nguyen](https://www.facebook.com/groups/14115377990/user/100000104374361/)
-    
-    [https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre](https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre)
-    
-    [https://www.uts.edu.au/research-and-teaching/our-research/computational-intelligence-and-brain-computer-interface-centre](https://www.uts.edu.au/research-and-teaching/our-research/computational-intelligence-and-brain-computer-interface-centre)
-    
-    [https://www.uts.edu.au/research/australian-artificial-intelligence-institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute)
-    
-    [https://www.uts.edu.au/research/centre-health-technologies](https://www.uts.edu.au/research/centre-health-technologies)
-    
-- **Deakin University**
-    
-    [Deakin University offers three fully-funded PhD positions in machine learning for neurological assessment, with a stipend, travel allowance, and no tuition fees](https://www.facebook.com/groups/vietphd/posts/10160350539127991/)
-    
-- **Griffith University**
-    
-    - [Tran Tuan Sang](https://www.facebook.com/groups/14115377990/user/100003098084244/) about
+[Deakin University offers three fully-funded PhD positions in machine learning for neurological assessment, with a stipend, travel allowance, and no tuition fees](https://www.facebook.com/groups/vietphd/posts/10160350539127991/)
+
+**Griffith University**
+
+- [Tran Tuan Sang](https://www.facebook.com/groups/14115377990/user/100003098084244/) about
 
 ### Singapore
 
 [https://uet.vnu.edu.vn/hoc-bong-toan-phan-tu-co-quan-khoa-hoc-cong-nghe-va-nghien-cuu-astar-cua-singapore/](https://uet.vnu.edu.vn/hoc-bong-toan-phan-tu-co-quan-khoa-hoc-cong-nghe-va-nghien-cuu-astar-cua-singapore/)
 
-- **Nanyang Technological University**
-    - [Mai Tuan Minh](https://www.facebook.com/groups/2069421729981874/user/100004008679751/)
-- **National University of Singapore**
-    - [Khanh Linh Nguyen](https://www.linkedin.com/in/linhnguyenkhanh/)
+**Nanyang Technological University**
+- [Mai Tuan Minh](https://www.facebook.com/groups/2069421729981874/user/100004008679751/)
+
+**National University of Singapore**
+- [Khanh Linh Nguyen](https://www.linkedin.com/in/linhnguyenkhanh/)
 
 ### Vietnam
 
 **VinUni**
 
-[https://smarthealth.vinuni.edu.vn/?careers=call-for-phd-applications-and-research-assistants-in-robotics-and-mechatronics-at-vinuniversity-and-university-of-illinois-at-urbana-champaign-uiuc](https://smarthealth.vinuni.edu.vn/?careers=call-for-phd-applications-and-research-assistants-in-robotics-and-mechatronics-at-vinuniversity-and-university-of-illinois-at-urbana-champaign-uiuc)
+[Call for PhD Applications and Research Assistants in Robotics and Mechatronics at VinUniversity and UIUC](https://smarthealth.vinuni.edu.vn/?careers=call-for-phd-applications-and-research-assistants-in-robotics-and-mechatronics-at-vinuniversity-and-university-of-illinois-at-urbana-champaign-uiuc)
 
 - [https://huyhieupham.github.io/](https://huyhieupham.github.io/)
 - [https://vinuni.edu.vn/people/thai-mai-thanh-phd-2/](https://vinuni.edu.vn/people/thai-mai-thanh-phd-2/)
 
 ### America
-
 - [**Annie Nguyen PhD BioEngineering at Stanford**](https://www.linkedin.com/in/nghinguyen295/)
 
 

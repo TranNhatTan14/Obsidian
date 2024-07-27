@@ -28,3 +28,22 @@ Cause
 - It’s considered to be a combination of genetic and environmental factors
 
 [https://www.youtube.com/watch?v=TrTzBzETdls](https://www.youtube.com/watch?v=TrTzBzETdls)
+
+- Những lúc không đeo kính có ảnh hưởng thế nào
+- Không để moment cuộc sống tiếp tục đẩy bạn
+- Khôi phục thị lực bằng các bài tập như thế nào
+- Nguyên nhân của bị cận là gì
+- Đau răng
+- Viêm tuyến lệ
+
+    - Exercise
+        - Ronaldo
+        - Pamela and Chloe
+    - Live with nature
+
+1. Chăm sóc bản thân
+    1. ChanHealthy, Pilates, Nhày dây là Cardio
+    2. Tập trung vào hơi thở, jawline
+    3. Vật lý trị liệu
+
+Tâng cơ, giảm mỡ

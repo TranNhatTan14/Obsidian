@@ -28,8 +28,6 @@ https://www.hello-algo.com/en/chapter_hello_algo/
 
 [https://googlecloudcheatsheet.withgoogle.com/](https://googlecloudcheatsheet.withgoogle.com/)
 
-### Hell Yeah! or no
-
 ### AI
 
 [https://stanford.edu/~shervine/](https://stanford.edu/~shervine/)
