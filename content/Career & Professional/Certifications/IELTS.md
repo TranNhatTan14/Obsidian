@@ -1,121 +1,40 @@
-- Learn IPA
+# Listening
 
-#### Reading
+sentece form table summary completion
+Based on context, xem chõ đố là điền từ loại gì
+- Use AirPods Pro 2 and Sony WH-1000XM4
+- 40 questions
+- 4 parts with 10 question for each part
 
-- Reading research papers in
+Type of quesiton in the listening test
 
-#### Speaking
+**Test**
+
+Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
+
+- Câu hỏi nhiều lựa chọn (Multiple Choice)
+- Nối thông tin (Matching)
+- Kế hoạch/Bản đồ/Biểu đồ (Plan/Map/Diagram Labelling)
+- Hoàn thành biểu mẫu (Form Completion)
+- Hoàn thành ghi chú (Note Completion)
+- Hoàn thành bảng (Table Completion)
+- Hoàn thành lưu đồ (Flow-chart Completion)
+- Hoàn thành tóm tắt (Summary Completion)
+- Hoàn thành câu (Sentence Completion)
+- Câu hỏi yêu cầu trả lời ngắn (Short Answer Questions)
+# Speaking
 
 - Speak every day with ELSA Speak or The Coach or build own app
     
 - Paraphase
-    
-
-#### Rules
-
-- Untitled
-    
-    - Sáng làm đề
-        
-    - Chiều luyện nói
-        
-
-#### Strategy
-
-- Luyện tập với thời gian ít hơn
-    
-- Giờ gì làm việc nấy
-    
-
-Những người được IELTS 9.0 ở Việt Nam
-
-1. Đặng Trần Tùng
-    
-2. Trần Hoài Giang
-    
-3. Nguyễn Hàng Phương Dung
-    
-4. Trương Hải Hà
-    
-5. Vừng
-    
-
-**Các học bá Trung Quốc**
-
-- Thường là LR sẽ vượt trội hơn so với WS
-    
-- Thi đi thi lại cho đến khi đạt target
-    
-
-Kiến thức được chuẩn bị từ những người đi trước (tài liệu)
 
 #### Problem Solving
 
 - Làm sao để không cần hiểu hết mà vẫn có thể làm đúng hết?
 
-#### Pipelines
-
-1. Xác định trình độ hiện tại của mình bằng cách làm đề
-    
-2. Lên Taobao tìm người chấm, chữa đề
-    
-3. Ôn tập
-    
-    1. Prep
-4. Tạo lập môi trường thi ngay tại nhà (thời gian thi, độ dài, môi trường, bấm giờ)
-    
-
-https://vietnamnet.vn/nam-sinh-ha-noi-chia-se-bi-quyet-dat-diem-ielts-cao-2233201.html
-
----
-
-# Listening
-
-- 40 questions
-    
-- 4 parts with 10 question for each part
-    
-
-Type of quesiton in the listening test
-
-## Bài thi Nghe
-
-Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
-
-- Câu hỏi nhiều lựa chọn (Multiple Choice)
-    
-- Nối thông tin (Matching)
-    
-- Kế hoạch/Bản đồ/Biểu đồ (Plan/Map/Diagram Labelling)
-    
-- Hoàn thành biểu mẫu (Form Completion)
-    
-- Hoàn thành ghi chú (Note Completion)
-    
-- Hoàn thành bảng (Table Completion)
-    
-- Hoàn thành lưu đồ (Flow-chart Completion)
-    
-- Hoàn thành tóm tắt (Summary Completion)
-    
-- Hoàn thành câu (Sentence Completion)
-    
-- Câu hỏi yêu cầu trả lời ngắn (Short Answer Questions)
-    
-- Học khó thi dễ
-    
-    - Tăng tốc độ lên 1.25 hoặc 1.5
-        
-    - Nghe chép chính tả
-        
-    - Shadowing
-        
-        - Mở file nghe, vừa nhìn script vừa shadowing theo băng
-
 # Reading
 
 Các dạng câu hỏi trong bài thi Đọc (học thuật) của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
-
 ### General
 
 #### Multiple Choice
@@ -163,40 +82,6 @@ Vì sao lại sai
 
 - Chăm đọc tiếng Anh (Đọc paper)
 
----
-
-# Writing
-
-Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
-
-- Trong phần 1, bạn sẽ được cho một biểu đồ, bảng biểu hoặc sơ đồ và được yêu cầu mô tả, tóm tắt và giải thích các thông tin được cung cấp theo ngôn ngữ của bạn. Bạn cũng có thể sẽ được yêu cầu mô tả và giải thích số liệu, các bước của một quy trình, cách một vật hoạt động hoặc mô tả một sự vật hoặc sự kiện.
-    
-- Trong phần 2, bạn sẽ được yêu cầu viết một bài luận nhằm đưa ra quan điểm, tranh luận hoặc trả lời vấn đề nào đó
-    
-
-- Để làm được văn hay thì phải biết học và đọc văn mẫu
-    
-    - Đọc và tìm ra dàn ý của bài văn mấu
-        
-    - Lựa chọn câu, từ, cấu trúc hay tổng hợp vào database
-        
-    - Vận dụng văn mẫu + kết hợp văn cá nhân, viết mở bài, kết bài VẠN NĂNG
-        
-- Dạng bài của W2
-    
-    - Argumentative/Opinion/Agree or Disagree
-        
-    - Discussion (Discuss both views)
-        
-    - Problem & Solution
-        
-    - Advantage and Disadvantages
-        
-    - 2-Part Question
-        
-- Học sách Gujiabei
-    
-    - Cứu tinh cho W1
 
 #### Speaking
 
@@ -271,17 +156,7 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
 - Chuyển linh hoạt giữa các phần trong một kỹ năng để tối ưu thời gian
     
 
-Listening
 
-Reading
-
-- Copy and paste
-    
-- Time the task is being explained for highlight and read question
-    
-- Không phải lật lật
-    
-- Đeo bịt lỗ tai
     
 
 Writing
@@ -307,19 +182,44 @@ Thuốc nhỏ mắt EyeMiru 40EX
 
 IOC Check 2024 Hoàn
 
----
 
-### Speaking
 
-### Listening
-
-- Use AirPods Pro 2 and Sony WH-1000XM4
-
-### Writing
+# Writing
 
 - Write research paper for
 
-### Reading
+Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
+
+- Trong phần 1, bạn sẽ được cho một biểu đồ, bảng biểu hoặc sơ đồ và được yêu cầu mô tả, tóm tắt và giải thích các thông tin được cung cấp theo ngôn ngữ của bạn. Bạn cũng có thể sẽ được yêu cầu mô tả và giải thích số liệu, các bước của một quy trình, cách một vật hoạt động hoặc mô tả một sự vật hoặc sự kiện.
+- Trong phần 2, bạn sẽ được yêu cầu viết một bài luận nhằm đưa ra quan điểm, tranh luận hoặc trả lời vấn đề nào đó
+
+- Để làm được văn hay thì phải biết học và đọc văn mẫu
+    - Đọc và tìm ra dàn ý của bài văn mấu
+    - Lựa chọn câu, từ, cấu trúc hay tổng hợp vào database
+    - Vận dụng văn mẫu + kết hợp văn cá nhân, viết mở bài, kết bài VẠN NĂNG
+        
+- Dạng bài của W2
+    - Argumentative/Opinion/Agree or Disagree
+    - Discussion (Discuss both views)
+    - Problem & Solution
+    - Advantage and Disadvantages
+    - 2-Part Question
+        
+- Học sách Gujiabei
+    
+- Cứu tinh cho W1
+
+# Reading
+
+- Copy and paste
+    
+- Time the task is being explained for highlight and read question
+    
+- Không phải lật lật
+    
+- Đeo bịt lỗ tai
+
+- Reading research papers in
 
 - Research paper
 
@@ -328,27 +228,6 @@ IOC Check 2024 Hoàn
 - IELTS FACE-OFF
     
 - Prep For IELTS: Luyện phòng thi ảo: [https://www.facebook.com/hocieltscungprepvn](https://www.facebook.com/hocieltscungprepvn)
-    
-- Đặng Trần Tùng
-    
-- Khánh Vy
-    
-- Khiemslay
-    
-- Nguyễn Lâm Thảo Tâm
-    
-- Live with the language
-    
-
-1. Đặng Trần Tùng
-    
-    - The IELTS Workshopcauas
-2. Trần Hoài Giang
-    
-3. Nguyễn Hàng Phương Dung
-    
-4. Trương Hải Hà
-    
 
 Tuy nhiên, để đạt thành tích cao trong kỳ thi IELTS, thầy giáo 9x khẳng định, điều quan trọng nhất là không quan tâm và không áp lực bởi điểm số. Nếu quá quan tâm đến yếu tố này, người học sẽ phân tâm và tự tạo áp lực rất lớn.
 
@@ -362,40 +241,68 @@ Khánh Vy, Nguyễn Lâm Thảo Tâm và MC duyên dáng Phoebe Trần.
 
 [IELTS FACE-OFF](https://www.youtube.com/@ieltsfaceoffvtv7)
 
-### Tips and Tricks
+# Tips and Tricks
 
 - Quản lý thời gian
-    
 - L:Q40:T30:10 phút chuyển đáp án
-    
 - R:40 câu 60 ohuts cả thởi gian chuyển đáp án
-    
 - Skimming
-    
 - Underlining: gạch chân từ khóa
-    
 - Scaning
-    
 - Nắm được các dạng bài
-    
 - KHÔNG ĐỌC KỸ ĐỀ BÀI CẦN GÌ
-    
 - điền hết tất cả 40 câu 🙂
-    
 - Thà đánh nhầm còn hơn bỏ sót
-    
 - Biết thật nhiều từ vựng
-    
-    - synonyms
-        
-    - paraphrasing
-        
+- synonyms
+- paraphrasing
 - SRS
+- Mochi Mochi
+
+# Strategy
+
+- Luyện tập với thời gian ít hơn
+- Giờ gì làm việc nấy
+- Sáng làm đề
+- Chiều luyện nói
+
+- Học khó thi dễ
+    - Tăng tốc độ lên 1.25 hoặc 1.5
+    - Nghe chép chính tả
+    - Shadowing
+	- Mở file nghe, vừa nhìn script vừa shadowing theo băng
+
+### Standing on the shoulder of giants
+
+- Khánh Vy
+- Khiemslay
+- Nguyễn Lâm Thảo Tâm
+- Live with the language
+1. Đặng Trần Tùng
+    - The IELTS Workshopcauas
+
+Những người được IELTS 9.0 ở Việt Nam
+
+1. Đặng Trần Tùng
+2. Trần Hoài Giang
+3. Nguyễn Hàng Phương Dung
+4. Trương Hải Hà
+5. Vừng
     
-    - Mochi Mochi
+**Các học bá Trung Quốc**
 
-### Listening
+- Thường là LR sẽ vượt trội hơn so với WS
+    
+- Thi đi thi lại cho đến khi đạt target
+    
+Kiến thức được chuẩn bị từ những người đi trước (tài liệu)
 
-sentece form table summary completion
+1. Xác định trình độ hiện tại của mình bằng cách làm đề
+2. Lên Taobao tìm người chấm, chữa đề
+3. Ôn tập
+1. Prep
+2. Tạo lập môi trường thi ngay tại nhà (thời gian thi, độ dài, môi trường, bấm giờ)
+    
 
-Based on context, xem chõ đố là điền từ loại gì
+https://vietnamnet.vn/nam-sinh-ha-noi-chia-se-bi-quyet-dat-diem-ielts-cao-2233201.html
+- Learn IPA

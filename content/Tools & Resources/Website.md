@@ -25,6 +25,24 @@ https://www.youtube.com/@WIRED
 https://www.youtube.com/@stanfordonline
 https://www.youtube.com/@QuantaScienceChannel
 
+###### Artificial Intelligence
+
+- [ ] [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+
+###### Computer Vision
+
+- [ ] [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
+
+###### Math
+
+- [Reducible](https://www.youtube.com/@Reducible)
+- [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov)
+- [3blue1brown](https://www.youtube.com/@3blue1brown)
+
+###### Science
+
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/@Kurzgesagt)
+
 ###### Archived
 
 https://mlu-explain.github.io
@@ -34,3 +52,4 @@ https://towardsdatascience.com/tagged/editors-pick
 https://hbr.org
 https://www.youtube.com/@BenjaminTran
 https://www.youtube.com/cs50
+https://cloud.google.com/innovators/innovatorsplus

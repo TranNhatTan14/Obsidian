@@ -1,23 +1,5 @@
 #### What I will do in 2024
 
-#### Language
-
-1. HSK
-    
-
-#### Developer
-
-1. Google Cloud Machine Learning Engineer Certification
-    
-2. AWS Certification
-    
-3. TensorFlow Developer Certificate
-    
-
-- [ ] IELTS certificate
-    
-- [ ] [Google Cloud Machine Learning Engineer Professional Certificate](https://cloud.google.com/learn/certification/machine-learning-engineer)
-    
 
 #### Pro
 
@@ -51,9 +33,7 @@
 **2024**
 
 - Improve eyesight
-    
-- IELTS
-    
+
 
 **2025**
 
@@ -62,11 +42,8 @@
 - Submit Graph Transformer paper
     
 - Apply master scholarship
-    
-    https://www.tiktok.com/@thaygiaomua79/photo/7319137147594804498
+https://www.tiktok.com/@thaygiaomua79/photo/7319137147594804498
     
 - [ ] Chăm sóc da mặt
-    
 - [ ] Vệ sinh răng miệng
-    
 - [ ] Hàn răng

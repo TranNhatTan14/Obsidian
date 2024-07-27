@@ -1,5 +1,3 @@
-### Family
-### Love
 ### People
 
 ###### Inspired
@@ -36,10 +34,6 @@
 - Zachery Dereniowski
 
 ### Team
-
-### Group
-
-- [Chương trình Đào tạo Kỹ sư AI Vingroup](https://www.facebook.com/groups/ctaivingroup/)
 
 ###### Bad
 

@@ -1,36 +1,45 @@
-### Articles & Essays
+### Career & Professional
 
-- [ ] Manage Your Energy, Not Your Time
+###### Certification
 
-### Research paper
+**Language**
 
-###### Computer Vision
+- [ ] [IELTS](IELTS.md)
+- [ ] HSK
 
-- [ ] BENet: A lightweight bottom-up framework for context-aware emotion recognition
+**Work**
 
-### YouTube
+- [ ] [AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate)
+- [ ] [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty)
+- [ ] [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+- [ ] [Professional Machine Learning Engineer Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
 
-###### Artificial Intelligence
+Visit [Whizlabs](https://www.whizlabs.com) for prepare for the test.
 
-- [ ] [Andrew Ng: Opportunities in AI - 2023](https://www.youtube.com/watch?v=5p248yoa3oE)
+###### Competition
 
-###### Computer Vision
+**[[Kaggle]]**
 
-- [ ] [First Principles of Computer Vision](https://www.youtube.com/@firstprinciplesofcomputerv3258)
+- [HMS - Harmful Brain Activity Classification](HMS.md)
 
-###### Math
+### Goal & Project
 
-- [Reducible](https://www.youtube.com/@Reducible)
-- [ArtemKirsanov](https://www.youtube.com/@ArtemKirsanov)
-- [3blue1brown](https://www.youtube.com/@3blue1brown)
+###### Project
 
-###### Science
+- [ ] Assistant
+- [ ] NSAID
 
-- [Kurzgesagt – In a Nutshell](https://www.youtube.com/@Kurzgesagt)
+###### Goal
+
+###### To do
+
+### Resource
+
+###### Article
+
+- [[Manage Your Energy, Not Your Time]]
 
 ### Book
-
-###### Personal development
 
 - [ ] [[Smart Thinking]]
 
@@ -38,18 +47,7 @@
 
 - [ ] [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)
 - [ ] [An Introduction to Statistical Learning](https://www.statlearning.com/)
-
-###### Machine Learning
-
 - [ ] [Applied Machine Learning](https://kuleshov-group.github.io/aml-book/intro.html)
-
-###### Reinforcement Learning
-
-- [ ] [Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications](https://www.libgen.is/search.php?req=Designing+Machine+Learning+Systems%3A+An+Iterative+Process+for+Production-Ready+Applications&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
-
-###### Finance
-
-- [ ] [Foundations of Economics](https://www.amazon.com/Foundations-Economics-David-K-Begg/dp/0077121880)
 
 ###### Biology
 
@@ -57,17 +55,42 @@
 
 ### Podcast
 
-Name | Type | Description
--- | -- | --
-[HIEUTV](https://www.youtube.com/@hieu-tv) | Finance | For job oppotunities and connect with people
-Monster Box | Science | Habitify is a user-friendly habit tracker that simplifies personal growth. It's designed to keep you inspired and focused as you elevate your everyday
-[Oddly Normal](https://oddly-podcast.com) | Science | Podcast about science, something about life.
-[Inner World Podcast](https://www.youtube.com/@Innerworld.podcast) | Science | Nơi chúng ta sẽ cùng nhau tìm hiểu cách bộ não và cơ thể bên trong chính mình hoạt động như thế nào, dựa trên nền tảng của khoa học thần kinh, khoa học hành vi, tâm lý học và các lĩnh vực khác, để cùng nhau - chúng ta từng bước xoay chuyển và làm chủ cuộc sống của mình.
+| Name                                                               | Type    | Description                                                                         |
+| ------------------------------------------------------------------ | ------- | ----------------------------------------------------------------------------------- |
+| [HIEUTV](https://www.youtube.com/@hieu-tv)                         | Finance | For job opportunities and connecting with people.                                   |
+| Monster Box                                                        | Science | Habitify is a user-friendly habit tracker as you elevate your everyday.             |
+| [Oddly Normal](https://oddly-podcast.com)                          | Science | Podcast about science, and something about life.                                    |
+| [Inner World Podcast](https://www.youtube.com/@Innerworld.podcast) | Science | Nơi chúng ta sẽ cùng nhau tìm hiểu khoa học thần kinh, khoa học cuộc sống của mình. |
+| [Vietnam Innovators](https://www.youtube.com/@vietnaminnovators)   | Finance | For job opportunities and connecting with people.                                   |
+| [VIETSUCCESS](https://www.youtube.com/vietsuccess)                 | Science | Habitify is a user-friendly habit tracker to elevate your everyday.                 |
+| [TED](https://www.youtube.com/@TED)                                | Science | Podcast about science, and something about life.                                    |
+| [TED-Ed](https://www.youtube.com/@TEDEd)                           | Science | Nơi chúng ta cùng tìm hiểu khoa học thần kinh, và làm chủ cuộc sống của mình.       |
+| [TEDx Talks](https://www.youtube.com/@TEDx)                        | Science | Podcast about science, and something about life.                                    |
+| [Duy Thanh Nguyen](https://www.youtube.com/@duythanhish)           | Science | Nơi chúng ta cùng tìm hiểu khoa học thần kinh, và làm chủ cuộc sống của mình.       |
 
-### Relationship
+### Thought & Writing
 
-###### Inspired
+### Relationship and Connection
 
-**Duong Vu**
+###### Inspiration
 
-Note chăm chỉ lên với iPad của mình
+- Duong Vu
+
+###### Group
+
+- [Google Developer Group](https://gdg.community.dev)
+- [Chương trình Đào tạo Kỹ sư AI Vingroup](https://www.facebook.com/groups/ctaivingroup/)
+
+### Personal
+
+###### Dream
+
+###### Habit
+
+###### Interest and Consideration
+
+###### Life Milestones
+
+###### Mindset
+
+###### Strength and Weakness

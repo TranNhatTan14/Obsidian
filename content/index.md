@@ -21,7 +21,7 @@ Mục tiêu của mình là tối ưu hóa việc phát triển bản thân, s�
 > - [ ] Đạt chứng chỉ của Microsoft và AWS
 > - [ ] Đạt kết quả [nghiên cứu](Researcher.md) tốt, chuẩn bị để có thể pursuit [master program](Education.md#Master%20Program) with scholarship
 
-Visit [goals](Goals.md) for more detail about my life goals
+Visit [goals](Goal.md) for more detail about my life goals
 
 #### Kỷ luật với bản thân mình
 

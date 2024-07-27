@@ -1,7 +1,6 @@
 > [!todo] 
 > - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T
 
-
 ###### Personal development
 
 Chăm sóc sức khỏe thể chất và tinh thần
@@ -39,22 +38,13 @@ Phát huy điểm mạnh và khắc phục điểm yếu
 - Nghĩa là có thể sử dụng sau này 
 - Đừng dành thời gian cho những danh hiệu tốn thời gian, thể hiện điều gì đó
 
-
-#### Goals
-
 - Hạnh phúc
     
 - Công việc thuận lợi, ý nghĩa
-    
-    - Mình muốn hiểu hơn về cơ thể của mình, hiểu hơn về não bộ, hiểu hơn về thế giới xung quanh
+- Mình muốn hiểu hơn về cơ thể của mình, hiểu hơn về não bộ, hiểu hơn về thế giới xung quanh
 - Dành nhiều thời gian cho bản thân và cho gia đình
-    
 - Vợ đẹp, con ngoan, gia đình hạnh phúc
-    
 - Gaining financial freedom
-    
 - Looking after yourself or others
-    
 - Learning something new
-    
-- Fully funded scholarships for master program in top 50 university
+- Fully funded scholarships for master program in top university

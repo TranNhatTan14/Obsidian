@@ -17,7 +17,7 @@
 - [ ] 50,000,000
     
 - [ ] 20,000,000
-### [[Goals]]
+### [[Goal]]
 
 Hành trình kiếm 500 triệu trong 365 ngày
 

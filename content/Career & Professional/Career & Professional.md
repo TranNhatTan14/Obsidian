@@ -1,8 +1,7 @@
-###### Event
+ ###### Events & Challenges
 
 - Google I/O
 - Apple Event
-
 ### Competitions
 
 [](https://mlcontests.com/)[https://mlcontests.com](https://mlcontests.com)
@@ -21,4 +20,4 @@ https://news.ycombinator.com
 
 [Zalo AI Challenge 2023](https://challenge.zalo.ai/)
 
-- Vietnam Blockchain Olympiad
+Vietnam Blockchain Olympiad

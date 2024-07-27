@@ -40,7 +40,6 @@ Regular habits
     
 - Eat breakfast
     
-
 Afternoon
 
 - Brilliant
@@ -51,35 +50,15 @@ Afternoon
 **No Time**
 
 - Drink water
-    
 - Time for Meta and TikTok
-    
 - Deep Work enough, effectively with Forest
-    
 - Listening podcast
-    
-    [https://www.youtube.com/@vietnaminnovators](https://www.youtube.com/@vietnaminnovators)
-    
-    [https://www.youtube.com/vietsuccess](https://www.youtube.com/vietsuccess)
-    
-    [https://www.youtube.com/@hieu-tv](https://www.youtube.com/@hieu-tv)
-    
-    [https://www.youtube.com/@TED](https://www.youtube.com/@TED)
-    
-    [https://www.youtube.com/@TEDEd](https://www.youtube.com/@TEDEd)
-    
-    [https://www.youtube.com/@TEDx](https://www.youtube.com/@TEDx)
-    
-    [https://www.youtube.com/@duythanhish](https://www.youtube.com/@duythanhish)
-    
-    TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage. TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.
-    
 - Smart habits
     
-    - Sạc điện thoại hàng ngày ở nhà vì có chế độ bảo vệ pin
-    - Only watch video in watch later
-    - Nhìn màn hình với khoảng cách xa
-    - Xem viddeo dựa trên IDBM và Oscar from [Films](https://www.notion.so/bb6acc2866e845a387cbfce59caa9aef?pvs=21)
+- Sạc điện thoại hàng ngày ở nhà vì có chế độ bảo vệ pin
+- Only watch video in watch later
+- Nhìn màn hình với khoảng cách xa
+- Xem viddeo dựa trên IDBM và Oscar from [Films](https://www.notion.so/bb6acc2866e845a387cbfce59caa9aef?pvs=21)
 - Reading
 
 ###### Games
@@ -130,40 +109,27 @@ Afternoon
 #### Morning
 
 1. Wake up early with or without alarm
-    
 2. Use Balance to
-    
 3. Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
-    
-
 5. Uông Omega 3.6.9
-    
 6. [https://readwise.io/dailyreview](https://readwise.io/dailyreview)
-    
 
 ```
 Mỗi vật đều có tính riêng, 
 ```
 
 8. Danh sách công việc cần thực hiện
-    
 9. Breakfast
-    
 10. Làm việc hiệu quả
-    
 11. Uống đủ nước
-    
-
 #### Afternoon
 
-**13:30**
 
 2. Deep work
-    
-
 #### Evening
 
 1. Lên danh sách công việc cho ngày mai
-    
-
 3. Stretch
+
+
+- [ ] Only watch videos in Watch Later
