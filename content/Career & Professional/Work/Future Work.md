@@ -1,3 +1,26 @@
+### Interview
+
+- [ ] Tự tin
+- [ ] Thể hiện được mình có kiến thức tốt
+- [ ] Hiểu rõ về những dự án đã thực hiện
+- [ ] Thể hiện được mình đam mê với lĩnh vực Healthcare
+- [ ] Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
+- [ ] Email cảm ơn sau khi phỏng vấn
+
+- Work
+    - Learn from AI, and work with AI
+    - Advanced skill, English, Remote, Technology
+    - Interview
+        - Glassdoor
+        - Chinese website for leak content
+        - Thank you after interview
+    - Company
+        - Creative Force
+    - Remote research specialist
+    - Lo được cho bản thân và gia đình
+    - Data Science
+---
+
 [https://startup.jobs/?remote=true&q=Machine+Learning+Engineer](https://startup.jobs/?remote=true&q=Machine+Learning+Engineer)
 
 <aside> 💡 Join companies new apply AI like TVPL

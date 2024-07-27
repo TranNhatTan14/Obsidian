@@ -17,25 +17,12 @@ You can do it
 
 - Specific
     
-    - ≥ 80%
-        
-    - Scholarship types
-        
-    - List of universities
-        
-    - List of programs
-        
+- ≥ 80%
+- Scholarship types
+- List of universities
+- List of programs
 - Measurable
-    
-    - ≥ 80%
-
-Ngành mình dự định học
-
-- Computer Science
-    
-- Biomedical Engineering
-    
-- Mechatronics
+- ≥ 80%
 
 1. Danh sách các loại học bổng toàn phần hiện có
     
