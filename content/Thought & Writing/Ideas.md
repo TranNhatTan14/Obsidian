@@ -1,3 +1,75 @@
+- Metrics để đánh giá hiệu quả của mô hình
+- → Metrics để đánh giá hiệu quả công việc của mình
+
+Tập trung và năng lượng
+
+- [ ] Học tập và làm việc hiệu quả, tập trung
+- [ ] Đặt mục tiêu rõ ràng, kỷ luật bản thân
+
+### Motivations
+
+- Tại sao mình phải cố gắng
+    - Bố mẹ mình năm nay nhiều tuổi rồi nên mình muốn có thể để bố mẹ nghỉ hưu sớm, đi du lịch nhiều nơi và sống cho bản thân mình hơn, tự hào về mình
+    - I want to living a life but also top people
+
+**Health**
+
+- Mình đã lãng phí đồ ăn mẹ nấu và chuẩn bị cho
+- Mình gặp thầy Hiệp vào buổi liên hoan team nghiên cứu, thầy bảo mình tăng cân
+
+**Work**
+
+- Việc đánh lại thộng tin hiểu quả trong một số trường hợp, mình có thể sử dụng công cụ để tổng hợp lại thông tin
+
+**Mindset**
+
+- Mình cảm thấy khó chịu khi dung lượng ổ cứng không phải số tròn
+    
+    → Tân bị điên à, có gì mà phải thấy khó chịu
+    
+
+---
+
+### Một cuộc sống tươi đẹp với Trần Nhật Tân là gì?
+
+Có thể kết nối với mọi người cảm xúc, suy nghĩ, ngôn ngữ. Hiểu hơn về văn hóa, con người trên khắp thế giới
+
+Có một công việc ý nghĩa, thu nhập chủ động và thụ động. Có tài sản tích lũy
+
+Gia đình hạnh phúc, con cái được sống trong một cuộc sống đầy đủ
+
+Đầu tiên là về starting point của mỗi người khác nhau
+
+Tuy vậy có những điểm chúng ta giống nhau
+
+Dựa trên những thay đổi và tối ưu hóa thì chúng ta sẽ đến những điểm khác nhau
+
+<aside> 💡 Những người thân thiết sẽ đứng lên và chia sẻ và những kỉ niệm trong quá khứ với người đã mất
+
+</aside>
+
+A live well lived
+
+Technology
+
+High education
+
+Vấn đề của mình đang là gì
+
+- Thể chất cần cải thiện
+    
+- Tình thần cần cải thiện
+    
+- Trí tuệ cần cải thiện
+    
+- Công việc mong muốn của mình như thế nào?
+
+Mình cần biết những mặt khác của vấn đề
+
+Giảm chiều dữ liệu giống như là xem điều gì là quan trọng nhất với mình tại thời điểm này
+
+How to connect (link) the dot (graph, sparse graph)
+
 - Black box
 - Cặp từ trái nghĩa như thái cực của vấn đề
 - Sắp xếp gọn gàng ngay từ đầu hay vừa làm vừa dọn hay làm xong mới dọn
@@ -72,6 +144,7 @@
 - Làm gì lúc đó 
 - Đồng hồ 
 - Hey siri record voice 
+- 
 - Tiền lãi hàng tháng
 - Gửi tiền tiết kiệm thì lãi suất thấp nhưng không cần suy nghĩ nhiều 
 - Đầu tư thì sẽ khó hơn 
@@ -122,7 +195,7 @@
 - Nắm bắt được cơ hội
 - Biết được cái gì mình thích và theo đuổi lâu dài
 - Mình thích gì?
-- IKIGAI
+
 - Bút
 - Bộ phân loại
 
@@ -180,16 +253,6 @@ Having a purpose is a fundamental component of living a fulfilling life.
     - Fintech
 - Law of Attraction
 
-1. Chăm sóc bản thân
-    1. ChanHealthy, Pilates, Nhày dây là Cardio
-    2. Tập trung vào hơi thở, jawline
-    3. Vật lý trị liệu
-
-**Love**
-
-- Girlfriend
-    1. Morning text
-    2. Những ngày dâu, miếng dán giữ nhiệt
 
 **Others**
 
@@ -199,3 +262,18 @@ Having a purpose is a fundamental component of living a fulfilling life.
 
 - Thú mỏ vịt và huơu cao cổ
 - Người giàu đi xe hơi, uống bia ôm. Người nghèo đi xe ôm, uống bia hơi
+- **Key words**
+    - Web 3
+    - Blockchain
+    - Cryptocurrency
+    - VPS
+
+### Break things
+
+- Early morning
+- Morning
+    - Morning writing about grateful (After you do some kind of stuff, maybe when you eat breakfast)
+- Lunch
+- Afternoon
+- Evening
+- Midnight

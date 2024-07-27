@@ -4,6 +4,21 @@
 > - Hạn chế sử dụng thẻ tín dung trong giai đoạn
 > - Mua thực sự cần với mình 
 
+### [[Goals]]
+
+Hành trình kiếm 500 triệu trong 365 ngày
+
+- Finance
+    - Financial Freedom
+        - Kiếm được nhiều tiền
+    - Foreign Exchange
+    - Cryptocurrency
+    - TikTok Beta Reup about girl finess
+    - High risk, high return
+    - Don’t put all your eggs in one basket (in finance and apply to other area)
+    - Credit score
+    - Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
+
 ###### Subscriptions
 
 - [Google One](https://one.google.com)

@@ -39,3 +39,28 @@ Drawback: Chai pin
 - Surge Mac, enabling the "Set as System Agent" - proxy (method 1)
 - "Enhanced Mode" - virtual network card (method 2)
 - Take over local program and take over a network request from another divice
+
+Surge is a **network toolbox** for power users and a high-performance **HTTP/SOCKS5 proxy server**
+
+- Outbound mode
+- MitM
+- Body viewer
+- Remote Controller
+- Ruleset & External Policy Group
+- TLS
+- Scripting: Use JavaScript to extend the ability of Surge as you wish
+- Module
+- Mock: Mock the API server and return static response. This feature may also be called as Map Local or API Mocking
+- HTTP API: Control Surge with HTTP API with another app or from another device
+- Proxy Chain: Connection to a remote host will be performed sequentially from one proxy server to another
+- L3 Packet Capture: Capture the raw network layer TCP/UDP/ICMP packet and view. You may also export the .pcap file to other tools
+
+[https://github.com/deezertidal](https://github.com/deezertidal)
+
+[https://github.com/Maasea](https://github.com/Maasea)
+
+[https://community.nssurge.com/](https://community.nssurge.com/)
+
+[https://whatshub.top/script](https://whatshub.top/script)
+
+[https://apps.apple.com/us/app/stay-for-safari/id1591620171?platform=iphone](https://apps.apple.com/us/app/stay-for-safari/id1591620171?platform=iphone)

@@ -9,3 +9,7 @@
 
 > [!quote] Andrew Ng, Founder & CEO @DeepLearning.AI
 > Just get your hand dirty, don’t overthinking
+
+1. Lùi một bước, tiến hai bước như kéo cây cung để bay xa hơn
+2. Gia tộc Suneo thực sự chăm chỉ, giàu lên nhờ năng lực
+3. Catch tricky mistakes in your writing by reading it aloud to yourself. This forces you to hear errors that you otherwise might miss.

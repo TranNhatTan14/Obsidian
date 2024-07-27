@@ -29,3 +29,5 @@ Phát triển Human Intelligence from Artificial Intelligence
 - Neuroscience
 - Brain-Computer Interfaces
 - Brain
+
+https://www.emergentmind.com/

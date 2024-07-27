@@ -1,6 +1,12 @@
 > [!todo] 
 > - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T
 
+
+###### Personal development
+
+Chăm sóc sức khỏe thể chất và tinh thần
+Phát huy điểm mạnh và khắc phục điểm yếu
+
 ### [Finance](Finance.md)
 
 - [ ] Achieve [financial freedom](Financial%20Freedom.md)

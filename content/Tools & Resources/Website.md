@@ -1,7 +1,7 @@
 ###### Medium
 
 https://medium.com/@danielwarfield1
-
+https://nn.labml.ai
 [Y Combinator](https://www.ycombinator.com)
 
 https://www.youtube.com/@3blue1brown

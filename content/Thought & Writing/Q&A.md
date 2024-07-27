@@ -14,3 +14,5 @@
 > - Why are these goals important to me
 > - Khi đọc sách mình sẽ có nhiều thứ cần note lại
 > - Làm sao để hệ thống hóa kiến thức
+
+DId the phone more heavier when full of battery or full of storage? (This is a fun question about energy and technical)
