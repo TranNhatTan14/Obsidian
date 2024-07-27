@@ -15,6 +15,39 @@ You can do it
 
 - You can learn direct to Ph.D
 
+- Specific
+    
+    - ≥ 80%
+        
+    - Scholarship types
+        
+    - List of universities
+        
+    - List of programs
+        
+- Measurable
+    
+    - ≥ 80%
+
+Ngành mình dự định học
+
+- Computer Science
+    
+- Biomedical Engineering
+    
+- Mechatronics
+
+1. Danh sách các loại học bổng toàn phần hiện có
+    
+2. Nhận diện học bổng phù hợp với bản thân (theo profile và khả năng tài chính)
+    
+3. Phân tích Case study đã nhận được học bổng toàn phần Thạc sĩ thành công
+    
+
+Các trường đại học thường xét duyệt hồ sơ dựa trên tổng hoà nhiều yếu tố, vì vậy theo mình một bộ hồ sơ tốt là một bộ hồ sơ có nhiều yếu tố cùng tốt. Để tăng cơ hội được nhận vào những chương trình top đầu, một bộ hồ sơ có nhiều mặt mạnh sẽ giúp ứng viên có nhiều cơ hội được chọn hơn. Các yếu tố như GPA, bài luận, thư giới thiệu, v..v.. đều rất quan trọng.
+
+Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luận tốt, thư giới thiệu mạnh là những yếu tố quan trọng. Ngoài ra, nếu bạn chứng minh được nguồn funding thì càng có lợi thế.
+
 ### Major
 
 1. Computer Science

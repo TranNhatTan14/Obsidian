@@ -277,3 +277,147 @@ Having a purpose is a fundamental component of living a fulfilling life.
 - Afternoon
 - Evening
 - Midnight
+
+
+- Việc học AI bây giờ nếu chạy theo thì phần cứng thì không đáp ứng được GPU
+    
+    → Tập trung vào ứng dụng trong những trường hợp không cần mô hình quá lớn
+    
+- Làm phần mềm thì không thể qua được SWE, tập trung vào phần cứng AIoT
+    
+- Vấn đề của mình bây giờ là không biết mình sẽ làm công việc như thế nào
+    
+
+1. **Automation and Robotics Advancements**: The integration of AI with Mechatronics allows for the development of advanced autonomous systems and robots. These intelligent machines can learn from their environments, adapt to changing conditions, and perform complex tasks with precision and efficiency. Industries such as manufacturing, logistics, and healthcare can benefit from enhanced productivity, reduced human error, and increased safety.
+2. **Smart and Connected Devices**: Mechatronics combined with AI enables the creation of smart and connected devices. Imagine a future where your home appliances, vehicles, and personal gadgets seamlessly communicate and adapt to your preferences. From smart homes to self-driving cars, the integration of AI with Mechatronics can revolutionize our daily lives, making them more convenient, efficient, and environmentally friendly.
+3. **Enhanced Human-Machine Interaction**: Mechatronics and AI integration pave the way for intuitive and natural interactions between humans and machines. Through technologies such as gesture recognition, voice control, and haptic feedback, we can create interfaces that allow us to communicate and collaborate seamlessly with machines. This opens up possibilities for applications in healthcare, entertainment, and assistive technologies.
+
+### Important
+
+#### Becoming the best version of yourself
+
+Be yourself BUT always your BETTER SELF
+
+Yourself mean unique
+
+The best version of yourself is when you live authentically, stay true to your values, and do things that bring you happiness, purpose, and meaning. It also means living according to your own values and goals, rather than those of other people
+
+CV chỉnh sửa thêm và hãy làm được
+
+#### Health
+
+- Phát triển chiều cao hết khả năng
+
+Regular exercise and healthy eating can help keep diseases away.
+
+#### Family
+
+A constant source of support that teaches important lessons.
+
+#### Education
+
+Learn from mistakes > doing ? theory
+
+Just do it
+
+Education. Having a good education will help you progress in life
+
+Love
+
+A common language that allows people to have relationships.
+
+Gratitude
+
+Can increase happiness, quality of life, and optimism, and strengthen relationships.
+
+Purpose
+
+Helps people live authentic lives by finding their unique contribution to the world.
+
+Happiness
+
+A key to a fulfilling and meaningful life.
+
+Time
+
+A resource that can't be regained, so it's important to use it wisely and live life to the fullest.
+
+Communication
+
+An essential aspect of human life that allows activity to take place.
+
+---
+
+Here are some ways to determine what's most important in your life:
+
+- Prioritize your well-being: Consider how different areas of your life contribute to your overall well-being and happiness.
+    
+- Reflect on what you talk about: Consider what you talk about the most.
+    
+- Think about your values: Write down your top values and compare them to each other to determine the correct order.
+    
+- Consider your past: Recognize moments and experiences that form a pattern or direction that can bring meaning and purpose.
+    
+- Consider your passions: Passions can give life purpose and make everything easier.
+    
+- Consider your time: Look at how you spend your time.
+    
+- Consider your qualities: Think about your qualities and what you're good at.
+    
+- Consider your enjoyable activities: Identify what you enjoy doing most.
+    
+- Consider your most important people: Consider the most important people in your life
+    
+
+### Rank the meaningful areas of your life
+
+You and time are limited
+
+### Reflect on what you talk about the most
+
+### Consider the most important people in your life
+
+### Identify what you enjoy doing most
+
+### Look at how you spend your time
+
+### Pay attention to what you think about
+
+### Think about the part of your life you want to be better in
+
+### Present
+
+- Ngồi xuống và nhìn lại. Mình đang được những gì? Và trong những cái được đó mình đã tận hưởng hết chưa?
+    
+- Những cái mà mình muốn được, có thực sự đáng để mình theo nó, mất nhiều thời gian, năng lượng và thanh xuân, để rồi đến một lúc nào đó mình sẽ không còn thích nó nữa
+    
+- Được không cần thiết thì buông bỏ, dồn sức cho những điều xứng đáng
+    
+- Mình đang trên con đường hạnh phúc, để có thêm hạnh phúc chứ không phải KHÔNG hạnh phúc và đang đi tìm hạnh phúc
+    
+
+---
+
+1. To understand, learn and do from SCRATCH. To applications, use TEMPLATE and FREE RESOURCES
+    
+2. Take a TOP-DOWN approach, understand the APPLICATION, and then deeply understand the BOTTOM-UP
+    
+3. ÍT thì mình trân trọng NHIỀU hơn
+    
+
+#### To do
+
+1. Stay up to date with technology
+    
+    Best way to update new is status? Nếu update bằng video hay bài viết thì thật lâu để chuẩn bị
+    
+2. Đọc bài thành tựu tuần trên J2TEAM
+    
+
+#### Don't
+
+- Đừng làm những việc ảnh hưởng đến sức khỏe như xem Toonily
+
+#### How
+
+- Làm sao để lưu trữ thông tin về một người, kỉ niệm

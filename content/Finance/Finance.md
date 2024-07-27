@@ -4,6 +4,19 @@
 > - Hạn chế sử dụng thẻ tín dung trong giai đoạn
 > - Mua thực sự cần với mình 
 
+
+    
+- [ ] 1,000,000,000
+    
+- [ ] 500,000,000
+    
+- [ ] 200,000,000
+    
+- [ ] 100,000,000
+    
+- [ ] 50,000,000
+    
+- [ ] 20,000,000
 ### [[Goals]]
 
 Hành trình kiếm 500 triệu trong 365 ngày

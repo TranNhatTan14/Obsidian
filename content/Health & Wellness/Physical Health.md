@@ -12,6 +12,14 @@
 - Blue night filter is big marketing tool
 - Most of the eye strain because of glare
 
+- Use 01 hour
+    
+- https://www.tiktok.com/@soldier.boy06/photo/7304562878416194818
+    
+- Mình thấy mắt hơi mỏi khi vừa ngủ dậy
+    
+- Dùng điện thoại quá gần
+
 [https://www.youtube.com/watch?v=LwO086rYjEQ](https://www.youtube.com/watch?v=LwO086rYjEQ)
 
 Cause

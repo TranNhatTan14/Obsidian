@@ -126,3 +126,44 @@ Afternoon
     - 2 hours before basic time sleep we often buồn ngủ
     - Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
     - Sleep enough
+
+#### Morning
+
+1. Wake up early with or without alarm
+    
+2. Use Balance to
+    
+3. Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
+    
+
+5. Uông Omega 3.6.9
+    
+6. [https://readwise.io/dailyreview](https://readwise.io/dailyreview)
+    
+
+```
+Mỗi vật đều có tính riêng, 
+```
+
+8. Danh sách công việc cần thực hiện
+    
+9. Breakfast
+    
+10. Làm việc hiệu quả
+    
+11. Uống đủ nước
+    
+
+#### Afternoon
+
+**13:30**
+
+2. Deep work
+    
+
+#### Evening
+
+1. Lên danh sách công việc cho ngày mai
+    
+
+3. Stretch

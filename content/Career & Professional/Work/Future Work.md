@@ -385,3 +385,82 @@ We are looking for **Excellent Engineers,** who can research & develop solutio
 - Good at writing technical reports and presentation of technical problems (in English).
 - Good at English (all 04 skills), knowing Japanese language is a plus.
 - Other attitude characteristics: proactive, responsible, can-do, and get-thing-done.
+
+#### AI Engineer
+
+1. Large Multimodal Models
+    
+2. Natural Language Processing
+    
+
+#### Priorities
+
+1. Remote in oversea company (It require English)
+
+---
+
+#### [Resume](https://www.overleaf.com/project/662216c1aaa7879b26c4e7af)
+
+1. **Talk about people.** My Google manager always reminded me that he offered me a role because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.
+    
+2. **Talk about impact.** The impact is why that bullet matters. If you can clearly explain why the impact of your work matters, then it shows you can see the bigger picture that everything you do is for the end user.
+    
+3. Định lượng
+    
+4. **Experience > Completion.** It's 100% okay to put unfinished projects or work on your resume. It's more important that the candidate know the material and not whether it was actually done. Leading a project half way **STILL COUNTS** as leading a project.
+    
+
+#### [Notion](https://www.notion.so/tanhtr/Work-8dd566ef1e334af6931466d5db9e35f1?pvs=4)
+
+#### Role
+
+- Data Scientist
+    
+- AI and ML Engineer
+    
+- AI and ML Researcher
+    
+- Biomedical Engineering
+    
+
+#### Skill
+
+- with API, SQL
+    
+- and PyTorch
+    
+
+### Future Work
+
+Require from big corp
+
+Prepare pet project
+
+- CV
+    
+- NLP Chatbot
+    
+- LLM
+    
+- Fraud detection if work in bank
+    
+
+#### Email
+
+Thân gửi phòng ...
+
+Lời đầu tiên em xin được cảm ơn phía công ty đã dành thời gian đánh giá CV và phản hồi lại email ứng tuyển
+
+Em trả lời email này nhằm xác nhận tham gia lịch hẹn phỏng vấn vào:
+
+Thời gian
+
+Địa điểm
+
+Em hy vọng sẽ được chia sẻ đam mê và các kỹ năng trong công việc với phía công ty trong cuộc phỏng vấn
+
+Nếu công ty cần thay đổi hoặc thêm thông tin, xin vui lòng phàn hồi qua email hoặc số điện thoại ... để em có sự chuẩn bị kỹ lưỡng nhất.
+
+Chúc công ty một ngày tốt lành
+
+Trân trọng cảm ơn
