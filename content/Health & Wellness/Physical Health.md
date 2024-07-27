@@ -1,0 +1,3 @@
+###### Exercises
+
+- [ ] Lateral Raise

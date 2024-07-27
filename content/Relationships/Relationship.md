@@ -40,3 +40,11 @@
 ### Group
 
 - [Chương trình Đào tạo Kỹ sư AI Vingroup](https://www.facebook.com/groups/ctaivingroup/)
+
+###### Bad
+
+- Tú Nguyễn (penguin, crush on you, phũ)
+- Ngọc An (màu đen và xoá tin nhắn)
+- _do._.o
+- ngthhng_
+- huonggla

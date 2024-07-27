@@ -1,3 +1,9 @@
+- Black box
+- Cặp từ trái nghĩa như thái cực của vấn đề
+- Sắp xếp gọn gàng ngay từ đầu hay vừa làm vừa dọn hay làm xong mới dọn
+- Manage time, knowledge, energy
+- Tối ưu hóa
+
 - Tập trung vào thành tựu tích lũy theo thời gian 
 - Nghĩa là có thể sử dụng sau này 
 - Mình sẽ làm gì với những note hoặc task đã hoàn thành
@@ -164,15 +170,32 @@ what another people ha ve that I don't have
 - IKIGAI
 - Stoicism
 
-###### Health
-
-- Nutrition
-- Exercise
-- Physical health
-- Mental health
-- Healthy mind, mental wellbeing
-- Find activities that help you relax: meditating daily, listening to a motivational podcast, going for a walk, be present
-
 ###### Purpose
 
 Having a purpose is a fundamental component of living a fulfilling life.
+
+- FIeld
+    - Blockchain
+    - Web3
+    - Fintech
+- Law of Attraction
+
+1. Chăm sóc bản thân
+    1. ChanHealthy, Pilates, Nhày dây là Cardio
+    2. Tập trung vào hơi thở, jawline
+    3. Vật lý trị liệu
+
+**Love**
+
+- Girlfriend
+    1. Morning text
+    2. Những ngày dâu, miếng dán giữ nhiệt
+
+**Others**
+
+- Học kém không đáng sợ, học kém mà mọi người tưởng mình học giỏi mới đáng sợ
+
+###### Fun
+
+- Thú mỏ vịt và huơu cao cổ
+- Người giàu đi xe hơi, uống bia ôm. Người nghèo đi xe ôm, uống bia hơi

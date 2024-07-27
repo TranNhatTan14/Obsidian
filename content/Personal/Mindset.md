@@ -1,0 +1,1 @@
+the core, most important thing, smart thinking
