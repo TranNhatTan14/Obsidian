@@ -73,8 +73,6 @@ AI in Finance
 - **Focus on NLP (Natural Language Processing):** If you're interested in other areas like computer vision, ask the author for recommendations.
 - **Use Twitter:** Follow AI experts and engage in the community.
 
-**The curriculum:**
-
 **1. Mathematics:**
 
 - Linear algebra, calculus, probability, and statistics are fundamental for AI algorithms.
@@ -88,4 +86,8 @@ AI in Finance
 **3. Machine Learning:**
 
 - **Write algorithms from scratch.**
-    - [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+    - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
+DSA
+
+Machine Learning

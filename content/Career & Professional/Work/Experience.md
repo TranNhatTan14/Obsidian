@@ -1,3 +1,15 @@
+Require from big corp
+Prepare pet project
+
+### CV
+### NLP
+
+###### Chatbot
+
+###### LLM
+
+### Fraud detection if work in bank
+
 ###### Healthcare monitoring system using brainwave control
 
 Research on emotion classification using EEG signals
