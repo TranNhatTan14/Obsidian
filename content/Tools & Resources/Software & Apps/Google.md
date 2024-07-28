@@ -33,10 +33,8 @@ Restart the kernel and clear all the variables and outputs in Google Colab: Pres
 
 Working with Jupyter Notebook and have free GPU and TPU, can work with both Python and R
 
-### Google Drive (cloud storage)
+### Google Drive
 
 ### Google One
 
 ### Google Cloud
-
-### TensorFlow

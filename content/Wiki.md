@@ -82,10 +82,6 @@ Visit [Whizlabs](https://www.whizlabs.com) for prepare for the test.
 
 ### Relationship and Connection
 
-###### Inspiration
-
-- Duong Vu
-
 ###### Group
 
 - [Google Developer Group](https://gdg.community.dev)

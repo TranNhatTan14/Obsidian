@@ -2,9 +2,8 @@
 title: Obsidian
 draft: false
 tags:
-  - tool
+  - Tool
 ---
-
 ### Add image with path
 
 ### Add image with URL
@@ -48,8 +47,3 @@ Tại sao minh sử dụng Obsidian thay vi Notion
 1. It is simple, minh có thể tập trung vào nội dung hơn thay vì trình bày
 2. Connect the dot, cách kết nối giữa các note của mình
 3. Font chữ nhìn khá ổn đấy chứ
-
-### Plugins
-
-- Advanced Tables
-- 

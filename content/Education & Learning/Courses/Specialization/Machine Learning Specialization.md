@@ -1,4 +1,4 @@
-#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
 
 - Basic coding (for loops, functions, if/else statements) & high school-level math (arithmetic, algebra)
 - Other math concepts will be explained

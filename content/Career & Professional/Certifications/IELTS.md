@@ -272,7 +272,7 @@ Khánh Vy, Nguyễn Lâm Thảo Tâm và MC duyên dáng Phoebe Trần.
     - Shadowing
 	- Mở file nghe, vừa nhìn script vừa shadowing theo băng
 
-### Standing on the shoulder of giants
+### [Standing on the Shoulders of Giants](Life.md#Standing%20on%20the%20Shoulders%20of%20Giants)
 
 - Khánh Vy
 - Khiemslay
