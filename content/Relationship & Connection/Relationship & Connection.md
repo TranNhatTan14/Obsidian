@@ -1,11 +1,12 @@
+Thực tế rằng, follow một ai đó bạn sẽ cần dành thời gian, vì vậy hãy chắc chắn rằng bạn học được gì từ ho, từ công việc đến cuộc sống
+
 ### People
 
-###### Inspired
-
-- [[Ronaldo]]
-- Kroos
-- Wonyoung
 - Nadine Lee
+
+
+
+[Ali Abdaal](https://www.youtube.com/@aliabdaal)
 
 ###### Artificial Intelligence
 

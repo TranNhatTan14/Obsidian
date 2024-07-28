@@ -7,9 +7,6 @@
     - [ ] Implement finished competitions
         
     - [ ] Join new competition
-        
-- [ ] Watch new about [https://github.com/KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
-    
 
 #### Tận dụng AI trong cuộc sống của mình
 
@@ -41,13 +38,6 @@ Interests
 - Teaching yourself
     
 - Learning online
-    
-
-Google Colab
-
-Meetings
-
-Visual Studio Code
 
 Meeting to plan my day
 
@@ -67,12 +57,9 @@ Working with data
 Acquire several different data souces of different types and store that data on database
 
 - Implement a module that fetches some data
-    
     - csv
-        
     - Upload data to database
-        
-
+    
 Real applied machine learning
 
 In this case you are doing data engineering as opposed to ML engineering. While ML engineering isn't just about tuning hyper-parameters, it will involve deploying and monitoring the models as well. Most companies though have a shortage of software engineers/data-engineers which leads the ML engineers/data-scientists to become more self-sufficient in generating the required data. It also helps that software engineers tend to have little clue about the data they need to process and hence sometimes a more end-to-end focussed work is more efficient.
@@ -101,7 +88,6 @@ In this case you are doing data engineering as opposed to ML engineering. While 
             
         - ML Algorithms
             
-        
         Write from scratch
         
         Pro and cons
@@ -118,7 +104,6 @@ In this case you are doing data engineering as opposed to ML engineering. While 
     
     - LeetCode
 - Mock Interview
-    
 
 Đọc yêu cầu của khách hàng
 
@@ -134,10 +119,5 @@ Bài toán thuộc dạng nào
 
 Tốc độ nhanh và độ chính xác cao
 
-Research
-
-Engineer
-
-NLP
 
 Khuyên các bạn nên học về Engineer trước để biết xử lý bài toán cần đi theo nhưng bước như thế nào

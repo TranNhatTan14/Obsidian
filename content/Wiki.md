@@ -12,15 +12,23 @@
 - [ ] [AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate)
 - [ ] [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty)
 - [ ] [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-- [ ] [Professional Machine Learning Engineer Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
+- [ ] [~~Professional Machine Learning Engineer Google Cloud~~](https://cloud.google.com/learn/certification/machine-learning-engineer)
 
 Visit [Whizlabs](https://www.whizlabs.com) for prepare for the test.
 
-###### Competition
+### Competition
 
-**[[Kaggle]]**
+###### [Machine Learning Contests](https://mlcontests.com)
+
+- [[Location Mention Recognition Challenge]]
+
+###### [[Kaggle]]
 
 - [HMS - Harmful Brain Activity Classification](HMS.md)
+
+[](https://mlcontests.com/)[https://mlcontests.com](https://mlcontests.com)
+
+[https://edge-llms-challenge.github.io/edge-llm-challenge.github.io](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
 
 ### Education & Learning
 

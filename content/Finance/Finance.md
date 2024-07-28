@@ -4,20 +4,16 @@
 > - Hạn chế sử dụng thẻ tín dung trong giai đoạn
 > - Mua thực sự cần với mình 
 
-
+Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack app, đóng gói thành IPA rồi đưa lên TestFlight bán, với mã liên quan đến UIID
     
 - [ ] 1,000,000,000
-    
 - [ ] 500,000,000
-    
 - [ ] 200,000,000
-    
 - [ ] 100,000,000
-    
 - [ ] 50,000,000
-    
 - [ ] 20,000,000
-### [[Goal]]
+
+###### Automation X bot
 
 Hành trình kiếm 500 triệu trong 365 ngày
 
@@ -92,21 +88,9 @@ Tech va VP hoan tien
 
 Bơi theo cá mập hay bơi theo để cá mập ăn?
 
-### Cryptocurrency **Airdrop**
+### Cryptocurrency Airdrop
 
-- Chăm chỉ
-    - Kiên trì
-    - Thời gian
-- Chịu chi
-    - Dự án xịn cần vốn
-- Không có rủi ro đu đỉnh
-- bybit
-- ewifi
-- Thuê KYC
 
-Tuyển ref
-
-Không ref, không cheat thì một năm được 2,3 chục củ
 
 - Kiếm dự án tiềm năng ở đâu
     
@@ -114,62 +98,37 @@ Không ref, không cheat thì một năm được 2,3 chục củ
         - Theo dõi anh em chuyên cày Air
         - 5 Phút Crypto
 - Sksync
-    
 - Starknet
-    
 - Layzero
-    
 
-Gửi anh
+### Credit
 
-<aside> 💡 VP chốt ngày 21, HSBC chốt ngày 5
+- VP chốt ngày 21, HSBC chốt ngày 5
 
-</aside>
 
 ### Active income
 
-1. Earned income
-    
-    <aside> 💡 Kiến thức, công sức, thời gian có giới hạn nên có mức trần giới hạn
-    
-    </aside>
-    
-    - Salary
-    - Freelance
-2. Profit
-    
-    - Buôn bán
-    - Mở công ty, xuất nhập khẩu, xúc tiến thương mại
+Kiến thức, công sức, thời gian có giới hạn nên có mức trần giới hạn
+
+- Earned income: Salary, Freelance
+- Profit: Buôn bán, Mở công ty, xuất nhập khẩu, xúc tiến thương mại
 
 ### Passive income
 
 1. Interest (Lãi suất cho vay)
-    
-    <aside> 💡 Yêu cầu là mình cần có tiền cho vay Hoặc là một lượng vừa dủ
-    
-    </aside>
-    
-    1. Cho vay (cho bạn bè vay)
-    2. Gửi ngân hàng (cho ngân hàng vay)
-    3. Trái phiếu (cho chính phủ, doanh nghiệp vay)
-2. Retal income
-    
-    1. Cho thuê nhà
-    2. Cho thuê dụng cụ
-3. Capital gain (Lợi tức vốn)
-    
-    <aside> 💡 Am hiểu về những gì mình đang đầu tư
-    
-    </aside>
-    
+	1. Cho vay (cho bạn bè vay)
+	2. Gửi ngân hàng (cho ngân hàng vay)
+	3. Trái phiếu (cho chính phủ, doanh nghiệp vay)
+2. Retail income
+	1. Cho thuê nhà
+	2. Cho thuê tool
+3. Capital gain (Lợi tức vốn): Am hiểu về những gì mình đang đầu tư
     1. Bất động sản
     2. Cổ phần công ty
 4. Dividend
-    
     1. Góp vốn cho người khác kinh doanh
     2. Sở hữu cổ phiếu của những công ty trả cổ tức
 5. Royalty income (Thu nhập từ tác quyền)
-    
     1. Stock photo
     2. Sáng tác nhạc
     3. Viết sách
@@ -197,9 +156,7 @@ Gửi anh
         3. ELSA Speak hay app học tập nói chung
         4. Tinder
         5. App game hack
-3. Apple Developer
-    
-4. Service
+
     
 5. CryptoCurrency, Blockchain , Web3, Fintech
     
@@ -218,3 +175,6 @@ Gửi anh
 6. Online job, MMO, remote work
     
     1. Nhúng, vi mạch
+
+Service
+Apple Developer

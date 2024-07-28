@@ -318,56 +318,34 @@ A constant source of support that teaches important lessons.
 
 Learn from mistakes > doing ? theory
 
-Just do it
-
-Education. Having a good education will help you progress in life
-
-Love
-
-A common language that allows people to have relationships.
-
-Gratitude
-
-Can increase happiness, quality of life, and optimism, and strengthen relationships.
-
-Purpose
-
-Helps people live authentic lives by finding their unique contribution to the world.
-
-Happiness
-
-A key to a fulfilling and meaningful life.
-
-Time
-
-A resource that can't be regained, so it's important to use it wisely and live life to the fullest.
-
-Communication
-
-An essential aspect of human life that allows activity to take place.
+- Just do it
+- Education. Having a good education will help you progress in life
+- Love
+- A common language that allows people to have relationships.
+- Gratitude
+- Can increase happiness, quality of life, and optimism, and strengthen relationships.
+- Purpose
+- Helps people live authentic lives by finding their unique contribution to the world.
+- Happiness
+- A key to a fulfilling and meaningful life.
+- Time
+- A resource that can't be regained, so it's important to use it wisely and live life to the fullest.
+- Communication
+- An essential aspect of human life that allows activity to take place.
 
 ---
 
 Here are some ways to determine what's most important in your life:
 
 - Prioritize your well-being: Consider how different areas of your life contribute to your overall well-being and happiness.
-    
 - Reflect on what you talk about: Consider what you talk about the most.
-    
 - Think about your values: Write down your top values and compare them to each other to determine the correct order.
-    
 - Consider your past: Recognize moments and experiences that form a pattern or direction that can bring meaning and purpose.
-    
 - Consider your passions: Passions can give life purpose and make everything easier.
-    
 - Consider your time: Look at how you spend your time.
-    
 - Consider your qualities: Think about your qualities and what you're good at.
-    
 - Consider your enjoyable activities: Identify what you enjoy doing most.
-    
 - Consider your most important people: Consider the most important people in your life
-    
 
 ### Rank the meaningful areas of your life
 
@@ -388,20 +366,14 @@ You and time are limited
 ### Present
 
 - Ngồi xuống và nhìn lại. Mình đang được những gì? Và trong những cái được đó mình đã tận hưởng hết chưa?
-    
 - Những cái mà mình muốn được, có thực sự đáng để mình theo nó, mất nhiều thời gian, năng lượng và thanh xuân, để rồi đến một lúc nào đó mình sẽ không còn thích nó nữa
-    
 - Được không cần thiết thì buông bỏ, dồn sức cho những điều xứng đáng
-    
 - Mình đang trên con đường hạnh phúc, để có thêm hạnh phúc chứ không phải KHÔNG hạnh phúc và đang đi tìm hạnh phúc
-    
 
 ---
 
 1. To understand, learn and do from SCRATCH. To applications, use TEMPLATE and FREE RESOURCES
-    
 2. Take a TOP-DOWN approach, understand the APPLICATION, and then deeply understand the BOTTOM-UP
-    
 3. ÍT thì mình trân trọng NHIỀU hơn
     
 

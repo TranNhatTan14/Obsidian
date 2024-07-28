@@ -2,11 +2,6 @@
 
 - Google I/O
 - Apple Event
-### Competitions
-
-[](https://mlcontests.com/)[https://mlcontests.com](https://mlcontests.com)
-
-[https://edge-llms-challenge.github.io/edge-llm-challenge.github.io](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
 
 ### Update and trending
 

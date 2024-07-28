@@ -6,8 +6,6 @@ Nghiên cứu cần có một người thầy tốt
 
 Ứng dụng transformer vào trong bài toán cụ thể là plasmid
 
-	### How to read research paper effectively
-
 1. Eye
 2. Height
 3. Skincare
@@ -30,4 +28,6 @@ Phát triển Human Intelligence from Artificial Intelligence
 - Brain-Computer Interfaces
 - Brain
 
-https://www.emergentmind.com/
+### [[Q&A]]
+
+- How to read research paper effectively

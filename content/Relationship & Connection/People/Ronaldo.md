@@ -1,7 +1,8 @@
 ---
 tags:
-  - football
-  - madridista
+  - Football
+  - Madridista
+  - Inspiration
 ---
 What I learned from Ronaldo
 

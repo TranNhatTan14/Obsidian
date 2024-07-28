@@ -1,7 +1,9 @@
 ###### Research, reading
 
-- [Typeset](https://typeset.io): Do hours worth of reading in minutes
-- Library Genesis for PDF, EPUB, Book, Article
+###### [Typeset](https://typeset.io)
+
+Do hours worth of reading in minutes
+###### Library Genesis for PDF, EPUB, Book, Article
 ###### Learning
 
 - [Claude](https://claude.ai/chats) and [ChatGPT](https://chatgpt.com): Generative AI chatbot and language model act as assistant
