@@ -393,3 +393,7 @@ You and time are limited
 #### How
 
 - Làm sao để lưu trữ thông tin về một người, kỉ niệm
+
+https://www.producthunt.com/
+https://github.com/trending
+https://news.ycombinator.com/

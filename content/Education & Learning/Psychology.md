@@ -1,1 +1,0 @@
-Tâm lý phản kháng

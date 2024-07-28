@@ -1,3 +1,8 @@
+---
+tags:
+  - Kaggle
+  - Competition
+---
 1. What is spectrograms
 What is spectrogram in EEG?
 

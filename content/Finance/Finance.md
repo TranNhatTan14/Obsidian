@@ -18,15 +18,15 @@ Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack ap
 Hành trình kiếm 500 triệu trong 365 ngày
 
 - Finance
-    - Financial Freedom
-        - Kiếm được nhiều tiền
-    - Foreign Exchange
-    - Cryptocurrency
-    - TikTok Beta Reup about girl finess
-    - High risk, high return
-    - Don’t put all your eggs in one basket (in finance and apply to other area)
-    - Credit score
-    - Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
+- Financial Freedom
+- Kiếm được nhiều tiền
+- Foreign Exchange
+- Cryptocurrency
+- TikTok Beta Reup about girl finess
+- High risk, high return
+- Don’t put all your eggs in one basket (in finance and apply to other area)
+- Credit score
+- Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
 
 ###### Subscriptions
 
@@ -90,10 +90,7 @@ Bơi theo cá mập hay bơi theo để cá mập ăn?
 
 ### Cryptocurrency Airdrop
 
-
-
 - Kiếm dự án tiềm năng ở đâu
-    
     - Twitter
         - Theo dõi anh em chuyên cày Air
         - 5 Phút Crypto
@@ -104,7 +101,6 @@ Bơi theo cá mập hay bơi theo để cá mập ăn?
 ### Credit
 
 - VP chốt ngày 21, HSBC chốt ngày 5
-
 
 ### Active income
 

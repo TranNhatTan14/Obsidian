@@ -22,6 +22,7 @@ Ngành học và trường học tốt
     - Học bổng ETH Zurich Excellence Masters (Thụy Sĩ)
     - Học bổng International Leader of Tomorrow Award của trường Đại học British Columbia (Canada)
     - Học bổng Joint Japan World Bank
+
 - Tuition Fee Scholarship
 - Fellowship - Học bổng giao lưu ngắn hạn
 - Foundation Scholarship

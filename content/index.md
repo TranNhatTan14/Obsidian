@@ -18,6 +18,6 @@ Mục tiêu của mình là tối ưu hóa việc phát triển bản thân, s�
 > - [ ] Có một công việc tốt, phù hợp với định hướng của bản thân
 > - [ ] Thi IELTS
 > - [ ] Đạt chứng chỉ của Microsoft và AWS
-> - [ ] Đạt kết quả [nghiên cứu](Research.md) tốt, chuẩn bị để có thể pursuit [master program](Education.md#Master%20Program) with scholarship
+> - [ ] Đạt kết quả [nghiên cứu](Researcher.md) tốt, chuẩn bị để có thể pursuit [master program](Education.md#Master%20Program) with scholarship
 
 Visit [Goals](Goal.md) for more detail about my life goals

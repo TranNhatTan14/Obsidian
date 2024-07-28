@@ -16,19 +16,22 @@
 
 Visit [Whizlabs](https://www.whizlabs.com) for prepare for the test.
 
-### Competition
+###### Competition
 
-###### [Machine Learning Contests](https://mlcontests.com)
+- [ ] [[Location Mention Recognition Challenge]]
+- [ ] [HMS - Harmful Brain Activity Classification](HMS.md)
 
-- [[Location Mention Recognition Challenge]]
+- [Edge-Device Large Language Model Competition](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
+- [IBCOL 2024 International Blockchain Olympiad](https://2024.ibcol.org/)
+- [Zalo AI Challenge 2023](https://challenge.zalo.ai)
 
-###### [[Kaggle]]
+Visit [Machine Learning Contests](https://mlcontests.com) for more detail about available competition in Computer Science and AI
 
-- [HMS - Harmful Brain Activity Classification](HMS.md)
+###### Work
 
-[](https://mlcontests.com/)[https://mlcontests.com](https://mlcontests.com)
+###### [[Engineer]]
 
-[https://edge-llms-challenge.github.io/edge-llm-challenge.github.io](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
+###### [[Researcher]]
 
 ### Education & Learning
 
