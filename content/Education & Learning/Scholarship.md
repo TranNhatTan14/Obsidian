@@ -72,3 +72,5 @@ Bạn nào đã xác định được học bổng hoặc đang apply rùi thì 
 Khó khăn làm điểm mốc
 
 Vượt qua khó khăn như thế nào
+
+https://www.facebook.com/groups/scholarshiphunter/permalink/3782317858692244/

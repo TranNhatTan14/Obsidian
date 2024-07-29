@@ -4,8 +4,6 @@ Thực tế rằng, follow một ai đó bạn sẽ cần dành thời gian, vì
 
 - Nadine Lee
 
-
-
 [Ali Abdaal](https://www.youtube.com/@aliabdaal)
 
 ###### Artificial Intelligence
@@ -35,6 +33,13 @@ Thực tế rằng, follow một ai đó bạn sẽ cần dành thời gian, vì
 - Zachery Dereniowski
 
 ### Team
+
+###### [Mechatronics](https://www.messenger.com/t/3823307801022453)
+
+- Nguyễn Trọng Nhân
+- Nguyễn Vũ Quang
+- Ngô Tiến Sáng
+- Nguyễn Thế Sơn
 
 ###### Bad
 

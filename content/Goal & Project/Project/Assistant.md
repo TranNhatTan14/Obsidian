@@ -27,13 +27,13 @@ People often try to add new knowledge without pre-training, focus on fine-tuning
 
 LLM have two phases of training:
 
-### Pre-training
+# Pre-training
 
 > [!tip] Pre-training is like Reading
 
 I'd like to reiterate that pre-training large models of large datasets is an expensive activity, with a minimum cost of maybe about $1,000 for the smallest models, up to $1,000,000 for a billion parameter scale model.
 
-###### Use cases
+### Use cases
 
 When pre-training a model is the best option to get the good performance.
 
@@ -68,11 +68,11 @@ Step to obtain high quality training data, including deduplication, filtering on
 
 Dataverse is ready to use data cleaning pipeline.
 
-###### Data Cleaning
+### Data Cleaning
 
 Parquet is a columnar storage file format that widely used in Big Data and data analytics scerarios.
 
-###### Prepare data for training (Data Manipulation)
+### Prepare data for training (Data Manipulation)
 
 Package training data so that can be used in Hugging Face
 
@@ -135,18 +135,18 @@ def tokenization(example):
 dataset = dataset.map(tokenization, load_from_cache_file=False)
 ```
 
-###### Packing the data
+### Packing the data
 
 ![[Pasted image 20240729143718.png]]
 
 ```python
-
 input_ids = np.concatenate(dataset["input_ids"])
 
 print(len(input_ids))
 # 5113663
 
-# Max sequence length. It can be set to a longer length if device have enough memory. Llama-2 uses 4096
+# Max sequence length, longer length if device have enough memory. 
+# Llama-2 uses 4096
 max_seq_length = 32
 
 total_length = len(input_ids) - len(input_ids) % max_seq_length
@@ -176,50 +176,180 @@ print(packed_pretrain_dataset)
 packed_pretrain_dataset.to_parquet("file_path")
 ```
 
-###### Configuring model architecture
+### Configuring model architecture
 
 Modify Meta's Llama models to create larger or smaller models and then look at a few options for initializing weights, either randomly or from other models
 
-###### Model configuration
+### Model configuration
+
+### Training
+
+Need more memory to training models than you do for inference. The extra memory is needed to store the gradient and then activations that get updated during the training process.
+
+![[Pasted image 20240729203808.png]]
+
+You can use [Training Cluster](https://huggingface.co/training-cluster) to check how much your training job cost before you get started
 
 ```python
+import torch
+from transformers import AutoModeForCausalLM
 
-input_ids = np.concatenate(dataset["input_ids"])
-
-print(len(input_ids))
-# 5113663
-
-# Max sequence length. It can be set to a longer length if device have enough memory. Llama-2 uses 4096
-max_seq_length = 32
-
-total_length = len(input_ids) - len(input_ids) % max_seq_length
-input_ids = input_ids[:total_length]
-# Shape (5113632,)
-
-# Reshape input IDs
-input_ids_reshaped(-1, max_seq_length).astype(np.int32)
-# Shape (159801, 32)
-
-# Transforming input IDs to a list
-input_ids_list = input_ids_reshaped.to_list()
-
-# Convert to Hugging Face dataset
-packed_pretrain_dataset = datasets.Dataset.from_dict(
-	{"input_ids": input_ids_list}
+pretrained_model = AutoModeForCausalLM.from_pretrained(
+   "../model",
+   device_map="auto",
+   torch_dtype=torch.bfloat16,
+   use_cache=False
 )
 
-print(packed_pretrain_dataset)
+# Load dataset
+class CustomDataset(Dataset):
+	def __init__(self, args, split="train"):
+		self.args = args
+		self.dataset = datasets.load_dataset(
+			"parquet",
+			data_files=args.dataset_name,
+			split=split
+		)
 
-# Dataset({
-#     features: ['input_ids'],
-#     num_rows: 159801
-# })
+	def __len__(self):
+		return len(self.dataset)
 
-# Save to parquet file to use later
-packed_pretrain_dataset.to_parquet("file_path")
+	def __getitem__(self, index):
+		# Convert the lists to a LongTensor for PyTorch
+		input_ids = torch.LongTensor(self.dataset[index]["input_ids"])
+		labels = torch.LongTensor(self.dataset[index]["input_ids"])
+
+		# Return the sample as a dictionary
+		return {"input_ids": input_ids, "labels": labels}
+
+# Configure Training Arguments
+
 ```
 
-###### Training
+We are setting labels equal to input IDs here because we want to perform next token prediction. Then Llama for causal LM will shift labels internally to create multiple input output pairs for supervised learning.
+
+A rule of thumb is to maximize batch size given the memory capacity of your training device. If you have 8 GPUs available, you will process 8 times the batch size, resulting in 512 tokens per training step.
+
+```python
+import transformers
+from dataclasses import dataclass, field
+
+@dataclass
+class CustomArguments(transformers.TrainingArguments):
+    dataset_name: str = field(default="./parquet/packaged_pretrain_dataset.parquet")
+    num_proc: int = field(default=1)                     # Number of subprocesses for data preprocessing
+    max_seq_length: int = field(default=32)              # Maximum sequence length
+
+    # Core training configurations
+    seed: int = field(default=0)                         # Random seed for initialization, ensuring reproducibility
+    optim: str = field(default="adamw_torch")            # Optimizer, here it's AdamW implemented in PyTorch
+    max_steps: int = field(default=30)                   # Number of maximum training steps
+    per_device_train_batch_size: int = field(default=2)  # Batch size per device during training
+
+    # Other training configurations
+    learning_rate: float = field(default=5e-5)           # Initial learning rate for the optimizer
+    weight_decay: float = field(default=0)               # Weight decay
+    warmup_steps: int = field(default=10)                # Number of steps for the learning rate warmup phase
+    lr_scheduler_type: str = field(default="linear")     # Type of learning rate scheduler
+    gradient_checkpointing: bool = field(default=True)   # Enable gradient checkpointing to save memory
+    dataloader_num_workers: int = field(default=2)       # Number of subprocesses for data loading
+    bf16: bool = field(default=True)                     # Use bfloat16 precision for training on supported hardware
+    gradient_accumulation_steps: int = field(default=1)  # Number of steps to accumulate gradients before updating model weights
+    
+    # Logging configuration
+    logging_steps: int = field(default=3)                # Frequency of logging training information
+    report_to: str = field(default="none")               # Destination for logging (e.g., WandB, TensorBoard)
+
+    # Saving configuration
+    save_strategy: str = field(default="steps")          # Can be replaced with "epoch"
+    save_steps: int = field(default=3)                   # Frequency of saving training checkpoint
+    save_total_limit: int = field(default=2)             # The total number of checkpoints to be saved
+```
+
+###### Configure Training Arguments
+
+Choosing parameters for LLM can be challenging and often involves significant research. Because training LLM is  a costly process and typically does not allow for much trial and error
+
+###### Run the trainer and monitor the loss
+
+Normally you would pre-train a model for weeks if ot months. Note that we don't slack off during training.  We would record the losses with weights and biases, which allow team to check the progress at any time. See [Evaluating and Debugging Generative AI Models Using Weights and Biases](https://www.deeplearning.ai/short-courses/evaluating-debugging-generative-ai) for more details.
+
+```python
+from transformers import Trainer, TrainingArguments, TrainerCallback
+
+# Define a custom callback to log the loss values
+class LossLoggingCallback(TrainerCallback):
+	def on_log(self, args, state, control, logs=None, **kwargs):
+		if logs is not None:
+			self.logs.append(logs)
+
+	def __init__(self):
+		self.logs = []
+
+# Initialize the callback
+loss_logging_callback = LossLoggingCallback()
+
+# Trainer
+trainer = Trainer(
+	model=pretrained_model,
+	args=args,
+	train_dataset=train_dataset,
+	eval_dataset=None
+	callbacks=[loss_logging_callback]
+)
+
+trainer.train()
+```
+
+###### Checkpoint
+
+We would also create checkpoints or an intermediate version of the model 
+
+```python
+from transformers import Trainer, TrainingArguments, TrainerCallback
+
+# Saving the configuration
+save_strategy: str = field(default="steps")
+save_steps: int = field(default=3)
+save_total_limit: int = field(default=2)
+```
+
+Check the model after 1000 steps
+
+```python
+from transformers import AutoTokenizer, TextStreamer, AutoModelForCausalLM
+
+tokenizer_path = "upstage/TinySolar-248m-4k"
+
+tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
+
+model_1000_path = "output/checkpoint-1000"
+
+model_1000 = AutoModelForCausalLM.from_pretrained(
+	model_1000_path,
+	device_map="auto",
+	torch_dtype=torch.bfloat16
+)
+
+prompt = "I am an Mechatronics Engineer. I love"
+
+inputs = tokenizer(prompt return_tensors="pt").to(model_1000.device)
+
+streamer = TextStreamer(
+	tokenizer,
+	skip_prompt=True,
+	skip_special_tokens=True
+)
+
+output = mdel_1000.generate(
+	**inputs,
+	streamer=streamer,
+	use_cache=True,
+	max_new_token=64,
+	do_sample,
+	temperature=1.0
+)
+```
 
 Using open source [Hugging Face](Hugging%20Face.md) library
 
@@ -228,13 +358,8 @@ This course use smaller models with just a few of million parameters
 Can use to scale to both larger datasets, and models, and also train on GPUs
 
 
-
-Model is trained to predict the next word.
-
 - Gain in-depth knowledge of the steps to pretrain an LLM, encompassing all the steps, from data preparation, to model configuration and performance assessment.
-    
 - Explore various options for configuring your model’s architecture, including modifying Meta’s Llama models to create larger or smaller versions and initializing weights either randomly or from other models.
-    
 - Learn innovative pretraining techniques like Depth Upscaling, which can reduce training costs by up to 70%.
 
 Training large language models using a technique called pretraining. You’ll learn the essential steps to pretrain an LLM
