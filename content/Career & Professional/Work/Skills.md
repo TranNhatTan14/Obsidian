@@ -1,3 +1,74 @@
+### Programming
+
+Delve into advanced concept such as OOP and Algorithm optimization.
+
+Understanding how to write efficient, scalable code is crucial since AI applications often process large amounts of data. 
+
+Practice by contributing to open-source projects or tackling complex problems that challenge your coding skills.
+
+- Writing clean, efficient, and scalable code.
+- Understand the principles of software engineering, including version control, testing, and debugging. 
+
+### Data
+
+Data is the lifeblood of AI. You must be adept at data preprocessing, which includes cleaning and normalizing data to ensure that your AI models are trained on high-quality datasets. 
+
+###### Data Preprocessing
+
+Cleaning and normalizing data to ensure AI models are trained on high-quality datasets
+
+###### Data Manipulation Tools
+
+Acquire skills in using tools that facilitate efficient data manipulation.
+
+###### Database Management Systems
+
+ Understand the workings and management of database systems to support robust AI solutions.
+
+Learning to use data manipulation tools and understanding database management systems are also valuable skills. 
+
+By mastering data handling, you'll ensure that your AI solutions are built on solid ground, leading to more accurate outcomes.
+
+Learn to use tools like SQL, pandas, and Hadoop for efficient data manipulation and analysis.
+
+Gain experience in handling big data, including knowledge of distributed computing frameworks such as Apache Spark, to manage and process large datasets effectively.
+
+### [[Machine Learning]] and applications in real-world
+
+ Stay abreast of emerging ML trends and frameworks, and practice by building and refining your own models.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com)
 
 ### Technology

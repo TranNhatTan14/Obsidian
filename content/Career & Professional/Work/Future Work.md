@@ -58,43 +58,11 @@ Linear Algebra, Probability & Statistics, Optimization techniques
   
 - Deep understanding of common models and algorithms
 
-###### Computer Vision
 
-###### Natural Language Processing
 
-### Programming
 
-2. Strong programming skills in languages such as Python, Java or C, C++, R
-3. Current Trend
-    1. Demonstrable understanding of LLMs and Retrieval-Augmented Generation technologies.
-    2. Experience fine-tuning generative AI models.
 
-### Data & Database
 
-database operations and data manipulation
-
-Optimize and improve model training processes.
-
-- SQL, Query
-- Data Preprocessing
-- Feature Engineering
-- Data Augmentation
-- Pandas/Polars for data manipulation and analysis
-
-### Machine Learning & AI
-
-- Framework: ==TensorFlow, Keras, PyTorch, and scikit-learn== to implement these models effectively.
-
-- Consulting with the manager to determine and refine machine learning objectives.
-- Designing
-- Demonstrated ability to develop and implement AI solutions.
-- Model Development
-- Trains and validates models using evaluation metrics.
-- Optimizes hyperparameters to improve model performance.
-- Developing
-- Fine-tuning
-- Deploys models ensuring scalability, reliability, and efficiency.
-- Monitors and updates deployed models to adapt to changing data.
 
 ### Software Engineering
 
@@ -103,55 +71,6 @@ Optimize and improve model training processes.
 - Experience with integrating AI solutions into SaaS systems.
 - Practical experience with performance optimization techniques, including parallel computing and caching.
 
-### Hardware & Low-level Optimization
-
-- CUDA for GPU acceleration of ML models
-- OpenGL for visualization or GPU-accelerated computing
-- Embedded Systems Experience: Implementation of AI/ML on Jetson TX, FPGA, ARM, DSP boards
-- có kinh nghiệm chuyển đổi mô hình dùng SNPE, TensorRT, Tensor Core, ONNX…
-- Experience in development and optimization of AI, Deep Learning or Machine Learning into embedded system such as Jetson TX board, FPGA board, ARM board, DSP board is a strong plus.
-- Experience with GPU programming, including CUDA or RAPIDs
-
-### Cloud & Operation
-
-- Cloud platforms: AWS, Azure, GCP
-- Container technology: Docker, Kubernetes
-- Version control and collaborative development: Git
-- Operating system: Linux
-- Experience with modern Cloud containerization computing technologies and CI/CD, including Docker or Kubernetes
-
-- Familiarity with DevOps methodologies and tools for efficient CI/CD processes.
-- Proven track record in designing and deploying scalable, distributed systems for AI applications.
-- In-depth knowledge of 
-- Experience with advanced analytics, Big Data, statistical modeling, or machine learning
-- Experience with establishing frameworks for systems modernization efforts
-
-### Soft skills
-
-- Communication and collaboration with cross-functional teams
-	- Clear verbal communication
-	- Effective technical writing skills, ability to create comprehensive internal documentation
-	- Presentation
-	- Good in English communication
-- Communication and collaboration skills.
-- Problem-solving and analytical
-- Ability to quickly learn and understand new business domains and identify potential areas for AI applications.
-- Teamwork and independent working skills
-- Documenting machine learning processes.
-- Project management: Planning and prioritization of tasks, Time management skills
-- Adaptability
-
-- Analytical Skills
-	- Strong analytical mindset
-	- Ability to break down complex problems
-- Problem-solving
-	- Logical approach to challenges
-	- Creative solutions to technical issues
-- Self-motivation
-	- Proactive approach to tasks and learning
-- Adaptability
-	- Keeping up with rapidly evolving AI/ML field
-- Proactive in work and exploring new technologies
 
 # Responsibilities
 

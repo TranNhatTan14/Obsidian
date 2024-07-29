@@ -11,6 +11,7 @@ I working as AI Engineer in Genestory. Project I am working on
 Dự án về Assistant vừa là xây dụng công cụ hỗ trợ bản thân mình, vừa là học thêm kiến thức cần thiết để giải quyết bài toán liên quan đến NLP
 
 Today work are [Most Important Tasks](To%20do.md) và hoàn thành những [thói quen chất lượng cao](), học được thêm nhiều kiến thức chất lượng cao
+Learn with example and tutorial
 
 Mục tiêu của mình là tối ưu hóa việc phát triển bản thân, sống một cuôc đời đáng sống. cố gắng theo đuổi đam mê và kiếm ra tiền từ đó
 

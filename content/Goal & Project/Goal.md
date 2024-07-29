@@ -1,10 +1,26 @@
 > [!todo] 
-> - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T
+> - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)
 
 ###### Personal development
 
 Chăm sóc sức khỏe thể chất và tinh thần
 Phát huy điểm mạnh và khắc phục điểm yếu
+
+### Dream Work
+
+- [ ] Set clear, achievable objectives
+- [ ] Choose Resources, suit your learning style and objectives.
+      Imagine you’re learning to cook. You wouldn’t just pick any recipe book or watch random cooking shows; you’d choose ones that match your cooking style and the dishes you want to prepare.
+- [ ] Create Schedule
+	Time management is key when advancing in AI. Create a realistic schedule that dedicates regular hours each week to your studies. Balance is important; avoid burnout by ensuring you have time for breaks and other commitments. Consistency will help reinforce your learning, while flexibility allows you to adapt as needed.
+- [ ] Monitor Progress
+	Regularly review your progress to ensure you're on track with your AI learning plan. Adjust your objectives and resources as needed to stay aligned with your evolving interests or industry developments. Celebrate milestones to stay motivated, and don't be discouraged by setbacks.
+- [ ] Network Actively
+		To craft a personalized AI learning plan, start by defining your goals and identifying your interests within AI, such as machine learning, computer vision, or NLP. Assess your current knowledge and skill gaps, then choose resources like online courses, textbooks, and tutorials that align with your goals. Set specific milestones and deadlines to track progress, and engage with communities and mentors for guidance. Regularly review and adjust your plan as you advance to stay aligned with industry developments and personal growth.
+		Networking is one way to find out exactly what is happening in the real world and determining what is important. When I started on my AI journey I consumed a lot of online content; from courses to YouTube videos, the rabbit hole can be very confusing. It is only when I started interacting with others in the field I started to get some directions.
+		https://www.linkedin.com/advice/1/youre-aiming-advance-ai-how-can-you-craft-eq64e?trk=cah2
+
+[Your career in AI needs a boost. How can new AI tools propel you forward?](https://www.linkedin.com/advice/3/your-career-ai-needs-boost-how-can-new-jg0wc?trk=cah2)
 
 ### [Finance](Finance.md)
 

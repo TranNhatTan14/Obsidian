@@ -1,21 +1,12 @@
 - Word embeddings
-    
 - Recurent Network
-    
 - Attention Network
-    
 - Transformers
-    
 - Transfer Learning
-    
 - Bidirectional models
-    
 - Beam search
-    
 - Language model
-    
 - Machine Translation
-    
 - n-gram models
     
 
@@ -58,3 +49,7 @@ Dialogflow API
 ### NLP models
 
 ### Advanced NLP models
+
+### Tasks
+
+View [Hugging Face Tasks](https://huggingface.co/tasks)

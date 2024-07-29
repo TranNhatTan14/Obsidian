@@ -8,6 +8,7 @@
 > - [ ] Buy items in [Wish list](Objects.md#Wish%20list)
 > - [ ] Surge for data
 > - [ ] How to learn from Kaggle and do the comp to get the discount for Microsoft certificate
+> - [ ] Update the [[Hugging Face]] page and use it
 
 ###### Personal
 
