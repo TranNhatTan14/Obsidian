@@ -1,3 +1,9 @@
+###### 20240730
+
+Hôm nay mình đã quên sạc máy tính ở nhà và nhờ em Chiến gửi đến công ty. Mình có thể cất vào cặp tối hôm qua nhưng mình đã không làm. Điều này tương đồng với việc mình làm mất thẻ xe vì không cần thận
+
+
+
 June 14, 2024
 ### Self
 
@@ -27,29 +33,14 @@ June 14, 2024
 - Tai sao sau khi mass lại hay lên, điều này có ý nghĩa gì và có liên quan gì đến điều VL nói
     
 - What we can learn from re pa
-    
     - Knowledge
-        
     - for work research
-        
     - for new wrod
-        
     - for know how to write rp
         
 - You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh cờ)
     
 - Nature and clasic soudn but I choose nature rain sound
-    
-- Yêu em anh có gì
-    
-    - Anh có 3000 coint trong app Forest
-        
-    - Anh có streak 300 Elevate
-        
-    - Anh có bằng IELTS 8.0
-        
-    - Anh đang học thạc sĩ …
-        
 
 ### Những điều mình cảm thấy tệ về bản thân mình
 
@@ -64,27 +55,16 @@ June 14, 2024
 - chị Hà Trang
     
     - Chị nghĩ em là người nghiêm túc
-        
     - Mới bắt đầu nên làm tốt một thứ
-        
     - Trước chị cũng học bên Điện tử viễn thông
-        
     - Chị có học thêm bằng CNTT 2 năm
-        
     - Chị đi làm về CNTT rồi mới sang làm tin sinh
-        
     - Ý THỨC, THÁI ĐỘ và TINH THẦN là quan trọng còn tư duy tốt thì đổi ngành không vấn đề
-        
     - Các bạn đúng ngành lại e dè không dám đổi ngành
-        
     - Làm trái ngành lại liều mình dấn thân chịu khó học, đọc và tìm hiểu hơn
-        
     - Khoa học cơ bản thì chuyên sâu
-        
     - Bioinformatics thì cần thêm kiến thức liên ngành hơn
-        
     - Nên tập trung vào một ngành để lấy kinh nghiệm
-        
     - Không recommend đổi ngành liên tục
         
 - anh Hoàn

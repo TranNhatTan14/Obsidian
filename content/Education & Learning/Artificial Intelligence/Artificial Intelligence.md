@@ -30,13 +30,9 @@ Việc mình học với TensorFlow giúp mình hiểu ra nhiều điều, liệ
 Interests
 
 - CV
-    
 - DL
-    
 - AI
-    
 - Teaching yourself
-    
 - Learning online
 
 Meeting to plan my day
@@ -46,9 +42,7 @@ Research on new things
 You get paid for
 
 - Knowledge base
-    
 - Your skillset
-    
 - Contributions to the world
     
 
@@ -73,28 +67,20 @@ In this case you are doing data engineering as opposed to ML engineering. While 
     - General ML Knowledge
         
         - SL, UL
-            
         - Overfitting
-            
         - Boosting
-            
         - Regularization
-            
         - Normalization
-            
         - Gradient descent
-            
         - Loss function
-            
         - ML Algorithms
             
         Write from scratch
-        
+    
         Pro and cons
         
         When and where to use it
         
-    - NLP
         
     - ML System Design
         

@@ -8,7 +8,6 @@
 - Language model
 - Machine Translation
 - n-gram models
-    
 
 #### Natural Language Processing on Google Cloud
 
