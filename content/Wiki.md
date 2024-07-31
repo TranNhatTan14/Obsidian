@@ -18,7 +18,7 @@ Visit [Whizlabs](https://www.whizlabs.com) for prepare for the test.
 
 ###### Competition
 
-- [ ] [[Location Mention Recognition Challenge]]
+- [ ] [[Location Mention Recognition]]
 - [ ] [HMS - Harmful Brain Activity Classification](HMS.md)
 
 - [Edge-Device Large Language Model Competition](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)

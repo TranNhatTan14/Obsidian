@@ -5,15 +5,12 @@ A Machine Learning Engineer designs, builds, productionizes, optimizes, operates
 - [ ] Natural Language Processing
 - [ ] MLOps
 - [ ] Become Machine Learning Engineer
-- [ ] Get the
-    
 
 #### Approachs
 
 1. High-level first
 2. Engineer first
     
-
 #### Courses
 
 1. A Tour of Google Cloud Hands-on Labs
