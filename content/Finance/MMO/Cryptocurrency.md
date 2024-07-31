@@ -1,6 +1,7 @@
 Ryan Nguyễn - Nguyễn Bá Vượng
 
 Sử dụng đòn bẩy X3 X5
+https://vt.tiktok.com/ZSYTrRudC/
 
 kiếm được XXX khi thị trường downtrend dựa vào giao dịch Future
 

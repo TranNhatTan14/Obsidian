@@ -1,3 +1,6 @@
+https://vt.tiktok.com/ZSYTMbdSR/
+https://vt.tiktok.com/ZSYTMq7GR/
+
 - Metrics để đánh giá hiệu quả của mô hình
 - → Metrics để đánh giá hiệu quả công việc của mình
 
