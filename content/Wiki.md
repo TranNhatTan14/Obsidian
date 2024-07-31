@@ -54,6 +54,8 @@ Visit [Machine Learning Contests](https://mlcontests.com) for more detail about 
 
 ### Book
 
+https://spiderum.com/bai-dang/3-quyen-sach-toi-se-recommend-cho-moi-nguoi-toi-gap-wKJTAykv8E5K
+
 - [ ] [[Smart Thinking]]
 
 ###### Artificial Intelligence
