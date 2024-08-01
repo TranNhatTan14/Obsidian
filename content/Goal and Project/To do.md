@@ -1,5 +1,6 @@
 > [!todo] Most Important Tasks (MITs)
 > - [ ] Build assistant
+> - [ ] Submit 
 > - [ ] Tham gia challenges in Kaggle and ...
 > - [ ] Answer job in Linkedln
 > - [ ] Tối ưu thời gian sử dụng điện thoại
