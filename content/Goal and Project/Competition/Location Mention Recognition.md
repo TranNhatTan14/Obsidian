@@ -2,6 +2,10 @@
 - [ ] Preprocessing is the most important
 - [ ] Fine-tuning
 
+219 sample don't have location
+
+https://huggingface.co/blog/stefan-it/autotrain-flair-mobie
+
 https://github.com/moadel2002/Location-Mention-Recognition
 https://github.com/flairNLP/flair/blob/master/resources/docs/HUNFLAIR_TUTORIAL_2_TRAINING.md
 ###### [Microsoft Learn Location Mention Recognition Challenge](https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge)

@@ -43,3 +43,5 @@ scholarly, booklish
 **Difficult**
 
 strenuous, bewildering
+
+https://github.com/flairNLP/flair/issues/882#:~:text=NN%3F%20Can%20you-,shed%20some%20light,-on%20how%20this
