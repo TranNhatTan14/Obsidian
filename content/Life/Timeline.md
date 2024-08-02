@@ -10,8 +10,6 @@
 
 - [ ] 60 kg
 - [ ] More beautiful
-    
-
 #### Finance
 
 - [ ] Kiếm được 500,000,000 with

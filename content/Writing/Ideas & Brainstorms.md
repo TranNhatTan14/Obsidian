@@ -1,3 +1,15 @@
+###### Agent
+
+What agent are
+Whay they-re important
+
+Implement using LangChain
+
+Knowlede Assistant
+
+RAG was the begining
+
+
 https://vt.tiktok.com/ZSYTMbdSR/
 https://vt.tiktok.com/ZSYTMq7GR/
 

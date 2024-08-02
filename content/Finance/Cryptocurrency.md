@@ -68,8 +68,6 @@ Rứt khoát cắt lỗ
 
 - Mức rủi ro 5-10% số vốn
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/6aae9e1c-28bd-4247-8487-b5fcbdbbfd09/8069e2bd-6c22-4974-a0eb-c3e4c17fd76e/Untitled.png)
-
 Cố gắng để có nhiều lệnh thắng, thay vì nghĩ cố gắng để đạt kết quả cao, step by step
 
 Điểm vào lệnh

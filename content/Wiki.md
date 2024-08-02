@@ -1,50 +1,48 @@
-### Career & Professional
+# Career & Professional
 
-###### Certification
+### Certification
 
-**Language**
+###### Language
 
 - [ ] [IELTS](IELTS.md)
 - [ ] HSK
 
-**Work**
+###### Work
 
 - [ ] [AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate)
 - [ ] [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty)
 - [ ] [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-- [ ] [~~Professional Machine Learning Engineer Google Cloud~~](https://cloud.google.com/learn/certification/machine-learning-engineer)
+- [ ] [Professional Machine Learning Engineer Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
 
 Visit [Whizlabs](https://www.whizlabs.com) for prepare for the test.
 
-###### Competition
+### Competition
 
 - [ ] [[Location Mention Recognition]]
 - [ ] [HMS - Harmful Brain Activity Classification](HMS.md)
-
-- [Edge-Device Large Language Model Competition](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
-- [IBCOL 2024 International Blockchain Olympiad](https://2024.ibcol.org/)
-- [Zalo AI Challenge 2023](https://challenge.zalo.ai)
+- [ ] [Edge-Device Large Language Model Competition](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
+- [ ] [IBCOL 2024 International Blockchain Olympiad](https://2024.ibcol.org/)
+- [ ] [Zalo AI Challenge 2023](https://challenge.zalo.ai)
 
 Visit [Machine Learning Contests](https://mlcontests.com) for more detail about available competition in Computer Science and AI
 
-###### Work
-
-###### [[Engineer]]
-
-###### [[Researcher]]
-
-### Education & Learning
-
-### Goal & Project
-
-###### Project
+### Pro
 
 - [ ] Assistant
 - [ ] NSAID
 
-###### Goal
+### Work
 
-###### To do
+# Life
+
+### Relationship and Connection
+
+###### Group
+
+- [Google Developer Group](https://gdg.community.dev)
+- [Chương trình Đào tạo Kỹ sư AI Vingroup](https://www.facebook.com/groups/ctaivingroup/)
+
+# Education & Learning
 
 ### Resource
 
@@ -84,13 +82,6 @@ https://spiderum.com/bai-dang/3-quyen-sach-toi-se-recommend-cho-moi-nguoi-toi-ga
 | [Duy Thanh Nguyen](https://www.youtube.com/@duythanhish)           | Science | Nơi chúng ta cùng tìm hiểu khoa học thần kinh, và làm chủ cuộc sống của mình.       |
 
 ### Thought & Writing
-
-### Relationship and Connection
-
-###### Group
-
-- [Google Developer Group](https://gdg.community.dev)
-- [Chương trình Đào tạo Kỹ sư AI Vingroup](https://www.facebook.com/groups/ctaivingroup/)
 
 ### Personal
 
