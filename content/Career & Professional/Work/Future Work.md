@@ -174,3 +174,7 @@ Required Skills/Qualifications:
 4. [VNPAY](https://tuyendung.vnpay.vn/tuyen-dung/ai-engineer.html)
 
 [https://startup.jobs/?remote=true&q=Machine+Learning+Engineer](https://startup.jobs/?remote=true&q=Machine+Learning+Engineer)
+
+###### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
+
+- Research and MLOps AI Ops

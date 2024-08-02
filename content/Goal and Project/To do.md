@@ -23,15 +23,29 @@
 - [ ] Sức khỏe răng miệng (Nụ cười tươi giúp mình tự tin hơn)
 - [ ] Cải thiện thị lực
 - [ ] Cải thiện vóc dáng, [nghiên cứu về các yếu tố ảnh hưởng, dinh dưỡng bài tập](Researcher.md)
-- [ ] - [ ] [Learn from Hugging Face](https://huggingface.co/learn)
 
-###### Education
+- [ ] Vệ sinh răng miệng
+- [ ] Làm trắng răng
+- [ ] Sửa chữa răng miệng
+- [ ] Niềng răng
+- [ ] Tập cười thật tự tin
+
+### Education
+
+Developer
+
+- [ ]  [Learn from Hugging Face](https://huggingface.co/learn)
+
+###### Language
 
 - [ ] How to store new vocabulary and learn with space repition
 
-###### [[Finance]]
+### [[Finance]]
 	
 - [ ] Buy stocks
+- [ ] Learn about FOREX and [[Cryptocurrency]]
+
+###### Work
 
 - [ ] [Thay pin cho laptop](https://linhkienlaptop24h.com/san-pham/pin-dung-cho-laptop-msi-gf63-bty-m6k-)
 - [ ] Sign for [Apple Developer Program fee waiver](https://developer.apple.com/support/fee-waiver/)
@@ -44,3 +58,4 @@
 - [ ] Complete [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
 - [ ] Learn courses in [DeepLearning AI](https://www.deeplearning.ai/)
 - [ ] Join [Gemini API Developer Competition](https://ai.google.dev/competition)
+- [ ] Hoàn thành thật tốt thử thách [[Location Mention Recognition]]

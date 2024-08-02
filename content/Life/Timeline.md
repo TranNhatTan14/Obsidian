@@ -1,6 +1,3 @@
-#### What I will do in 2024
-
-
 #### Pro
 
 - Graph Transformer for assembly graph of bacterial
@@ -8,12 +5,10 @@
 - Harmful Brain Activity Classification
     
 - [ ] Graph Transformer for
-    
 
 #### Health
 
 - [ ] 60 kg
-    
 - [ ] More beautiful
     
 

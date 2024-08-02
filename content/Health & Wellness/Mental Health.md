@@ -1,2 +1,0 @@
-- Healthy mind, mental wellbeing
-- Find activities that help you relax: meditating daily, listening to a motivational podcast, going for a walk, be present

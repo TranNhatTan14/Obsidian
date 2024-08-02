@@ -1,3 +1,25 @@
+### Sleep
+
+Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
+
+Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
+
+Always try to sleep at the right time
+2 hours before basic time sleep we often buồn ngủ
+Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
+Sleep enough
+
+---
+
+### Mental Health
+
+- Healthy mind, mental wellbeing
+- Find activities that help you relax: meditating daily, listening to a motivational podcast, going for a walk, be present
+
+---
+
+### Physical Health
+
 ###### Exercises
 
 - [ ] Lateral Raise
@@ -48,12 +70,14 @@ Cause
 
 Tâng cơ, giảm mỡ
 
-#### States: Trạng thái hiện tại của mình như thế nào
+###### States: Trạng thái hiện tại của mình như thế nào
 
 - Đau lưng
-    
 - Mắt cận
-    
 - Thừa cân
-    
 - Sức bền không tốt
+
+---
+
+### Nutrition & Diet
+
