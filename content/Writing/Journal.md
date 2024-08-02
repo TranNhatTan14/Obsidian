@@ -1,3 +1,7 @@
+###### 20240802
+
+- Mình bị khó chịu với một số font chữ
+
 ###### 20240730
 
 Hôm nay mình đã quên sạc máy tính ở nhà và nhờ em Chiến gửi đến công ty. Mình có thể cất vào cặp tối hôm qua nhưng mình đã không làm. Điều này tương đồng với việc mình làm mất thẻ xe vì không cần thận

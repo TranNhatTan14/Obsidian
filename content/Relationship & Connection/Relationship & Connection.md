@@ -20,6 +20,7 @@ Thực tế rằng, follow một ai đó bạn sẽ cần dành thời gian, vì
 - Pham Manh Tuan
 - Do Manh Tuan
 - Long Thinh Le UTS
+- Angelina Tsuboi
 
 ###### Developer
 
