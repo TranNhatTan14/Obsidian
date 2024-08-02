@@ -38,11 +38,6 @@
 - [ ] Sign for [Career Launchpad Request Google Cloud](https://cloud.google.com/edu/faculty/career-launchpad)
 - [ ] Mua nano Canxi
 - [ ] Mua thực phẩm chức năng cho mắt
-    
-Telegram
-
-- [ ] Telegram bot auto forward message from chanel to chanel and run 24/24
-- [ ] AI chatbot like J2 Team GPT @j2team_gpt_bot
 
 **Future Work**
 

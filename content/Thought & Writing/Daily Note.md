@@ -3,7 +3,6 @@
 Hôm nay mình đã quên sạc máy tính ở nhà và nhờ em Chiến gửi đến công ty. Mình có thể cất vào cặp tối hôm qua nhưng mình đã không làm. Điều này tương đồng với việc mình làm mất thẻ xe vì không cần thận
 
 
-
 June 14, 2024
 ### Self
 

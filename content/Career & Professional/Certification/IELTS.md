@@ -212,13 +212,9 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
 # Reading
 
 - Copy and paste
-    
 - Time the task is being explained for highlight and read question
-    
 - Không phải lật lật
-    
 - Đeo bịt lỗ tai
-
 - Reading research papers in
 
 - Research paper
