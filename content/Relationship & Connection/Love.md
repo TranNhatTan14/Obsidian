@@ -9,3 +9,5 @@ Yêu em anh có gì
 - Anh có streak 300 Elevate
 - Anh có bằng IELTS 8.0
 - Anh đang học thạc sĩ …
+
+Thời gian xem hết X video đăng lại TikTok của em anh còn có nữa là

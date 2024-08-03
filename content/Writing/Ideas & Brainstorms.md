@@ -9,23 +9,8 @@ Knowlede Assistant
 
 RAG was the begining
 
-
-https://vt.tiktok.com/ZSYTMbdSR/
-https://vt.tiktok.com/ZSYTMq7GR/
-
-- Metrics để đánh giá hiệu quả của mô hình
-- → Metrics để đánh giá hiệu quả công việc của mình
-
-Tập trung và năng lượng
-
 - [ ] Học tập và làm việc hiệu quả, tập trung
 - [ ] Đặt mục tiêu rõ ràng, kỷ luật bản thân
-
-### Motivations
-
-- Tại sao mình phải cố gắng
-    - Bố mẹ mình năm nay nhiều tuổi rồi nên mình muốn có thể để bố mẹ nghỉ hưu sớm, đi du lịch nhiều nơi và sống cho bản thân mình hơn, tự hào về mình
-    - I want to living a life but also top people
 
 **Health**
 
@@ -41,47 +26,21 @@ Tập trung và năng lượng
 - Mình cảm thấy khó chịu khi dung lượng ổ cứng không phải số tròn
     
     → Tân bị điên à, có gì mà phải thấy khó chịu
-    
 
 ---
 
-### Một cuộc sống tươi đẹp với Trần Nhật Tân là gì?
 
-Có thể kết nối với mọi người cảm xúc, suy nghĩ, ngôn ngữ. Hiểu hơn về văn hóa, con người trên khắp thế giới
 
-Có một công việc ý nghĩa, thu nhập chủ động và thụ động. Có tài sản tích lũy
-
-Gia đình hạnh phúc, con cái được sống trong một cuộc sống đầy đủ
-
-Đầu tiên là về starting point của mỗi người khác nhau
-
-Tuy vậy có những điểm chúng ta giống nhau
-
-Dựa trên những thay đổi và tối ưu hóa thì chúng ta sẽ đến những điểm khác nhau
-
-<aside> 💡 Những người thân thiết sẽ đứng lên và chia sẻ và những kỉ niệm trong quá khứ với người đã mất
-
-</aside>
-
-A live well lived
-
-Technology
-
-High education
 
 Vấn đề của mình đang là gì
 
 - Thể chất cần cải thiện
-    
 - Tình thần cần cải thiện
-    
 - Trí tuệ cần cải thiện
     
 - Công việc mong muốn của mình như thế nào?
 
-Mình cần biết những mặt khác của vấn đề
 
-Giảm chiều dữ liệu giống như là xem điều gì là quan trọng nhất với mình tại thời điểm này
 
 How to connect (link) the dot (graph, sparse graph)
 
@@ -97,6 +56,16 @@ How to connect (link) the dot (graph, sparse graph)
 - Mình sẽ làm gì trong thời gian làm việc
 - Học kiến thức mới khi ngoài giờ làm việc
 
+### Thinking
+
+###### Critical Thinking
+
+### Black box
+
+###### Input - Fuction - Output
+
+Kiến thức - Trải nghiệm - Kinh nghiệm
+
 - Đọc sách ở màn hình có chất lượng cao
 - Kiến thức chất lượng cao
 - Chất lượng cao
@@ -107,7 +76,7 @@ How to connect (link) the dot (graph, sparse graph)
 - Kiến thức (đầu vào)
 - Thành công
 - Sống với thiên nhiên
-- Tư duy
+- 
 - Mục đích của mua sắm là mua những gì thật sự cần thiết cho cuộc sống, với chi phí tối ưu
 - Sạc không dây cần thiết khi sạc được cho nhiều thiết bị
 - Sạc có dây cần thiết khi có thể vưa sạc vưa kết nối để chuyển dư liệu
@@ -118,11 +87,12 @@ How to connect (link) the dot (graph, sparse graph)
 - Clarity
 - Xem những gì đang kết nối với mình 
 - GIỎI THÌ MỚI SỐNG SÓT ĐƯỢC
-- Cờ chín tướng
+
 - Cái gì cũng cần có điều kiện 
 - what we gave 
 - technique
-- know trend
+
+
 - Tự do là gì?
 - Tự đo có tồn tại không hay chỉ là một ảo tưởng
 - Mình thấy hạnh phúc và cười khi nghe chị Vân nói
@@ -146,7 +116,6 @@ How to connect (link) the dot (graph, sparse graph)
 - Backup trường hợp quay về Earable làm 
 - Học kiến thức liên quan
 - Khó khăn có phải thời điểm tốt để học và làm thêm vì khi kinh tế tốt sẽ phân Vân giữa làm và đi học 
-- Thời gian làm việc thì không chơi game
 - Không sử dụng điện thoại 
 - Để thông báo ứng dụng cần thiết 
 - Đồng bộ 
@@ -211,22 +180,12 @@ How to connect (link) the dot (graph, sparse graph)
 - Biết được cái gì mình thích và theo đuổi lâu dài
 - Mình thích gì?
 
-- Bút
-- Bộ phân loại
-
 - Mới vui hơn 
 - Năng suất không cao 
 - Năng suất và phát triển kinh tế 
 - Chán
 
 - Định nghĩ well-being 
-
-- Học bổng nhưng ai là người trả tiền 
-- Vingroup hỗ trợ 
-
-
-- Cố gắng hết sức
-- Mình đã cố gắng hết sức chưa?
 
 - Bán ứng dụng, dịch vụ global
 - Chênh lệch

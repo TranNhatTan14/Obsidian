@@ -48,6 +48,14 @@ https://www.tiktok.com/@gamanderlopez
 https://www.tiktok.com/@michele_bavassano
 https://www.tiktok.com/@semkavkvadrate
 
+###### Finess
+
+https://www.instagram.com/brianwallack/
+
+###### Study aboard
+
+https://www.instagram.com/_bachluuduong_/
+
 ### Group
 
 - [Google Developer Group](https://gdg.community.dev)

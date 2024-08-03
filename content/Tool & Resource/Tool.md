@@ -1,3 +1,5 @@
+> [!tip] Know thing and know the function and know how to use it
+
 ###### Research, reading
 
 ###### [Typeset](https://typeset.io)

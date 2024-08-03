@@ -1,5 +1,6 @@
 > [!tip] 
 > Top-down approach
+> We learn of what we Discuss < Experience < Teach Others
 
 ###### Algorithms
 

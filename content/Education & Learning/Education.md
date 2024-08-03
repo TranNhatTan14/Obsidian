@@ -117,6 +117,8 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 
 ### Singapore
 
+> [!tip] Nếu tiền học là vấn đề thì tiền đó sang Australia or Canada thì cơ hội việc làm và định cư cao hơn
+
 [https://uet.vnu.edu.vn/hoc-bong-toan-phan-tu-co-quan-khoa-hoc-cong-nghe-va-nghien-cuu-astar-cua-singapore/](https://uet.vnu.edu.vn/hoc-bong-toan-phan-tu-co-quan-khoa-hoc-cong-nghe-va-nghien-cuu-astar-cua-singapore/)
 
 **Nanyang Technological University**
@@ -124,6 +126,10 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 
 **National University of Singapore**
 - [Khanh Linh Nguyen](https://www.linkedin.com/in/linhnguyenkhanh/)
+
+###### Singapore Management University
+
+Vingroup Young Talent Scholarship
 
 ### Vietnam
 
@@ -137,4 +143,4 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 ### America
 - [**Annie Nguyen PhD BioEngineering at Stanford**](https://www.linkedin.com/in/nghinguyen295/)
 
-
+### Taiwan

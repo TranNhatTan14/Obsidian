@@ -16,6 +16,10 @@ Managed with [Habitify](Habitify.md) and use Apple devices to tracking.
 
 ###### Journal
 
+Write about your day and add photos, places, and more
+Schedule time for writing and make it a habit
+
+- [ ] Lên danh sách công việc cho ngày mai
 - [ ] What make you grateful today
 - [ ] I Don't Really Know
 - [ ] Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
@@ -45,10 +49,6 @@ Managed with [Habitify](Habitify.md) and use Apple devices to tracking.
 ###### Omega 3.6.9 and vitamin
 
 ###### Deep Work
-
-###### Journal
-
-- [ ] Lên danh sách công việc cho ngày mai
 
 ###### Stretch before sleep
 
@@ -106,16 +106,5 @@ Visit [Redirector](Google.md#Redirector) for more detail about what will be bloc
 > - Thói quen hay xem đánh giá thấp sao của app
 
 ---
-
-###### Games
-
-- [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com)
-- [Tower Defense](https://qqgame.qq.com/webappframe/?appid=10094)
-- Ranked game
-- TFT
-- T1
-- CSGO
-- MixiGaming
-- Tam Quốc Mèo
 
 [^1]: [Habitify](https://app.habitify.me)

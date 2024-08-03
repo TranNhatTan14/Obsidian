@@ -47,10 +47,6 @@ Hay xem nhưng không có cũng không sao
 
 Nhà trong ngõ
 
-### Game
-
-Nhiều khi mình thích xem video liên quan đến Valorant, nhưng mà không có thì mình vẫn sống tốt, vì vậy đây là không cần thiết
-
 ### Fitness
 
 miriammache Yoga, body

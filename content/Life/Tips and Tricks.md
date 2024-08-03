@@ -23,6 +23,7 @@
 > Mua quần áo Coolmates khi sinh nhật sẽ có mã giảm giá khi livestream
 > Xịt nước muối lên tóc để không hị xẹp khi đội mũ bảo hiểm
 > Oxy già pha thêm Javen để tẩy quần áo trắng
+> Nước xả vải hygiene màu đen với sữa tắm Gervenne màu xanh
 
 ### Laws
 

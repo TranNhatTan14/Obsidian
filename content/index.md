@@ -16,7 +16,6 @@ Learn with example and tutorial
 Mục tiêu của mình là tối ưu hóa việc phát triển bản thân, sống một cuôc đời đáng sống. cố gắng theo đuổi đam mê và kiếm ra tiền từ đó
 
 
-
 Visit [Goals](Goal.md) for more detail about my life goals
 
 ### 2024

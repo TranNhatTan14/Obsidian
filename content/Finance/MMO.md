@@ -21,7 +21,6 @@ https://mmo4me.com
 Đối tượng khách hàng
 
 - Nữ giới hoặc những người không có nhiều kinh nghiệm về công nghệ
-    
 - Khách hàng nước ngoài
     
 
@@ -46,19 +45,11 @@ ELSA Speak
 #### Telegram Channel
 
 - Red Packet
-    
     Binance Live
-    
     https://www.binance.com/en/live/u/28573993
-    
     Nhân từ trên thì quá lâu, ít
-    
     t.me/rsbox
-    
     How to automate forward message from channel to our channel with bot
-    
-
-#### Telegram Chatbot
 
 #### Tik Tok reup Douyin
 
@@ -69,3 +60,31 @@ ELSA Speak
     https://tools.fpttelecom.com/
     
     t.me/douyin_download_bot
+
+### TikTok Beta
+
+1. Which country have TikTok Beta
+
+How to create TikTok account
+
+Danh sách quốc gia: Anh, Mỹ, Pháp, Đức, Tây Ban Nha
+
+###### Video
+
+Reup video from Chinese
+Video dài khoảng 1 phút
+Chồng video lên nhau để tránh kiểm duyệt
+Edit bằng CapCut (nghe nói CapCut Chinese dùng free)
+Video từ AI
+RPM
+
+Dùng trên iPhone XS không dùng SIM
+
+Source từ Trung Quốc
+
+https://testflight.apple.com/join/Gu9kI6ky
+
+Download TikTok in England or Ameria
+Check location
+
+For all country, all platform,

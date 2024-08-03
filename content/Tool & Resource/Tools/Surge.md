@@ -64,3 +64,104 @@ Surge is a **network toolbox** for power users and a high-performance **HTTP/
 [https://whatshub.top/script](https://whatshub.top/script)
 
 [https://apps.apple.com/us/app/stay-for-safari/id1591620171?platform=iphone](https://apps.apple.com/us/app/stay-for-safari/id1591620171?platform=iphone)
+
+###### Rule Analysis
+
+A series of tools for analyzing rule configuration, including rule counters, performance test
+
+###### Smart Group
+
+A brand new type of policy group, driven by our meticulousu designed algorithm engine, which can automatically select the appropriate policy from the sub-policies of this policy group
+
+###### Body Rewrite
+
+Surge can rewrite the body of HTTP request or response, replacing the original content with regular expression. If you need to make more flexible modification, try scripting
+
+###### Interactive widget
+
+Interactive widgets that support iOS 17 system, can direct operate Surge on the desktop
+
+###### Real-Time Speed View
+
+Show live speed or request list floating window when using other application
+
+###### Encrypted DNS
+
+Use encrypted DNS protocol to perform DNS queries, including DNS-over-HTTPS (DoH, RFC 8484), DNS-over-QUIC and DNS-over-HTTP/3
+
+###### MITM over HTTP/2
+
+Decrypt HTTPS traffic with MITM over HTTP/2 protocol, which can improve the performance of concurrent requests
+
+###### SSH Proxy
+
+You can use SSH protocol as a proxy protocol. The feature is equivalent to the ssh -D command
+
+###### Personal Hotspot Proxy Access
+
+When using an iPhone/iPad as a hotspot, an HTTP or SOCKS5 proxy can be used on the client device to take over the traffic using Surge iOS
+
+###### Hybrid Network
+
+###### WireGuard
+
+Uses Surge as a WireGuard client, converting L3 VPN as an outbound proxy policy
+
+###### Surge Private DDNS
+
+###### Web Dashboard
+
+###### L3 Packet Capture
+
+Capture the raw network layer TCP/UDP/ICMP packets and view. You may also export the .pcap file to other tools
+
+###### Proxy Chain
+
+Connection to a remote host will performed sequentially from one proxy server to another
+
+###### HTTP API
+
+Control Surge with HTTP API with another app or from another device
+
+###### Mock API
+
+You mey mock API server and return a static response. This feature may also be called as Map Local or API Mocking
+
+###### Module
+
+Override the current profile with a set of settings. Highly flexible for diverse purposes.
+
+###### Script 
+
+Use JavaScript to extend the ability of Surge as your wish
+
+###### TLS v1.3
+
+TLS v1.3 support for HTTPS/SOCKS5-TLS proxy
+
+###### Ruleset & External Policy Group
+
+Use a ruleset or proxies that defined in another file or URL
+
+###### Body Viewer
+
+Preview captured data with text viewer, JSON viewer and image viewer, or open it with another app
+
+###### MitM
+
+Decrypt HTTPS traffic with man-in-the-middle (MitM) attack
+
+###### Outbound Mode
+
+Forward request to proxy servers with rule-based system or globally
+
+- Local Balance Group
+- VMess Protocol
+- Trojan Protocol
+- Snell v4 Protocol
+- Firewall
+- Egress Control
+- Information Panel
+- Response Header Rewrite
+- DNS-over-HTTPS
+- TUIC Protocol

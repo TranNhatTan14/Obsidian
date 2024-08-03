@@ -1,3 +1,10 @@
+anagram
+homophone - từ đồng âm
+hint
+
+Follow the rules
+Take pity on (feel bad for)
+
 **Wagon**
 
 Vehicle with four wheels used for trainsporting goods
