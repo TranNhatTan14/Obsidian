@@ -16,3 +16,4 @@
 | [Xcode](https://developer.apple.com/xcode)          | Developer            | Source-code editor                                                                                                                                            |
 | [Surge 5](https://manual.nssurge.com)               | Developer            | Web development and proxy utility                                                                                                                             |
 
+Hanzi gấu trúc có cả bản web tra từ rồi vào phần hán tự có mẹo kế bên

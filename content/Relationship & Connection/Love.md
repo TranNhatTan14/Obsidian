@@ -11,3 +11,6 @@ Yêu em anh có gì
 - Anh đang học thạc sĩ …
 
 Thời gian xem hết X video đăng lại TikTok của em anh còn có nữa là
+
+Không có nổi 20K trong ví, không có điện thoạim không có xe, không có người yêu suốt 6 năm trời
+Anh vẫn mạnh mẽ bước tiếp và rồi anh vào lớp 1

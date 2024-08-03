@@ -5,6 +5,10 @@
 
 ###### Master Program
 
+Học thẳng Ph.D không cần qua Master
+
+Úc cần có ít nhất một bài là first author, 
+
 You can do it
 
 - Scholarship for Master Program
@@ -69,9 +73,10 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 
 ### Australia
 
-- **University of Melbourne**
+###### University of Melbourne
     
-    - [**Long Nguyen PhD in Biomedical Engineering**](https://www.linkedin.com/in/longvhnguyen/)
+- [**Long Nguyen PhD in Biomedical Engineering**](https://www.linkedin.com/in/longvhnguyen/)
+- Tu Nguyen
 
 **Monash University**
     
