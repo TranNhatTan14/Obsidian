@@ -31,3 +31,7 @@ bot and automation
     
     - [ ] Find your values
     - [ ] Find the right place
+
+### Advice
+
+- Đừng bao giờ hy sinh việc "học" của bạn vì một tình yêu chưa trưởng thành

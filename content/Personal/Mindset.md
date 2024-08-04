@@ -3,6 +3,12 @@ the core, most important thing, smart thinking
 - Yêu bản thân mình của hiện tại, hàng ngày phát optimize bản thân hơn
 - Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80% [[PCA]]
 - Giỏi thì mới cạnh tranh và phát triển được
+- Hình ảnh chú chim nhảy từ trên cao tập bay
+
+###### Learning
+
+- You can learn from everything, learn good thing and learn not to do bad thing
+- Learn with analogy
 
 ### World
 

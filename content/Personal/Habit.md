@@ -105,6 +105,10 @@ Visit [Redirector](Google.md#Redirector) for more detail about what will be bloc
 > - See murder case
 > - Thói quen hay xem đánh giá thấp sao của app
 
+### Trigger
+
+Thấy các bạn nữ là ngồi thẳng lưng lên
+
 ---
 
 [^1]: [Habitify](https://app.habitify.me)

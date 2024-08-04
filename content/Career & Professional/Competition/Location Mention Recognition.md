@@ -1,13 +1,21 @@
+Run the baseline bert
+
 - [ ] Convert BILUO to BIOES
 - [ ] Preprocessing is the most important
+	- [ ] Remove all stopword, ?, and #
 - [ ] Fine-tuning
+- [ ] Check if result change if text in lowcase
 
 219 sample don't have location
 
+### Resource
+
+[Flair Github](https://github.com/flairnlp/flair)
+
+[1st place solution for GeoAI Challege Location Mention Recognition from Social Media in Zindi](https://github.com/moadel2002/Location-Mention-Recognition)
+
 https://huggingface.co/blog/stefan-it/autotrain-flair-mobie
 
-https://github.com/moadel2002/Location-Mention-Recognition
-https://github.com/flairNLP/flair/blob/master/resources/docs/HUNFLAIR_TUTORIAL_2_TRAINING.md
 ###### [Microsoft Learn Location Mention Recognition Challenge](https://zindi.africa/competitions/microsoft-learn-location-mention-recognition-challenge)
 
 ###### [2022 ITU GeoAI Location Mention Recognition Challenge Finale](https://aiforgood.itu.int/event/2022-itu-geoai-location-mention-recognition-challenge-finale/)
@@ -29,7 +37,7 @@ https://huggingface.co/flair/ner-english-large
 https://huggingface.co/models?pipeline_tag=token-classification&language=en&sort=trending
 
 1. Sentence embedding
-2. Reprojection linear layers
+
 3. Output
 
 ###### Embedding
@@ -83,3 +91,35 @@ Words are now embedded using a concatenation of three different embeddings. This
 Flair supports various Transformer-based architectures like BERT or XLNet from [HuggingFace](https://github.com/huggingface), with two classes `TransformerWordEmbeddings` (to embed words) and `TransformerDocumentEmbeddings` (to embed documents).
 
 ### Fine-tune
+
+### Solution
+
+Adopting NER model (retrained on IDRISI-R)
+
+- Using Flair NER model (1st) and using SpaCy NER model or training deep learning network: LSTM, Roberta, BERT
+- No Gazetteers employed
+- Training data
+	- All team used IDRISI
+	- No external training data was used
+
+Use a Gazetteer (OSM) to improve results
+Apply Data augmentation to enlarge the training dataset
+
+###### Post Processing
+
+![[Pasted image 20240804103833.png]]
+
+![[Pasted image 20240804104538.png]]
+
+2. Reprojection linear layers
+
+How to change the last layer 
+
+![[Pasted image 20240804104942.png]]
+
+![[Pasted image 20240804105126.png]]
+
+![[Pasted image 20240804105247.png]]
+
+
+![[Pasted image 20240804105544.png]]
