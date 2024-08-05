@@ -187,3 +187,8 @@ Macro Average Precision: (0.8 + 0.6 + 0.9) / 3 = 0.77 Micro Average Precision: W
 In this case, the macro average gives equal weight to the poorly-performing Class B, while the micro average would be dominated by the well-performing Class C.
 
 Recommendation: For your task, I would recommend using micro averaging as the main evaluation metric. Here's why: a. Entity-Level Evaluation: In named entity recognition tasks (which your location mention recognition is a type of), we often care more about correctly identifying entire entities rather than individual tokens. Micro averaging aligns well with this goal. b. Handling Imbalance: While macro averaging might seem appealing for handling the imbalance between 'O' and location tags, it might give too much weight to potentially rare tagging errors (like confusing 'B-LOC' and 'S-LOC'). c. Standard Practice: Micro averaging is often the standard in NER tasks because it provides a good balance between precision and recall across all classes.
+
+
+###### [Automatic Mixed Precision](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html)
+
+###### [Mini-batch](https://stackoverflow.com/questions/58269460/what-is-the-meaning-of-a-mini-batch-in-deep-learning)
