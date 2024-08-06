@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Life/To do.md",
+                "file": "content/Life/Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfc488e1cf1ce533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Everyday.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Life/To do.md",
+            "file": "Everyday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Life/To do.md",
+            "file": "Everyday.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Life/To do.md"
+            "file": "Everyday.md"
           }
         }
       }
@@ -131,8 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea6f738c437e906",
+  "active": "bfc488e1cf1ce533",
   "lastOpenFiles": [
+    "content/Life/Life.md",
+    "Everyday.md",
+    "content/Life/To do.md",
     "content/Finance/MMO/Cryptocurrency.md",
     "content/Thought & Writing/Ideas & Brainstorms.md",
     "content/Thought & Writing/Thought.md",
