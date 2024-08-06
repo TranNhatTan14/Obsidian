@@ -192,3 +192,10 @@ Recommendation: For your task, I would recommend using micro averaging as the ma
 ###### [Automatic Mixed Precision](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html)
 
 ###### [Mini-batch](https://stackoverflow.com/questions/58269460/what-is-the-meaning-of-a-mini-batch-in-deep-learning)
+
+Check if Florence in train has label as LOC
+Check in test
+
+Danh sách các location ở trong BILOU và danh sách Location ở trong JSON, dùng thống kê xem có miss match thế nào
+
+### https://www.researchgate.net/figure/Performance-of-gazette-based-NER-algorithm_fig2_262369926
