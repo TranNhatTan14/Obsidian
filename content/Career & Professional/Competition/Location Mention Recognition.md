@@ -1,3 +1,5 @@
+https://huggingface.co/adambuttrick/ner-test-bert-base-uncased-finetuned-500K-AdamW-3-epoch-locations/tree/main
+
 Run the baseline bert
 
 - [ ] Convert BILUO to BIOES
@@ -199,3 +201,4 @@ Check in test
 Danh sách các location ở trong BILOU và danh sách Location ở trong JSON, dùng thống kê xem có miss match thế nào
 
 ### https://www.researchgate.net/figure/Performance-of-gazette-based-NER-algorithm_fig2_262369926
+
