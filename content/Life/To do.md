@@ -10,6 +10,7 @@
 > - [ ] Surge for data
 > - [ ] How to learn from Kaggle and do the comp to get the discount for Microsoft certificate
 > - [ ] Update the [[Hugging Face]] page and use it
+> - [ ] Hỏi bố mẹ về tiền đất
 
 ###### Personal
 

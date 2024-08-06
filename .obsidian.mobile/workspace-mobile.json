@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Finance/MMO/Cryptocurrency.md",
+                "file": "content/Life/To do.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Finance/MMO/Cryptocurrency.md",
+            "file": "content/Life/To do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Finance/MMO/Cryptocurrency.md",
+            "file": "content/Life/To do.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Finance/MMO/Cryptocurrency.md"
+            "file": "content/Life/To do.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "3ea6f738c437e906",
   "lastOpenFiles": [
+    "content/Finance/MMO/Cryptocurrency.md",
     "content/Thought & Writing/Ideas & Brainstorms.md",
     "content/Thought & Writing/Thought.md",
     "content/Goal & Project/Project/Assistant.md",
