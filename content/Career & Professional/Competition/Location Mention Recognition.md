@@ -49,6 +49,18 @@ https://huggingface.co/models?pipeline_tag=token-classification&language=en&sort
 3. Preprocessing sentences to BIOES
 4. Training on dataset
 
+### Benchmark
+
+https://paperswithcode.com/sota/named-entity-recognition-ner-on-conll-2003
+https://noisy-text.github.io/2024/
+https://paperswithcode.com/sota/named-entity-recognition-on-wnut-2016
+
+### Model
+
+https://huggingface.co/crisistransformers
+https://huggingface.co/botryan96/GeoBERT
+https://github.com/clarinsi/geobert
+
 ### [Flair](https://flairnlp.github.io/docs/intro)
 
 https://datascience.stackexchange.com/questions/107725/what-are-the-differences-between-bert-embedding-and-flair-embedding
@@ -200,5 +212,22 @@ Check in test
 
 Danh sách các location ở trong BILOU và danh sách Location ở trong JSON, dùng thống kê xem có miss match thế nào
 
-### https://www.researchgate.net/figure/Performance-of-gazette-based-NER-algorithm_fig2_262369926
+### Papers
 
+###### Model
+
+[CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts](https://www.sciencedirect.com/science/article/pii/S0950705124005501)
+https://huggingface.co/rsuwaileh
+https://huggingface.co/crisistransformers
+
+###### Dataset
+
+[IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets](https://www.sciencedirect.com/science/article/pii/S0306457323000778)
+https://github.com/uhuohuy/DLRGeoTweet
+
+[DLRGeoTweet: A comprehensive social media geocoding corpus featuring fine-grained places](https://doi.org/10.1016/j.ipm.2024.103742)
+https://crisisnlp.qcri.org/humaid_dataset.html
+
+###### Gazette
+
+[Automatic gazette creation for named entity recognition and application to resume processing](https://www.researchgate.net/publication/262369926_Automatic_gazette_creation_for_named_entity_recognition_and_application_to_resume_processing)
