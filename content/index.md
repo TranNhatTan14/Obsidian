@@ -22,6 +22,7 @@ Visit [Goals](Goal.md) for more detail about my life goals
 
 > [!todo] Kế hoạch của mình trong năm 2024:
 > - [ ] Có một công việc tốt, phù hợp với định hướng của bản thân
+> - [ ] Tập thể dục thường xuyên hơn
 > - [ ] IELTS
 > - [ ] Đạt chứng chỉ của Microsoft và AWS
 > - [ ] Đạt kết quả [nghiên cứu](Researcher.md) tốt, chuẩn bị để có thể pursuit [master program](Education.md#Master%20Program) with scholarship

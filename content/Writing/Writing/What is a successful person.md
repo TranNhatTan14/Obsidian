@@ -37,14 +37,6 @@ Replace bad habits with good habits (Smart Thinking book)
 The Eisenhower Matrix
 **Do: Important, Urgent - Tasks with deadlines or consequences**
 
-- [ ] Prepare for future work
-    - [ ] Thống kê xem các công việc yêu cầu như thế nào
-    - [ ] Chuẩn bị kiến thực thật tốt
-    - [ ] Sửa CV
-- [ ] Hoàn thành tốt công việc ở GeneStory
-    - [ ] NSAIDs, chuẩn bị slide báo cáo lại với chị Mai về NEXT STEP
-    - [ ] AMR báo cáo tính hình cho anh Đức và báo cáo về kế hoạch thực tập
-
 **Schedule: Important, Not Urgent - Tasks with unclear deadlines that contribute to long-term success**
 
 - [ ] Build system for lưu trữ nội dung hiện tại

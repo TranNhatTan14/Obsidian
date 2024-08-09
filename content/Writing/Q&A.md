@@ -88,3 +88,7 @@ DId the phone more heavier when full of battery or full of storage? (This is a f
 #### Manage
 
 - Danh sách những phim mình đã xem có cần thiết không, nếu đã làm vậy thì cần rút ra được bài học gì từ bộ phim?
+
+Điều gì khiến mình nhớ nhất, điều gì mọi người nhớ đến ở mình
+
+Limitless

@@ -15,11 +15,6 @@ Research about brain function and Brain-Computer Interfaces. Develop smart devic
 - [ ] [[IELTS]]
 - [ ] Good mentor and connection 
 
-### Pro
-
-- NSAID
-- AMR
-
 ### [[Q&A]]
 
 - How to read research paper effectively
