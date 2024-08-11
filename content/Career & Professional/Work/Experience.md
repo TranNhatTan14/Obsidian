@@ -173,7 +173,7 @@ Learn to use tools like SQL, pandas, and Hadoop for efficient data manipulation 
 
 Gain experience in handling big data, including knowledge of distributed computing frameworks such as Apache Spark, to manage and process large datasets effectively.
 
-### [[Machine Learning]] and applications in real-world
+### [[Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence/Machine Learning]] and applications in real-world
 
  Stay abreast of emerging ML trends and frameworks, and practice by building and refining your own models.
 

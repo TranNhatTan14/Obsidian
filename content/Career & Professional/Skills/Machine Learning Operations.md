@@ -1,3 +1,6 @@
+> [!tip] MLOps is an **extension** of the DevOps framework, not a subset or alternative.
+
+Model build pipiline > Model pipeline
 ### Data Engineer
 
 - Extract raw data from different sources and store in a centrailized place
@@ -26,7 +29,11 @@ The design phase is the most important phase within the machine learning lifecyc
 
 ###### Key metrics
 
-# Data
+# Development
+
+![[Pasted image 20240810151023.png]]
+
+## Data
 
 ### Data collection
 
@@ -69,10 +76,11 @@ Typically, in the design phase, we also look into how to extract and process dat
 
 A common type of data ingestion process is ETL, which stands for extract, transform, and load. It describes the three steps gone through in an ETL pipeline. The data is extracted from the source, transformed to the required format, and loaded into some internal or proprietary database. In an ETL pipeline, we can also include automated checks, such as expectations we have about certain data columns. 
 
-# Development
+### Data Profiling
 
-![[Pasted image 20240810151023.png]]
+Within MLOps, data profiling refers to the **automated data analysis and creation of high-level summaries**, called data profiles, or expectations, which we use for validating and monitoring data in production.
 
+## Feature
 ### Feature engineering
 
 ![[Pasted image 20240810180610.png]]
@@ -97,9 +105,35 @@ The feature store is a tool through which features can be managed and easily acc
 
 When you want to collaborate with multiple people on multiple project that share the same feature sets, it is a great time to start using a feature store. In this way, you can avoid doing the same repeated work to get the same features.
 
-![[Pasted image 20240810143322.png]]
+The benefit of feature store is **Reusabiity** and **Consistency**.
 
-### Experiment tracking
+Advanced features stores are implemented as so-called dual databases, one for grabbing the training data and the other for making predictions
+
+![[Pasted image 20240810143322.png]]
+## Model
+
+### Model Selection
+
+### Model Training
+
+### Model Evaluation
+
+- Accuracy
+- Confusion matrix
+
+###### Cross validation
+
+When it comes to validating our models, cross-validation provides another robust way to estimate performance by providing an average score across different splits on our dataset. This way, we ensure our performance is not dependent on one arbitrary split. k_fold cross_validation is a resampling procedure used to evaluate models on limited data. The procedure has a single parameter, k, for the number of groups that the data sample will be split into. Since our heart disease dataset is quite small, k_fold cross_validation is a good choice. Here is a visualization of k-fold cross-validation with k equals five. We partition the data into five equal groups, and for each different group, we train the model with four parts training data and one part testing data.
+
+![[Pasted image 20240810181806.png]]
+### Model registry
+
+Just as it is important to manage and store the features as model inputs, it is crucial to manage and store the models' outputs themselves - our patients need timely, accurate, and persistent access to their diagnoses as they become available. Model registries are a form of version control system for machine learning models. They help us manage and keep track of different versions of our machine learning models. Model registries allow us to annotate our models with rich metadata, compare different models, and track their performance over time. This not only makes our work more organized but it also increases transparency and reproducibility in our machine learning workflows. We have already been exposed to model registries in the form of MLflow. Remember that MLflow allows us to manage and track machine learning experiments, log model performance metrics, and even store trained model artifacts for cross-comparison.
+
+Formart of the output model in PyTorch or pickle or what
+
+![[Pasted image 20240810182432.png]]
+# Experiment tracking
 
 ###### Logging experiments on MLFlow
 
@@ -122,31 +156,80 @@ So working with model and configuration file about what use with date
 7. Register the most suitable model
 8. Visualize and report back to team and determine next steps
 
-### Model Training
-
-### Model Evaluation
-
-- Accuracy
-- Confusion matrix
-
-###### Cross validation
-
-When it comes to validating our models, cross-validation provides another robust way to estimate performance by providing an average score across different splits on our dataset. This way, we ensure our performance is not dependent on one arbitrary split. k_fold cross_validation is a resampling procedure used to evaluate models on limited data. The procedure has a single parameter, k, for the number of groups that the data sample will be split into. Since our heart disease dataset is quite small, k_fold cross_validation is a good choice. Here is a visualization of k-fold cross-validation with k equals five. We partition the data into five equal groups, and for each different group, we train the model with four parts training data and one part testing data.
-
-![[Pasted image 20240810181806.png]]
 ###### Hyperparameter tuning
 
-### Model registry
+### Metadata store
 
-Just as it is important to manage and store the features as model inputs, it is crucial to manage and store the models' outputs themselves - our patients need timely, accurate, and persistent access to their diagnoses as they become available. Model registries are a form of version control system for machine learning models. They help us manage and keep track of different versions of our machine learning models. Model registries allow us to annotate our models with rich metadata, compare different models, and track their performance over time. This not only makes our work more organized but it also increases transparency and reproducibility in our machine learning workflows. We have already been exposed to model registries in the form of MLflow. Remember that MLflow allows us to manage and track machine learning experiments, log model performance metrics, and even store trained model artifacts for cross-comparison.
+###### Data Versioning
 
-![[Pasted image 20240810182432.png]]
+Purpose for Reproducibility
+
+Tool can use is DVC, which stand for Data, Version, Control
+
+# Model Serving
+
+### Model-as-a-service
+
+Up until now, we have operated under the assumption that our stakeholders or model users will access the model over the internet. This architecture is usually called model-as-a-service; essentially, after deployment, we surface the model to the users through some secure portal. They would then post their queries and/or patient data, and receive diagnosis predictions back over the internet. However, what if our clinic was rural? What if, for some reason, they did not have access to the internet? We could also imagine, for example, that our stakeholders had to operate in a highly secure environment, and that model predictions or patient data was sensitive, and could not be passed over the internet for security reasons. This is very common in healthcare especially, considering that patient data is highly sensitive and personal.
+
+### On-device serving
+
+![[Pasted image 20240810183652.png]]
+
+In this case, it might make more sense to serve the model on-device, or as a part of a given application, instead of an external service to be queried. In this type of serving architecture, the model is integrated into the device or application itself. This is often done for edge computing applications, where the model needs to run on a device without a reliable network connection.
+
+On device model serving has a number of benefits. 
+
+For example, on-device models often have faster response times as they don't have to rely on an external server. This is particularly useful for applications that require real-time predictions. 
+
+Additionally, as mentioned before, on-device serving means internet access is not required. This minimizes the risk of data breaches, especially with sensitive information. 
+
+Offline access also allows for a wider range of applications, especially in remote or disconnected areas.
+
+Edge devices, however, can have limited memory and processing power. This means the model has to be optimized and lightweight, potentially compromising accuracy for speed. On-device models might not benefit from the kind of scalability cloud infrastructure offers. If an application with an on-device model becomes popular, it won't face the traditional server-side scaling issues but might face challenges related to diverse device capabilities and OS versions. Without a connection to a central server, pushing model updates now poses a challenge. There might be a need for physical updates or limited periodic connectivity to fetch updates. It's also harder to aggregate usage statistics, performance metrics, and potential model drift when the model is on a device. Special strategies must be in place for this.
+
+### Implementation strategies
+
+As with model-as-a-service, on-device model serving also involves many different deployment and implementation techniques. For example, pruning parts of a large model can make the model lighter and faster. Instead of training a big model from scratch, we can leverage pre-trained models and fine-tune them for specific tasks - this is called transfer learning. There are also many machine learning frameworks tailored for on-device and edge deployment, such as TensorFlow Lite, Core ML (for Apple devices), and ONNX Runtime. We won't go into detail on these techniques! However, feel free to research them further on your own time.
+
+### Prediction
+
+###### Batch prediction
+
+###### On-demand prediction
+Also online or dynamic prediction
+
+![[Pasted image 20240811153806.png]]
+
+Near-real time prediction a.k.a. Stream processing
+Real-time prediction
+
+![[Pasted image 20240811153956.png]]
+
 
 # Deployment
+
+### Model deployment strategies
+
+###### Bluen/Green deployment
+
+The choice of the deployment strategy is always a compromise between speed and risk. When risk is virtually nonexistent, we should opt for the simplest and fastest strategy: the blue/green deployment.
+
+###### Canary deployment
+
+###### Shadow deployment
+
+Define the target infrastructure
+
+###### Transparency and Reproducibility
+
+Who trained the model, when, which script is used, which metadata
 
 ![[Pasted image 20240810151045.png]]
 
 ### Testing
+
+![[Pasted image 20240811154637.png]]
 
 
 
@@ -166,6 +249,7 @@ The microservice architecture structures an application as a collection of separ
 
 ![[Pasted image 20240810145648.png]]
 
+![[Pasted image 20240811154424.png]]
 ###### Intergration
 
 After the model has been deployed as a microservice and the API allows us to inference the model, one last step is required. The last step is to integrate the model within the business process. This is different for each business, but most of the time involves connecting the API with the system that is already in place. Before we actually use the machine learning model in production, it is common practice to first test the model with a sample of the data to make sure everything works as expected.
@@ -221,33 +305,7 @@ Google Cloud Platform also has a similar solution called **App Engine**, which c
 
 Another option is Kubernetes, an open-source container orchestration system for automating the deployment, scaling, and management of containerized applications. Kubernetes works on many cloud platforms, including GCP, Microsoft Azure, and AWS. Kubernetes might have a steeper learning curve than some platform-specific tools, but it offers much flexibility and control over your deployments.
 
-### Model Serving
-
-###### Model-as-a-service
-
-Up until now, we have operated under the assumption that our stakeholders or model users will access the model over the internet. This architecture is usually called model-as-a-service; essentially, after deployment, we surface the model to the users through some secure portal. They would then post their queries and/or patient data, and receive diagnosis predictions back over the internet. However, what if our clinic was rural? What if, for some reason, they did not have access to the internet? We could also imagine, for example, that our stakeholders had to operate in a highly secure environment, and that model predictions or patient data was sensitive, and could not be passed over the internet for security reasons. This is very common in healthcare especially, considering that patient data is highly sensitive and personal.
-
-###### On-device serving
-
-![[Pasted image 20240810183652.png]]
-
-In this case, it might make more sense to serve the model on-device, or as a part of a given application, instead of an external service to be queried. In this type of serving architecture, the model is integrated into the device or application itself. This is often done for edge computing applications, where the model needs to run on a device without a reliable network connection.
-
-On device model serving has a number of benefits. 
-
-For example, on-device models often have faster response times as they don't have to rely on an external server. This is particularly useful for applications that require real-time predictions. 
-
-Additionally, as mentioned before, on-device serving means internet access is not required. This minimizes the risk of data breaches, especially with sensitive information. 
-
-Offline access also allows for a wider range of applications, especially in remote or disconnected areas.
-
-Edge devices, however, can have limited memory and processing power. This means the model has to be optimized and lightweight, potentially compromising accuracy for speed. On-device models might not benefit from the kind of scalability cloud infrastructure offers. If an application with an on-device model becomes popular, it won't face the traditional server-side scaling issues but might face challenges related to diverse device capabilities and OS versions. Without a connection to a central server, pushing model updates now poses a challenge. There might be a need for physical updates or limited periodic connectivity to fetch updates. It's also harder to aggregate usage statistics, performance metrics, and potential model drift when the model is on a device. Special strategies must be in place for this.
-
-###### Implementation strategies
-
-As with model-as-a-service, on-device model serving also involves many different deployment and implementation techniques. For example, pruning parts of a large model can make the model lighter and faster. Instead of training a big model from scratch, we can leverage pre-trained models and fine-tune them for specific tasks - this is called transfer learning. There are also many machine learning frameworks tailored for on-device and edge deployment, such as TensorFlow Lite, Core ML (for Apple devices), and ONNX Runtime. We won't go into detail on these techniques! However, feel free to research them further on your own time.
-
-### Monitoring
+# Monitoring and Maintenance
 
 ###### Types of monitoring
 
@@ -255,7 +313,7 @@ Monitoring the machine learning performance in production is one of the key aspe
 
 ###### Visualization
 
-###### Data drift and concept drift
+###### Data drift and concept drift and variate drift
 
 Data drift describes a change in the input data. Over time, we could get customers of different ages or customers from different regions. Changes in the input data might affect the performance of the machine learning model, but since data inherently changes, this is not necessarily the case.
 
@@ -274,7 +332,9 @@ We could also combine new and old data to develop a new model. This will also de
 
 ### Automation and scalability
 
- Being aware of the different levels of MLOps maturity shows in what areas the machine learning pipeline can be improved, which enables you to speed up MLOps processes in your company.
+ML workflow automation == MLOps maturity
+
+Being aware of the different levels of MLOps maturity shows in what areas the machine learning pipeline can be improved, which enables you to speed up MLOps processes in your company.
 
 We can look at a machine learning lifecycle and determine how mature its MLOps practices are. The MLOps maturity is about the automation, collaboration, and monitoring within machine learning and operations processes in a business. It does not necessarily mean that a higher level of MLOps maturity is better.
 
