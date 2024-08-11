@@ -1,21 +1,118 @@
-[Resume](https://www.overleaf.com/project/662216c1aaa7879b26c4e7af)
-
 I want to work as AI Engineer or AI Researcher or Data Scientist in fields like Healthcare, Finance, Fintech, E-commerce. I happy to work remote in global company.
+
+### [[Proactive and Passive]]
+
+Mục tiêu cụ thể khi lựa chọn công việc dựa trên [[IKIGAI]]
+Lên danh sách các lĩnh vực mà mình muốn làm việc
 
 Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được cho bản thân và cho gia đình
 
-###### Roadmap
-
-1. Knowledge
-2. Vietnam company
-3. Earn certificate: - Cloud Architecture, Software Development, or DevSecOps Certifications
-4. Global company
+1. Công ty muốn tìm một người "fit" với công việc, nghĩa là có thể đáp ứng được 80% công việc
+2. Một điều thú vị là phỏng vấn thường sẽ khó hơn là khi thực hiện công việc, nên là đừng tạo áp lực quá lớn
 
 ---
 
+- Glassdoor
+- Chinese website for leak content
+
+3. **Talk about people.** My Google manager always reminded me that he offered me a role because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.
+4. **Talk about impact.** The impact is why that bullet matters. If you can clearly explain why the impact of your work matters, then it shows you can see the bigger picture that everything you do is for the end user.
+5. Định lượng
+6. **Experience > Completion.** It's 100% okay to put unfinished projects or work on your resume. It's more important that the candidate know the material and not whether it was actually done. Leading a project half way **STILL COUNTS** as leading a project.
+
+---
+## Manage skills
+
+- Design and build working prototype for ML and AI applications
+- Architect and implement scalable AI systems and pipelines, en
+
+### Programming
+
+- **Programming language**: Python, C, C++, R, JavaScript
+- **Frameworks**: PyTorch, TensorFlow, Keras and scikit-learn
+
+### Hardware & Low-level Optimization
+
+- Programming for NVIDIA, AMD, Intel hardware: CUDA. [RAPIDs](https://rapids.ai), GPGPU
+
+###### AI/ML Implementation, development and optimization on hardware
+
+- Jetson TX: NVIDIA's embedded AI computing platform. It's designed for edge AI applications, combining a GPU, CPU, and deep learning accelerators.
+- FPGA (Field-Programmable Gate Array): These are reconfigurable chips often used for AI acceleration due to their flexibility and energy efficiency.
+- ARM: ARM-based processors are widely used in mobile and embedded devices. They're becoming increasingly important for on-device AI.
+- DSP (Digital Signal Processor): These are specialized microprocessors optimized for digital signal processing algorithms, often used in AI for tasks like audio or image processing.
+
+###### Visualization and GPU-accelerated computing:
+
+- OpenGL: While primarily a graphics API, OpenGL can be used for general-purpose GPU computing (GPGPU) in some AI applications, especially those involving visual data.
+
+###### Model conversion tools:
+
+- **SNPE** (Snapdragon Neural Processing Engine): Qualcomm's SDK for running neural networks on Snapdragon platforms.
+- **TensorRT**: NVIDIA's platform for high-performance deep learning inference, optimizing trained models for deployment.
+- **Tensor Core**: NVIDIA's specialized cores in their GPUs designed to accelerate matrix multiply and convolution operations common in deep learning.
+- **ONNX** (Open Neural Network Exchange): An open format to represent machine learning models, allowing easier conversion between different frameworks.
+
+
+- CPU Hardware
+	- Intel consumer and Xeon
+	- AMD Ryzen
+	- Apple Silicon
+
+- GPU/AI specific Hardware
+	- NVIDIA (CUDA, Triton Inference Server using either vLLM/TensorRT-LLM Backends)
+	- AMD (ROCm), AMD Ryzen AI.
+	- Intel Arc (sycl, Big DL, Intel Extensions for Transformers), Intel NPU
+	- Apple Metal/CoreML
+- Cross-platform model format (GGUF, PyTorch)
+
+- Popular Inference Engines: llama.cpp, vLLM, TensorRT-LLM
+
+### Cloud & Operation
+
+- Cloud platform: AWS, Azure, GCP
+- Container technology: Docker, Kubernetes
+- Operating System: Windows, MacOS, Linux
+- Version control and collaborative development: Git
+- Familiarity with DevOps methodologies and tools for efficient CI/CD processes.
+- **Proven track record in designing and deploying scalable, distributed systems for AI applications.**
+- Experience with integrating AI solutions into SaaS systems
+- Familiar with software engineering practices, such as version control, testing, and deployment
+
+### Data & Database
+
+- Familiarity with NoSQL: AWS DynamoDB, Neo4j
+- Database operations and data manipulation
+- SQL, Query
+- Data Preprocessing
+- Feature Engineering
+- Data Augmentation
+- Pandas/Polars for data manipulation and analysis
+
+# Artificial Intelligence
+
+### Training
+
+###### Training Framework
+
+- PyTorch and MLX and TensorFlow, Keras, Flair, MXNet (Amazon)
+
+- OpenAI, LangChain, LlamaIndex, VectorDB, RAG, HuggingFace
+
+- Consulting with the manager to determine and refine machine learning objectives.
+- Designing
+- Demonstrated ability to develop and implement AI solutions.
+- Model Development
+- Trains and validates models using evaluation metrics.
+- Optimizes hyperparameters to improve model performance.
+- Developing
+- Fine-tuning
+- Deploys models ensuring scalability, reliability, and efficiency.
+- Monitors and updates deployed models to adapt to changing data.
+- Optimize and improve model training processes.
+
 # Requirements
 
-- Experience with building data science and AI or ML solutions that support enterprise operational business and mission use case
 - Ability to design environments that support MLOps pipelines by creating architecture diagrams and process flows, selecting appropriate tooling, and deploying the solution
 - Experience with Generative AI and Large Language Model (LLM) tools and frameworks
 - Experience with Huggingface, LangChain, AutoGPT, or AgentGPT
@@ -48,21 +145,97 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 - Experimenting with state-of-the-art AI model architectures and approaches to enhance the performance and accuracy of existing products.
 - Stay at the forefront of cutting-edge developments in AI and apply them to real-world projects.
 
-### Domain Knowledge
+# Knowledge
 
-###### Mathematics
+### Mathematics
 
 Linear Algebra, Probability & Statistics, Optimization techniques
 
-###### Machine Learning Theory
-  
-- Deep understanding of common models and algorithms
+### Machine Learning
 
+### Deep Learning
 
+### Natural Language Processing
 
+### Generative AI
 
+- Fine-tuning Generative AI models
 
+###### LLM
 
+Foundation models
+
+- Llama2, MPT
+
+Training and Fine-tuning foundation LLM models
+
+- Parameter-Efficient Fine-Tuning (PEFT)
+- Low-Rank Adaptation (LoRA)
+- QLoRA
+
+###### Quantization
+
+- llama.cpp
+- GPTQ
+
+Use-cases
+
+- Retrieval-Augmented Generation (RAG)
+- Agents
+
+- Build and maintain LLM applications and infrastructure to meet bussiness requirements.
+- Design LLM inference infrastructure to scalably deploy LLMs within infrastructural constraints.
+- Research and utilize best of class tools within LLM ecosysten (Vector database, LlamaIndex)
+- Keep up with latest research around LLMs (sparse models, hardware-specific LLMs)
+- Collaborate closely with LLM research teams to participate in foundation model research, specifically for training productivity-related LLMs
+- Ensure inference and training to run stably on the following dimensions:
+
+- Experience with LLM related development: LlamaIndex, Langchain, Vector DBs, Prompt Engineering
+
+###### Running LLMs in production: Triton Inference Server
+
+### Predictive Analytics
+
+Utilized in finance, healthcare, and marketing for forecasting trends and outcomes
+
+### Robotics
+
+### Computer Vision
+
+- Framework: OpenCV, Caffe, TensorFlow
+
+### Speech Recognition and Synthesis
+
+Applied in virtual assistants, transcription services, and accessibility tools.
+
+# Soft skills
+
+### Communication and collaboration
+
+- Communication and collaboration with cross-functional teams
+	- Clear verbal communication
+	- Effective technical writing skills, ability to create comprehensive internal documentation
+	- Presentation
+	- Good in English communication
+
+- Problem-solving and analytical
+- Ability to quickly learn and understand new business domains and identify potential areas for AI applications.
+- Teamwork and independent working skills
+- Documenting machine learning processes.
+- Project management: Planning and prioritization of tasks, Time management skills
+- Adaptability
+
+- Analytical Skills
+	- Strong analytical mindset
+	- Ability to break down complex problems
+- Problem-solving
+	- Logical approach to challenges
+	- Creative solutions to technical issues
+- Self-motivation
+	- Proactive approach to tasks and learning
+- Adaptability
+	- Keeping up with rapidly evolving AI/ML field
+- Proactive in work and exploring new technologies
 
 ### Software Engineering
 
@@ -147,10 +320,6 @@ Required Skills/Qualifications:
 ---
 
 
-- As an experienced engineer, you know that machine learning is critical to understanding and processing massive datasets
-- In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities
-- As an Artificial Intelligence and Machine Learning (AI/ML) engineer, you understand the need for robust, scalable tools that enable efficient ML workflows at the enterprise level, enabling data scientists to build, test, and deploy models at scale
-- We need your technical knowledge and desire to problem-solve to support a variety of high-impact missions across sectors and domains
 - In this role, you'll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies
 - As an ML engineer, you'll help define and develop MLOps pipelines and containerized solutions to enable secure, robust delivery of models to the enterprise
 - You'll work closely with your client to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle
@@ -166,6 +335,8 @@ Required Skills/Qualifications:
 - Work with our data analysts on automating data processes
 
 
+# [Resume](https://www.overleaf.com/project/662216c1aaa7879b26c4e7af)
+
 # Companies
 
 1. [Creative Force](https://www.creativeforce.io/jobs/ai-engineer)
@@ -175,9 +346,19 @@ Required Skills/Qualifications:
 
 [https://startup.jobs/?remote=true&q=Machine+Learning+Engineer](https://startup.jobs/?remote=true&q=Machine+Learning+Engineer)
 
-###### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
+[Crypto Data Scientist / Machine Learning Engineer (Hanoi-Remote)](https://jobs.lever.co/tokenmetrics/d3f09378-0dcc-40ee-80cd-f61ce9a9bd00)
+Rackspace Senior Machine Learning Engineer - Vietnam remotely
+[AI Specialist (Crypto)](https://jobs.gft.com/job/Hanoi-AI-Specialist-%28Crypto%29-10000/1106658701)
 
-- Research and MLOps AI Ops
+[Prep](https://www.topcv.vn/brand/congngheprep/tuyen-dung/ai-engineer-j1429014.html?ta_source=JobSearchList_LinkDetail&u_sr_id=AL0PXYlsmftO3L18AZDC6sG07kxIVJMNa56533Bd_1723266909)
+
+###### [AI Engineer](https://tuyendung.sapo.vn/co-hoi-viec-lam/lap-trinh-vien-ai-a3590.html)
+
+###### [Taureau.AI AI Engineer](https://www.taureau.ai/careers/ai-engineer)
+
+###### [Early Start](https://monkey.edu.vn/tuyen-dung/ai-engineer-senior)
+
+###### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
 
 # Interview
 
@@ -206,13 +387,3 @@ Nếu công ty cần thay đổi hoặc thêm thông tin, xin vui lòng phàn h�
 Chúc công ty một ngày tốt lành
 
 Trân trọng cảm ơn
-
----
-
-- Glassdoor
-- Chinese website for leak content
-
-3. **Talk about people.** My Google manager always reminded me that he offered me a role because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.
-4. **Talk about impact.** The impact is why that bullet matters. If you can clearly explain why the impact of your work matters, then it shows you can see the bigger picture that everything you do is for the end user.
-5. Định lượng
-6. **Experience > Completion.** It's 100% okay to put unfinished projects or work on your resume. It's more important that the candidate know the material and not whether it was actually done. Leading a project half way **STILL COUNTS** as leading a project.

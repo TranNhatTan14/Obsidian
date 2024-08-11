@@ -4,21 +4,23 @@
 > - Hạn chế sử dụng thẻ tín dung trong giai đoạn
 > - Mua thực sự cần với mình 
 
+Mind not hand, automate not manual
+
 Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack app, đóng gói thành IPA rồi đưa lên TestFlight bán, với mã liên quan đến UIID
-    
-- [ ] 1,000,000,000
-- [ ] 500,000,000
-- [ ] 200,000,000
-- [ ] 100,000,000
-- [ ] 50,000,000
+
+### Financial Freedom
+
 - [ ] 20,000,000
+- [ ] 50,000,000
+- [ ] 100,000,000
+- [ ] 200,000,000
+- [ ] 500,000,000
+- [ ] 1,000,000,000
 
 ###### Automation X bot
 
 Hành trình kiếm 500 triệu trong 365 ngày
 
-- Finance
-- Financial Freedom
 - Kiếm được nhiều tiền
 - Foreign Exchange
 - Cryptocurrency
@@ -32,37 +34,6 @@ Hành trình kiếm 500 triệu trong 365 ngày
 
 - [Google One](https://one.google.com)
 - [Brilliant Premium](https://brilliant.org/payment/subscription_settings)
-
-###### Cashback and discount
-
-- Cashback 20,000 when thanh toán điện nước trên Viettel Money
-
-Credit card không dùng là lỗ vì chí phí tăng tại cauwr hàng?
-
-
-Mua như vậy sẽ không qua đơn vị trung gian
-
-Khoản vay
-
-Đúng hạn
-
-Hạn mức
-
-- [ ] Reseach about credit card
-
-2 thẻ ngày chốt khác nhau
-
-Tiêu và thanh toán thẻ này
-
-Đến hạn sang thẻ kia
-
-Tại sao?
-
-VP 21 HSBC 5
-
-Tận dụng ưu đãi 45-55 ngày miễn lãi
-
-Tech va VP hoan tien
 
 ### Futures and Spot
 
@@ -88,20 +59,36 @@ Tech va VP hoan tien
 
 Bơi theo cá mập hay bơi theo để cá mập ăn?
 
-### Cryptocurrency Airdrop
-
-- Kiếm dự án tiềm năng ở đâu
-    - Twitter
-        - Theo dõi anh em chuyên cày Air
-        - 5 Phút Crypto
-- Sksync
-- Starknet
-- Layzero
-
 ### Credit
+
+Tìm hiểu về tín dụng, làm sao để tối đa hóa lợi ích từ thẻ tín dụng
 
 - VP chốt ngày 21, HSBC chốt ngày 5
 
+###### Cashback and discount
+
+- Cashback 20,000 when thanh toán điện nước trên Viettel Money
+
+Credit card không dùng là lỗ vì chí phí tăng tại cauwr hàng?
+
+
+Đúng hạn
+
+Hạn mức
+
+- [ ] Reseach about credit card
+
+2 thẻ ngày chốt khác nhau
+
+Tiêu và thanh toán thẻ này, Đến hạn sang thẻ kia
+
+Tại sao?
+
+VP 21 HSBC 5
+
+Tận dụng ưu đãi 45-55 ngày miễn lãi
+
+Tech va VP hoan tien
 ### Active income
 
 Kiến thức, công sức, thời gian có giới hạn nên có mức trần giới hạn
@@ -174,3 +161,7 @@ Kiến thức, công sức, thời gian có giới hạn nên có mức trần g
 
 Service
 Apple Developer
+
+### No
+
+###### Cryptocurrency Airdrop

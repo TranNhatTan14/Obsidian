@@ -1,7 +1,9 @@
 Require from big corp
 Prepare pet project
 
-###### Chatbot
+# Natural Language Processing
+
+### Chatbot
 
 ###### LLM
 
@@ -73,8 +75,8 @@ Can you discuss your approach to analyzing EEG/EMG/EOG signals and predicting us
 4. Shared High-Resolution Network-W32 backbone with Spatial and Channel Attention Modules: emphasize discriminate regions and adaptive select more important channel of feature maps
 5. Face detection: facial landmark
 
-### Machine Learning
-### Computer Vision
+# Machine Learning
+# Computer Vision
 
 ###### Image Processing
 ###### Detection

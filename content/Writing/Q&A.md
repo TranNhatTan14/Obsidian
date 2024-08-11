@@ -91,4 +91,7 @@ DId the phone more heavier when full of battery or full of storage? (This is a f
 
 Điều gì khiến mình nhớ nhất, điều gì mọi người nhớ đến ở mình
 
-Limitless
+### Finance
+
+- Làm sao để tối đa hóa hiệu quả của tín dụng
+- Khi nào thì nên vay, có phải khi mình thấy có thể scale up 
