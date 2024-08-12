@@ -1,3 +1,15 @@
+### Quality Control
+
+Lựa chọn tham số dựa trên dữ liệu
+
+### Associate
+
+- Phân tích với dữ liệu bệnh và VN1K
+- Bệnh và sub VN1K có giới tính và độ tuổi tương đồng
+- Bệnh và VN1K imputed trên 1KGP
+
+- Phân tích cho rare variant
+
 ###### Alleles
 
 Different versions of the same variant are called alleles. For example, a SNP may have two alternative bases, or alleles, C and T4.

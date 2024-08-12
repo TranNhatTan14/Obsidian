@@ -51,9 +51,16 @@ Hello Chinese
 
 ### Github
 
-Github Education GitHub Copilot Workspace Github Project Codespaces
+> [!tip] Gitee a Chinese alternative to GitHub
 
-Github
+- Github Education
+- GitHub Copilot 
+- Workspace
+- Github Project
+
+###### [Codespaces](https://github.com/codespaces)
+
+Go from code to commit faster on any project.
 
 ### Microsoft
 

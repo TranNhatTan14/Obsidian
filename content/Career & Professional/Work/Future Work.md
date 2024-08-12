@@ -29,7 +29,7 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 ### Programming
 
 - **Programming language**: Python, C, C++, R, JavaScript
-- **Frameworks**: PyTorch, TensorFlow, Keras and scikit-learn
+- **Frameworks**: PyTorch, TensorFlow, Keras and scikit-learn, [Safetensor](https://huggingface.co/docs/safetensors/index)
 
 ### Hardware & Low-level Optimization
 

@@ -1,21 +1,16 @@
+- [Expert in Linkedin discuss about AI](https://www.linkedin.com/pulse/topics/engineering-s166/artificial-intelligence-(ai)-s2407)
+
 - [ ] Watch and implement all video in
-    
 - [ ] Become Kaggle Master
-    
 - [ ] Join Kaggle competitions
-    
     - [ ] Implement finished competitions
-        
     - [ ] Join new competition
 
 #### Tận dụng AI trong cuộc sống của mình
 
 - Video summarization
-    
 - Kiểm tra từ vựng của mình
-    
 - Build local AI to luyện thi IELTS cùng mình
-    
 - Sử dụng để summazrize nội dung bài đọc
     
 
@@ -61,9 +56,7 @@ In this case you are doing data engineering as opposed to ML engineering. While 
 ### Prepare for interview
 
 - Data structures & Algorithms
-    
 - Machine Learning
-    
     - General ML Knowledge
         
         - SL, UL
@@ -76,34 +69,28 @@ In this case you are doing data engineering as opposed to ML engineering. While 
         - ML Algorithms
             
         Write from scratch
-    
         Pro and cons
-        
         When and where to use it
         
         
     - ML System Design
         
 - Behavioral
-    
 - Practicing coding
-    
     - LeetCode
 - Mock Interview
 
 Đọc yêu cầu của khách hàng
-
 Xem tác vụ này có xử lý được bằng AI không
-
 Input là gì
-
 Output là gì
-
 Phân tích dữ liệu
-
 Bài toán thuộc dạng nào
-
 Tốc độ nhanh và độ chính xác cao
 
 
 Khuyên các bạn nên học về Engineer trước để biết xử lý bài toán cần đi theo nhưng bước như thế nào
+
+### Natural Language Processing
+
+###### [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
