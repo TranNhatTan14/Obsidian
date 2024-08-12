@@ -1,49 +1,16 @@
-###### 20240802
-
-- Mình bị khó chịu với một số font chữ
-
-###### 20240730
-
-Hôm nay mình đã quên sạc máy tính ở nhà và nhờ em Chiến gửi đến công ty. Mình có thể cất vào cặp tối hôm qua nhưng mình đã không làm. Điều này tương đồng với việc mình làm mất thẻ xe vì không cần thận
+> [!info] Journal như là short-term memory, cần được xử lý sau đó
 
 
-June 14, 2024
-### Self
 
-- Thay vì xem video study thi mình dùng luôn tiếng mưa trong điện thoại hoặc app Forest
-    
-- app Forest có thể heiej số lượng thời gian da tạ trung trong ngay
-    
-- Minh van co the hieu Mac du khong viêt dungn 100
-    
 
-### Grateful
-
-- Biết ơn vì thầy Hiệp và anh Hoàn đã tạo điều kiện cho mình
 
 ### Self-talk
 
 - Học về AI cũng là học những điều AI dạy mình
     
     - Học để có thể ứng dụng AI
-        
     - Từ đó xây dựng lại những mô hình AI dạy lại mình cách tối ưu nhất như AlphaZero, DeepMind đang làm
-        
     - Đáng lẽ mình có thể tìm hiểu về trang của Aromic và xem có pipeline không
-        
-- Tặng cây trong Fo cho ai đó ý nghĩa
-    
-- Tai sao sau khi mass lại hay lên, điều này có ý nghĩa gì và có liên quan gì đến điều VL nói
-    
-- What we can learn from re pa
-    - Knowledge
-    - for work research
-    - for new wrod
-    - for know how to write rp
-        
-- You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh cờ)
-    
-- Nature and clasic soudn but I choose nature rain sound
 
 ### Những điều mình cảm thấy tệ về bản thân mình
 
@@ -55,24 +22,6 @@ June 14, 2024
     
 - Hôm qua mình có một giấc mơ về buổi đi chơi với em Giang, cảm giác như mình cố gắng để từ chối và làm em khóc vì cố gắng rủ đi chơi
     
-- chị Hà Trang
-    
-    - Chị nghĩ em là người nghiêm túc
-    - Mới bắt đầu nên làm tốt một thứ
-    - Trước chị cũng học bên Điện tử viễn thông
-    - Chị có học thêm bằng CNTT 2 năm
-    - Chị đi làm về CNTT rồi mới sang làm tin sinh
-    - Ý THỨC, THÁI ĐỘ và TINH THẦN là quan trọng còn tư duy tốt thì đổi ngành không vấn đề
-    - Các bạn đúng ngành lại e dè không dám đổi ngành
-    - Làm trái ngành lại liều mình dấn thân chịu khó học, đọc và tìm hiểu hơn
-    - Khoa học cơ bản thì chuyên sâu
-    - Bioinformatics thì cần thêm kiến thức liên ngành hơn
-    - Nên tập trung vào một ngành để lấy kinh nghiệm
-    - Không recommend đổi ngành liên tục
-        
-- anh Hoàn
-    
-    - Cần chủ động hơn trao đổi với mọi người về những việc mình muốn làm (anh Thiện tâm sự thầm kín)
 - J2 Team
     
     - Chi tiêu thông mình
@@ -94,16 +43,12 @@ June 14, 2024
         
         - Đa phần giảng viên đại học đều khá open minded (ít nhất ở ĐHBK HN là như vậy), nên họ đều không những không trù ghét sinh viên bất đồng quan điểm, mà họ còn đánh giá cao việc nêu lên mâu thuẫn và giải quyết mâu thuẫn. Mình có quan hệ tốt với rất nhiều thầy cô chỉ bằng việc chỉ ra rằng có gì đó trên bảng mà mình nghĩ là không thoả đáng. Đôi khi các thầy cô cũng nhầm lẫn.
     - Nên ngủ đủ và ngủ sớm (theo nhịp sinh học)
-        
     - Học về kinh tế học quản lý tài chính cá nhân học cách đầu tư sớm hơn.
-        
         - học tài chính trước rồi hãy học đầu tư
     - Uống nước lọc
-        
     - Học tiếng Anh từ sớm, và quan trọng là học thật chuẩn vào. Tiếng Anh nó cực kì hữu ích và đôi khi là cái lợi thế trong cuộc sống
-        
         - chuẩn là từ phát âm cho tới ngữ pháp, kể cả những lỗi nhỏ nhất, chứ học từ sớm mà dính lỗi cơ bản thì sau này rất khó để sửa
-            
+
         - kỹ năng nghe
             
     - Không biết điều gì đó..hãy hỏi Google, không có đáp án, thì hãy hỏi bố, bố không biết hãy hỏi người lớn khác có chuyên môn. Trừ khi đen đủi..còn lại chỉ cần bạn hỏi với thái độ đúng mực..thì người khác sẽ rất vui vẻ giải đáp... Và lúc họ có kiến thức muốn share với bạn..đừng cợt nhả-Không có ngoại trừ. Bạn sẽ không biết mất đi thứ giá trị gì đâu.
@@ -115,7 +60,6 @@ June 14, 2024
     - Hãy học cách để trở thành người quản lý giỏi càng sớm càng tốt. Dù có thể chưa giỏi nhưng ít ra là có trách nhiệm với bản thân, biết rõ mục tiêu phải làm (chuyên môn, kỹ năng, kiến thức, mối quan hệ...) và hành xử chuyên nghiệp. Đó là nền tảng cho bất cứ sự thành công nào sau này.
         
     - Học k cần nhiều nhưng mà phải kĩ. Phải tìm cho bản thân 1 thú vui lành mạnh vào theo đuổi nó nghiêm túc.
-        
     - Đừng chạy theo các mối quan hệ xã giao mà hãy tập trung phát triển bản thân thật sớm. Bạn có năng lực, tự khắc người khác sẽ muốn tìm tới đặt mối quan hệ với bạn
         
     - quản lí chi tiêu, saving (mở tk tiết kiệm - không cần nhiều những phải có), tập thể dục Từ hôm nay . One day or day oneeeee
@@ -150,9 +94,6 @@ June 14, 2024
         2. Giấc ngủ rất quan trọng, hãy ngủ đủ.
             
     - 3. Đừng đuổi đi những ai thật sự yêu thương mình.
-        
-    
-    4. Trân trọng mọi món quà người khác tặng cho mình, coi như quý hơn cả kim cương.
     5. Nên tập trung vào 1 mảng nào đó cho thật tốt, các job ngon cần một nhân lực giỏi chứ ko phải người có một tấm bằng tốt nghiệp ĐH.
     6. Bớt quan tâm người khác nghĩ gì về mình, và cũng đừng nên quan tâm quá nhiều đến cuộc sống của người ta. Việc ai người nấy làm ko sân si.
     7. Hãy tập thể dục thể thao.
@@ -168,7 +109,6 @@ June 14, 2024
         
     
     Không nên đặt quá nhiều kì vọng và sự tin tưởng vào 1 người nào đó.
-    
     Đừng thức khuya.
     
     Chăm sóc sức khoẻ bản thân nhiều lên.
@@ -182,8 +122,6 @@ June 14, 2024
 - One day or day one
     
 - Đầu tiên là tiền đâu
-    
-- Đặt xong in
     
 - Đại học đừng học đại
     
@@ -212,132 +150,40 @@ June 14, 2024
 ### Khi bạn không biết nên làm gì thi hãy làm việc này
 
 - Tập thể dục nếu có thể
-    
 - Uống nước
-
----
-Trần Nhật Tân đang cảm thấy thế nào?
-
-Present
-
-Hôm nay là ngày 2024/03/21, vậy là còn 46 ngày nữa là mình kết thúc chương trình thực tập tại GeneStory
-
-Dự định của mình là gì?
-
-Mình có lựa chọn là tiếp tục làm việc ở GeneStory hoặc là đi làm nơi khác
-
-**Tại sao mình nên tiếp tục làm việc ở GeneStory**
-
-1. Đây là công việc có thiên hướng nghiên cứu hơn là industrial
-    
-2. Mình làm viềc ở đây sẽ có cơ hội viết báo hơn
-    
-3. Ít nhất là qua giai đoạn kinh tế khó khăn này
-    
-4. Vì chưa chắc mình đã tìm kiếm được một cơ hội mới
-    
-
-**Điều mình đánh đổi khi tiếp tục làm ở GeneStory**
-
-1. Khoảng cách đi làm xa khoảng 16 km, điều này khiến mình mất khoảng 1 tiếng lúc đi làm và 1 tiếng lúc đi về
-    
-2. Thời gian làm việc từ 09:00 đến 12:30 và 13:30 đến 18:30
-    
-3. Mình có thật sự muốn làm việc về dữ liệu sinh học không?
-    
-4. Mình có thật sự muốn làm giống một Bioinformatic không
-    
-
-Sau khi hoàn thành bước trên thì mình mình sẽ đặt câu hỏi về công việc mong muốn của mình
 
 ---
 Điều mình đang quan tâm là gì
 
 Học ngôn ngữ vì sự tiên dụng nữa
 
-Trước mình nghe mới biết là vào VinAI còn được học tiếng Anh
-
-Make more
-
-Make new username
-
-AI Engineer
-
-NLP
-
-Let fine-tuning a LLM model
-
-Chiều nay mưa to thật là to
-
-Đi tìm nhà được vài nhà nhưng không ưng
-
-Đi tìm lúc trời mưa mình đã cười rất nhiều
-
-Đi ăn phở gà. Dầm mưa xong có vẻ mình đang có dấu hiệu ốm
-
-Vừa nói với Hiệp là mọi thứ ổn, nhưng có vẻ lại không ổn nữa rồi.
-
-Anh Hoàn vừa gọi điện trao đổi
-
-Mọi chuyện không ổn thì mình sẽ đi ngủ và mai tập trung lại
-
 ---
 Viết cho Trần Nhật Tân ngày 09/05/2024
-
 Cảm ơn cậu vì đã hoàn thành tốt công việc thời gian qua
-
 Cố gắng lên dù đôi lúc mọi thứ có thể không theo những gì mình suy nghĩ
-
 Xem đá bóng
-
 REAL MADRID ĐÃ THẮNG
-
 Dậy sớm nếu có thể
-
 Ăn bánh mì
-
 Nhớ là gửi xe bằng tiền mặt nha
-
 Trưa mai ăn cơm với Trường
-
 Cơm trưa nay ngon ghê
-
 Cảm giác hồi hộp thật khó
-
 Anh Quang vừa mua nước bao mọi người
-
 Tối mai ăn tối với team
-
-Nếu có thể hãy chụp một bức ảnh
-
-Hỏi Hiệp về tài khoản Google Cloud
-
 Điều mình ghi nhớ của ngày hôm nay là gì
-
 Buổi chia tay trong phòng
-
 Bữa ăn cùng mọi người
-
 Sau đó mình nhận được tin gặp anh Nam
-
 Bàn giao công việc
-
 Anh Quang bao trà sữa
-
 Sau đó là gặp anh Nam chia sẻ về công việc
-
 Buổi chia sẻ của chị Trang về tình yêu
-
 Buổi đi ăn cùng team
-
 Chia sẻ của anh Quang về công việc
-
 Anh Quang có động viên tinh thần mình theo đuổi ngành Cơ điện tử
-
 Mình cũng sẽ cân nhắc về quyết định này
-
 MÌNH NGHĨ LÀ MÌNH CẦN LÀM RÕ ĐIỀU MÌNH ĐANG SUY NGHĨ
-
 Đặt bản thân vào đúng vị trí
 
 ---
@@ -412,52 +258,31 @@ Sometimes I feel like I run out of energy, but I know I can do it
 ---
 May 10, 2024
 Sáng nay mình ngủ dậy muộn
-
 Không ăn sáng
-
 Sáng nay mình đã xem những thứ không nên xem
-
 Trưa ăn có hoa quả và uống sữa
-
 Tối nay mình ăn cơm tấm, suất cơm 35K, rẻ hơn nhiều so với đi ăn cơm đặt ở công ty (dĩ nhiên)
-
 Cảm giác Chiến và Hiệp đối xử với mình như thế nào
-
 HÃY CƯ XỬ NHƯ LY NƯỚC NÓNG: NGUỘI RỒI HÃY UỐNG
-
 Hiếu Nguyễn có nói "Xã hội thật lắm người giàu, mình vẫn nghèo chứng tỏ mình ngu"
-
 Mình không thật sự đồng tình với câu nói này
 
 #### Healthcare AI
 
 Multimodal
-
 The current is uni-model
-
 Cung do chung ta cung se la multimodel, we can learn in multiple language
-
 LLM and Prompt Engineering
-
 Remove bias in AI
-
 People have bias about mau da, rich people
-
-Distill
-
 Hinton is a famous connectionist, he believe that knowledge is subsymbolic
-
 symbolic reasoning
-
 Thời gian mình bắt đầu ngủ cũng sẽ dựa trên giờ ngủ của người ở gần
-
 Mọi thứ đều cố gắng để lấy đi attention của mình
 
 ---
 May 22, 2024
-Học khóa học DL AI RAG
 
-https://www.deeplearning.ai/resources/generative-ai-courses-guide
 
 Ý là bây giờ có nhiều thứ hay
 
@@ -468,15 +293,10 @@ Làm sao để mình có thể lọc
 Giống như phân chia theo ngành nghề
 
 Sự kết nối đến những ngành khác, người khác.
-
 Sự tăng cường kết nối với
-
 Tìm được ra IKIGAI
-
 Tìm được những người dẫn đầu, xem họ làm sao để stay up-to-date
-
 Telegram channel
-
 Chia nhỏ thì sẽ được nhiều channel
 
 Nguồn thông tin lấy từ đâu
@@ -489,25 +309,16 @@ API like X API EmergentMind
 
 Now I want to do the same with LLM and Crypto
 
-<!-- restart numbering -->
-
 1. Chatbot for AI New
-    
 2. Chatbot for Crypt
-    
 3. Bot get Binance
     
-
 [https://github.com/ma2za/telegram-llm-bot](https://github.com/ma2za/telegram-llm-bot)
-
 [https://github.com/remixer-dec/botality-ii?tab=readme-ov-file](https://github.com/remixer-dec/botality-ii?tab=readme-ov-file)
-
 [https://medium.com/@kamaljp/bringing-llm-powered-bot-to-telegram-powering-telegram-bot-with-llm-math-chain-eb07647aff49](https://medium.com/@kamaljp/bringing-llm-powered-bot-to-telegram-powering-telegram-bot-with-llm-math-chain-eb07647aff49)
-
 [https://github.com/innightwolfsleep/llm_telegram_bot](https://github.com/innightwolfsleep/llm_telegram_bot)
 
 Make bot run everyday and post to telegram channel
-
 [https://github.com/hsdevelops/cron-telebot/blob/main/main.py](https://github.com/hsdevelops/cron-telebot/blob/main/main.py)
 
 ---
@@ -520,15 +331,6 @@ Có những bài toán mình có thể tiếp tục thực hiện được.
 
 Giảm mọi thứ xuống mức cần thiết, đồ dùng, suy nghĩ
 
----
-June 8, 2024
-Sáng nay nghe tin mẹ bị sỏi thận đau bụng phải đi viện, mình đã rất buồn và khóc
-
----
-June 6, 2024
-Sáng là mình muốn cập nhật tin tức mới nhất và nhanh nhất using Trending group tab in Chrome
-
-Mình cảm thấy không fullfill, vì sao thì cũng không biết nữa
 
 ---
 June 4, 2024
@@ -627,17 +429,12 @@ Một sự kiện AI ra mắt có thể ảnh hưởng đến nhiều thứ
 
 Cổ phiếu Doulingo sau khi OpenAI demo live translation
 
-<!-- restart numbering -->
 
 1. Get the lastest update from new technologies or new idea
-    
 2. "If you copy from one architect, then you're just a thief. If you copy from ten, then you've made your research."
-    
     good artists merely imitate others (copy), great artists study the works of others and make it their own (steal)
-    
 3. Chat with MLX là copy 1:1 của Chat with RTX từ Nvidia, và khi đó MLX còn đang rất mới nên chưa ai làm Chat UI cho nó cả nhưng nhu cầu từ user thì khá cao
     
-
 [NHỮNG "LẦN ĐẦU TIÊN"] Hôm nay tôi pha cà phê báo quá nên nó thành 3 gói cà phê, vì thế tôi hơi bị tỉnh táo, và tôi thấy tấm hình này nhờ anh Khan. Tôi lại có cảm hứng để kể về những lần đầu tiên của mình và những gì tôi học được từ đó. Trong ký ức của tôi, những lần đầu tiên đều là lần thất bại. Thậm chí là những thất bại thảm hại:
 
 - Đi thi học sinh giỏi: Lớp 9, tôi rớt vì tâm lý kém, tôi dồn sức quá nhiều vào một bài 2.5 điểm mà không kịp thời gian suy nghĩ hình học 4 điểm - một bài toán hình học vẽ đoạn đối rồi chứng minh thẳng hàng mà tôi giải hàng trăm lần lúc ôn luyện. Tôi thiếu đúng 4 điểm đó để đậu vào đội tuyển ở vị trí giữa bảng xếp hạng.
@@ -647,23 +444,13 @@ Cổ phiếu Doulingo sau khi OpenAI demo live translation
 - Đi học đại học: tôi chỉ có đúng 1 lần học đại học và thật ra tôi vẫn cảm thấy mình có 4.5 năm học không thành công tí nào. Tôi luôn cảm thấy tôi có thể làm tốt hơn nếu như tôi cố gắng hết sức.
     
 - Đi nghiên cứu khoa học: Có thể các bạn thấy tôi đậu FPT AI Residency là tôi giỏi, tôi khủng. Nhưng tôi xin nói thật, tôi đậu FPT hoàn toàn là vì may mắn 100%. Tôi làm một năm, tiếp xúc với nhiều dạng bài toán khác nhau, nhưng sau tất cả thì tôi cũng không làm gì nên hồn. Làm lý thuyết thì bị nhận đầu xuống địa ngục. Tôi cố gắng học toán nhiều hơn những gì mình cần học nhưng vẫn không thể tự đào tạo bản thân mình bài bản để chuẩn bị cho những bài báo khoa học.
-    
 - Đi phỏng vấn Industry: Tôi chọn WorldQuant là công ty đầu tiên tôi phỏng vấn (nghe oách vl), flex tí là tôi vào được đến vòng cuối và bị đấm vào mồm bởi thứ tôi từng giỏi nhất, từng là unique selling point của bản thân hồi còn ôn thi olympic - Toán tổ hợp.
-    
 - Đi làm Industry: Tôi đã chọn điểm đậu vào một công ty lương thì trên trời nhưng mà công việc thì chán phèo. Đúng nghĩa là tôi chỉ ngồi viết script, code chạy 10 tiếng, chạy xong ăn chơi gì đó tới tối lấy kết quả báo cáo rồi lặp đi lặp lại như vậy trong 5, 6 tháng. Lần đầu nó là thế, thất bại là thế nhưng tôi nhận ra, tôi gục ngã không vô ích
-    
 - Những giọt nước mắt khi tôi rớt đội tuyển quận để đi thi Thành phố đã nhắc nhở tôi rằng: Đi thi nhớ mang theo cái sự ngông cuồng và không sợ ai của tôi vào phòng thi chứ đừng để nó ở nhà. Dễ làm trước, khó làm sau, tập trung vào một vài cái chứ không ai mà giỏi hết tất cả các dạng toán (trừ Nguyễn Nguyễn, Vũ Thế Việt, ...). Nó là tiền đề cho những gì tôi có ngày hôm nay, không nhiều, nhưng nó là bằng chứng sống cho việc tôi học được từ lần gục ngã trước đó của mình.
-    
 - Sự tiếc nuối 1 điểm lúc công bố điểm chuẩn lớp 10 đã nhắc nhở tôi mãi sau này rằng: Làm bài thi, kiểm tra phải cẩn thận, bổ đề thì chứng minh, định lý không ghi trong sách giáo khoa cũng chứng minh, cái mẹ gì mà tôi chứng minh được thì tôi chứng minh hết (kể cả Cauchy-Schwarz). Tôi nhớ bài tổ hợp kỳ Olympic 30/4 năm 11. Đề bài là quăng mẹ công thức chia kẹo Euler rồi xét trường hợp là xong. Phần chính tôi làm 11 dòng, phần chứng minh bổ đề chia kẹo Euler tôi làm 3 mặt giấy (vẽ hình các kiểu rất đẹp).
-    
 - Chuyện phỏng vấn industry: Quá trình phỏng vấn với một ông kẹ như WorldQuant giúp tôi nhận ra mình phải chuẩn bị gì trước trong và sau khi bước vào ngồi trong vòng phỏng vấn. Kể từ sau lần đó tôi phỏng vấn thêm vài nơi và hầu hết là tôi đậu, có hai nơi reject tôi (hoặc ngược lại) vì không hợp những minor point (địa điểm làm việc, yêu cầu về giờ giấc, mindset, behavioural). Bên lề, tôi rớt thêm WorldQuant 1 lần nữa =))))))))).
-    
 - Chuyện đi làm Industry: Tôi nhận ra, không phải người ta cứ quăng một đống tiền và một quỹ thời gian rỗng tuếch là tôi có thể grow trong cái hướng này. Tôi mạnh dạn bỏ mịa nó công việc với mức lương trên mây để trở về công việc với mức lương trên... cây nhưng tôi được làm nhiều hơn, được học nhiều hơn. Tôi gặp được những quý nhân ở công việc mới, tôi grow gần gấp 10 lần trong 1 năm chỉ bằng cách nói chuyện và đọc cái code base của mấy ông trong công ty (ở công ty trước thì không được đọc code base vì là MLE quèn). Cho nên đúc kết lại từ kinh nghiệm trước đó, giữa tiền với growth thì hãy có một cái hàm nhận vào biến là "tuổi" để output xem là lúc đó nên ưu tiên cái nào. Càng trẻ, lực học càng lớn thì nếu có nhiều con đường, hãy áp dụng cái công thức bạn đẻ ra để chọn hướng nào mà thích hợp nhất. Lương lậu đủ để sống khoẻ (nhắc lại là sống khoẻ nhé) ở chỗ bạn sống thì hãy làm. Vì càng giỏi thì sau này bạn chắc chắn lương sẽ cao, cơ ngơi tốt. Còn chú tâm vào xèng quá quá nhiều thì có thể bạn cũng chỉ ở mức đó hoài hoài hoài.
-    
 - Chuyện Research: Welp, có thể các bạn cũng biết, tôi viết cái dòng này khi tôi đang ngồi ở Singapore và là Research Assistant ở SMU. Và trên con đường tôi đến được đây, không thể không kể đến những người ủng hộ tôi như gia đình tôi, Yến Nhi iu tuyệt vời siêu cấp dễ thương của tôi,... mà còn là những gì mà tôi đã đúc kết được trong hơn một năm làm nghiên cứu trước đó. Tôi nghĩ lần này là lần thứ hai tôi đi làm nghiên cứu, topic có thể hơi lạ chưa phù hợp và chưa đúng với định hướng bản thân tôi cho lắm. Nhưng vì tôi không để cái "sự ngông cuồng và không sợ ai của tôi" (nhưng mà giờ không còn ngông nữa nhé, ẩn dụ thôi ha) ở Việt Nam nên tôi nghĩ tôi sẽ làm nên trò trống gì đấy. Tôi có những connections cực xịn từ lần nghiên cứu trước đó như ba anh mentors cũ từng làm việc hoặc phỏng vấn tôi, tôi có những người anh, người bạn làm nghiên cứu xung quanh và tôi có...sự tin tưởng vào bản thân mình. Fact: Đây là lần đầu tiên tôi đi nước ngoài nên cũng có thể sẽ thất bại nhé =))))))) ==================================== ["LẦN ĐẦU TIÊN" THÀNH CÔNG NHẤT] Có thể có những "lần đầu tiên" trong các câu chuyện tôi kể ở trên thực chất không phải là lần đầu tiên và tôi đã chuẩn hoá nó lại theo các hệ quy chiếu khác nhau (nói cho ngắn là làm tròn) để nó thành lần đầu tiên. Nhưng mà câu chuyện về Alpha chắc chắn là lần đầu tiên thật sự. Tháng 12/2018, cùng với các anh em (chưa tới mươi người), tụi tôi đứng ra thành lập cuộc thi Đấu Trường Alpha với mục tiêu chính là có cuộc thi giống đường lên đỉnh Olympia cho học sinh Nguyễn Thượng Hiền. Tụi tôi thật sự là những thằng máu liều nhiều như máu não, tôi rất muốn có một cuộc thi như thế lâu rồi nhưng mà nếu mà tự tôi tổ chức thì nghe nó no hope vl, hên là có anh em chung chí hướng mà còn chủ động. Năm đầu tiên - lần đầu tiên - tôi cầm một cái bản kế hoạch mà anh em đánh để trình lên thầy Linh. Tôi thầm cảm thấy cái cảm giác nó giống với tôi lúc cầm bản đăng ký Olympia gửi đi và bị từ chối 4, 5 lần - "thôi thì buồn 4, 5 lần rồi, lỡ không được buồn thêm 1 lần nữa chứ có gì đâu". Rồi nó được duyệt, thầy Linh nghe ý tưởng thì không cần nhìn bản kế hoạch gì mà kêu mấy đứa tôi làm luôn. Với tiêu chí đơn giản ban đầu "anh mong nó tồn tại được 5 mùa rồi có cái GALA rồi dẹp là đẹp", Alpha tồn tại được... 6 mùa (trong đó 1 mùa hoãn vì dịch nên còn lại 5 mùa). Cùng với sự phát triển của Đường lên đỉnh Olympia, chúng tôi cũng âm thầm tổ chức sân chơi y hệt về hình thức và nội dung (thậm chí bản thân tôi đánh giá rất nhiều câu hỏi của chúng tôi hóc búa (và được sắp xếp hợp lý) hơn là những câu hỏi của chương trình DLDO (hiện tại)). Từ những năm đầu cho tới thời điểm hiện tại, anh em tụi tôi luôn tự túc ở nhiều mặt. Tụi tôi lên chương trình (tất nhiên), soạn câu hỏi (tất nhiên), chuẩn bị laptop, thiết bị, đi mượn phần mềm (shout out to Cao Nhân), chuẩn bị tiền để làm giải thưởng (vì không ai tài trợ), chuẩn bị tự làm MC (thật ra không recruit bạn nào làm MC mà sử dụng nguồn lực sẵn có), chuẩn bị cả tiết mục văn nghệ (ảnh đầu tiên bên trái phía trên là bạn tôi - MVQuyen đang đứng hát cho chung kết nó đỡ tẻ nhạt), hai năm gần đây tụi tôi còn lấy điện thoại ra làm máy quay luôn trận chung kết cho nó cháy (nhưng mà cháy bộ nhớ chứ chất lượng video chưa đạt yêu cầu lắm) Tuy không có bề dày lịch sử và lượng thí sinh đông đảo như những chương trình khác, tôi vẫn tự hào vì cuộc thi vẫn tồn tại tới tận bây giờ mặc kệ khó khăn, thử thách về mặt tinh thần (ví dụ như khán giả chung kết là tụi tôi và vài người bạn của 4 thí sinh). Cảm ơn anh em, cảm ơn tất cả mọi người đã cùng nhau cố gắng để có được Alpha ngày hôm nay. Tụi tôi tâm huyết lắm, chắc sẽ có mùa sau, nên ai muốn tài trợ quà bánh, văn nghệ, diễn hề, diễn xiếc hay là đi coi chung kết mùa sau thì liên hệ Fanpage nhé. Welcome! ================================== Hôm nay tôi viết bài này một phần vì không ngủ được, một phần vì giai đoạn này thực sự rất có ý nghĩa với tôi (sinh nhật, tốt nghiệp đại học, đang quay lại con đường nghiên cứu để học cao lên,...) nên tôi muốn tổng hợp những gì mình trải qua trong công việc / học tập trong vài năm vừa qua... cho nó vui, hehe! Nào rảnh thì lại viết tiếp!
-    
-
-MLX of Apple
 
 ---
 May 30, 2024
@@ -778,21 +565,12 @@ Nhiều lời khuyên đc ko? Vì mình từng là 1 thằng ngu và ko muốn a
     
 
 3. Đừng đuổi đi những ai thật sự yêu thương mình.
-
-4. Trân trọng mọi món quà người khác tặng cho mình, coi như quý hơn cả kim cương.
-    
 5. Nên tập trung vào 1 mảng nào đó cho thật tốt, các job ngon cần một nhân lực giỏi chứ ko phải người có một tấm bằng tốt nghiệp ĐH.
-    
 6. Bớt quan tâm người khác nghĩ gì về mình, và cũng đừng nên quan tâm quá nhiều đến cuộc sống của người ta. Việc ai người nấy làm ko sân si.
-    
 7. Hãy tập thể dục thể thao.
-    
 8. Gia đình là số một.
-    
 9. Nghĩ kĩ trước khi làm việc gì đó, nhất là khi mua sắm nếu tài chính còn eo hẹp, xem nó có thiết thực ko.
-    
 10. Hãy làm 1 người tốt.
-    
 
 Cái gì dùng nhiều thì nên mua mắc tiền một chút.
 
@@ -1031,50 +809,9 @@ AI phát triển nhanh quá, mình cần làm gì để theo kịp xu hướng
     
 - Hola dạy học, đá cầu, bắn súng,
     
-
 1. Tiểu học Hợp Châu: Nhật ký của mẹ
-    
 2. 910: Cũng đành thôi
-    
 
-**
-
-2020-10-31_Wedding day
-
-**
-
-Thời tiết: Trời âm u nhiều mây, có mưa nhẹ đêm lạnh
-
-Hoạt động:
-
-- Về nhà sớm 9:00 ăn phở cùng bố
-    
-- Đám cưới Cương A5: gặp các bạn A5, Ly Kem và Uyên
-    
-- CKTG 2020: SofM là người Việt Nam đầu tiên tham gia
-    
-
-Người bạn nghĩ đến hôm nay: Nguyễn Kim Oanh
-
-Khác
-
-- Người ta cố gắng 1.1 mình cần cố gắng gấp 2
-
-**
-
-2020-11-01: Home and Hanoi
-
-Thời tiết: trời âm u nhiều mây, chiều nay đi Hà Nội có mưa nhỏ
-
-Địa điểm: Hà Nội
-
-Vân tay mẹ không rõ nữa
-
-Remember how to find it instead
-
-Hôm nay mình đã nộp CV cho HR
-
-Với mức lương như vậy thì mình sẽ ổn chứ
 
 Không khí ăn cơm hôm nay mình không thích một chút nào
 
@@ -1083,7 +820,6 @@ Give you a chance to do more challenging work, so you can find out if you have m
 - MoE
     
 - SORA: Diffusion Transformer
-    
 	- Distributed and Blockchain
 
 ---
@@ -1168,56 +904,36 @@ Theo như mình tính thì ngày mai mình sẽ 23 tuổi.
 **Một năm qua của mình từ sau sinh nhật, mình thấy vui vì mình làm được nhiều điều**
 
 - Kết quả thi chứng chỉ tiếng Anh VSTEP tốt nha
-    
 - Mình đã tốt nghiệp loại Giỏi, ngày tốt nghiệp của mình vui lắm
-    
 - Mình đã được làm ở môi trường startup, học hỏi được nhiều từ các anh chị, có những người bạn
-    
 - Mình tham gia chương trình đào tạo của Vingroup, lần đầu tiên trong đời mình gặp nhiều người bạn từ miền Nam như vậy
-    
 - Mình đã có một công việc tốt, làm bố mẹ có thể tự hào hơn về mình
-    
 - Mình nhìn thấy có nhiều cơ hội và mình đã nói với mọi người là mình có kế hoạch đi du học thạc sĩ đó. Mong là cậu vẫn đang theo đuổi ước mơ của mình.
-    
 - Hiện tại thì mình nhớ được như vậy, có gì mình sẽ bổ sung thêm nha
     
 
 **Chuyện vui xung quanh thì nhiều lắm**
 
 - Anh Quang lấy chị Nga rồi, anh chị sắp có em bé, chú bé rồng của gia đình
-    
 - Nhà mình vừa mua thêm mảnh đất, điều bố mình mong muốn
-    
 - Trường cũng đã lấy vợ
-    
 - Huệ đã lấy chồng, lấy anh Hoàng
-    
 - Mình đã đến lúc lấy vợ chưa? Vì người yêu mình còn chưa có.
-    
 - Thực ra thì ở trên cũng là chuyện vui của mình đó
-    
 
 **Chuyện buồn cũng nhiều chứ**
 
 - Mắt mình cảm thấy kém hơn
-    
 - Sức khỏe cũng kém hơn
-    
 - Mình không đỗ nguyện vọng làm việc tại VinBrain và VinBigData, mặc dù vậy, GeneStory là một môi trường rất tuyệt vời vì anh chị tốt lắm, tạo điều kiện cho mình.
-    
 
 Dự định sắp tới của mình là gì à?
 
 - [ ] Một ngày sinh nhật thật vui vẻ, nhớ là ăn sáng đầy đủ, vui thật là vui
-    
 - [ ] CHĂM SÓC SỨC KHỎE THẬT TỐT, VIẾT NHỮNG DÒNG NÀY LÀ THẤY MẮT MỜ VÀ LƯNG ĐANG MỎI ĐÓ
-    
 - [ ] Mình sẽ học tiếng Anh thật chăm chỉ, với mục tiêu là IELTS 6.5+ sớm
-    
 - [ ] Mình sẽ tiếp tục thực hiện tốt công việc tại GeneStory, vì mình có thể thành CTV, trong thời gian đó, mình có thể chuẩn bị tốt hơn cho những mục tiêu dài hạn sắp tơi
-    
 - [ ] Mình sẽ apply FPT AI Residency
-    
 - [ ] Mình sẽ apply chương trình mà chị Huyền giới thiệu, đây là cơ hội tốt và phù hợp
 
 ---

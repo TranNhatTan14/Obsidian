@@ -173,6 +173,7 @@ Learn to use tools like SQL, pandas, and Hadoop for efficient data manipulation 
 
 Gain experience in handling big data, including knowledge of distributed computing frameworks such as Apache Spark, to manage and process large datasets effectively.
 
+
 ### [[Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence/Machine Learning]] and applications in real-world
 
  Stay abreast of emerging ML trends and frameworks, and practice by building and refining your own models.
@@ -271,3 +272,14 @@ AI in Finance
 DSA
 
 Machine Learning
+
+### Earable
+
+Designed over 60 experiments and collected over 2600 data for the R&D process of the device, including both hardware (choosing materials for the device) and software (improving the Machine Learning algorithm used in the band).  
+Collected and scored over 50 sleep sessions using gold-standard medical equipment (Alice 5 PSG) to improve the device’s sleep-scoring algorithm.  
+Researched pathway and treatment plans for content creation of the product.
+
+Research machine learning algorithms in the fields of:  
+- Recommendation system, intelligent suggestion system.  
+- Reinforcement learning, active learning, multi-armed bandit system.  
+- Brain signal processing, brain-computer interfaces.
