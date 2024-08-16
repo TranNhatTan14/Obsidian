@@ -38,17 +38,6 @@ https://huggingface.co/flair/ner-english-large
 
 https://huggingface.co/models?pipeline_tag=token-classification&language=en&sort=trending
 
-1. Sentence embedding
-
-3. Output
-
-###### Embedding
-
-1. Download the IDRISI dataset
-2. Replace all tags with "LOC" tags
-3. Preprocessing sentences to BIOES
-4. Training on dataset
-
 ### Benchmark
 
 https://paperswithcode.com/sota/named-entity-recognition-ner-on-conll-2003
@@ -121,22 +110,30 @@ Apply Data augmentation to enlarge the training dataset
 
 ###### Post Processing
 
-![[Pasted image 20240804103833.png]]
+Use a Gazetteer (OSM) to improve results
+Don't apply Data augmentation to enlarge the training dataset
 
-![[Pasted image 20240804104538.png]]
 
 2. Reprojection linear layers
 
 How to change the last layer 
 
-![[Pasted image 20240804104942.png]]
+CRF related "Viterbi Loss" function can be outperformed using "CrossEntropy loss" if weight are provided for classes
 
-![[Pasted image 20240804105126.png]]
+Flair with DeBerta V3 large embedding trained on Ontonote 5 for training
 
-![[Pasted image 20240804105247.png]]
+Epochs = 3
+Learning rate = 5e-6
+MiniBatch size = 8
+Optimizer AdamW
+Scheduler OneCycleLR
+Weight decay 0
+Hidden state 768
 
+Use RNN False
+Use CRF False
 
-![[Pasted image 20240804105544.png]]
+Reproject Embedding True
 
 ### Train and Fine-tune
 
@@ -212,15 +209,15 @@ Check in test
 
 Danh sách các location ở trong BILOU và danh sách Location ở trong JSON, dùng thống kê xem có miss match thế nào
 
-### Papers
+# Papers
 
-###### Model
+### Model
 
 [CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts](https://www.sciencedirect.com/science/article/pii/S0950705124005501)
 https://huggingface.co/rsuwaileh
 https://huggingface.co/crisistransformers
 
-###### Dataset
+### Dataset
 
 [IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets](https://www.sciencedirect.com/science/article/pii/S0306457323000778)
 https://github.com/uhuohuy/DLRGeoTweet
@@ -228,6 +225,16 @@ https://github.com/uhuohuy/DLRGeoTweet
 [DLRGeoTweet: A comprehensive social media geocoding corpus featuring fine-grained places](https://doi.org/10.1016/j.ipm.2024.103742)
 https://crisisnlp.qcri.org/humaid_dataset.html
 
-###### Gazette
+### Gazette
 
 [Automatic gazette creation for named entity recognition and application to resume processing](https://www.researchgate.net/publication/262369926_Automatic_gazette_creation_for_named_entity_recognition_and_application_to_resume_processing)
+
+# [CrisisTransformers](https://huggingface.co/crisistransformers/CT-M2-BestLoss#crisistransformers)
+
+The models were trained based on the RoBERTa pre-training procedure on a massive corpus of over 15 billion word tokens sourced from tweets associated with 30+ crisis events such as disease outbreaks, natural disasters, conflicts, etc.
+
+## Uses
+
+CrisisTransformers has 8 pre-trained models, 1 mono-lingual and 2 multi-lingual sentence encoders. The pre-trained models should be finetuned for downstream tasks just like [BERT](https://huggingface.co/bert-base-cased) and [RoBERTa](https://huggingface.co/roberta-base). The sentence encoders can be used out-of-the-box just like [Sentence-Transformers](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) for sentence encoding to facilitate tasks such as semantic search, clustering, topic modelling.
+
+We will use CT-M3-Complete for better tokenizer

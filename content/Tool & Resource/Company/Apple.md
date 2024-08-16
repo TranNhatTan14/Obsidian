@@ -14,3 +14,7 @@ Dynamically responds to environment and cancels or allows external noise
 
 ###### Conversation Awareness
 ###### iPad Pro M1 12.9 inch WiFi 128GB
+
+# MacOS
+
+## Continuity

@@ -2,7 +2,6 @@
 > - [ ] Build assistant
 > - [ ] Submit 
 > - [ ] Tham gia challenges in Kaggle and ...
-> - [ ] Answer job in Linkedln
 > - [ ] Tối ưu thời gian sử dụng điện thoại
 > - [ ] Continute [[Researcher]]
 > - [ ] Build [OpenCore](Apple.md#MacOS) to install MacOS in laptop
@@ -10,15 +9,14 @@
 > - [ ] Surge for data
 > - [ ] How to learn from Kaggle and do the comp to get the discount for Microsoft certificate
 > - [ ] Update the [[Hugging Face]] page and use it
-> - [ ] Hỏi bố mẹ về tiền đất
 
-###### Personal
+### Personal
 
 - [ ] Build the [[Vision Board]]
 - [ ] Manifest
 - [ ] Glow up (Beautiful)
 
-###### Health
+### Health
 
 - [ ] Granola
 - [ ] Sức khỏe răng miệng (Nụ cười tươi giúp mình tự tin hơn)
@@ -37,7 +35,7 @@ Developer
 
 - [ ]  [Learn from Hugging Face](https://huggingface.co/learn)
 
-###### Language
+### Language
 
 - [ ] How to store new vocabulary and learn with space repition
 
@@ -46,7 +44,7 @@ Developer
 - [ ] Buy stocks
 - [ ] Learn about FOREX and [[Cryptocurrency]]
 
-###### Work
+### Work
 
 - [ ] [Thay pin cho laptop](https://linhkienlaptop24h.com/san-pham/pin-dung-cho-laptop-msi-gf63-bty-m6k-)
 - [ ] Sign for [Apple Developer Program fee waiver](https://developer.apple.com/support/fee-waiver/)

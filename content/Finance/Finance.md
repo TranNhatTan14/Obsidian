@@ -17,8 +17,6 @@ Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack ap
 - [ ] 500,000,000
 - [ ] 1,000,000,000
 
-###### Automation X bot
-
 Hành trình kiếm 500 triệu trong 365 ngày
 
 - Kiếm được nhiều tiền
@@ -34,6 +32,8 @@ Hành trình kiếm 500 triệu trong 365 ngày
 
 - [Google One](https://one.google.com)
 - [Brilliant Premium](https://brilliant.org/payment/subscription_settings)
+
+# Expense
 
 ### Futures and Spot
 
@@ -91,14 +91,19 @@ VP 21 HSBC 5
 Tận dụng ưu đãi 45-55 ngày miễn lãi
 
 Tech va VP hoan tien
-### Active income
+
+# Income
+
+> [!tip] Passive income will chiếm 80%, thời gian là có hạn, công sức là có hạn, hãy để tiền đẻ ra tiền
+
+## Active income
 
 Kiến thức, công sức, thời gian có giới hạn nên có mức trần giới hạn
 
 - Earned income: Salary, Freelance
 - Profit: Buôn bán, Mở công ty, xuất nhập khẩu, xúc tiến thương mại
 
-### Passive income
+## Passive income
 
 1. Interest (Lãi suất cho vay)
 	1. Cho vay (cho bạn bè vay)
@@ -164,6 +169,35 @@ Kiến thức, công sức, thời gian có giới hạn nên có mức trần g
 Service
 Apple Developer
 
-### No
+# Invest
+## No
 
-###### Cryptocurrency Airdrop
+### Cryptocurrency Airdrop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Threshold: bao nhiêu là đủ
+Khi đủ rồi thì mình sẽ làm gì
+Mình cần đầu tư vào những khoản gì
+[[Chữa mắt với Phakic ICL]]

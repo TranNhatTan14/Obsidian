@@ -322,13 +322,11 @@ Concept drift describes a change in the relationship between the input data and 
 ### Feedback loop
 
 ![[Pasted image 20240810183352.png]]
-
 ### Retraining
 
 When we retrain, a new model is obtained by using new data. We could either use a model that only uses new data, such that there is a separate model trained on old data and a model trained on new data.
 
 We could also combine new and old data to develop a new model. This will also depend on the domain, cost, and required model performance.
-
 
 ### Automation and scalability
 
