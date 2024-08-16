@@ -11,48 +11,43 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 2. Một điều thú vị là phỏng vấn thường sẽ khó hơn là khi thực hiện công việc, nên là đừng tạo áp lực quá lớn
 
 ---
-
-- Glassdoor
-- Chinese website for leak content
-
-3. **Talk about people.** My Google manager always reminded me that he offered me a role because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.
-4. **Talk about impact.** The impact is why that bullet matters. If you can clearly explain why the impact of your work matters, then it shows you can see the bigger picture that everything you do is for the end user.
-5. Định lượng
-6. **Experience > Completion.** It's 100% okay to put unfinished projects or work on your resume. It's more important that the candidate know the material and not whether it was actually done. Leading a project half way **STILL COUNTS** as leading a project.
-
----
 ## Manage skills
 
 - Design and build working prototype for ML and AI applications
-- Architect and implement scalable AI systems and pipelines, en
+- Architect and implement scalable AI systems and pipelines
 
-### Programming
+# Programming
 
 - **Programming language**: Python, C, C++, R, JavaScript
-- **Frameworks**: PyTorch, TensorFlow, Keras and scikit-learn, [Safetensor](https://huggingface.co/docs/safetensors/index)
+- OOP
+
+# Training
+
+## Framework
+
+- PyTorch and MLX and TensorFlow, Keras, Flair, MXNet (Amazon), scikit-learn, [Safetensor](https://huggingface.co/docs/safetensors/index)
 
 ### Hardware & Low-level Optimization
 
 - Programming for NVIDIA, AMD, Intel hardware: CUDA. [RAPIDs](https://rapids.ai), GPGPU
 
-###### AI/ML Implementation, development and optimization on hardware
+### AI/ML Implementation, development and optimization on hardware
 
 - Jetson TX: NVIDIA's embedded AI computing platform. It's designed for edge AI applications, combining a GPU, CPU, and deep learning accelerators.
 - FPGA (Field-Programmable Gate Array): These are reconfigurable chips often used for AI acceleration due to their flexibility and energy efficiency.
 - ARM: ARM-based processors are widely used in mobile and embedded devices. They're becoming increasingly important for on-device AI.
 - DSP (Digital Signal Processor): These are specialized microprocessors optimized for digital signal processing algorithms, often used in AI for tasks like audio or image processing.
 
-###### Visualization and GPU-accelerated computing:
+### Visualization and GPU-accelerated computing
 
-- OpenGL: While primarily a graphics API, OpenGL can be used for general-purpose GPU computing (GPGPU) in some AI applications, especially those involving visual data.
+OpenGL: While primarily a graphics API, OpenGL can be used for general-purpose GPU computing (GPGPU) in some AI applications, especially those involving visual data.
 
-###### Model conversion tools:
+### Model conversion tools:
 
 - **SNPE** (Snapdragon Neural Processing Engine): Qualcomm's SDK for running neural networks on Snapdragon platforms.
 - **TensorRT**: NVIDIA's platform for high-performance deep learning inference, optimizing trained models for deployment.
 - **Tensor Core**: NVIDIA's specialized cores in their GPUs designed to accelerate matrix multiply and convolution operations common in deep learning.
 - **ONNX** (Open Neural Network Exchange): An open format to represent machine learning models, allowing easier conversion between different frameworks.
-
 
 - CPU Hardware
 	- Intel consumer and Xeon
@@ -68,39 +63,61 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 
 - Popular Inference Engines: llama.cpp, vLLM, TensorRT-LLM
 
+# Cloud Computing
+
+## Azure
+
+- Experience ==building and deploying ML models in a Cloud Platform (Azure is preferred)==
+- Create and improve Azure-based BigData platform
+- Azure Data Factory
+
+## AWS
+
+- Maintain and optimize existing AI/ML cloud architecture in AWS.
+
+## GCP
+
 ### Cloud & Operation
 
-- Cloud platform: AWS, Azure, GCP
 - Container technology: Docker, Kubernetes
 - Operating System: Windows, MacOS, Linux
 - Version control and collaborative development: Git
-- Familiarity with DevOps methodologies and tools for efficient CI/CD processes.
 - **Proven track record in designing and deploying scalable, distributed systems for AI applications.**
 - Experience with integrating AI solutions into SaaS systems
 - Familiar with software engineering practices, such as version control, testing, and deployment
 
-### Data & Database
+# Data & Database
 
-- Familiarity with NoSQL: AWS DynamoDB, Neo4j
-- Database operations and data manipulation
+## Data
+
+### Data Preprocessing
+
+### Data Augmentation
+### Feature Engineering
+
+## SQL
+
+- NoSQL: AWS DynamoDB, Neo4j
+- Build complex SQL queries using MongoDB, Oracle, SQL Server, MariaDB, MySQL
+- Work with SQL, noSQL, and vector/embeddings databases
 - SQL, Query
-- Data Preprocessing
-- Feature Engineering
-- Data Augmentation
+
+## Database
+
+- AWS DynamoDB
+- Strong knowledge of databases, including the database engines and hosting option in AWS.
+    - RDS PostGres database and PGVector database highly preferred.
+- Database operations and data manipulation
+
 - Pandas/Polars for data manipulation and analysis
 
+- Train, fine-tune, and deploy AI models
+
 # Artificial Intelligence
-
-### Training
-
-###### Training Framework
-
-- PyTorch and MLX and TensorFlow, Keras, Flair, MXNet (Amazon)
 
 - OpenAI, LangChain, LlamaIndex, VectorDB, RAG, HuggingFace
 
 - Consulting with the manager to determine and refine machine learning objectives.
-- Designing
 - Demonstrated ability to develop and implement AI solutions.
 - Model Development
 - Trains and validates models using evaluation metrics.
@@ -115,17 +132,25 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 
 - Ability to design environments that support MLOps pipelines by creating architecture diagrams and process flows, selecting appropriate tooling, and deploying the solution
 - Experience with Generative AI and Large Language Model (LLM) tools and frameworks
-- Experience with Huggingface, LangChain, AutoGPT, or AgentGPT
 - Experience with MLOps open source and Commercial Off the Shelf (COTS) products, including MLFlow, Databricks, Domino, or SageMaker
 - Experience with addressing functional, technical, and performance requirements and evaluating architectural tradeoffs for data science and AI or ML solutions
 - Ability to work in a team environment and effectively communicate technical concepts to clients, stakeholders, and senior leaders
 - Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information
 - AI/LLM: HuggingFace, OpenAI, etc
 - Experience ETLing large amounts of data (preferably, with AI) in production
-- Azure Data Factory
 - ElasticSearch / Cognitive Search
-- CI/CD for data and AI models
 - Hadoop, Spark, Kafka, etc
+
+# CI/CD
+
+- CI/CD for data and AI models
+- Implement CI/CD for BigData platform and AI models
+- Familiarity with DevOps methodologies and tools for efficient CI/CD processes.
+- Works with CI/CD teams for seamless model deployment.
+
+# Experience
+
+- Experience with Huggingface, LangChain, AutoGPT, or AgentGPT
 
 ### Education & Experience
 
@@ -161,7 +186,7 @@ Linear Algebra, Probability & Statistics, Optimization techniques
 
 - Fine-tuning Generative AI models
 
-###### LLM
+### Large Language Model
 
 Foundation models
 
@@ -173,7 +198,7 @@ Training and Fine-tuning foundation LLM models
 - Low-Rank Adaptation (LoRA)
 - QLoRA
 
-###### Quantization
+### Quantization
 
 - llama.cpp
 - GPTQ
@@ -197,16 +222,6 @@ Use-cases
 ### Predictive Analytics
 
 Utilized in finance, healthcare, and marketing for forecasting trends and outcomes
-
-### Robotics
-
-### Computer Vision
-
-- Framework: OpenCV, Caffe, TensorFlow
-
-### Speech Recognition and Synthesis
-
-Applied in virtual assistants, transcription services, and accessibility tools.
 
 # Soft skills
 
@@ -275,7 +290,6 @@ Applied in virtual assistants, transcription services, and accessibility tools.
 - Manages technical requirements, cost estimation, and budgeting for AI/ML solutions.
 - Works with large language models (LLMs) APIs.
 - Develops and maintains scalable ML pipelines.
-- Works with CI/CD teams for seamless model deployment.
 - Collaborates with research and engineering teams on automated model training.
 - Applies ML and statistical modeling to business or research problems.
 
@@ -292,13 +306,10 @@ Applied in virtual assistants, transcription services, and accessibility tools.
 - Data Science
 - Deep Learning
 - Job Orchestration
-- Machine Learning
-- Microsoft Azure
 - Software Engineering
 
 Duties/Responsibilities:
 
-- Maintain and optimize existing AI/ML cloud architecture in AWS.
 - Maintain and optimize existing data infrastructure, including RDS PostGres database, PGVector database, and planning for future graph databases.
 - Stay up to date on AI developments and how new AI technologies can be used to create custom solutions that advance the mission of IHS.
 - Provide relevant training, such as prompt engineering, to better AI/ML integration and utilization amongst IHS staff.
@@ -308,10 +319,7 @@ Duties/Responsibilities:
 
 Required Skills/Qualifications:
 
-- 5+ years of experience in cloud engineering, preferably in AWS.
 - Proven experience and success in a customer-facing role.
-- Strong knowledge of databases, including the database engines and hosting option in AWS.
-    - RDS PostGres database and PGVector database highly preferred.
 - Experience with AI and machine learning technologies, matched by experience with integrating these technologies into cloud systems.
 - Excellent interpersonal, collaborative, relationship building, and communication skills, both verbally and in writing.
     - Demonstrable ability to discuss, teach, and inform non-technical individuals of relevant and applicable topics and functions related to the cloud, AI, and other forms of technology.
@@ -319,23 +327,22 @@ Required Skills/Qualifications:
 
 ---
 
-
 - In this role, you'll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies
-- As an ML engineer, you'll help define and develop MLOps pipelines and containerized solutions to enable secure, robust delivery of models to the enterprise
-- You'll work closely with your client to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle
+
+- As an ML engineer, 
+- Define and develop MLOps pipelines and containerized solutions to enable secure, robust delivery of models to the enterprise
+- Work closely with your client to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle
 - You'll develop algorithms, write scripts, build predictive analytics, apply ML and deep learning, and use the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help drive innovation, research, and development for our military and government leaders to make informed decisions
 - Your advanced consulting skills and extensive technical expertise will guide clients as they navigate the landscape of ML algorithms, tools, and frameworks
-- Work with us to solve real-world challenges and help define AI/ML strategy for our clients
 
-- Train, fine-tune, and deploy AI models
-- Create and improve Azure-based BigData platform
-- Work with SQL, noSQL, and vector/embeddings databases
-- Implement CI/CD for BigData platform and AI models
-- Work closely with the Application Team to deliver the best user experience
-- Work with our data analysts on automating data processes
-
+Data analysts on automating data processes
 
 # [Resume](https://www.overleaf.com/project/662216c1aaa7879b26c4e7af)
+
+3. **Talk about people.** My Google manager always reminded me that he offered me a role because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.
+4. **Talk about impact.** The impact is why that bullet matters. If you can clearly explain why the impact of your work matters, then it shows you can see the bigger picture that everything you do is for the end user.
+5. Định lượng
+6. **Experience > Completion.** It's 100% okay to put unfinished projects or work on your resume. It's more important that the candidate know the material and not whether it was actually done. Leading a project half way **STILL COUNTS** as leading a project.
 
 # Companies
 
@@ -344,21 +351,19 @@ Required Skills/Qualifications:
 3. [FPT Smart Cloud](https://fptsmartcloud.com/job_opportunity/ai-engineer)
 4. [VNPAY](https://tuyendung.vnpay.vn/tuyen-dung/ai-engineer.html)
 
-[https://startup.jobs/?remote=true&q=Machine+Learning+Engineer](https://startup.jobs/?remote=true&q=Machine+Learning+Engineer)
-
 [Crypto Data Scientist / Machine Learning Engineer (Hanoi-Remote)](https://jobs.lever.co/tokenmetrics/d3f09378-0dcc-40ee-80cd-f61ce9a9bd00)
 Rackspace Senior Machine Learning Engineer - Vietnam remotely
 [AI Specialist (Crypto)](https://jobs.gft.com/job/Hanoi-AI-Specialist-%28Crypto%29-10000/1106658701)
 
 [Prep](https://www.topcv.vn/brand/congngheprep/tuyen-dung/ai-engineer-j1429014.html?ta_source=JobSearchList_LinkDetail&u_sr_id=AL0PXYlsmftO3L18AZDC6sG07kxIVJMNa56533Bd_1723266909)
 
-###### [AI Engineer](https://tuyendung.sapo.vn/co-hoi-viec-lam/lap-trinh-vien-ai-a3590.html)
+### [AI Engineer](https://tuyendung.sapo.vn/co-hoi-viec-lam/lap-trinh-vien-ai-a3590.html)
 
-###### [Taureau.AI AI Engineer](https://www.taureau.ai/careers/ai-engineer)
+### [Taureau.AI AI Engineer](https://www.taureau.ai/careers/ai-engineer)
 
-###### [Early Start](https://monkey.edu.vn/tuyen-dung/ai-engineer-senior)
+### [Early Start](https://monkey.edu.vn/tuyen-dung/ai-engineer-senior)
 
-###### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
+### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
 
 # Interview
 
@@ -368,22 +373,137 @@ Rackspace Senior Machine Learning Engineer - Vietnam remotely
 - [ ] Thể hiện được mình đam mê với lĩnh vực Healthcare
 - [ ] Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
 
-###### Email cảm ơn sau khi phỏng vấn
+---
+https://nodesk.co/remote-jobs/ai
+https://nodesk.co/remote-jobs/machine-learning
+https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
 
-Thân gửi phòng ...
+We’re looking for engineers with a ==background in Machine Learning and Artificial Intelligence== to improve our products and build new capabilities. You will be driving fundamental and applied research in this area. You will be combining industry best practices and a first-principles approach to design and build ML models that will improve Figma’s design and collaboration tool.
 
-Lời đầu tiên em xin được cảm ơn phía công ty đã dành thời gian đánh giá CV và phản hồi lại email ứng tuyển
+**The Role You’ll Play**
 
-Em trả lời email này nhằm xác nhận tham gia lịch hẹn phỏng vấn vào:
+Here at CB Insights, our ==AI engineers build robust AI-powered services and features that turn all kinds of data into high-value, actionable insights==. This Senior AI Engineer role is on our primary AI product engineering team that focuses on ==integrating AI functionality across our platform, with a heavy emphasis on user-facing features==. Data science and machine learning expertise are NOT required for the role.
 
-Thời gian
+**Your Main Tasks:**
 
-Địa điểm
+- ==Develop AI-powered features and improve AI workflows and performance on a small Agile team.==
+- Mentor other engineers in AI best practices, particularly in prompt engineering and LLM integration.
+- Consistently and frequently deliver solutions that leverage AI effectively, are well-engineered, maintainable and tested within the agreed-upon time frame.
+- Participate in code reviews and sprint planning, help identify opportunities for AI integration, work through challenges and share knowledge with colleagues.
+- Collaborate with the product team to ==understand business requirements== and ==translate them into AI-powered solutions.==
 
-Em hy vọng sẽ được chia sẻ đam mê và các kỹ năng trong công việc với phía công ty trong cuộc phỏng vấn
+**What You Bring to the Table:**
 
-Nếu công ty cần thay đổi hoặc thêm thông tin, xin vui lòng phàn hồi qua email hoặc số điện thoại ... để em có sự chuẩn bị kỹ lưỡng nhất.
+- 3+ years professional ==experience in backend engineerin==g in Go, Python, or similar
+- Strong experience with ==prompt engineering== and ==integrating LLMs into production systems==
+- ==Deep understanding of the capabilities and limitations of various AI models and approaches==
+- Experience with AI frameworks and tools, particularly those supporting advanced workflows and agent orchestration
+- ==Strong problem-solving skills and ability to optimize AI performance, cost, and quality==
 
-Chúc công ty một ngày tốt lành
+**You’ll be successful here if:**
 
-Trân trọng cảm ơn
+- You’re passionate about using AI as a powerful lever to drive value for users
+- You can ==take a complex problem or goal, break it down, and devise and implement your own strategies for solving it==
+- Working alongside other high-performing engineers motivates you
+- You have ==previous experience in a fast-paced startup environment==
+- You have ==excellent written and verbal communication skills==
+
+**What you’ll do:**
+
+- Tackle large open-ended problems and drive them to completion, collaborating with other designers and engineers to make the web a better place.
+- Identify strategic opportunities where machine learning models improve the experience in Firefox.
+- Lead the design, development, and integration of innovative machine learning models in Firefox, collaborating cross functionally with product management, full stack engineering and design.
+- Stay up-to-date with the latest advancements in machine learning, natural language processing, and related fields to ensure our methodologies remain innovative and relevant.
+- Lead by example to upskill the team on AI and generate thought leadership.
+
+**What you'll bring:**
+
+- 8+ years ==experience as an Engineer in machine learning or artificial intelligence.==
+- Deep knowledge of core web technologies and modern machine learning concepts like deep learning, natural language processing, large language models, reinforcement learning with expertise in one or more areas.
+- Identify difficult problems that are important for the organization, collaborate across teams and the organization to find the best strategy to resolve.
+- Ability to quickly analyze and solve sophisticated software development problems spanning multiple components, sometimes outside your area of expertise.
+- Proven track record of technical leadership across multiple teams, shipping AI products showing a high degree of collaboration, flexibility, and respect for diverse perspectives
+- Strong problem-solving skills and ability to communicate complex concepts to technical and non-technical stakeholders.
+- Passion for responsible AI, transparent algorithms, and putting users’ needs first.
+- Experience with analyzing large-scale dataset utilizing statistical and machine learning tools
+- Experience with design of experiments, survey design, and large-scale AB testing
+- You’re pragmatic about how to move things forward in specific timeframes including trade-offs and safeguards when implementing new functionality.
+- Excellent written and verbal English communication skills and have participated effectively on a distributed team
+
+**Bonus Points**
+
+- You have previously successfully contributed to an open source project.
+- Experience with the browser extensions architecture or ecosystem.
+
+We value a variety of voices within our team and at Mozilla. You don't need to check every box on this list to apply.
+
+### Containerization
+### Cloud deployment
+### Multi-service architectures
+
+### Employment Hero - Intermediate Machine Learning Engineer
+
+As a Machine Learning Engineer, you will play a pivotal role in advancing our AI efforts. You will have ==expert-level understanding of LLMs and stay up to date with the latest developments in this space to build scalable, robust, and high-performance AI systems==. Your deep technical expertise and business acumen will be crucial in building AI solutions to the identified problems and driving business growth.
+
+**In your role, you'll be focused on**
+
+- Design and build working prototype for machine learning and AI applications.
+- Architect and implement scalable AI systems and pipelines, ensuring seamless integration with existing infrastructure.
+- Design an evaluation framework to track the system performance online and offline.
+- Work closely with cross-functional teams, including software engineers and product managers, to build AI solutions that solve customer problems.
+- Provide an technical guidance and mentorship to other ML engineers, fostering a culture of continuous learning and innovation.
+
+**Requirements**
+
+- 3+ years of experience in machine learning, with a ==strong focus on applied AI and large language models==.
+- Python, LLM, OpenAI, LangChain, LlamaIndex, Vector DB, RAG, HuggingFace, NLP, Recommender System, Chatbot.
+- ==Experience with Generative AI, Prompt Engineering and Large Language Models.==
+- Be curious about the latest developments in AI research, continuously exploring new methodologies, tools, and techniques to enhance our AI capabilities.
+- Experience using Agile methodologies and working with Product teams.
+- Quality coding practices, including test-driven development, unit testing and secure coding awareness.
+- You are passionate about learning and sharing your knowledge, and not afraid to challenge your peers, but also welcome being challenged.
+- English language abilities, both written and verbal - you’ll be working with people across the world.
+
+Experience is important, but for us the ==biggest measure of success is people who can live and breathe our values==. Show us what you can bring to the table, and we’ll empower you to let your talents shine.
+
+###  Rackspace Technology
+
+As a Machine Learning Engineer, you will deliver ML models and pipelines that solve real-world business problems, while leveraging ML Ops best practices, to ensure successful deployment of ML models and application code. You will leverage cloud-based architectures and technologies to deliver optimized ML models at scale. You will use programming languages like Python and work with popular ML frameworks like Scikit Learn, Tensorflow etc..
+
+If you get a thrill working with cutting-edge technology and love to help solve customers’ problems, we’d love to hear from you. It’s time to rethink the possible. Are you ready?
+
+### What You’ll Be Doing:
+
+### ETL code
+
+ETL code, or Extract, Transform, Load code, is ==a set of computer instructions that combine data from different systems into a single database or data store==
+
+- Build complex ETL code
+- Work on Data and Analytics Tools in the Cloud
+- Develop code using Python, Scala, R languages
+- Work with technologies such as Spark, Hadoop, Kafka, etc.
+- Build complex Data Engineering workflows
+- Create complex data solutions and build data pipelines
+- Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
+- Capture and share industry best practices amongst the community
+- Attend and present valuable information at Industry Events
+
+### Responsibilities:
+
+- Work on full stack technology, from ML and data to production ready models
+- Demonstrable experience in all aspects of the ML lifecycle (processing, training, evaluating, deploying, serving, monitoring)
+- Collaborate with a cross functional agile team spanning design, data science, product management, and engineering to build new technologies and features.
+- Experience in developing scalable data driven solutions while working closely with infrastructure teams.
+- Experience in dealing with databases and building ETL pipelines
+- Strong software development experience with Python or other programming languageStrong communication and teamwork skills
+- Passionate about techniques and solving challenging problems
+
+### Qualifications:
+
+- At least 3 years of experience programming with Python, Scala, or Java2+ years of experience ==building end-to-end data pipelines==
+- 2+ experience working on large-scale data science/data analytics projects
+
+### Location
+
+- This is a remote / virtual role
+- Candidate needs to be based in Vietnam

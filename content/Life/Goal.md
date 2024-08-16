@@ -17,47 +17,38 @@
 - Giải quyết các bài toán của Việt Nam
 - Biết được mình thích làm gì và theo đuổi lâu dài
 
-### To do
+# Long-term
 
-- [ ] Learning new things everyday
+# Carrer & Professional
 
-### Presonal
+## [[IKIGAI]] work
 
-- [ ] Hiểu hơn về bản thân mình, cơ thể của mình
-	- [ ] Cải thiện thị lực
+Công việc có thu nhập tốt, thời gian linh hoạt, đóng góp tốt cho xã hội
 
-###### Personal development
+# Education & Learning
 
-Chăm sóc sức khỏe thể chất và tinh thần
-Phát huy điểm mạnh và khắc phục điểm yếu
+Fully funded scholarships for master program in top university
+Which major? which country
 
-### Career & Professional
+# Finance
 
-- [ ] [[IKIGAI]] work
+Quản lý tốt tài chính cá nhân
+[Financial Freedom](Financial%20Freedom.md)
+1,000,000 USD
+Learn how to invest, tạo được nhiều nguồn thu nhập thụ động song song với thu nhập chủ động
 
-### Finance
+# Life
 
-- [ ] Manage finance
-	- [ ] Thu nhập từ nhiều nguồn bao gồm thu nhập chủ động và thụ động
-- [ ] Investment
-- [ ] [Financial Freedom](Financial%20Freedom.md)
-
-### Education & Learning
-
-- [ ] Fully funded scholarships for master program in top university
-
-### Life
-
-###### Achievement
+### Achievement
 
 - [ ] Tập trung vào thành tựu tích lũy theo thời gian, nghĩa là có thể ảnh hưởng đến tương lai
 
-###### Explore
+### Explore
 
 - [ ] Hiểu hơn về thế giới và cách thế giới vận hành và có thể chủ động hơn trong cuộc sống
 - [ ] Hạn chế thời gian dành cho những danh hiệu vô nghĩa, chỉ để thể hiện
 
-###### Happy life
+### Happy life
 
 - [ ] Beautiful wife, obedient children, happy family
 - [ ] Have meaningful [time](Time.md) for myself and with important relationship
@@ -66,3 +57,10 @@ Phát huy điểm mạnh và khắc phục điểm yếu
 
 - [ ] Sử dụng tài nguyên và công cụ, đừng để công cụ sử dụng mình
 - [ ] Xác định mục đích sử dụng của từng đồ dùng
+
+# Personal
+
+Cải thiện thị lực, và mổ mắt bằng phương pháp Phakic ICL
+Hiểu hơn về cảm xúc của bản thân, hiểu về cơ thể của mình hơn
+Chăm sóc sức khỏe thể chất và tinh thần
+Phát huy điểm mạnh và khắc phục điểm yếu
