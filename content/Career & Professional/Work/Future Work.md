@@ -123,10 +123,11 @@ OpenGL: While primarily a graphics API, OpenGL can be used for general-purpose G
 - Trains and validates models using evaluation metrics.
 - Optimizes hyperparameters to improve model performance.
 - Developing
-- Fine-tuning
 - Deploys models ensuring scalability, reliability, and efficiency.
 - Monitors and updates deployed models to adapt to changing data.
 - Optimize and improve model training processes.
+
+## Fine-tune
 
 # Requirements
 
