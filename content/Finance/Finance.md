@@ -61,7 +61,15 @@ Bơi theo cá mập hay bơi theo để cá mập ăn?
 
 ### Credit
 
+CIC = 614
+
 - [Credit Check](https://checker.top)
+
+Credit card
+
+- 4118 1031 7401 9730
+- 06/31
+- 132
 
 Tìm hiểu về tín dụng, làm sao để tối đa hóa lợi ích từ thẻ tín dụng
 

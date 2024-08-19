@@ -1,6 +1,10 @@
 anagram
 homophone - từ đồng âm
+synonym
+antonym
+
 hint
+
 
 Follow the rules
 Take pity on (feel bad for)
