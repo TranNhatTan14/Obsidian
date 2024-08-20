@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "18215ed1ea7a6654",
+    "type": "split",
+    "children": [
+      {
+        "id": "1109955df574c5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24c944922e87a03d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac646a614b459f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0def893d645e368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75d9304b7380b1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "357eb02a8685fe6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46216435ddd9fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "685661460335a225",
+    "type": "split",
+    "children": [
+      {
+        "id": "e70f57567e99048a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd9d07c2d9687757",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "935d8b3ac442a32b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95c54f3434d7d575",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c10d07f62acce7c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c75d9304b7380b1b",
+  "lastOpenFiles": [
+    "Obsidian/content/Template",
+    "Obsidian/content/Wiki.md",
+    "Obsidian/content/VPN.md",
+    "Obsidian/content/Untitled.md",
+    "Obsidian/content/Transformers.md",
+    "Obsidian/content/Timeline.md",
+    "Obsidian/content/Superman.md",
+    "Obsidian/content/Single Inferno.md",
+    "Obsidian/content/Rune Seeker.md",
+    "Obsidian/content/PCA.md",
+    "Obsidian/content/Overthinking.md",
+    "Obsidian/content/OpenCore.md",
+    "Obsidian/content/Improving Accuracy of LLM Applications.md",
+    "Obsidian/content/Game.md",
+    "Obsidian/content/Everyday.md",
+    "Obsidian/content/Digital Ocean.md",
+    "Obsidian/content/Designing and implementing a data science solution on Azure.md",
+    "Obsidian/content/Deep Learning.md",
+    "Obsidian/content/Data.md",
+    "Obsidian/content/Archived.md",
+    "Obsidian/content/anthrop.md",
+    "Obsidian/content/World.md",
+    "Obsidian/content/Zettelkasten",
+    "Obsidian/content/Files",
+    "Obsidian/content/Reference",
+    "Obsidian/content/Tool & Resource/YouTube/Artem Kirsanov.md",
+    "Obsidian/content/Tool & Resource/YouTube/3Blue1Brown.md",
+    "Obsidian/content/Tool & Resource/Article/Manage Your Energy, Not Your Time.md",
+    "Obsidian/content/Life/To do.md",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819141419.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819134703.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132715.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132521.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132447.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819094430.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819073917.png",
+    "Obsidian/content/Tool & Resource/Images/Pasted image 20240817090140.png",
+    "Obsidian/content/Tool & Resource/Images/Timeline_20240109_VIASM.png",
+    "Obsidian/content/Tool & Resource/Images/Timeline_20230603_HaiPhong.png",
+    "Obsidian/content/Career & Professional/Skills",
+    "Obsidian/content/Education & Learning/Knowledge",
+    "Obsidian/content/Life/Year",
+    "Obsidian/content/Life/Technique",
+    "Obsidian/content/Tool & Resource/Images",
+    "Obsidian/content/Tool & Resource/Company",
+    "Obsidian/content/Career & Professional/Role",
+    "Untitled.canvas"
+  ]
+}

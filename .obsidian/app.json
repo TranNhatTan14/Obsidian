@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "readableLineLength": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Obsidian/content/Zettelkasten",
+  "attachmentFolderPath": "Obsidian/content/Files",
+  "showIndentGuide": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

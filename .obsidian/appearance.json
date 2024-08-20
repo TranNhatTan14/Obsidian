@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "snippet",
+    "list",
+    "media"
+  ],
+  "accentColor": "",
+  "showViewHeader": true
+}
