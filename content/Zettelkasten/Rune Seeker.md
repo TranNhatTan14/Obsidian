@@ -16,5 +16,3 @@ Spam được với mọi bài, không mất công điều chỉnh sau mỗi tr�
 ### Comment
 
 với tốc độ trận đấu bị rút lại trong 4-5 turn như này thì mình chắc chắn nắm thế chủ động, nhất là trong TH gặp team nước câu giờ và gây st bằng độc.
-
-vậy nếu đối phương cầm team phong để với hy vọng đánh trước gây choáng thì sao, hoặc round đầu 3 ông đánh 3 thg khác nhau, chứ trong vid là ảo, quá ảo ma

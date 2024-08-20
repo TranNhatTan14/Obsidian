@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1109955df574c5be",
+        "id": "b1b4421f59abcf9c",
         "type": "tabs",
         "children": [
           {
-            "id": "24c944922e87a03d",
+            "id": "0fad3115975a252d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Zettelkasten/Rune Seeker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Zettelkasten/Rune Seeker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Zettelkasten/Rune Seeker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Zettelkasten/Rune Seeker.md"
+              }
             }
           }
         ],
@@ -140,6 +148,10 @@
   },
   "active": "c75d9304b7380b1b",
   "lastOpenFiles": [
+    "2024-08-20.md",
+    "content/Zettelkasten/Rune Seeker.md",
+    "content/Career & Professional/Pro/NSAID.md",
+    "NS.md",
     "Obsidian/content/Template",
     "Obsidian/content/Wiki.md",
     "Obsidian/content/VPN.md",
@@ -166,9 +178,6 @@
     "Obsidian/content/Files",
     "Obsidian/content/Reference",
     "Obsidian/content/Tool & Resource/YouTube/Artem Kirsanov.md",
-    "Obsidian/content/Tool & Resource/YouTube/3Blue1Brown.md",
-    "Obsidian/content/Tool & Resource/Article/Manage Your Energy, Not Your Time.md",
-    "Obsidian/content/Life/To do.md",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819141419.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819134703.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132715.png",
@@ -185,7 +194,6 @@
     "Obsidian/content/Life/Technique",
     "Obsidian/content/Tool & Resource/Images",
     "Obsidian/content/Tool & Resource/Company",
-    "Obsidian/content/Career & Professional/Role",
     "Untitled.canvas"
   ]
 }
