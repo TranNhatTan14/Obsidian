@@ -16,3 +16,55 @@ Spam được với mọi bài, không mất công điều chỉnh sau mỗi tr�
 ### Comment
 
 với tốc độ trận đấu bị rút lại trong 4-5 turn như này thì mình chắc chắn nắm thế chủ động, nhất là trong TH gặp team nước câu giờ và gây st bằng độc.
+
+BIến thành đại địa hình thì sẽ không có nhiều quái có thể xuất hiện
+
+![[Pasted image 20240821124734.png]]
+
+Gọi thần hộ vệ chiếm vị trí
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Inferno Skydrake
+
+Fireblood Each turn restore HP equal to 3% of the number of adjacent Ignis Terrain tiles. 
+Dragon Blood Begin the battle with Steel (2 turns). 
+Hellfire Attack a random Enemy, dealing DMG = 180% ATK + 15% for each adjacent Ignis Terrain tile.
+
+## Dragon Slayer
+
+Grit Receive 40 Block. 
+Dark Flame Applies Dark Flame (4 turns) on self. 
+Split Flesh There is a 20% chance that an incoming single target attack will miss this Hero.
+
+Dark Warp When Hero deals a critical hit, transforms up to 1 non-Lava Terrain tiles adjacent to itself into Lv.1 Lava Terrain. Cannot alter the Great Terrain. 
+Dark Eyes Begin the battle with 20 Critical. 
+Dark Transform Transform up to 6 non-Lava Terrain tiles adjacent to itself into Lv.2 Lava Terrain. Cannot alter the Great Terrain.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

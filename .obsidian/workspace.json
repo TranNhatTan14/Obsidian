@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fad3115975a252d",
+            "id": "0ce5e4322deaaf68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/Rune Seeker.md",
+                "file": "content/Zettelkasten/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "685661460335a225",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettelkasten/Rune Seeker.md",
+                "file": "content/Zettelkasten/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettelkasten/Rune Seeker.md",
+                "file": "content/Zettelkasten/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettelkasten/Rune Seeker.md"
+                "file": "content/Zettelkasten/Docker.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c75d9304b7380b1b",
+  "active": "0ce5e4322deaaf68",
   "lastOpenFiles": [
-    "2024-08-20.md",
+    "content/Zettelkasten/Untitled 1.md",
+    "content/Zettelkasten/Docker.md",
+    "content/Zettelkasten/Computational Biology.md",
+    "content/Career & Professional/Skills/Operating systems.md",
     "content/Zettelkasten/Rune Seeker.md",
+    "content/Files/Pasted image 20240822145315.png",
+    "content/Files/Pasted image 20240821124734.png",
+    "content/Education & Learning/Learning.md",
+    "content/Tool & Resource/Tools/Obsidian.md",
+    "content/Zettelkasten/Designing and implementing a data science solution on Azure.md",
     "content/Career & Professional/Pro/NSAID.md",
+    "content/Zettelkasten/Wiki.md",
+    "content/Education & Learning/Education.md",
+    "2024-08-20.md",
     "NS.md",
     "Obsidian/content/Template",
     "Obsidian/content/Wiki.md",
@@ -166,18 +179,9 @@
     "Obsidian/content/OpenCore.md",
     "Obsidian/content/Improving Accuracy of LLM Applications.md",
     "Obsidian/content/Game.md",
-    "Obsidian/content/Everyday.md",
-    "Obsidian/content/Digital Ocean.md",
-    "Obsidian/content/Designing and implementing a data science solution on Azure.md",
-    "Obsidian/content/Deep Learning.md",
-    "Obsidian/content/Data.md",
-    "Obsidian/content/Archived.md",
-    "Obsidian/content/anthrop.md",
-    "Obsidian/content/World.md",
     "Obsidian/content/Zettelkasten",
     "Obsidian/content/Files",
     "Obsidian/content/Reference",
-    "Obsidian/content/Tool & Resource/YouTube/Artem Kirsanov.md",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819141419.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819134703.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132715.png",
@@ -186,8 +190,6 @@
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819094430.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819073917.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240817090140.png",
-    "Obsidian/content/Tool & Resource/Images/Timeline_20240109_VIASM.png",
-    "Obsidian/content/Tool & Resource/Images/Timeline_20230603_HaiPhong.png",
     "Obsidian/content/Career & Professional/Skills",
     "Obsidian/content/Education & Learning/Knowledge",
     "Obsidian/content/Life/Year",

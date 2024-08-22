@@ -35,11 +35,11 @@ Visit [Machine Learning Contests](https://mlcontests.com) for more detail about 
 
 ### Work
 
-###### Experience
+### Experience
 
 About projects and skill I have
-###### Current Work
-###### Future Work
+### Current Work
+### Future Work
 
 # Education & Learning
 
@@ -55,7 +55,7 @@ https://spiderum.com/bai-dang/3-quyen-sach-toi-se-recommend-cho-moi-nguoi-toi-ga
 
 - [ ] [[Smart Thinking]]
 
-###### Artificial Intelligence
+### Artificial Intelligence
 
 - [ ] [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)
 - [ ] [An Introduction to Statistical Learning](https://www.statlearning.com/)
