@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Grateful.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
+            "file": "Grateful.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled.md",
+            "file": "Grateful.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "Grateful.md"
           }
         }
       }
@@ -158,6 +158,8 @@
   },
   "active": "b9bf5e04f52554ab",
   "lastOpenFiles": [
+    "content/Tool & Resource/Website.md",
+    "Grateful.md",
     "content/Tool & Resource/Items.md",
     "Untitled.md",
     "Everyday.md",
