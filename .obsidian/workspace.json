@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ce5e4322deaaf68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Career & Professional/Skills/Operating systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "521333368c3cc7c6",
             "type": "leaf",
             "state": {
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "8382c0c7ae3c8657",
+            "id": "57c88c2db0f697c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Career & Professional/Pro/NSAID.md",
+                "file": "content/Zettelkasten/Machine Learning Scientist with Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Career & Professional/Pro/NSAID.md",
+                "file": "content/Zettelkasten/Machine Learning Scientist with Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Career & Professional/Pro/NSAID.md",
+                "file": "content/Zettelkasten/Machine Learning Scientist with Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Career & Professional/Pro/NSAID.md"
+                "file": "content/Zettelkasten/Machine Learning Scientist with Python.md"
               }
             }
           }
@@ -173,12 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8382c0c7ae3c8657",
+  "active": "57c88c2db0f697c0",
   "lastOpenFiles": [
+    "content/Files/Pasted image 20240823182005.png",
+    "content/Zettelkasten/Motivation.md",
+    "content/Zettelkasten/Thinking.md",
+    "content/Tool & Resource/Books/Smart Thinking.md",
+    "content/Zettelkasten/Machine Learning Scientist with Python.md",
     "content/Zettelkasten/STR.md",
     "content/Career & Professional/Skills/Operating systems.md",
-    "content/Life/To do.md",
     "content/Zettelkasten/Docker.md",
+    "content/Zettelkasten/Database.md",
+    "content/Files/Pasted image 20240823155507.png",
+    "content/Career & Professional/Pro/NSAID.md",
+    "Grateful.md",
+    "content/Life/To do.md",
     "content/Zettelkasten/Computational Biology.md",
     "content/Zettelkasten/Rune Seeker.md",
     "content/Files/Pasted image 20240822145315.png",
@@ -186,7 +184,6 @@
     "content/Education & Learning/Learning.md",
     "content/Tool & Resource/Tools/Obsidian.md",
     "content/Zettelkasten/Designing and implementing a data science solution on Azure.md",
-    "content/Career & Professional/Pro/NSAID.md",
     "content/Zettelkasten/Wiki.md",
     "content/Education & Learning/Education.md",
     "2024-08-20.md",
@@ -197,13 +194,6 @@
     "Obsidian/content/Untitled.md",
     "Obsidian/content/Transformers.md",
     "Obsidian/content/Timeline.md",
-    "Obsidian/content/Superman.md",
-    "Obsidian/content/Single Inferno.md",
-    "Obsidian/content/Rune Seeker.md",
-    "Obsidian/content/PCA.md",
-    "Obsidian/content/Overthinking.md",
-    "Obsidian/content/OpenCore.md",
-    "Obsidian/content/Improving Accuracy of LLM Applications.md",
     "Obsidian/content/Zettelkasten",
     "Obsidian/content/Files",
     "Obsidian/content/Reference",
@@ -214,7 +204,6 @@
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132447.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819094430.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819073917.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240817090140.png",
     "Obsidian/content/Career & Professional/Skills",
     "Obsidian/content/Education & Learning/Knowledge",
     "Obsidian/content/Life/Year",
