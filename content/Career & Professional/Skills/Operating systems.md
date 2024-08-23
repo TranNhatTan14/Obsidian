@@ -7,4 +7,6 @@ touch <file-name>
 
 # Automatically respond yes to all prompts from command
 <command> -y
+
+du -sh /home/user/*
 ```

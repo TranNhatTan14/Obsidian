@@ -1,3 +1,16 @@
+Warning: --split-par had no effect (no X chromosome in dataset)
+1213 samples (0 females, 0 males, 1213 ambiguous; 1213 founders)
+1 binary phenotype loaded (200 cases, 1011 controls)
+--remove: 1194 samples remaining.
+1194 samples (663 females, 531 males; 1194 founders) remaining after main
+filters.
+192 cases and 1002 controls remaining after main filters.
+2224650 variants removed due to allele frequency threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+
+- Don't use keep
+- Now mind don't remove any sample, what is the best value for mind
+
 # Stats
 
 https://www.cog-genomics.org/plink/2.0/basic_stats

@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/Docker.md",
+                "file": "content/Career & Professional/Skills/Operating systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "521333368c3cc7c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Zettelkasten/STR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8382c0c7ae3c8657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Career & Professional/Pro/NSAID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettelkasten/Docker.md",
+                "file": "content/Career & Professional/Pro/NSAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettelkasten/Docker.md",
+                "file": "content/Career & Professional/Pro/NSAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettelkasten/Docker.md"
+                "file": "content/Career & Professional/Pro/NSAID.md"
               }
             }
           }
@@ -148,12 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ce5e4322deaaf68",
+  "active": "8382c0c7ae3c8657",
   "lastOpenFiles": [
-    "content/Zettelkasten/Untitled 1.md",
+    "content/Zettelkasten/STR.md",
+    "content/Career & Professional/Skills/Operating systems.md",
+    "content/Life/To do.md",
     "content/Zettelkasten/Docker.md",
     "content/Zettelkasten/Computational Biology.md",
-    "content/Career & Professional/Skills/Operating systems.md",
     "content/Zettelkasten/Rune Seeker.md",
     "content/Files/Pasted image 20240822145315.png",
     "content/Files/Pasted image 20240821124734.png",
@@ -178,7 +204,6 @@
     "Obsidian/content/Overthinking.md",
     "Obsidian/content/OpenCore.md",
     "Obsidian/content/Improving Accuracy of LLM Applications.md",
-    "Obsidian/content/Game.md",
     "Obsidian/content/Zettelkasten",
     "Obsidian/content/Files",
     "Obsidian/content/Reference",
