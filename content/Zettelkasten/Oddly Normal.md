@@ -1,4 +1,5 @@
 ---
-tags:
-  - Podcast
+tags: []
+links:
+  - "[[Podcast]]"
 ---

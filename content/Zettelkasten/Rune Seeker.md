@@ -1,3 +1,7 @@
+---
+links:
+  - "[[Game]]"
+---
 https://www.facebook.com/RuneSeeker
 https://runeseeker.medium.com/learn-everything-about-rune-seeker-99e1db410214
 	
@@ -23,18 +27,6 @@ BIến thành đại địa hình thì sẽ không có nhiều quái có thể x
 
 Gọi thần hộ vệ chiếm vị trí
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Inferno Skydrake
 
 Fireblood Each turn restore HP equal to 3% of the number of adjacent Ignis Terrain tiles. 
@@ -50,21 +42,3 @@ Split Flesh There is a 20% chance that an incoming single target attack will mis
 Dark Warp When Hero deals a critical hit, transforms up to 1 non-Lava Terrain tiles adjacent to itself into Lv.1 Lava Terrain. Cannot alter the Great Terrain. 
 Dark Eyes Begin the battle with 20 Critical. 
 Dark Transform Transform up to 6 non-Lava Terrain tiles adjacent to itself into Lv.2 Lava Terrain. Cannot alter the Great Terrain.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

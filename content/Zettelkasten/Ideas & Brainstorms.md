@@ -90,7 +90,6 @@ Kiến thức - Trải nghiệm - Kinh nghiệm
 
 - Cái gì cũng cần có điều kiện 
 - what we gave 
-- technique
 
 
 - Tự do là gì?

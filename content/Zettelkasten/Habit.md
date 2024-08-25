@@ -1,7 +1,7 @@
 ---
-tags:
-  - Habit
-links: "[[Superman]]"
+tags: []
+links:
+  - "[[Superman]]"
 ---
 > [!tip] 
 > Goal of the habits are make life eaiser with automation, effectively, and save time
@@ -113,6 +113,14 @@ Visit [Redirector](Google.md#Redirector) for more detail about what will be bloc
 ### Trigger
 
 Thấy các bạn nữ là ngồi thẳng lưng lên
+
+Dậy khoảng 7 giờ
+Tập thể dục
+Vệ sinh cá nhân
+Tắm
+Nấu ăn
+Hoàn thành Elevate
+Thay quần áo
 
 ---
 

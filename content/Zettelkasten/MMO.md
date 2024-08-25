@@ -1,6 +1,6 @@
 ---
-tags:
-  - Finance
+links:
+  - "[[Finance]]"
 ---
 https://mmo4me.com
 

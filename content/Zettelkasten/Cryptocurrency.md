@@ -1,6 +1,7 @@
 ---
-tags:
-  - Finance
+tags: []
+links:
+  - "[[Finance]]"
 ---
 Ryan Nguyễn - Nguyễn Bá Vượng
 

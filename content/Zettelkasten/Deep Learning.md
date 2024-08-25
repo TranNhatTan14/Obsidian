@@ -1,3 +1,7 @@
+---
+links:
+  - "[[Artificial Intelligence]]"
+---
 DL is a subset of Machine Learning
 
 - Traditional ML relies on hand-crafted **feature engineering**

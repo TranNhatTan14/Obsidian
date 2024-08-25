@@ -12,9 +12,6 @@ Learn with example and tutorial
 
 Mục tiêu của mình là tối ưu hóa việc phát triển bản thân, sống một cuôc đời đáng sống. cố gắng theo đuổi đam mê và kiếm ra tiền từ đó
 
-
-Visit [Goals](Goal.md) for more detail about my life goals
-
 ### 2024
 
 > [!todo] Kế hoạch của mình trong năm 2024:
@@ -22,7 +19,7 @@ Visit [Goals](Goal.md) for more detail about my life goals
 > - [ ] Tập thể dục thường xuyên hơn
 > - [ ] IELTS
 > - [ ] Đạt chứng chỉ của Microsoft và AWS
-> - [ ] Đạt kết quả [nghiên cứu](Researcher.md) tốt, chuẩn bị để có thể pursuit [master program](Education.md#Master%20Program) with scholarship
+> - [ ] Đạt kết quả [nghiên cứu](Research.md) tốt, chuẩn bị để có thể pursuit [master program](Education.md#Master%20Program) with scholarship
 
 ### 2025
 

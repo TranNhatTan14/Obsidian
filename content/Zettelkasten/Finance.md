@@ -1,7 +1,3 @@
----
-tags:
-  - Finance
----
 > [!note]
 > - Lên kế hoạch mua sắm
 > - Cân đối chi tiêu

@@ -1,6 +1,7 @@
 ---
-tags:
-  - Principle
+tags: []
+links:
+  - "[[Principle]]"
 ---
 **The Pareto principle (also known as the 80/20 rule)**
 

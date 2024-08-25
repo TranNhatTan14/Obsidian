@@ -1,6 +1,5 @@
 ---
-tags:
-  - Tool
+tags: []
 ---
 > [!tip] Know thing and know the function and know how to use it
 
@@ -42,8 +41,7 @@ Do hours worth of reading in minutes
 - Ứng dụng ngân hàng
     - BIDV Smart Banking
 
-Balance
-Hello Chinese
+
 
 ### Journal
 

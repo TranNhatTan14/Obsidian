@@ -1,8 +1,7 @@
 ---
-tags:
-  - Scholarship
-  - Work
-  - Education
+links:
+  - "[[Work]]"
+  - "[[Education]]"
 ---
 - Which country and which field
 - Combined degree programs or dual degree programs

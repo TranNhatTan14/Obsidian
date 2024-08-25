@@ -1,7 +1,8 @@
 ---
-tags:
-  - Tool
-links: https://obsidian.md
+tags: []
+links:
+  - https://obsidian.md
+  - "[[Tool]]"
 ---
 # Obsidian-Copilot: An Assistant for Writing & Reflecting
 

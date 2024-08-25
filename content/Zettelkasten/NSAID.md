@@ -1,10 +1,9 @@
 ---
-tags:
-  - Biology
-  - Work
-  - Research
 links:
   - "[[Project]]"
+  - "[[Research]]"
+  - "[[Work]]"
+  - "[[Biology]]"
 ---
 Warning: --split-par had no effect (no X chromosome in dataset)
 1213 samples (0 females, 0 males, 1213 ambiguous; 1213 founders)

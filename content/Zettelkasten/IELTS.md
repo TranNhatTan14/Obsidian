@@ -1,10 +1,13 @@
 ---
-tags:
-  - Language
-  - Certificaton
-  - English
-  - Work
-  - Education
+tags: 
+links:
+  - "[[Certification]]"
+  - "[[Language]]"
+  - "[[English]]"
+  - "[[Work]]"
+  - "[[Education]]"
+  - "[[Scholarship]]"
+  - "[[Goal]]"
 ---
 https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing (twice)
 Dang Tran Tung 6 times IELTS 9.0
@@ -84,7 +87,6 @@ Task: Choose a heading from the list which matches a section or paragraph in the
 ---
 
 - Ôn theo dạng bài (Mình cần danh sách dạng bài)
-    
 - Mổ xẻ lỗi sai
     
 

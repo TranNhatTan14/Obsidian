@@ -1,6 +1,6 @@
 ---
-tags:
-  - Scholarship
+links:
+  - "[[Scholarship]]"
 ---
 <aside> 💡 CÓ THỂ APPLY DATA SCIENCE SẼ DỄ CÓ NHIỀU LỰA CHỌN HƠN
 

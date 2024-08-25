@@ -1,11 +1,11 @@
 > [!info] 
 > Things I archived and why I achived it (feel so sad when I write it)
 
-###### [Benjamin Tran](https://www.youtube.com/@BenjaminTran)
+### [Benjamin Tran](https://www.youtube.com/@BenjaminTran)
 
 Benjamin Tran truyền cảm hứng cho mình về một cuộc sống với nhiều điều thú vị. 
 
-###### [CS50](https://www.youtube.com/cs50)
+### [CS50](https://www.youtube.com/cs50)
 
 CS50 is good for understand fundamental concept
 

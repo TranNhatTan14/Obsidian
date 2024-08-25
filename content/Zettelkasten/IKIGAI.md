@@ -1,6 +1,6 @@
 ---
-tags:
-  - Lifestyle
+links:
+  - "[[Lifestyle]]"
 ---
 Find something you good at
 

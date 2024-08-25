@@ -93,7 +93,7 @@ Catastrophic means extremely harmful, which has a negative connotation
 
 Quan sát nhiều hơn nghĩ có thể làm giảm [[Overthinking]] và [[Stress]]
 
-###### Breathe
+### Breathe
 
 Thở bằng mũi vầ căng bụng ra có thể làm giảm [[Stress]]
 
@@ -117,10 +117,6 @@ Mode zombie for save energy
 
 - Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính
 - Để ngủ thật ngon, trước khi ngủ hãy nằm trong chăn và nhớ về những thời gian vui vẻ như khi có ai đó giúp đỡ bạn, hay khi bạn giúp đỡ người khác và cảm thấy tự hào. Rồi bạn sẽ ngủ một giấc thật ngon lành.
-
-###### Exercise
-
-Lateral Raise
 
 ###### Yoga
 
@@ -168,7 +164,7 @@ Research has found that the brain of experienced meditators differ from the brai
 
 Meditation can significantly improve your working memory capacity
 
-Your working memory is essential for problem-solving and executing complex cognitive tasks, but it is limited. Research shows that meditation can improve working-memory capacity, attention span, and academic performance [[Researcher]]
+Your working memory is essential for problem-solving and executing complex cognitive tasks, but it is limited. Research shows that meditation can improve working-memory capacity, attention span, and academic performance [[Research]]
 
 Meditation can shield brain from stress
 

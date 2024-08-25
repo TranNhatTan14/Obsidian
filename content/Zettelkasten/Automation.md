@@ -1,6 +1,5 @@
 ---
-tags:
-  - Automation
+tags: []
 ---
 ### Summary YouTube video
 

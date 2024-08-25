@@ -1,0 +1,6 @@
+---
+tags:
+  - Application
+links:
+  - "[[Chinese]]"
+---

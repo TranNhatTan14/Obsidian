@@ -28,7 +28,7 @@ Visit [Machine Learning Contests](https://mlcontests.com) for more detail about 
 
 ### Role
 
-- [[Researcher]]
+- [[Research]]
 - [[Developer & Hacker]]
 - [[Engineer]]
 

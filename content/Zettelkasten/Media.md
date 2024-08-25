@@ -1,7 +1,8 @@
 ---
 tags:
-  - Finance
   - MMO
+links:
+  - "[[Finance]]"
 ---
 https://www.youtube.com/watch?v=ez0l0UxZrao
 

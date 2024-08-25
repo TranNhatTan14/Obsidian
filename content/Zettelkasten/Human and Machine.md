@@ -1,7 +1,8 @@
 ---
 tags:
   - Writing
-  - AI
+links:
+  - "[[Artificial Intelligence]]"
 ---
 We can learn from machine and machine can learn from human.
 

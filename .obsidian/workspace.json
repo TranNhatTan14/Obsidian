@@ -4,46 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a779487e86efe7e3",
+        "id": "f5e076f163a93551",
         "type": "tabs",
         "children": [
           {
-            "id": "dcef512927431ad8",
+            "id": "0299820d39dc33dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Zettelkasten/Pareto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e83302ed5f262d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Zettelkasten/IELTS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c964ec274cd30de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Relationship & Connection/People/Ronaldo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -75,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Football",
+                "query": "description",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,42 +77,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd9d07c2d9687757",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "content/Zettelkasten/Pareto.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "935d8b3ac442a32b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "content/Zettelkasten/Pareto.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "95c54f3434d7d575",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -152,12 +93,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettelkasten/Pareto.md"
+                "file": "content/Zettelkasten/Machine Learning Scientist.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,39 +114,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcef512927431ad8",
+  "active": "0f36613f77ecb3a4",
   "lastOpenFiles": [
-    "content/Zettelkasten/Deep Work.md",
-    "content/Zettelkasten/NSAID.md",
-    "content/Zettelkasten/Assistant.md",
-    "content/Zettelkasten/AMR.md",
-    "content/Relationship & Connection/People/The Hanoi Chamomile.md",
+    "content/Zettelkasten/Machine Learning Scientist.md",
+    "content/index.md",
+    "content/Zettelkasten/Artificial Intelligence.md",
+    "content/Zettelkasten/Tool.md",
+    "content/Zettelkasten/Goal.md",
+    "content/Zettelkasten/Timeline.md",
+    "content/Zettelkasten/Timeline 1.md",
+    "content/Zettelkasten/Harmful Brain Activity Classification.md",
+    "content/Zettelkasten/Graph Transformer.md",
+    "content/Zettelkasten/Natural Language Processing.md",
     "content/Zettelkasten/How to learn.md",
-    "content/Zettelkasten/Quantum Computing.md",
-    "content/YouTube/WIRED.md",
-    "Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence/Machine Learning.md",
+    "content/Zettelkasten/Balance.md",
+    "content/Zettelkasten/Chinese.md",
+    "content/Zettelkasten/Hello Chinese.md",
+    "content/Zettelkasten/Duolingo.md",
+    "content/Zettelkasten/WIRED.md",
+    "content/Zettelkasten/Toni Kroos.md",
+    "content/Zettelkasten/The Present Writer.md",
+    "content/Zettelkasten/The Hanoi Chamomile.md",
+    "content/Zettelkasten/Ronaldo.md",
+    "content/Zettelkasten/Jang Wonyoung.md",
+    "content/Zettelkasten/Duong Vu.md",
+    "content/Zettelkasten/Andrew Ng.md",
+    "content/Zettelkasten/Andrej Karpathy.md",
+    "content/Zettelkasten/Community.md",
+    "content/Zettelkasten/Family.md",
     "Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence",
     "Obsidian/content/Education & Learning/Knowledge",
     "Obsidian/content/Education & Learning",
     "Obsidian/content",
     "Obsidian",
-    "content/Zettelkasten/HMS.md",
-    "content/Zettelkasten/What is high quality habits.md",
-    "content/Zettelkasten/Habit.md",
-    "content/Relationship & Connection/Friend.md",
-    "content/Zettelkasten/Education.md",
-    "content/Zettelkasten/The Vingroup Scholarship Program.md",
-    "content/Zettelkasten/Australia Awards Scholarship.md",
-    "content/Zettelkasten/Ads.md",
-    "content/Zettelkasten/Book for Kid.md",
-    "content/Zettelkasten/Cryptocurrency.md",
-    "content/Zettelkasten/Finance.md",
-    "content/Zettelkasten/Media.md",
-    "content/Finance/Investments.md",
-    "content/Zettelkasten/MMO.md",
-    "content/Zettelkasten/Pareto.md",
-    "content/Zettelkasten/Shortcut.md",
-    "content/Zettelkasten/Feynman technique.md",
     "content/Files/Pasted image 20240729135543.png",
     "content/Files/Pasted image 20240823182005.png",
     "content/Files/Pasted image 20240823155507.png",
