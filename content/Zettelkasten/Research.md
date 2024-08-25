@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Work]]"
+  - "[[Artificial Intelligence]]"
 ---
 Nghiên cứu theo hướng ứng dụng, thay vì tạo ra nghiên cứu mới (Multidisciplinary)
 ### Areas

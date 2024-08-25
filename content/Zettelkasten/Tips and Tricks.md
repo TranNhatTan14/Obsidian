@@ -37,16 +37,7 @@ Parkinson’s Law
 - Energy Cycle
 - Phương pháp tưởng tượng được ngày hôm đấy mình sẽ như thế nào
 
-
-
 #### Productivity
 
 - Không đọc thầm để có thể đọc nhanh hơn
-    
 - Hiểu được ngoại ngữ sẽ rất tốt làm mình sẽ hiểu mọi thứ nhanh hơn
-    
-
-#### Artificial Intelligence
-
-- We will not train LLM, instead we will finetuning
-

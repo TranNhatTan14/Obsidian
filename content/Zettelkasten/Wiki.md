@@ -54,12 +54,6 @@ https://spiderum.com/bai-dang/3-quyen-sach-toi-se-recommend-cho-moi-nguoi-toi-ga
 
 - [ ] [[Smart Thinking]]
 
-### Artificial Intelligence
-
-- [ ] [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)
-- [ ] [An Introduction to Statistical Learning](https://www.statlearning.com/)
-- [ ] [Applied Machine Learning](https://kuleshov-group.github.io/aml-book/intro.html)
-
 ###### Biology
 
 - [ ] [Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune/dp/1529360684)

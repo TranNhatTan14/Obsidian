@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f5e076f163a93551",
+        "id": "db7af1092ae5b715",
         "type": "tabs",
         "children": [
           {
-            "id": "0299820d39dc33dc",
+            "id": "c130e3a23cce0ca0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Zettelkasten/Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "description",
+                "query": "antonym",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettelkasten/Machine Learning Scientist.md"
+                "file": "content/Zettelkasten/Obsidian.md"
               }
             }
           }
@@ -114,34 +119,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f36613f77ecb3a4",
+  "active": "c130e3a23cce0ca0",
   "lastOpenFiles": [
-    "content/Zettelkasten/Machine Learning Scientist.md",
-    "content/index.md",
+    "content/Zettelkasten/Vocabulary.md",
+    "content/Templates/Vocabulary.md",
+    "content/Zettelkasten/English.md",
+    "content/Zettelkasten/Data.md",
+    "content/Zettelkasten/difficult.md",
+    "content/Zettelkasten/ordinary.md",
+    "content/Zettelkasten/extraordinary.md",
+    "content/Zettelkasten/brilliant.md",
+    "content/Zettelkasten/Automation.md",
+    "content/Zettelkasten/Wiki.md",
+    "content/Zettelkasten/Cryptocurrency.md",
+    "content/Zettelkasten/IELTS.md",
+    "content/Zettelkasten/delicious.md",
+    "content/Zettelkasten/Tips and Tricks.md",
+    "content/Zettelkasten/Australia Awards Scholarship.md",
+    "content/Zettelkasten/Assistant.md",
     "content/Zettelkasten/Artificial Intelligence.md",
-    "content/Zettelkasten/Tool.md",
-    "content/Zettelkasten/Goal.md",
-    "content/Zettelkasten/Timeline.md",
-    "content/Zettelkasten/Timeline 1.md",
-    "content/Zettelkasten/Harmful Brain Activity Classification.md",
-    "content/Zettelkasten/Graph Transformer.md",
-    "content/Zettelkasten/Natural Language Processing.md",
-    "content/Zettelkasten/How to learn.md",
-    "content/Zettelkasten/Balance.md",
-    "content/Zettelkasten/Chinese.md",
-    "content/Zettelkasten/Hello Chinese.md",
-    "content/Zettelkasten/Duolingo.md",
-    "content/Zettelkasten/WIRED.md",
-    "content/Zettelkasten/Toni Kroos.md",
-    "content/Zettelkasten/The Present Writer.md",
-    "content/Zettelkasten/The Hanoi Chamomile.md",
-    "content/Zettelkasten/Ronaldo.md",
-    "content/Zettelkasten/Jang Wonyoung.md",
-    "content/Zettelkasten/Duong Vu.md",
-    "content/Zettelkasten/Andrew Ng.md",
     "content/Zettelkasten/Andrej Karpathy.md",
-    "content/Zettelkasten/Community.md",
-    "content/Zettelkasten/Family.md",
+    "content/Zettelkasten/Andrew Ng.md",
+    "content/Zettelkasten/Research.md",
+    "content/Zettelkasten/Website.md",
+    "content/Zettelkasten/Ads.md",
+    "content/Zettelkasten/Achievements.md",
+    "content/Zettelkasten/3Blue1Brown.md",
+    "content/Zettelkasten/Machine Learning Scientist.md",
+    "content/Zettelkasten/Link.md",
+    "content/Files/Pasted image 20240825173542.png",
+    "content/Files/Pasted image 20240825172715.png",
+    "content/Files/Pasted image 20240825172544.png",
+    "content/Files/Pasted image 20240825170840.png",
+    "content/Files/Pasted image 20240825155222.png",
     "Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence",
     "Obsidian/content/Education & Learning/Knowledge",
     "Obsidian/content/Education & Learning",
@@ -157,11 +167,6 @@
     "Obsidian/content/Zettelkasten",
     "Obsidian/content/Files",
     "Obsidian/content/Reference",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819141419.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819134703.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132715.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132521.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132447.png",
     "Obsidian/content/Career & Professional/Skills"
   ]
 }

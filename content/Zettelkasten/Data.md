@@ -27,8 +27,6 @@ Thử đồ trực tiếp trên app trước khi mua hàng [[Computer Vision]]
 
 The soldier ==courageously== (An adverb ending in -ly is need to midify the verb) fought the enemy
 
-### Antonym: từ trái nghĩa, học được một từ và nhớ được từ còn lại nhờ [[Link]]
-
 - Gratitude: A feeling of thankfulness and appreciation >< Ingratitude
 - Astonished: In a state of surprise or wonder >< Unsurprised
 

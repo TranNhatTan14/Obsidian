@@ -262,10 +262,11 @@ Khánh Vy, Nguyễn Lâm Thảo Tâm và MC duyên dáng Phoebe Trần.
 - điền hết tất cả 40 câu 🙂
 - Thà đánh nhầm còn hơn bỏ sót
 - Biết thật nhiều từ vựng
-- synonyms
 - paraphrasing
 - SRS
 - Mochi Mochi
+
+# Synonyms
 
 # Strategy
 

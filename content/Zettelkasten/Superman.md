@@ -6,8 +6,6 @@
 
 ### Tận dụng tối đa nguồn lực mình có thể nhận được
 
-###### [GitHub Student Developer Pack](https://education.github.com/pack/offers)
-
 ### Xây dựng giá trị cá nhân của mình
 
 Skills you have and do better than other, can earn money from it.
@@ -23,7 +21,7 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 
 ###### Người ta cố gắng 1.1 mình cần cố gắng gấp 2
 
-###### Remember how to find it, learn it instead
+### Remember how to find it, learn it instead
 
 ### Work
 

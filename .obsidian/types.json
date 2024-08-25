@@ -3,6 +3,10 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Links": "multitext"
+    "Links": "multitext",
+    "synonyms": "multitext",
+    "antonyms": "multitext",
+    "homophones": "multitext",
+    "anagrams": "multitext"
   }
 }

@@ -5,10 +5,22 @@ links:
 > [!todo] 
 > - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)
 
+# Long-term
+
+# Health
+
+- [ ] Trắng da với việc uống nước chanh hàng ngày
+- [ ] Giảm cân và cải thiện thể hình
+- [ ] Tập mắt với bài tập thái dương công và hạn chế thời gian sử dụng thiết bị điện tử
+
+## Work
+
+- [ ] Ôn tập và chuẩn bị thi IELTS
+- [ ] Study [Master program](Research.md) aboard
 
 - [ ] Discover the world
 	- [ ] Go to Santiago Bernabéu Stadium - [Real Madrid](Real%20Madrid.md) 's stadium
-- [ ] Study [Master program](Research.md) aboard
+
 - [ ] Find true love
 
 - Short-term goals (in a week, month, year)
