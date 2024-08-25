@@ -611,6 +611,244 @@ from pyspark.ml import Pipeline
 flights_pipe = Pipeline(stages=[dest_indexer, dest_encoder, carr_indexer, carr_encoder, vec_assembler])
 ```
 
+---
+# Machine Learning & Spark
+
+==Learn how to build Machine Learning models on large datasets using distributed computing techiniques.==
+
+Spark is a powerful, general purpose tool for working with Big Data. Spark transparently handles the distribution of compute tasks across a cluster. This means that operations are fast, but it also allows you to focus on the analysis rather than worry about technical details. In this course you'll learn how to get data into Spark and then delve into the three fundamental Spark Machine Learning algorithms: Linear Regression, Logistic Regression/Classifiers, and creating pipelines. Along the way you'll analyse a large dataset of flight delays and spam text messages. With this background you'll be ready to harness the power of Spark and apply it on your own Machine Learning projects!
+
+Spark is a framework for working with Big Data. In this chapter you'll cover some background about Spark and Machine Learning. You'll then find out how to connect to Spark using Python and load CSV data.
+
+## Data in RAM
+
+
+==The performance of a Machine Learning model depends on data==. In general, more data is a good thing. If an algorithm is able to train on a larger set of data, then its ability to generalize to new data will inevitably improve. However, there are some practical constraints. ==If the data can fit entirely into RAM then the algorithm can operate efficiently==. What happens when those data no longer fit into memory?
+
+The computer will start to use ==virtual memory== and data will be ==paged== back and forth between RAM and disk. Relative to RAM access, retrieving data from disk is slow. As the size of the data grows, paging become more intense and the computer begins to spend more and more time waiting for data. ==Performance plummets==
+
+### Data distributed across a cluster
+
+How then do we deal with truly large datasets? One option is to distribute the problem across multiple computers in a cluster. We will divided up into partitions which are processed seperately. Ideally each data partition can fit into RAM on a single computer in the cluster. This is the approach used by Spark.
+# Spark
+
+Spark is a general purpose framework for cluster computing. It is popular for 2 main reasons
+
+1. It's generally much faster than other Big Data technologies like Hadoop because it does most processing in memory (It mean Hadoop process data in what?)
+2. It has a developer-friendly interface which hides much of the complexity of distributed computing.
+
+![[Pasted image 20240823182005.png]]
+### Components: nodes
+
+The cluster itself consists of one or more nodes. Each node is a computer with CPU, RAM and physical storage.
+
+### Components: cluster manager
+
+A cluster manager allocates resources and coordinates activity across the cluster.
+
+### Components: driver
+
+Every application running on the Spark cluster has a driver program. Using the Spark API, the driver communicates with the cluster manager, which in turn distributes work to the nodes.
+
+### Component: executors
+
+On each node Spark launches an executor process which persists for the duration of the application. Work is divided up into ==tasks==, which are simply units of computation. The executors run tasks in multiple threads across the cores in a node. When working with Spark you normally don't need to worry *too* much about the details of the cluster. Spark sets up all of that infrastructure for you and handles all interactions within the cluster. However, it's still useful to know how it works under the hood.
+
+# Characteristics of Spark
+
+Spark is currently the most popular technology for processing large quantities of data. Not only is it able to handle enormous data volumes, but it does so very efficiently too! Also, unlike some other distributed computing technologies, developing with Spark is a pleasure.
+
+Which of these describe Spark?
+
+- A framework for cluster computing
+- Spark does most processing in memory
+- Spark has a high-level API, which conceals a lot of complexity.
+
+# Components in a Spark Cluster
+
+Spark is a distributed computing platform. It achieves efficiency by distributing data and computation across a cluster of computers.
+
+A Spark cluster consists of a number of hardware and software components which work together.
+
+Which of these is not part of a Spark cluster?
+
+- A load balancer
+
+A load balancer distributes work across multiple resources, preventing overload on any one resource. In Spark this function is performed by the cluster manager.
+
+# Interacting with Spark
+
+The connection with Spark is established by the driver, which can be written in either Java, Scala, Python or R. Each of these languages has advantages and disadvantages. Java is relatively verbose, requiring a lot of code to accomplish even simple tasks. By contrast, Scala, Python and R, are high-level languages which can accomplish much with only a small amount of code. They also offer a REPL, or Read-Evaluate-Print loop, which is crucial for interactive development. You'll be using Python.
+
+Python doesn't talk natively to Spark, so we'll kick off by importing the pyspark module, which makes Spark functionality available in the Python interpreter. Spark is under vigorous development. Because the interface is evolving it's important to know what version you're working with. We'll be using version 2.4.1, which was released in March 2019.
+
+## Sub-modules
+
+In addition to the main pyspark module, there are a few sub-modules which implement different aspects of the Spark interface. There are two versions of Spark Machine Learning: mllib, which uses an unstructured representation of data in RDDs and has been deprecated, and ml which is based on a structured, tabular representation of data in DataFrames. We'll be using the latter.
+
+- Structured Data - `pyspark.sql`
+- Streaming Data - `pyspark.streaming
+- Machine Learning - `pyspark.ml`
+
+### Spark URL
+
+With the pyspark module loaded, you are able to connect to Spark. The next thing you need to do is tell Spark where the cluster is located. Here there are two options. 
+
+You can either connect to a remote cluster, in which case you need to specify a Spark URL, which gives the network location of the cluster's master node. The URL is composed of an IP address or DNS name and a port number. The default port for Spark is 7077, but this must still be explicitly specified. When you're figuring out how Spark works, the infrastructure of a distributed cluster can get in the way. That's why it's useful to create a local cluster, where everything happens on a single computer. This is the setup that you're going to use throughout this course. 
+
+==Remote Cluster==
+
+Using Spark URL: `spark://<IP address | DNS name>:<port>
+
+Example:`spark://13.59.151.161:7077`
+
+==Local Cluster==
+
+- `local` - 1 core
+- `local[8]` - 8 cores
+- `local[*]` - all available cores
+
+For a local cluster, you need only specify "local" and, optionally, the number of cores to use. By default, a local cluster will run on a single core. Alternatively, you can give a specific number of cores or simply use the wildcard to choose all available cores.
+
+## Creating a SparkSession
+
+You connect to Spark by creating a SparkSession object. The SparkSession class is found in the pyspark.sql sub-module. You specify the location of the cluster using the master() method. Optionally you can assign a name to the application using the appName() method. Finally you call the getOrCreate() method, which will either create a new session object or return an existing object. Once the session has been created you are able to interact with Spark. Finally, although it's possible for multiple SparkSessions to co-exist, it's good practice to stop the SparkSession when you're done.
+
+```python
+# Import the SparkSession class
+from pyspark.sql import SparkSession
+
+# Create SparkSession object
+spark = SparkSession.builder \
+                    .master('local[*]') \
+                    .appName('test') \
+                    .getOrCreate()
+
+# What version of Spark?
+print(spark.version)
+
+# Terminate the cluster
+spark.stop()
+```
+
+## Loading data
+
+- Read data from a CSV file called 'flights.csv'. Assign data types to columns automatically. Deal with missing data.
+- How many records are in the data?
+- Take a look at the first five records.
+- What data types have been assigned to the columns? Do these look correct?
+
+## DataFrames: A refresher
+
+Spark represents tabular data using the DataFrame class. The data are captured as rows (or "records"), each of which is broken down into one or more columns (or "fields"). Every column has a name and a specific data type. Some selected methods and attributes of the DataFrame class are listed here. The count() method gives the number of rows. The show() method will display a subset of rows. The printSchema() method and the dtypes attribute give different views on column types. This is really scratching the surface of what's possible with a DataFrame. You can find out more by consulting the extensive documentation.
+
+```python
+# Read data from CSV file
+flights = spark.read.csv('flights.csv',
+                         sep=',',
+                         header=True,
+                         inferSchema=True, # Deduce column data types from data
+                         nullValue='NA') # Placeholder for missing data
+
+# Get number of records
+print("The data contain %d records." % flights.count())
+
+# View the first five records
+flights.show(5)
+
+# Check column data types
+print(flights.dtypes)
+```
+
+```python
+from pyspark.sql.types import StructType, StructField, IntegerType, StringType
+
+# Specify column names and types
+schema = StructType([
+    StructField("id", IntegerType()),
+    StructField("text", StringType()),
+    StructField("label", IntegerType())
+])
+
+# Load data from a delimited file
+sms = spark.read.csv("sms.csv",
+					 sep=';',
+					 header=False,
+					 schema=schema) # Explicit column data types
+
+# Print schema of DataFrame or check column types
+sms.printSchema()
+```
+
+Excellent! You now know how to initiate a Spark session and load data. In the next chapter you'll use the data you've just loaded to build a classification model.
+
+# Data Preperation
+
+- Dropping column or select column
+- Filtering out missing data or mulating columns
+- Indexing categorical data
+- Assembling columns
+
+The final step in preparing the cars data is to consolidate the various input columns into a single column. This is necessary because ==the Machine Learning algorithms in Spark operate on a single vector of predictors==, although each element in that vector may consist of multiple values. To illustrate the process you'll start with just a pair of features, cylinders and size. First you create an instance of the VectorAssembler class, providing it with the names of the columns that you want to consolidate and the name of the new output column. The assembler is then used to transform the data. Taking a look at the relevant columns you see that the new "features" column consists of values from the cylinders and size columns consolidated into a vector. Ultimately you are going to assemble all of the predictors into a single column.
+
+```python
+from pyspark.sql.functions import round
+from pyspark.ml.feature import StringIndexer
+from pyspark.ml.feature import VectorAssembler
+
+# Remove the 'flight' column
+flights_drop_column = flights.drop('flight')
+
+# Number of records with missing 'delay' values
+flights_drop_column.filter('delay IS NULL').count()
+
+# Remove records with missing 'delay' values
+flights_valid_delay = flights_drop_column.filter('delay IS NOT NULL')
+
+# Remove records with missing values in any column and get the number of remaining rows
+flights_none_missing = flights_valid_delay.dropna()
+print(flights_none_missing.count())
+
+# Convert 'mile' to 'km' and drop 'mile' column (1 mile is equivalent to 1.60934 km)
+flights_km = flights.withColumn('km', round(flights.mile * 1.60934, 0)).drop('mile')
+
+# Create 'label' column indicating whether flight delayed (1) or not (0)
+flights_km = flights_km.withColumn('label', (flights_km.delay >= 15).cast('integer'))
+
+# Create an indexer
+indexer = StringIndexer(inputCol='carrier', outputCol='carrier_idx')
+
+# Indexer identifies categories in the data
+indexer_model = indexer.fit(flights)
+
+# Indexer creates a new column with numeric index values
+flights_indexed = indexer_model.transform(flights)
+
+# Repeat the process for the other categorical feature
+flights_indexed = StringIndexer(inputCol='org', outputCol='org_idx').fit(flights_indexed).transform(flights_indexed)
+
+# Create an assembler object
+assembler = VectorAssembler(
+	inputCols=['mon', 'dom', 'dow', 'carrier_idx', 'org_idx', 'km', 'depart', 'duration'],
+	outputCol='features'
+)
+
+# Consolidate predictor columns
+flights_assembled = assembler.transform(flights)
+
+# Check the resulting column
+flights_assembled.select('features', 'delay').show(5, truncate=False)
+```
+
+```python
+# Split into training and testing sets in a 80:20 ratio
+flights_train, flights_test = flights.randomSplit([0.8, 0.2], seed=43)
+
+# Check that training set has around 80% of records
+training_ratio = flights_train.count() / flights.count()
+print(training_ratio)
+```
+
 # Test vs. Train
 
 After you've cleaned your data and gotten it ready for modeling, one of the most important steps is to split the data into a _test set_ and a _train set_. After that, don't touch your test data until you think you have a good model! As you're building models and forming hypotheses, you can test them on your training data to get an idea of their performance.
@@ -637,6 +875,21 @@ Now that you've done all your manipulations, the last step before modeling is to
 ```python
 # Split the data into training and test sets
 training, test = piped_data.randomSplit([.6, .4])
+```
+
+# Model
+
+```python
+# Import the Decision Tree Classifier class
+from pyspark.ml.classification import DecisionTreeClassifier
+
+# Create a classifier object and fit to the training data
+tree = DecisionTreeClassifier()
+tree_model = tree.fit(flights_train)
+
+# Create predictions for the testing data and take a look at the predictions
+prediction = tree_model.transform(flights_test)
+prediction.select('label', 'prediction', 'probability').show(5, False)
 ```
 
 # Model tuning and selection
@@ -719,7 +972,7 @@ cv = tune.CrossValidator(estimator=lr,
                          )
 ```
 
-# Fit the model(s)
+## Fit the model(s)
 
 You're finally ready to fit the models and select the best one!
 
@@ -759,68 +1012,17 @@ print(evaluator.evaluate(test_results))
 
 Congratulations! You went from knowing nothing about Spark to doing advanced machine learning. Great job on making it to the end of the course! The next steps are learning how to create large scale Spark clusters and manage and submit jobs so that you can use models in the real world. Check out some of the other DataCamp courses that use Spark! And remember, Spark is still being actively developed, so there's new features coming all the time!
 
----
-# Machine Learning & Spark
+```python
+# Create a confusion matrix
+prediction.groupBy('label', 'prediction').count().show()
 
-==Learn how to build Machine Learning models on large datasets using distributed computing techiniques.==
+# Calculate the elements of the confusion matrix
+TN = prediction.filter('prediction = 0 AND label = prediction').count()
+TP = prediction.filter('prediction = 1 AND label = prediction').count()
+FN = prediction.filter('prediction = 0 AND label != prediction').count()
+FP = prediction.filter('prediction = 1 AND label != prediction').count()
 
-Spark is a powerful, general purpose tool for working with Big Data. Spark transparently handles the distribution of compute tasks across a cluster. This means that operations are fast, but it also allows you to focus on the analysis rather than worry about technical details. In this course you'll learn how to get data into Spark and then delve into the three fundamental Spark Machine Learning algorithms: Linear Regression, Logistic Regression/Classifiers, and creating pipelines. Along the way you'll analyse a large dataset of flight delays and spam text messages. With this background you'll be ready to harness the power of Spark and apply it on your own Machine Learning projects!
-
-Spark is a framework for working with Big Data. In this chapter you'll cover some background about Spark and Machine Learning. You'll then find out how to connect to Spark using Python and load CSV data.
-
-## Data in RAM
-
-
-==The performance of a Machine Learning model depends on data==. In general, more data is a good thing. If an algorithm is able to train on a larger set of data, then its ability to generalize to new data will inevitably improve. However, there are some practical constraints. ==If the data can fit entirely into RAM then the algorithm can operate efficiently==. What happens when those data no longer fit into memory?
-
-The computer will start to use ==virtual memory== and data will be ==paged== back and forth between RAM and disk. Relative to RAM access, retrieving data from disk is slow. As the size of the data grows, paging become more intense and the computer begins to spend more and more time waiting for data. ==Performance plummets==
-
-### Data distributed across a cluster
-
-How then do we deal with truly large datasets? One option is to distribute the problem across multiple computers in a cluster. We will divided up into partitions which are processed seperately. Ideally each data partition can fit into RAM on a single computer in the cluster. This is the approach used by Spark.
-# Spark
-
-Spark is a general purpose framework for cluster computing. It is popular for 2 main reasons
-
-1. It's generally much faster than other Big Data technologies like Hadoop because it does most processing in memory (It mean Hadoop process data in what?)
-2. It has a developer-friendly interface which hides much of the complexity of distributed computing.
-
-![[Pasted image 20240823182005.png]]
-### Components: nodes
-
-The cluster itself consists of one or more nodes. Each node is a computer with CPU, RAM and physical storage.
-
-### Components: cluster manager
-
-A cluster manager allocates resources and coordinates activity across the cluster.
-
-### Components: driver
-
-Every application running on the Spark cluster has a driver program. Using the Spark API, the driver communicates with the cluster manager, which in turn distributes work to the nodes.
-
-### Component: executors
-
-On each node Spark launches an executor process which persists for the duration of the application. Work is divided up into ==tasks==, which are simply units of computation. The executors run tasks in multiple threads across the cores in a node. When working with Spark you normally don't need to worry *too* much about the details of the cluster. Spark sets up all of that infrastructure for you and handles all interactions within the cluster. However, it's still useful to know how it works under the hood.
-
-# Characteristics of Spark
-
-Spark is currently the most popular technology for processing large quantities of data. Not only is it able to handle enormous data volumes, but it does so very efficiently too! Also, unlike some other distributed computing technologies, developing with Spark is a pleasure.
-
-Which of these describe Spark?
-
-- A framework for cluster computing
-- Spark does most processing in memory
-- Spark has a high-level API, which conceals a lot of complexity.
-
-# Components in a Spark Cluster
-
-Spark is a distributed computing platform. It achieves efficiency by distributing data and computation across a cluster of computers.
-
-A Spark cluster consists of a number of hardware and software components which work together.
-
-Which of these is not part of a Spark cluster?
-
-- A load balancer
-
-A load balancer distributes work across multiple resources, preventing overload on any one resource. In Spark this function is performed by the cluster manager.
-
+# Accuracy measures the proportion of correct predictions
+accuracy = (TN + TP) / (TN + TP + FN + FP)
+print(accuracy)
+```

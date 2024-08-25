@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "b1b4421f59abcf9c",
+        "id": "a779487e86efe7e3",
         "type": "tabs",
         "children": [
           {
-            "id": "521333368c3cc7c6",
+            "id": "dcef512927431ad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/STR.md",
+                "file": "content/Zettelkasten/Pareto.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "57c88c2db0f697c0",
+            "id": "1e83302ed5f262d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/Spark.md",
+                "file": "content/Zettelkasten/IELTS.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c964ec274cd30de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Relationship & Connection/People/Ronaldo.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,7 +60,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c75d9304b7380b1b",
+            "id": "5361e3dea2f5487d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +70,12 @@
             }
           },
           {
-            "id": "357eb02a8685fe6a",
+            "id": "0f36613f77ecb3a4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Football",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,20 +85,18 @@
             }
           },
           {
-            "id": "46216435ddd9fcc9",
+            "id": "9e38cca523a44c19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "685661460335a225",
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettelkasten/Spark.md",
+                "file": "content/Zettelkasten/Pareto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettelkasten/Spark.md",
+                "file": "content/Zettelkasten/Pareto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,8 +141,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "alphabetical",
+                "useHierarchy": false
               }
             }
           },
@@ -140,17 +152,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettelkasten/Spark.md"
+                "file": "content/Zettelkasten/Pareto.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,38 +173,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57c88c2db0f697c0",
+  "active": "dcef512927431ad8",
   "lastOpenFiles": [
+    "content/Zettelkasten/Deep Work.md",
+    "content/Zettelkasten/NSAID.md",
+    "content/Zettelkasten/Assistant.md",
+    "content/Zettelkasten/AMR.md",
+    "content/Relationship & Connection/People/The Hanoi Chamomile.md",
+    "content/Zettelkasten/How to learn.md",
+    "content/Zettelkasten/Quantum Computing.md",
+    "content/YouTube/WIRED.md",
+    "Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence/Machine Learning.md",
+    "Obsidian/content/Education & Learning/Knowledge/Artificial Intelligence",
+    "Obsidian/content/Education & Learning/Knowledge",
+    "Obsidian/content/Education & Learning",
+    "Obsidian/content",
+    "Obsidian",
+    "content/Zettelkasten/HMS.md",
+    "content/Zettelkasten/What is high quality habits.md",
+    "content/Zettelkasten/Habit.md",
+    "content/Relationship & Connection/Friend.md",
+    "content/Zettelkasten/Education.md",
+    "content/Zettelkasten/The Vingroup Scholarship Program.md",
+    "content/Zettelkasten/Australia Awards Scholarship.md",
+    "content/Zettelkasten/Ads.md",
+    "content/Zettelkasten/Book for Kid.md",
+    "content/Zettelkasten/Cryptocurrency.md",
+    "content/Zettelkasten/Finance.md",
+    "content/Zettelkasten/Media.md",
+    "content/Finance/Investments.md",
+    "content/Zettelkasten/MMO.md",
+    "content/Zettelkasten/Pareto.md",
+    "content/Zettelkasten/Shortcut.md",
+    "content/Zettelkasten/Feynman technique.md",
+    "content/Files/Pasted image 20240729135543.png",
     "content/Files/Pasted image 20240823182005.png",
-    "content/Zettelkasten/Motivation.md",
-    "content/Zettelkasten/Thinking.md",
-    "content/Tool & Resource/Books/Smart Thinking.md",
-    "content/Zettelkasten/Spark.md",
-    "content/Zettelkasten/STR.md",
-    "content/Career & Professional/Skills/Operating systems.md",
-    "content/Zettelkasten/Docker.md",
-    "content/Zettelkasten/Database.md",
     "content/Files/Pasted image 20240823155507.png",
-    "content/Career & Professional/Pro/NSAID.md",
-    "Grateful.md",
-    "content/Life/To do.md",
-    "content/Zettelkasten/Computational Biology.md",
-    "content/Zettelkasten/Rune Seeker.md",
     "content/Files/Pasted image 20240822145315.png",
     "content/Files/Pasted image 20240821124734.png",
-    "content/Education & Learning/Learning.md",
-    "content/Tool & Resource/Tools/Obsidian.md",
-    "content/Zettelkasten/Designing and implementing a data science solution on Azure.md",
-    "content/Zettelkasten/Wiki.md",
-    "content/Education & Learning/Education.md",
-    "2024-08-20.md",
-    "NS.md",
+    "Untitled.canvas",
     "Obsidian/content/Template",
-    "Obsidian/content/Wiki.md",
-    "Obsidian/content/VPN.md",
-    "Obsidian/content/Untitled.md",
-    "Obsidian/content/Transformers.md",
-    "Obsidian/content/Timeline.md",
     "Obsidian/content/Zettelkasten",
     "Obsidian/content/Files",
     "Obsidian/content/Reference",
@@ -202,14 +221,6 @@
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132715.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132521.png",
     "Obsidian/content/Tool & Resource/Images/Pasted image 20240819132447.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819094430.png",
-    "Obsidian/content/Tool & Resource/Images/Pasted image 20240819073917.png",
-    "Obsidian/content/Career & Professional/Skills",
-    "Obsidian/content/Education & Learning/Knowledge",
-    "Obsidian/content/Life/Year",
-    "Obsidian/content/Life/Technique",
-    "Obsidian/content/Tool & Resource/Images",
-    "Obsidian/content/Tool & Resource/Company",
-    "Untitled.canvas"
+    "Obsidian/content/Career & Professional/Skills"
   ]
 }

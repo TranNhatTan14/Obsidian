@@ -1,6 +1,3 @@
----
-title: Homepage
----
 I am Superman, my childhood nickname is Bột ngọt - đây là tên ở nhà của mình do bố mẹ đặt. I am a Madridista.. This is the digital note for Superman. I speak Vietnamese and now I am learning [English](English.md), Chinese and I want to learn Spanish. Come to [resources](Resources.md) to see some books, articles, ... I have completed. Some fact about me and something I interest in.
 
 I working as AI Engineer in Genestory. Project I am working on
