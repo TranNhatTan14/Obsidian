@@ -2,5 +2,8 @@
   "obsidian-hider",
   "symbols-prettifier",
   "obsidian-contextual-typography",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-copilot",
+  "dataview",
+  "obsidian-tasks-plugin"
 ]

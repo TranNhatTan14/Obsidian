@@ -73,23 +73,12 @@ In the first course of the Machine Learning Specialization, you will:
 **Gradient descent**
 
 - Find value of weight and bias to minimiize the cost function
-    
 - Choose the starting point
-    
 - There are more than one possible minimum
-    
 - Like down in the hill
-    
-- [ ] Learnng math for calculate gradient descent
-    
-- [ ] Implement linear from scratch
-    
 - Learning rate
-    
 - Implement gradient descent
-    
 - Optimize a regression model using gradient descent
-    
 
 ### Week 2: Regression with multiple input variables
 

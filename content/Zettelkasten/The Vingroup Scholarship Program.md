@@ -318,23 +318,15 @@ EM như emPlant, PlantHealth. Học bổng chính phủ NZ, Úc đều cực ưu
 
 [University of Science & Technology](https://www.ust.ac.kr/eng/)
 
-- [ ] GPA
-    
-- [ ] IELTS 7.0
-    
-- [ ] Báo cáo khoa học quốc tế
-    
-- [ ] Bài luận
-    
-- [ ] Phỏng vấn
-    
-- [ ] Dễ nhất là Nhật Bản, Hàn Quốc, Đài Loan
-    
-- [ ] Mỹ
-    
-- [ ] Đức, Hà Lan
-    
-- [ ] Motivation Letter
+- GPA
+- IELTS 7.0
+- Báo cáo khoa học quốc tế
+- Bài luận
+- Phỏng vấn
+- Dễ nhất là Nhật Bản, Hàn Quốc, Đài Loan
+- Mỹ
+- Đức, Hà Lan
+- Motivation Letter
     
 - Mình muốn học nước nào
     

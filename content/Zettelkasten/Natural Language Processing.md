@@ -16,7 +16,7 @@ links:
 - Machine Translation
 - n-gram models
 
-#### Natural Language Processing on Google Cloud
+### Natural Language Processing on Google Cloud
 
 This course introduces the products and solutions to solve NLP problems on Google Cloud. Additionally, it explores the processes, techniques, and tools to develop an NLP project with neural networks by using Vertex AI and TensorFlow.
 
@@ -26,25 +26,14 @@ NLP = Linguistics + AI
 
 NLP teaches computers to **understand human languages**
 
-Text-to-Speech
-
-Speech-to-Text
-
-Text classification
-
-Entity extraction
-
-Machine Translations
-
-Interactive conversation
+- Text-to-Speech
+- Speech-to-Text
+- Text classification
+- Entity extraction
+- Machine Translations
+- Interactive conversation
 
 ### NLP on Google Cloud
-
-#### NLP architecture
-
-#### NLP APIs
-
-Dialogflow API
 
 #### NLP solutions
 
@@ -52,10 +41,10 @@ Dialogflow API
 
 ### Text representation
 
-### NLP models
-
-### Advanced NLP models
-
 ### Tasks
 
 View [Hugging Face Tasks](https://huggingface.co/tasks)
+
+### Chatbot
+
+### LLM

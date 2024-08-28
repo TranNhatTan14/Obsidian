@@ -1,7 +1,3 @@
----
-tags:
-  - Education
----
 ### Mechatronics
 
 > [!warning] 

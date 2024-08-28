@@ -39,13 +39,7 @@ Replace bad habits with good habits (Smart Thinking book)
 - Rewards or Punishments
 
 The Eisenhower Matrix
-**Do: Important, Urgent - Tasks with deadlines or consequences**
-
-**Schedule: Important, Not Urgent - Tasks with unclear deadlines that contribute to long-term success**
-
-- [ ] Build system for lưu trữ nội dung hiện tại
-- [ ] Danh sách bài tập mắt
-
-**Delegate: Not Important, Urgent- Tasks that must get done but don’t require your specific skill set**
-
-**Delete: Not Important, Not Urgent - Distractions and unnecessay tasks**
+Do: Important, Urgent - Tasks with deadlines or consequences
+Schedule: Important, Not Urgent - Tasks with unclear deadlines that contribute to long-term success
+Delegate: Not Important, Urgent- Tasks that must get done but don’t require your specific skill set
+Delete: Not Important, Not Urgent - Distractions and unnecessay tasks

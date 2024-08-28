@@ -6,8 +6,6 @@ Devices have IP adress
 
 [[Surge]]
 
-###### Link
-
 [What is a VPN and How Does it Work?](https://www.youtube.com/watch?v=_wQTRMBAvzg)
 [What is a VPN?](https://www.youtube.com/watch?v=v_41aI_FD5w)
 

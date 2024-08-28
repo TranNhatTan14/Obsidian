@@ -41,15 +41,13 @@ Schedule time for writing and make it a habit
 
 ###### Deep Work
 
-###### Exercise
-
-- [ ] Ronaldo workout
+### [[Exercise]]
 
 ### Evening
 
 ###### Dinner
 
-###### Brilliant
+### [[Brilliant]]
 
 ###### Omega 3.6.9 and vitamin
 
@@ -63,15 +61,15 @@ More detail about how to sleep well. Visit [Sleep](Sleep.md)
 
 ### Good habits
 
-###### Drink enough water
+### Drink enough water
 
-Drink 03 [LocknLock Stainless Steel Water Bottle 750 ml](Tool.md#LocknLock%20Stainless%20Steel%20Water%20Bottle%20750%20ml)
+[LocknLock Stainless Steel Water Bottle 750 ml](Item.md#LocknLock%20Stainless%20Steel%20Water%20Bottle%20750%20ml)
 
-###### Listening podcast
-###### Learning new language
-###### Meditation with Balance
+### Listening podcast
+### Learning new language
+### Meditation with Balance
 
-###### Reading
+### Reading
 
 [https://readwise.io/dailyreview](https://readwise.io/dailyreview)
 

@@ -1,16 +1,10 @@
 ---
-tags:
-  - Competition
+tags: 
+links:
+  - "[[Competition]]"
+  - "[[Microsoft]]"
 ---
 https://huggingface.co/adambuttrick/ner-test-bert-base-uncased-finetuned-500K-AdamW-3-epoch-locations/tree/main
-
-Run the baseline bert
-
-- [ ] Convert BILUO to BIOES
-- [ ] Preprocessing is the most important
-	- [ ] Remove all stopword, ?, and #
-- [ ] Fine-tuning
-- [ ] Check if result change if text in lowcase
 
 219 sample don't have location
 
@@ -143,7 +137,7 @@ Reproject Embedding True
 
 The difference is the set of defaut parameters. Train is usually used for feature-extraction method, where you have a frozen weight and some LSTM layers afterward while `fine_tune` is used for fine-tuning the whole embedding (e.g. using transformers with `fine_tune=True`). Function `train` is for FLAIR embedding, and `fine_tune` is for Transformer embeddings.
 
-###### Micro Average and Macro Average
+### Micro Average and Macro Average
 
 Certainly! The difference between macro and micro averaging is an important concept in evaluation metrics, particularly for classification tasks. Let's break down each one:
 

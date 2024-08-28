@@ -8,15 +8,6 @@ Mind not hand, automate not manual
 
 Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack app, đóng gói thành IPA rồi đưa lên TestFlight bán, với mã liên quan đến UIID
 
-### Financial Freedom
-
-- [ ] 20,000,000
-- [ ] 50,000,000
-- [ ] 100,000,000
-- [ ] 200,000,000
-- [ ] 500,000,000
-- [ ] 1,000,000,000
-
 Hành trình kiếm 500 triệu trong 365 ngày
 
 - Kiếm được nhiều tiền
@@ -27,11 +18,6 @@ Hành trình kiếm 500 triệu trong 365 ngày
 - Don’t put all your eggs in one basket (in finance and apply to other area)
 - Credit score
 - Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
-
-###### Subscriptions
-
-- [Google One](https://one.google.com)
-- [Brilliant Premium](https://brilliant.org/payment/subscription_settings)
 
 # Expense
 
@@ -85,8 +71,6 @@ Credit card không dùng là lỗ vì chí phí tăng tại cauwr hàng?
 Đúng hạn
 
 Hạn mức
-
-- [ ] Reseach about credit card
 
 2 thẻ ngày chốt khác nhau
 
@@ -182,30 +166,10 @@ Apple Developer
 
 ### Cryptocurrency Airdrop
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Threshold: bao nhiêu là đủ
 Khi đủ rồi thì mình sẽ làm gì
 Mình cần đầu tư vào những khoản gì
+
+
+
 [[Chữa mắt với Phakic ICL]]

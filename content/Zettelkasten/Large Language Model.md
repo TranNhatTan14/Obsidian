@@ -2,6 +2,18 @@
 links:
   - "[[Artificial Intelligence]]"
 ---
+- We will not train LLM, instead we will finetuning
+
+# Tactical
+
+Practices for prompt, RAG, flow engineering, evals and monitoring
+
+# Operational
+
+The organizational
+
+# Strategic
+
 - Find and filter open source models on Hugging Face Hub based on task, rankings, and memory requirements.
 - Using the transformers library to perform text, audio, image, and multimodal tasks.
 - Easily share your AI apps with a user-friendly interface or via API and run them on the cloud using Gradio and Hugging Face Spaces.
@@ -31,8 +43,6 @@ Voice assistant
 
 Hugging Face Hub is an open platform that hosts models, datasets, and machine learning demos that are called Hugging Face Space
 
-###### Seach
-
 Identifying what task you're working on
 
 I want to do "Automatic Speech Recognition" to "transcribe speech in French"
@@ -49,15 +59,3 @@ Rule of thumb that I use to estimate how much memory I will need for a model
 Go to FIle and versions - Find "pytorch_model.bin"
 
 Load model from Transformer library with both use a pipeline as a high-level helper or load model directly
-
-```python
-def factorial(n):
-    """Return the factorial of a number."""
-    if n == 0:
-        return 1
-    else:
-        return n * factorial(n-1)
-
-# Example usage
-print(factorial(5))  # Output: 120
-```

@@ -315,3 +315,26 @@ Kiến thức được chuẩn bị từ những người đi trước (tài li�
 
 https://vietnamnet.vn/nam-sinh-ha-noi-chia-se-bi-quyet-dat-diem-ielts-cao-2233201.html
 - Learn IPA
+
+[IELTS Mock (Practice) Exams with teacher feedback](https://www.youtube.com/playlist?list=PLT4o5xHgvqv9XN57ZaI9HOqwzKg46w0H_))
+https://www.youtube.com/@LearnEnglishWithTVSeries
+
+[https://www.youtube.com/@butfirst_English](https://www.youtube.com/@butfirst_English)
+
+### Listening
+
+- Learn like normal (80%) and the test (20%)
+
+[https://dailydictation.com/](https://dailydictation.com/)
+
+### Reading
+
+From research paper
+
+### Speaking
+
+- ChatGPT
+
+### Writing
+
+- 10 finger typing

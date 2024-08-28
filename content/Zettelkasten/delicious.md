@@ -1,7 +1,12 @@
 ---
-tags:
-  - Vocabulary
+tags: []
 synonyms:
-  - scrumptious
-  - delectable
+  - "[[scrumptious]]"
+  - "[[delectable]]"
+links:
+  - "[[content/Zettelkasten/Vocabulary|Vocabulary]]"
+antonyms: 
+homophones: 
+anagrams: 
+description:
 ---

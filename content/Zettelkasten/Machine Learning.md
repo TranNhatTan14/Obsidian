@@ -2,20 +2,20 @@
 links:
   - "[[Artificial Intelligence]]"
 ---
-#### Types
+# Learning PATH
 
-Supervised Learning
+[[Machine Learning Engineer Google Cloud]]
 
-Unsupervised Learning
+[[Machine Learning Engineer DataCamp]]
 
-Reinforcement Learning
+[[Machine Learning Scientist]]
+[[Machine Learning Operations]]
 
-Deep Learning
+### [[Machine Learning Workflow]]
 
-Understand the theory behind algorithms like decision trees, support vector machines, and clustering methods. Practice implementing machine learning models and fine-tuning them for better accuracy and performance.
+### Types
 
-Stay updated with the latest advancements in machine learning, including trends like transfer learning, federated learning, and few-shot learning.
-
-### Neural Networks
-
-Neural networks are a critical component of deep learning, a complex subset of machine learning. Familiarize yourself with different types of neural networks, such as convolutional and recurrent neural networks, and learn how to implement them using frameworks like TensorFlow or PyTorch
+- Supervised Learning
+- Unsupervised Learning
+- Reinforcement Learning
+- [[Deep Learning]]

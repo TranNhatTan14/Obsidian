@@ -1,7 +1,7 @@
 ---
-tags:
-  - Vocabulary
-links: 
+tags: []
+links:
+  - "[[content/Zettelkasten/Vocabulary|Vocabulary]]"
 synonyms: 
 antonyms:
   - "[[ordinary]]"

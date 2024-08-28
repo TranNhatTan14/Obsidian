@@ -1026,3 +1026,15 @@ FP = prediction.filter('prediction = 1 AND label != prediction').count()
 accuracy = (TN + TP) / (TN + TP + FN + FP)
 print(accuracy)
 ```
+
+# Ensembles & Pipelines
+
+Finally you'll learn how to make your models more efficient. You'll find out how to use pipelines to make your code clearer and easier to maintain. Then you'll use cross-validation to better test your models and select good model parameters. Finally you'll dabble in two types of ensemble model.
+
+```python
+from pyspark.ml import Pipeline
+
+pipeline = Pipeline(stages=[indexer, onehot, assemble, regression])
+
+pipeline = pipeline.fit(train)
+```

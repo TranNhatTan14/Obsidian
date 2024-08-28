@@ -5,7 +5,7 @@ tags: []
 
 ###### Research, reading
 
-###### [Typeset](https://typeset.io)
+### [Typeset](https://typeset.io)
 
 Do hours worth of reading in minutes
 ###### Library Genesis for PDF, EPUB, Book, Article
@@ -41,8 +41,6 @@ Do hours worth of reading in minutes
 - Ứng dụng ngân hàng
     - BIDV Smart Banking
 
-
-
 ### Journal
 
 - Cố gắng viết nhật ký hàng ngày
@@ -60,7 +58,7 @@ Do hours worth of reading in minutes
 - Workspace
 - Github Project
 
-###### [Codespaces](https://github.com/codespaces)
+### [Codespaces](https://github.com/codespaces)
 
 Go from code to commit faster on any project.
 
@@ -88,9 +86,5 @@ Visual Studio Code
 - Github Pages
 
 **Git**
-
-**Docker**
-
-### Reading
 
 Readwise

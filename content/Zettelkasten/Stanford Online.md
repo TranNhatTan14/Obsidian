@@ -1,6 +1,4 @@
 ---
-tags:
-  - Education
 Links:
   - https://www.youtube.com/@stanfordonline
   - "[[YouYube]]"

@@ -1,9 +1,8 @@
 ---
 links:
   - "[[Machine Learning]]"
+description: Machine Learning Operations is an extension of the DevOps framework, not a subset or alternative.
 ---
-> [!tip] MLOps is an **extension** of the DevOps framework, not a subset or alternative.
-
 Model build pipiline > Model pipeline
 ### Data Engineer
 
@@ -21,6 +20,8 @@ That's correct! The machine learning engineer is responsible for deploying the m
 - Develop and implement ML model to solve specific bussiness problems
 - Perform hyperparameter tuning to make sure the model training process is optimized
 
+Understanding Machine Learning Operations (MLOps) is essential for any data scientist, engineer, or leader to ==take machine learning models from a local notebook to a functioning model in production==. This course introduces you to the key processes, phases, and levels of MLOps, including ==design, development, deployment, and monitoring==. You'll discover how ==automation== enables organizations to efficiently launch, monitor, and update their machine learning models.
+
 # Design
 
 The design phase is the most important phase within the machine learning lifecycle. Without a decent objective and high-quality data, the other two phases might fail
@@ -29,9 +30,9 @@ The design phase is the most important phase within the machine learning lifecyc
 
 ###### Added value
 
-###### Business requiremets
+### Business requiremets
 
-###### Key metrics
+### Key metrics
 
 # Development
 
@@ -39,81 +40,13 @@ The design phase is the most important phase within the machine learning lifecyc
 
 ## Data
 
-### Data collection
-
-- Collect relevant data include private data from company and public dataset
-- Understand data and context, representation and measurement, potential bias.
-
-### Exploratory Data Analysis
-
-The goals of EDA are aim to understand the data and unearth patterns and detect outliers - does data fall outside acceptable ranges? **Designing hypotheses** to validate and check assumptions is vital - does what we expect line up with reality? The EDA stage often influences the choice of ML algorithm, the selection of specific features, and the need for feature engineering; these questions are vital to the future success of the project.
-
-![[Pasted image 20240810175621.png]]
-###### Null and missing data
-
-###### Class (Im)balance
-
-###### Normalize
-
-###### Outliers
-
-![[Pasted image 20240810173549.png]]
-###### Visualizing data
-
-### Data Preparation
-
-Data preparation is an essential part of the machine learning lifecycle, also often referred to as 'data preprocessing' or 'data cleaning'. This step helps ensure the model is working with quality data, thereby increasing the potential accuracy of its predictions.
-
-Deal with problem in EDA include imputation
-
-### Data quality
-
-The core of the Machine Learning model: Trash in, trash out
-
-Data quality can be defined along four main dimensions, namely accuracy, completeness, consistency, and timeliness.
-
-![[Pasted image 20240810141314.png]]
-
-### Data ingestion
-
-Typically, in the design phase, we also look into how to extract and process data. This is done by using an automated data pipeline, of which we see a high-level example here. A data pipeline is often a part within the machine learning lifecycle through which data is automatically processed. 
-
-A common type of data ingestion process is ETL, which stands for extract, transform, and load. It describes the three steps gone through in an ETL pipeline. The data is extracted from the source, transformed to the required format, and loaded into some internal or proprietary database. In an ETL pipeline, we can also include automated checks, such as expectations we have about certain data columns. 
-
-### Data Profiling
-
-Within MLOps, data profiling refers to the **automated data analysis and creation of high-level summaries**, called data profiles, or expectations, which we use for validating and monitoring data in production.
-
 ## Feature
-### Feature engineering
 
-![[Pasted image 20240810180610.png]]
-
-Feature engineering is the process of selecting, manipulating, and transforming raw data into features. A feature is a variable, such as a column in a table. How we create features from the data is an important part of machine learning development. We can use the features as they appear in the raw data, but we can also build our own.
-
-![[Pasted image 20240810143251.png]]
-
-###### Normalization
-
-###### Standardization 
-
-Standardization scales features to have a mean of zero and a variance of one. Standardization benefits algorithms that assume features are centered around zero and have variance in the same order, like in Support Vector Machines (SVMs) and Linear Regression. We can use the sklearn-dot-preprocessing-dot-StandardScaler function for standardization. Similarly to normalization, we create a standard scaler object, pass our heart disease DataFrame as an argument, and get a standardized version of the data back
 
 ### Feature selection
 
 ### Feature Store
 
-Using
-
-The feature store is a tool through which features can be managed and easily accessed by multiple people working of different projects.
-
-When you want to collaborate with multiple people on multiple project that share the same feature sets, it is a great time to start using a feature store. In this way, you can avoid doing the same repeated work to get the same features.
-
-The benefit of feature store is **Reusabiity** and **Consistency**.
-
-Advanced features stores are implemented as so-called dual databases, one for grabbing the training data and the other for making predictions
-
-![[Pasted image 20240810143322.png]]
 ## Model
 
 ### Model Selection
@@ -125,11 +58,6 @@ Advanced features stores are implemented as so-called dual databases, one for gr
 - Accuracy
 - Confusion matrix
 
-###### Cross validation
-
-When it comes to validating our models, cross-validation provides another robust way to estimate performance by providing an average score across different splits on our dataset. This way, we ensure our performance is not dependent on one arbitrary split. k_fold cross_validation is a resampling procedure used to evaluate models on limited data. The procedure has a single parameter, k, for the number of groups that the data sample will be split into. Since our heart disease dataset is quite small, k_fold cross_validation is a good choice. Here is a visualization of k-fold cross-validation with k equals five. We partition the data into five equal groups, and for each different group, we train the model with four parts training data and one part testing data.
-
-![[Pasted image 20240810181806.png]]
 ### Model registry
 
 Just as it is important to manage and store the features as model inputs, it is crucial to manage and store the models' outputs themselves - our patients need timely, accurate, and persistent access to their diagnoses as they become available. Model registries are a form of version control system for machine learning models. They help us manage and keep track of different versions of our machine learning models. Model registries allow us to annotate our models with rich metadata, compare different models, and track their performance over time. This not only makes our work more organized but it also increases transparency and reproducibility in our machine learning workflows. We have already been exposed to model registries in the form of MLflow. Remember that MLflow allows us to manage and track machine learning experiments, log model performance metrics, and even store trained model artifacts for cross-comparison.
@@ -180,17 +108,12 @@ Up until now, we have operated under the assumption that our stakeholders or mod
 
 ![[Pasted image 20240810183652.png]]
 
-In this case, it might make more sense to serve the model on-device, or as a part of a given application, instead of an external service to be queried. In this type of serving architecture, the model is integrated into the device or application itself. This is often done for edge computing applications, where the model needs to run on a device without a reliable network connection.
-
-On device model serving has a number of benefits. 
-
-For example, on-device models often have faster response times as they don't have to rely on an external server. This is particularly useful for applications that require real-time predictions. 
-
-Additionally, as mentioned before, on-device serving means internet access is not required. This minimizes the risk of data breaches, especially with sensitive information. 
-
-Offline access also allows for a wider range of applications, especially in remote or disconnected areas.
-
-Edge devices, however, can have limited memory and processing power. This means the model has to be optimized and lightweight, potentially compromising accuracy for speed. On-device models might not benefit from the kind of scalability cloud infrastructure offers. If an application with an on-device model becomes popular, it won't face the traditional server-side scaling issues but might face challenges related to diverse device capabilities and OS versions. Without a connection to a central server, pushing model updates now poses a challenge. There might be a need for physical updates or limited periodic connectivity to fetch updates. It's also harder to aggregate usage statistics, performance metrics, and potential model drift when the model is on a device. Special strategies must be in place for this.
+- In this case, it might make more sense to serve the model on-device, or as a part of a given application, instead of an external service to be queried. In this type of serving architecture, the model is integrated into the device or application itself. This is often done for edge computing applications, where the model needs to run on a device without a reliable network connection.
+- On device model serving has a number of benefits. 
+	- For example, on-device models often have faster response times as they don't have to rely on an external server. This is particularly useful for applications that require real-time predictions. 
+	- Additionally, as mentioned before, on-device serving means internet access is not required. This minimizes the risk of data breaches, especially with sensitive information. 
+- Offline access also allows for a wider range of applications, especially in remote or disconnected areas.
+- Edge devices, however, can have limited memory and processing power. This means the model has to be optimized and lightweight, potentially compromising accuracy for speed. On-device models might not benefit from the kind of scalability cloud infrastructure offers. If an application with an on-device model becomes popular, it won't face the traditional server-side scaling issues but might face challenges related to diverse device capabilities and OS versions. Without a connection to a central server, pushing model updates now poses a challenge. There might be a need for physical updates or limited periodic connectivity to fetch updates. It's also harder to aggregate usage statistics, performance metrics, and potential model drift when the model is on a device. Special strategies must be in place for this.
 
 ### Implementation strategies
 
@@ -198,9 +121,10 @@ As with model-as-a-service, on-device model serving also involves many different
 
 ### Prediction
 
-###### Batch prediction
+### Batch prediction
 
-###### On-demand prediction
+### On-demand prediction
+
 Also online or dynamic prediction
 
 ![[Pasted image 20240811153806.png]]
@@ -210,22 +134,21 @@ Real-time prediction
 
 ![[Pasted image 20240811153956.png]]
 
-
 # Deployment
 
 ### Model deployment strategies
 
-###### Bluen/Green deployment
+### Bluen/Green deployment
 
 The choice of the deployment strategy is always a compromise between speed and risk. When risk is virtually nonexistent, we should opt for the simplest and fastest strategy: the blue/green deployment.
 
-###### Canary deployment
+### Canary deployment
 
-###### Shadow deployment
+### Shadow deployment
 
 Define the target infrastructure
 
-###### Transparency and Reproducibility
+### Transparency and Reproducibility
 
 Who trained the model, when, which script is used, which metadata
 
@@ -254,7 +177,7 @@ The microservice architecture structures an application as a collection of separ
 ![[Pasted image 20240810145648.png]]
 
 ![[Pasted image 20240811154424.png]]
-###### Intergration
+#### Intergration
 
 After the model has been deployed as a microservice and the API allows us to inference the model, one last step is required. The last step is to integrate the model within the business process. This is different for each business, but most of the time involves connecting the API with the system that is already in place. Before we actually use the machine learning model in production, it is common practice to first test the model with a sample of the data to make sure everything works as expected.
 

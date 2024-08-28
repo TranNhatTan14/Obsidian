@@ -2,7 +2,6 @@
 tags:
   - Inspiration
 links:
-  - "[[Madridista]]"
   - "[[People]]"
 ---
 What I learned from Ronaldo

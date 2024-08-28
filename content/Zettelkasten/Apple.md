@@ -29,3 +29,5 @@ Dynamically responds to environment and cancels or allows external noise
 - Turn off all notification
 
 # Screen Distance
+
+- Sign for [Apple Developer Program fee waiver](https://developer.apple.com/support/fee-waiver/)

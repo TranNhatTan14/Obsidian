@@ -18,7 +18,7 @@ When I need to answer some questions but I don't have enough data of myself, so 
 
 - Mình vẫn cố gắng duy trì chuỗi học tập, tuy nhiên mình thấy có nhiều thứ mình học được nhưng chưa được note lại hiệu quả
 - Công việc có tiến triển tốt hơn so với ngày hôm qua, mình có trao đổi với anh Hoàn và chị Trang
-- Cảm giác đứng trên bảng xếp hạng như trong [[Briliant]] và Zindi
+- Cảm giác đứng trên bảng xếp hạng như trong [[Brilliant]] và Zindi
 - Mình cảm thấy không thoải mái đối với một số mối quan hệ
 - Công việc thì hôm nay mình học được cách chạy fine-tune LLM với Flair
 - Cảm giác stuck khi mình có kiến thức cần nạp thêm vào nhưng chưa biết xử lý như thế nào?

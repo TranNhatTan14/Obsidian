@@ -1,3 +1,11 @@
+---
+tags:
+  - Status/InProgress
+links:
+  - "[[Experience]]"
+  - "[[Tool]]"
+URL: https://app.datacamp.com/learn/courses/intermediate-docker
+---
 ### Docker
 
 ```bash
@@ -23,7 +31,7 @@ docker stop <container-id> or `<container-name>`
 docker container rm <container-id>
 ```
 
-###### Logs
+### Logs
 
 If instead, you want to follow the logs your container is generating in real-time, you can use docker logs together with the f, for follow, flag. You will see any logs the container generates live. Even though docker ps also has a f flag, the docker ps flag allows us to filter. When working with docker logs instead, the f flag has another effect, allowing us to follow a container its logs. After using docker logs, you will see the output of a running container until either the end of the logs or until you press control plus c to exit the log view.
 
@@ -35,7 +43,7 @@ docker logs <container-id>
 docker logs -f <container-id>
 ```
 
-###### Cleaning up container and image
+### Cleaning up container and image
 
 It's common to have multiple containers based on a single image, which can make it a tedious task to one by one remove all containers before you can remove an image. To more easily clear all stopped containers, we can use docker container prune.
 
@@ -49,7 +57,7 @@ Then we can use docker image prune dash a to remove all unused images. The a fla
 
 ### Distributing Docker Images
 
-###### Private Docker registries
+### Private Docker registries
 
 First, we'll have a look at private Docker registry servers. 
 
@@ -221,7 +229,6 @@ docker image inspect nsaid:latest | jq '.[0] | {LayerCount: .RootFS.Layers | len
 
 `jq` is extremely powerful and can be used to query any kind of JSON data, not just Docker output.
 
-
 ## Single-stage builds
 
 Typically, a docker images is created using a single FROM command or source image.
@@ -263,26 +270,59 @@ Congratulations - You've demonstrated a successful understanding of the varying 
 
 Combine the the volume, networking, and container handling capabilities of Docker into multi-container applications using Docker Compose. Update and manage application deployments via the docker-compose.yml file.
 
-how to create multi-container applications using Docker Compose.
+How to create multi-container applications using Docker Compose.
 
 - Additional command-line tool for Docker
 - Define and manage multi-container application
 - Specify containers, networking, and storage volumes in a single file `compose.yml` or `compose.yaml`
 - Easy to share / demo applications
 
-## Starting an application
-
 To start an application, change to a directory containing the docker-compose.yaml and run
 
 ```bash
+# Starting an application
 docker compose up
+docker compose -f <YAML> up
+
+# Checking status of applications
+docker compose ls
+
+# Stopping an application
+docker compose down
+docker compose -f <YAML> down
 ```
 
-## Checking status of applications
-
-## Stopping an application
-
 Perfect! You can start to see the power of what Docker Compose enables for your workflow. This particular compose file started and created a new Postgresql based application to start managing it. Using the basic `up` and `down` options provides a lot of power when working with applications without requiring knowledge of the underlying systems.
+
+### Dependencies and troubleshooting in Docker Compose
+
+Dependencies define the order of resource startup.
+
+- Resources (containers) may required other resources
+
+Example of website application consisting of three resources
+
+1. Database container running postgresql must start prior to the others. Otherwise, the application will throw errors until the database is available.
+2. Python application that controls communications between the website and the database
+3. The nginx resource starts up the website server and actually serves the website content
+
+==Shutting down applications occurs in reverse order==
+
+The condition attribute tells Docker Compose when a dependency is successfully started and is ready.
+
+service_started
+service_completed_successfully
+service_healthy
+
+Docker Compose has additional troubleshooting tools
+
+```bash
+# Gathers output from all resources in application
+docker compose logs
+
+# Show status of resource with an application
+docker compose top
+```
 
 ## YAML
 
@@ -296,10 +336,94 @@ Different sections handle different components
 - `configs:` handles configuration options without custom images
 - `secrets:` provides options to handle password, tokens, API keys, ...
 
-Life as a recipe, garden, book, journey, game
-
-gamification
+https://docs.docker.com/reference/compose-file
 ## Services section
 
-- Difines all required resources for the application
-- Primarily specifies the containers and images to be used
+- Defines all required resources for the application
+- Primarily specifies the containers and images to be used\
+- Extensive options available, but only apply to the individual container(s)
+- Indention is applied as needed
+
+Note that it is typically not required to build a compose-dot-yaml from scratch. It is far better to start with an initial configuration and modify it from there.
+
+```yml
+version: '3.8'
+
+services:
+  app:
+    image: myapp:latest
+    depends_on:
+      - db
+      - redis
+    networks:
+      - app-network
+    volumes:
+      - app-data:/var/lib/app
+    configs:
+      - source: app-config
+        target: /etc/app/config.yaml
+    secrets:
+      - db_password
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD_FILE: /run/secrets/db_password
+    networks:
+      - app-network
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    secrets:
+      - db_password
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "user"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  redis:
+    image: redis:alpine
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 5s
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  app-data:
+  db-data:
+
+configs:
+  app-config:
+    file: ./config/app-config.yaml
+
+secrets:
+  db_password:
+    file: ./secrets/db_password.txt
+```
+
+# Docker & WSL
+
+https://www.freedium.cfd/https://onlyutkarsh.medium.com/running-docker-in-wsl2-ubuntu-distro-without-docker-desktop-6ec495e8bb4d
+
+If you want to easily access your Windows "Documents" folder from WSL, you can create a symbolic link from your home directory:
+
+```
+ln -s '/mnt/c/Users/YourUserNameHere/Documents' ./WinDocuments
+```
+
+You can do that for Documents or you could just link your Windows home directory.

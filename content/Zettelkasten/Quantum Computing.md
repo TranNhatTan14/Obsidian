@@ -2,7 +2,7 @@
 tags:
   - Learning
 links:
-  - "[[Briliant]]"
+  - "[[Brilliant]]"
   - "[[Knowledge]]"
 ---
 ![[Pasted image 20240730131409.png]]

@@ -135,10 +135,4 @@ Don't loop over all
 Get the pinned like in TIkTok
 Ask everyone question about what song do you like or want to recommend to 
 
----
-
-### OK
-
-vanchuong.lake
-
 Elyitclean

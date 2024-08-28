@@ -1,62 +1,8 @@
-# Career & Professional
-
-### Certification
-
-- [ ] HSK
-
-- [ ] [AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/certification/certified-machine-learning-engineer-associate)
-- [ ] [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty)
-- [ ] [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-- [ ] [Professional Machine Learning Engineer Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
-
-### Competition
-
-- [ ] [[Location Mention Recognition]]
-- [ ] [HMS - Harmful Brain Activity Classification](HMS.md)
-- [ ] [Edge-Device Large Language Model Competition](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)
-- [ ] [IBCOL 2024 International Blockchain Olympiad](https://2024.ibcol.org/)
-- [ ] [Zalo AI Challenge 2023](https://challenge.zalo.ai)
-
-Visit [Machine Learning Contests](https://mlcontests.com) for more detail about available competition in Computer Science and AI
-
-### Pro
-
-- [ ] [[NSAID]]
-- [ ] [[STR]]
-- [ ] [[Assistant]]
-- [ ] [[AMR]]
-
 ### Role
 
 - [[Research]]
 - [[Developer & Hacker]]
 - [[Engineer]]
-
-### Work
-
-### Experience
-
-About projects and skill I have
-### Current Work
-### Future Work
-
-# Education & Learning
-
-### Resource
-
-### Article
-
-- [[Manage Your Energy, Not Your Time]]
-
-### Book
-
-https://spiderum.com/bai-dang/3-quyen-sach-toi-se-recommend-cho-moi-nguoi-toi-gap-wKJTAykv8E5K
-
-- [ ] [[Smart Thinking]]
-
-###### Biology
-
-- [ ] [Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system](https://www.amazon.com/Immune-Kurzgesagt-gorgeously-illustrated-immune/dp/1529360684)
 
 ### Podcast
 
@@ -138,8 +84,6 @@ https://www.tiktok.com/@timbarbershop1ctrungliet
 ###### Interest and Consideration
 
 ###### Life Milestones
-
-###### Mindset
 
 ###### Strength and Weakness
 

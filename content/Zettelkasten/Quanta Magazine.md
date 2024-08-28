@@ -2,7 +2,7 @@
 links:
   - https://www.youtube.com/@QuantaScienceChannel
   - "[[Computer Science]]"
-  - "[[Math]]"
+  - "[[Mathematics]]"
   - "[[Science]]"
   - "[[Biology]]"
   - "[[YouYube]]"

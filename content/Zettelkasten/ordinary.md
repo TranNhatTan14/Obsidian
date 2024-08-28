@@ -1,12 +1,12 @@
 ---
-tags:
-  - Vocabulary
-links: 
+tags: 
+links:
+  - "[[content/Zettelkasten/Vocabulary|Vocabulary]]"
 synonyms: 
 antonyms:
-  - "[[brilliant]]"
+  - "[[Brilliant]]"
   - "[[extraordinary]]"
 homophones: 
 anagrams: 
-description:
+description: 
 ---

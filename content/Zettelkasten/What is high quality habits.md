@@ -1,14 +1,15 @@
 ---
 tags:
   - Writing
-  - Habit
+links:
+  - "[[Habit]]"
 ---
 Phần lớn thói quen của bạn là thói quen tốt, điều này giúp bạn có thể thực hiện công việc một cách hiệu quả, một cách tự động và không tốn quá nhiều năng lượng. Giúp bạn có thể dành năng lượng cho những việc quan trọng hơn [^1]
 
 Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break bad habits with Habitify for check and [Redirector](Google.md#Redirector). We need to have reminder and data, streak
 
-- [ ] ELSA Speak or The Coach for 20 minutes
-- [ ] Sống với cảm xúc vỡ òa
+- ELSA Speak or The Coach for 20 minutes
+- Sống với cảm xúc vỡ òa
 
 - Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
 - Continute to learn new things on a dauly basis
@@ -23,10 +24,10 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 
 ###### Evening
 
-- [ ] 20:00: Take Omega 3.6.9 and Vitamin E
-- [ ] 21:00 no glass?
-- [ ] Giãn cơ trước khi ngủ
-- [ ] 23:00: Sleep enough and sleep well
+- 20:00: Take Omega 3.6.9 and Vitamin E
+- 21:00 no glass?
+- Giãn cơ trước khi ngủ
+- 23:00: Sleep enough and sleep well
 
 ###### Work
 

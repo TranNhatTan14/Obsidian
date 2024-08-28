@@ -1,6 +1,7 @@
 ---
 links:
   - "[[Artificial Intelligence]]"
+  - "[[Machine Learning]]"
 ---
 DL is a subset of Machine Learning
 
@@ -43,6 +44,8 @@ tensor.device
 The fundamental data structure in PyTorch is called a tensor. A tensor is essentially an array, which can support many mathematical operations, and will form a building block for our neural networks. Tensors can be created from Python lists by using the torch.tensor() class. PyTorch also supports tensor creation directly from NumPy arrays, using torch.from_numpy(). torch.tensor() will work directly on NumPy arrays too. Like NumPy arrays, tensors are multidimensional, representing a collection of elements arranged in a grid with multiple dimensions.
 
 ### Neural Network
+
+Neural networks are a critical component of deep learning, a complex subset of machine learning. Familiarize yourself with different types of neural networks, such as convolutional and recurrent neural networks, and learn how to implement them using frameworks like TensorFlow or PyTorch
 
 ###### Using derivatives to update model parameters
 

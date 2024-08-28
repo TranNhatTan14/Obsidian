@@ -1,6 +1,19 @@
 ---
 links: "[[Superman]]"
 ---
+# Eye
+
+- [ ] Danh sách bài tập mắt [priority:: highest]
+- [ ] Mua thực phẩm chức năng cho mắt
+
+# Teeth
+
+1. Vệ sinh răng miệng
+2. Làm trắng răng
+3. Sửa chữa răng miệng
+4. Niềng răng
+5. Tập cười thật tự tin
+
 ### Sleep
 
 Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
@@ -11,7 +24,6 @@ Always try to sleep at the right time
 2 hours before basic time sleep we often buồn ngủ
 Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
 Sleep enough
-
 ---
 
 ### Mental Health
@@ -19,13 +31,9 @@ Sleep enough
 - Healthy mind, mental wellbeing
 - Find activities that help you relax: meditating daily, listening to a motivational podcast, going for a walk, be present
 
----
-
 ### Physical Health
 
-###### Exercises
-
-- [ ] Lateral Raise
+[[Exercise]]
 
 ### Improve eyesight
 
@@ -73,6 +81,7 @@ Cause
 
 Tâng cơ, giảm mỡ
 
+- [ ] Granola 
 ###### States: Trạng thái hiện tại của mình như thế nào
 
 - Đau lưng
@@ -91,3 +100,6 @@ https://www.instagram.com/hironori_nakajima/
 # Height
 
 https://doi.org/10.1210/jc.2016-2891
+
+- [ ] Cải thiện vóc dáng, nghiên cứu về các yếu tố ảnh hưởng, dinh dưỡng bài tập
+- [ ] Mua nano Canxi

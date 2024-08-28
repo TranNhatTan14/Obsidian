@@ -1,6 +1,4 @@
 ---
-tags:
-  - Education
 links:
   - "[[Artificial Intelligence]]"
   - "[[People]]"

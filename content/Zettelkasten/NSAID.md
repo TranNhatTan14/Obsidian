@@ -5,15 +5,13 @@ links:
   - "[[Work]]"
   - "[[Biology]]"
 ---
-Warning: --split-par had no effect (no X chromosome in dataset)
-1213 samples (0 females, 0 males, 1213 ambiguous; 1213 founders)
-1 binary phenotype loaded (200 cases, 1011 controls)
---remove: 1194 samples remaining.
-1194 samples (663 females, 531 males; 1194 founders) remaining after main
-filters.
-192 cases and 1002 controls remaining after main filters.
-2224650 variants removed due to allele frequency threshold(s)
-(--maf/--max-maf/--mac/--max-mac).
+- [/] Build Docker for NSAID pipeline  [priority:: high]  [due:: 2024-08-30]
+
+# TWAS
+
+TWAS is a method to identify significant expression-trait associations using expression imputation from genetic data or summary statistics.
+
+- Individual-level TWAS uses individual-level genotype and phenotype for expression prediction and association test
 
 - Don't use keep
 - Now mind don't remove any sample, what is the best value for mind
@@ -40,7 +38,6 @@ Similarly, **--minimac3-r2-filter** excludes variants where [Minimac3's imput
 minimac3-r2-filter 1" can be used to keep only perfectly-imputed-and-phased variants.
 
 Lựa chọn tham số dựa trên dữ liệu
-
 
 # Associate
 
@@ -69,7 +66,6 @@ plink2 \
 
 # Association Test - Additive Model with Firth residualize
 plink2 \
-
     --bfile $OUTPUT/QC/S11_QC_clean \
     --glm no-x-sex hide-covar firth firth-residualize \
     --covar $OUTPUT/PCA/S12_GWAS.covar \
@@ -106,28 +102,16 @@ First, sex (as defined in the .fam/.psam input file) is normally included as an 
 
 By default, for every variant, this file contains a line for each genotype column _and a line for each non-intercept covariate column_. If you're not actually using any information in the covariate lines, the '**hide-covar**' modifier can greatly reduce file sizes. (See also [--pfilter](https://www.cog-genomics.org/plink/2.0/assoc#pfilter) below.) Or, going in the other direction, the '**intercept**' modifier lets you also see the intercept-column fit.
 
-### Alleles
+# Statistics check
+# Harmonization
 
-Different versions of the same variant are called alleles. For example, a SNP may have two alternative bases, or alleles, C and T4.
+# Assign rsID
+# Annotation
 
-###### Variant
+## Extract lead variants
 
-Genetic variation is the difference in DNA sequences between individuals within a population
+## Extract novel variants
 
-[Type of genetic variation](https://www.ebi.ac.uk/training/online/courses/human-genetic-variation-introduction/what-is-genetic-variation/types-of-genetic-variation/)
+https://cloufield.github.io/gwaslab/reserved_header/
 
-###### VCF
-
-**VCF is the standard file format** for storing variation data. It is used by large scale variant mapping projects.
-
-VCF is a preferred format because it is **unambiguous, scalable and flexible**, allowing extra information to be added to the info field. Many millions of variants can be stored in a single VCF file.
-
-VCF files are tab delimited text files.
-
-###### Linkage Disequilibrium
-
-In the genome, alleles at variants close together on the same chromosome tend to occur together more often than is expected by chance. These blocks of alleles are called haplotypes. **Linkage disequilibrium** (LD) is a measure of how often two alleles or specific sequences are inherited together, with alleles that are always co-inherited said to be in linkage disequilibrium.
-
----
-- It is now standard practice to include top principal components as covariates in association analysis, to correct population stratification.
-- Also, when working with unbalanced binary phenotypes, be aware that Firth regression can be similar to adding a [pseudocount](https://en.wikipedia.org/wiki/Additive_smoothing) of 0.5 to the number of case and control minor allele observations, so weird things happen when the _expected_ number of case minor allele observations is less than 0.5. You probably don't want to throw out every variant with MAC < 300 when your case:control ratio is 1:600 (you may still have excellent power to detect _positive_ association between the minor allele and case status, after all), but you shouldn't take reported odds-ratios or p-values literally for those variants.
+# Downstream analysis

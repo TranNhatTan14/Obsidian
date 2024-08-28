@@ -11,7 +11,6 @@ bot and automation
 ### Productivity
 
 - You can read faster than you can speak, avoid **subvocalizaion** with humming or counting silently
-- The quickest way to learn more complex vocabulary is also the most fun: **read more, keep a list**
 - Trình bày những thứ phức tạp một cách dễ hiểu
 
 ### Memory
@@ -29,8 +28,8 @@ bot and automation
     
     Đặt bản thân mình vào đúng vị trí, đừng bắt cá leo cây
     
-    - [ ] Find your values
-    - [ ] Find the right place
+    - Find your values
+    - Find the right place
 
 ### Advice
 

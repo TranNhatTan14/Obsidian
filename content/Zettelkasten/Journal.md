@@ -560,7 +560,6 @@ Ngành hot bạn đang định học, sau khi ra trường chưa chắc đã cò
 Nhiều lời khuyên đc ko? Vì mình từng là 1 thằng ngu và ko muốn ai gặp nhiều chuyện oái ăm như mình:
 
 1. Không ai yêu mình, hiểu mình, thương mình bằng chính bản thân mình.
-    
 2. Giấc ngủ rất quan trọng, hãy ngủ đủ.
     
 
@@ -650,8 +649,6 @@ Neuroscience
 
 Robot có thể suy nghĩ được như chúng ta
 
-Natural Language Processing
-
 Robot có thể giao tiếp được như chúng ta
 
 # Spatial Intelligence
@@ -734,8 +731,6 @@ Mong muốn những người xung quanh có tư duy tốt, để cùng phát tri
 
 Lối sống lành mạnh, kỷ luật
 
-IKIGAI
-
 Wabi Sabi
 
 Cách họ đối xử với người khác
@@ -749,10 +744,6 @@ General and Specific knowledge
 Codespaces
 
 Remote compute
-
-Text editor
-
-Interact with docker
 
 mortgage
 
@@ -929,12 +920,12 @@ Theo như mình tính thì ngày mai mình sẽ 23 tuổi.
 
 Dự định sắp tới của mình là gì à?
 
-- [ ] Một ngày sinh nhật thật vui vẻ, nhớ là ăn sáng đầy đủ, vui thật là vui
-- [ ] CHĂM SÓC SỨC KHỎE THẬT TỐT, VIẾT NHỮNG DÒNG NÀY LÀ THẤY MẮT MỜ VÀ LƯNG ĐANG MỎI ĐÓ
-- [ ] Mình sẽ học tiếng Anh thật chăm chỉ, với mục tiêu là IELTS 6.5+ sớm
-- [ ] Mình sẽ tiếp tục thực hiện tốt công việc tại GeneStory, vì mình có thể thành CTV, trong thời gian đó, mình có thể chuẩn bị tốt hơn cho những mục tiêu dài hạn sắp tơi
-- [ ] Mình sẽ apply FPT AI Residency
-- [ ] Mình sẽ apply chương trình mà chị Huyền giới thiệu, đây là cơ hội tốt và phù hợp
+- Một ngày sinh nhật thật vui vẻ, nhớ là ăn sáng đầy đủ, vui thật là vui
+- CHĂM SÓC SỨC KHỎE THẬT TỐT, VIẾT NHỮNG DÒNG NÀY LÀ THẤY MẮT MỜ VÀ LƯNG ĐANG MỎI ĐÓ
+- Mình sẽ học tiếng Anh thật chăm chỉ, với mục tiêu là IELTS 6.5+ sớm
+- Mình sẽ tiếp tục thực hiện tốt công việc tại GeneStory, vì mình có thể thành CTV, trong thời gian đó, mình có thể chuẩn bị tốt hơn cho những mục tiêu dài hạn sắp tơi
+- Mình sẽ apply FPT AI Residency
+- Mình sẽ apply chương trình mà chị Huyền giới thiệu, đây là cơ hội tốt và phù hợp
 
 ---
 March 27, 2024

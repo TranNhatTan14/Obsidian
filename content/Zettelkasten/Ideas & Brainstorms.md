@@ -1,7 +1,7 @@
 ###### Agent
 
 What agent are
-Whay they-re important
+Why they're important
 
 Implement using LangChain
 
@@ -27,10 +27,12 @@ RAG was the begining
     
     → Tân bị điên à, có gì mà phải thấy khó chịu
 
+- Yêu bản thân mình của hiện tại, hàng ngày phát optimize bản thân hơn
+- Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80% [[PCA]]
+- Giỏi thì mới cạnh tranh và phát triển được
+- Hình ảnh chú chim nhảy từ trên cao tập bay
+
 ---
-
-
-
 
 Vấn đề của mình đang là gì
 
@@ -70,7 +72,6 @@ Kiến thức - Trải nghiệm - Kinh nghiệm
 - Kiến thức chất lượng cao
 - Chất lượng cao
 - Tự học
-- Nền tảng cơ bản (Brilliant, English)
 - Kỹ năng (đầu ra)
 - Công cụ
 - Kiến thức (đầu vào)
@@ -172,7 +173,7 @@ Kiến thức - Trải nghiệm - Kinh nghiệm
 - Gửi các em đi học về các nhóm giỏi nhất 
 - Có thể ứng dụng vào các bải toán ở Việt nam
 
-- Đặc bạn vào nhóm nghiên cứu lớn
+- Đặt bạn vào nhóm nghiên cứu lớn
 - Có hiểu biết về mặt toán và kỹ thuật
 
 - Nắm bắt được cơ hội
@@ -211,10 +212,6 @@ what another people ha ve that I don't have
 - Trí nhớ khi ở trong đầu và khi mình viết ra như thế này thì có điểm gì khác biệt
 
 - Tâm sinh tướng
-
-- Minimalism
-- IKIGAI
-- Stoicism
 
 ###### Purpose
 

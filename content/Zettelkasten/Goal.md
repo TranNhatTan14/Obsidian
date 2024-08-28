@@ -2,10 +2,12 @@
 links:
   - "[[Superman]]"
 ---
-> [!todo] 
-> - [ ] Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)
+==Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)==
 
 # Long-term
+## 2025
+
+- [ ] Become Kaggle Master
 
 # Health
 
@@ -49,8 +51,26 @@ Which major? which country
 # Finance
 
 Quản lý tốt tài chính cá nhân
-[Financial Freedom](Financial%20Freedom.md)
-1,000,000 USD
+
+### Financial Freedom
+
+- [x] 20,000,000  [completion:: 2024-08-27]
+- [ ] 50,000,000
+- 100,000,000
+- 200,000,000
+- 500,000,000
+- 1,000,000,000
+- 1,000,000 USD
+
+- Having enough wealth and income to cover your living expenses without needing to work for money.
+- ==It allows you to make choices about how you spend your time and resources== without being constrained by financial concerns. 
+
+- Managing income wisely
+- Saving
+- Investing
+- [Possibly creating multiple streams of income](MMO.md)
+
+
 Learn how to invest, tạo được nhiều nguồn thu nhập thụ động song song với thu nhập chủ động
 
 # Life
@@ -61,18 +81,18 @@ Learn how to invest, tạo được nhiều nguồn thu nhập thụ động son
 
 ### Explore
 
-- [ ] Hiểu hơn về thế giới và cách thế giới vận hành và có thể chủ động hơn trong cuộc sống
-- [ ] Hạn chế thời gian dành cho những danh hiệu vô nghĩa, chỉ để thể hiện
+- Hiểu hơn về thế giới và cách thế giới vận hành và có thể chủ động hơn trong cuộc sống
+- Hạn chế thời gian dành cho những danh hiệu vô nghĩa, chỉ để thể hiện
 
 ### Happy life
 
-- [ ] Beautiful wife, obedient children, happy family
-- [ ] Have meaningful [time](Time.md) for myself and with important relationship
+- Beautiful wife, obedient children, happy family
+- Have meaningful [time](Time.md) for myself and with important relationship
 
 ### Tool & Resource
 
-- [ ] Sử dụng tài nguyên và công cụ, đừng để công cụ sử dụng mình
-- [ ] Xác định mục đích sử dụng của từng đồ dùng
+- Sử dụng tài nguyên và công cụ, đừng để công cụ sử dụng mình
+- Xác định mục đích sử dụng của từng đồ dùng
 
 # Personal
 
@@ -105,32 +125,18 @@ Xem em Dương Vũ trên Threads để cố gắng hết sức (dốc hết sứ
 - Biết ơn vì thầy Hiệp và anh Hoàn đã tạo điều kiện cho mình
 
 ---
-###### 202406
+### 202406
 
 Nghe tin mẹ bị sỏi thận đau bụng phải đi viện, mình đã rất buồn và khóc
 
-###### 202405
+### 202405
 
 - Kết thúc chương trình đào tạo kĩ sư AI, cảm xúc thay đổi lẫn lộn vì công ty GeneStory xử lý hợp đồng không chuyên nghiệp.
 
-###### 202011
+### 202011
 
 - Vân tay mẹ không rõ nữa
-
-#### Health
-
-- [ ] 60 kg
-- [ ] More beautiful
-#### Finance
-
-- [ ] Kiếm được 500,000,000 with
-    
-- [HIEU TV](https://app.capacities.io/da04e088-7156-4e19-8539-8299ccbb287f/304b5c40-46f8-454d-a9ec-1b6d8a7805c6) 57
-    
-- [HIEU TV](https://app.capacities.io/da04e088-7156-4e19-8539-8299ccbb287f/304b5c40-46f8-454d-a9ec-1b6d8a7805c6) 58
-    
-- [HIEU TV](https://app.capacities.io/da04e088-7156-4e19-8539-8299ccbb287f/304b5c40-46f8-454d-a9ec-1b6d8a7805c6) 133
-    
+     
 ### Timeline
 
 **2024**
@@ -138,13 +144,6 @@ Nghe tin mẹ bị sỏi thận đau bụng phải đi viện, mình đã rất 
 - Improve eyesight
 
 **2025**
-
-- 500,000,000 VND
     
 - Submit Graph Transformer paper
-    
 - Apply master scholarship
-    
-- [ ] Chăm sóc da mặt
-- [ ] Vệ sinh răng miệng
-- [ ] Hàn răng

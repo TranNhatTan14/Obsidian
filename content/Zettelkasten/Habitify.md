@@ -1,6 +1,7 @@
 ---
 tags:
   - Application
-  - Habit
-links: https://app.habitify.me
+links:
+  - "[[Habit]]"
+URL: https://app.habitify.me
 ---
