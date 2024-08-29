@@ -7,8 +7,6 @@ Implement using LangChain
 
 Knowlede Assistant
 
-RAG was the begining
-
 - [ ] Học tập và làm việc hiệu quả, tập trung
 - [ ] Đặt mục tiêu rõ ràng, kỷ luật bản thân
 
@@ -57,16 +55,6 @@ How to connect (link) the dot (graph, sparse graph)
 - Mình sẽ làm gì với những note hoặc task đã hoàn thành
 - Mình sẽ làm gì trong thời gian làm việc
 - Học kiến thức mới khi ngoài giờ làm việc
-
-### Thinking
-
-###### Critical Thinking
-
-### Black box
-
-###### Input - Fuction - Output
-
-Kiến thức - Trải nghiệm - Kinh nghiệm
 
 - Đọc sách ở màn hình có chất lượng cao
 - Kiến thức chất lượng cao

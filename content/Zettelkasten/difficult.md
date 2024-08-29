@@ -1,7 +1,7 @@
 ---
-tags: []
-links:
-  - "[[content/Zettelkasten/Vocabulary|Vocabulary]]"
+tags:
+  - Vocabulary
+links: 
 synonyms:
   - "[[strenuous]]"
   - "[[bewildering]]"

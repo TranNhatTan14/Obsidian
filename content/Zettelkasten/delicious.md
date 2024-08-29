@@ -1,10 +1,10 @@
 ---
-tags: []
+tags:
+  - Vocabulary
 synonyms:
   - "[[scrumptious]]"
   - "[[delectable]]"
-links:
-  - "[[content/Zettelkasten/Vocabulary|Vocabulary]]"
+links: []
 antonyms: 
 homophones: 
 anagrams: 

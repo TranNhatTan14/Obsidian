@@ -16,3 +16,13 @@ du -sh /home/user/*
 # Specify an output path
 wget -O /home/tantn/workspace/NSAID/pipeline/annotation/GCF_000001405.40.gz.tbi https://ftp.ncbi.nih.gov/snp/latest_release/VCF/GCF_000001405.40.gz.tbi
 ```
+
+# Conda
+
+```bash
+# Deactivate
+conda deactivate
+
+# Remove environment
+conda env remove --name env_name
+```

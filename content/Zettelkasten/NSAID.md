@@ -7,15 +7,6 @@ links:
 ---
 - [/] Build Docker for NSAID pipeline  [priority:: high]  [due:: 2024-08-30]
 
-# TWAS
-
-TWAS is a method to identify significant expression-trait associations using expression imputation from genetic data or summary statistics.
-
-- Individual-level TWAS uses individual-level genotype and phenotype for expression prediction and association test
-
-- Don't use keep
-- Now mind don't remove any sample, what is the best value for mind
-
 # Stats
 
 https://www.cog-genomics.org/plink/2.0/basic_stats
@@ -31,7 +22,6 @@ https://www.cog-genomics.org/plink/2.0/filter
 --minimac3-r2-filter
 
 **--mach-r2-filter** excludes variants where the MaCH Rsq imputation quality metric (frequently labeled as 'INFO') is outside [0.1, 2.0]; change the bounds by providing parameters. Monomorphic variants, where Rsq == nan, are not excluded by this filter: the problem with them isn't imputation quality.
-
 
 Similarly, **--minimac3-r2-filter** excludes variants where [Minimac3's imputation quality metric](https://genome.sph.umich.edu/wiki/Minimac3_Info_File#Rsq) is outside the given range. **Note that this metric assumes that phased dosages have been imported with e.g. [--vcf's dosage=HDS option](https://www.cog-genomics.org/plink/2.0/input#vcf)**; the computation still proceeds when unphased dosages are present, but the results will be underestimates. If you don't need phased dosages for any other reason, [--{extract,exclude}-if-info](https://www.cog-genomics.org/plink/2.0/filter#extract_if_info) is usually a more efficient way to do this properly.
 
@@ -54,26 +44,6 @@ Before we continue, three usage notes.
 - Bệnh và VN1K imputed trên 1KGP
 
 - Phân tích cho rare variant
-
-```bash
-# Association Test - Additive Model with Firth fallback
-plink2 \
-    --bfile $OUTPUT/QC/S11_QC_clean \
-    --glm no-x-sex firth-fallback hide-covar \
-    --covar $OUTPUT/PCA/S12_GWAS.covar \
-    --covar-variance-standardize \
-    --out firth_fallback_additive
-
-# Association Test - Additive Model with Firth residualize
-plink2 \
-    --bfile $OUTPUT/QC/S11_QC_clean \
-    --glm no-x-sex hide-covar firth firth-residualize \
-    --covar $OUTPUT/PCA/S12_GWAS.covar \
-    --covar-variance-standardize \
-    --out firth_residualize_additive
-```
-
-Input file is QC_clean
 
 ### Firth
 
@@ -115,3 +85,19 @@ By default, for every variant, this file contains a line for each genotype colum
 https://cloufield.github.io/gwaslab/reserved_header/
 
 # Downstream analysis
+
+# Post-GWAS
+
+## Fine-mapping
+
+- The purpose of fine-mapping is to ==identify the specific genetic variants within a genomic region (locus) that are directly responsible for a disease or trait==. 
+- While GWAS can highlight regions of the genome associated with a disease, these regions often contain many variants. ==Fine-mapping narrows down this list to pinpoint the causal variant(s)==, which can then be studied further to understand the biological mechanisms underlying the disease, potentially leading to new diagnostic tools, therapies, or preventive strategies.
+
+## TWAS
+
+TWAS is a method to identify significant expression-trait associations using expression imputation from genetic data or summary statistics.
+
+- Individual-level TWAS uses individual-level genotype and phenotype for expression prediction and association test
+
+- Don't use keep
+- Now mind don't remove any sample, what is the best value for mind

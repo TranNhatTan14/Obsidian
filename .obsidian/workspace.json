@@ -4,28 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "c73f06548dfaf6b2",
+        "id": "55c7023adc128b0a",
         "type": "tabs",
         "children": [
           {
-            "id": "37766d887bda1405",
+            "id": "5d1762c693dd5a96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/Attention.md",
+                "file": "content/Zettelkasten/STR.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "c268637fd9024f65",
+            "id": "85ce9dd7b07e3769",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/Zettelkasten/GWAS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Zettelkasten/GWAS.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Zettelkasten/GWAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Zettelkasten/GWAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,34 +161,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c268637fd9024f65",
+  "active": "85ce9dd7b07e3769",
   "lastOpenFiles": [
-    "content/Zettelkasten/Data.md",
-    "content/Zettelkasten/anthrop.md",
-    "content/Zettelkasten/The Hanoi Chamomile.md",
-    "content/Zettelkasten/VPN.md",
-    "content/Zettelkasten/Surge.md",
-    "content/Zettelkasten/TikTok.md",
-    "content/Zettelkasten/Thinking.md",
-    "content/Zettelkasten/The Vingroup Scholarship Program.md",
-    "content/Zettelkasten/Work.md",
-    "content/Zettelkasten/World.md",
-    "content/Zettelkasten/Balance.md",
-    "content/Zettelkasten/Attention.md",
+    "content/Zettelkasten/NSAID.md",
+    "content/Zettelkasten/GWAS.md",
+    "content/Zettelkasten/Master Degree.md",
+    "content/Zettelkasten/Education.md",
+    "content/Zettelkasten/STR.md",
+    "content/Zettelkasten/Link.md",
+    "content/Zettelkasten/Visual Studio Code.md",
+    "content/Zettelkasten/Transcriptome-wide association study.md",
+    "content/Zettelkasten/Operating Systems.md",
+    "content/Zettelkasten/Vocabulary.md",
     "content/Zettelkasten/AMR.md",
-    "content/index.md",
-    "content/Zettelkasten/Machine Learning Model.md",
-    "content/Zettelkasten/Hardware.md",
-    "content/Zettelkasten/Artificial Intelligence.md",
-    "content/Zettelkasten/Superman.md",
     "content/Zettelkasten/Mindset.md",
+    "content/Zettelkasten/Finance.md",
     "content/Zettelkasten/Ideas & Brainstorms.md",
-    "content/Zettelkasten/Designing and implementing a data science solution on Azure.md",
-    "content/Zettelkasten/Wiki.md",
-    "content/Zettelkasten/Resume.md",
-    "content/Zettelkasten/Future Work.md",
-    "content/Zettelkasten/Multimodal Personal Assistant.md",
-    "content/Zettelkasten/Large Language Model.md",
+    "content/Zettelkasten/Analogy.md",
+    "content/Zettelkasten/Google Chrome.md",
+    "content/Zettelkasten/Superman.md",
+    "content/Zettelkasten/Strength and Weakness.md",
+    "content/Zettelkasten/Update.md",
+    "content/Zettelkasten/Shortcut.md",
+    "content/Zettelkasten/Single Inferno.md",
+    "content/Zettelkasten/World.md",
+    "content/Zettelkasten/extraordinary.md",
+    "content/Zettelkasten/Values & Beliefs.md",
+    "content/Zettelkasten/Real Madrid.md",
+    "content/Zettelkasten/Interest and Consideration.md",
+    "content/Zettelkasten/Vocabulary",
     "obsidian-copilot/assets/enable-copilot.png",
     "obsidian-copilot/assets/provide-api-key.png",
     "obsidian-copilot/assets/features.png",
@@ -194,7 +204,6 @@
     "obsidian-copilot/data/nodes/0/indices/5Y5j9ahUS7ScfpPljeifsw/0/_state/retention-leases-3.st",
     "obsidian-copilot/data/nodes/0/indices/5Y5j9ahUS7ScfpPljeifsw/0/_state/retention-leases-3.st.tmp",
     "obsidian-copilot/data/nodes/0/indices/R3U_Mv6SQAibK6iKSuJ0jQ/_state/state-5.st",
-    "obsidian-copilot/data/nodes/0/indices/P80haszoSIOtbkkh5264GQ/_state/state-15.st",
     "content/Files/Pasted image 20240825173542.png",
     "content/Files/Pasted image 20240825172715.png",
     "content/Files/Pasted image 20240825172544.png",

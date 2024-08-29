@@ -173,3 +173,5 @@ Mình cần đầu tư vào những khoản gì
 
 
 [[Chữa mắt với Phakic ICL]]
+
+- Rút tiền mặt từ BIDV ATM tại công ty với BIDV QR

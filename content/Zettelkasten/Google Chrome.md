@@ -1,0 +1,1 @@
+- Use `/` to jump to search box

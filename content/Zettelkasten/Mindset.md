@@ -1,3 +1,7 @@
+---
+links:
+  - "[[Superman]]"
+---
 A mindset is an established set of attitudes of a person or group concerning culture, values, philosophy, frame of mind, outlook, and disposition. It may also arise from a person's worldview or beliefs about the meaning of life.
 
 Mindset refers to the established set of attitudes, beliefs, and assumptions that shape how a person thinks, feels, and behaves. It influences how individuals interpret and respond to situations, challenges, and opportunities in their lives.
@@ -58,31 +62,12 @@ To develop this success-oriented mindset:
 - Learn from failures and setbacks instead of being discouraged by them
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tận hưởng cuộc sống, mỗi ngày phát triển bản thân hơn, đón nhận những khó khăn khuyết điểm.
+
+# [[Learning]]
+
+- You can learn from everything, learn from people around you, learn good thing to do and learn not to do bad thing
+
+# [[World]]
+
+- Nhìn nhận sự vật, sự việc khách quan (số không tròn có cái hay)

@@ -19,6 +19,8 @@ Cons
 - Contigs có những đoạn rất ngắn, không có liên kết với các contig khác và không xác đinh được các giá trị như GC, ...
 - Đoạn chứa thông tin có thể bị cắt ngắn ra làm không xác định được hoặc là đoạn có lỗi trên quá trình assembly
 
+### Sequence assembly
+
 # System Design
 
 ## Input
@@ -33,6 +35,10 @@ Processing to assembly - QC - Extract features - Query - Classify with multiple 
 Label kết quả từng contig theo 3 nhóm p c ambigous
 
 (Optional) Rebuild data
+
+# Data 
+
+Start with data from 
 
 # Workflow
 
@@ -85,23 +91,25 @@ QC giống như tiền xử lý
 
 
 
+- Thu thập dữ liệu tìm tất cả complete genomes của một loài từ cơ sở dữ liệu GeneBank
+	- E. coli
+	- K. pneumoniea
+	- S. aureus
+- Xác định được sequence nào là chromosome và plasmid
+- Mô phỏng lại quá trình giải trình tự gene sử dụng ART
+- Chạy genome assembly trên dữ liệu mô phỏng sẽ tạo ra assembly graph
+- Map contig vào trong genome thì mình sẽ biết được nguồn gốc 
 
 
 
 
 
-
-
-
-
-Hi [@Quan Nguyen](https://amromics.slack.com/team/U06BE1DRRRN), [@Trần Nhật Tân](https://amromics.slack.com/team/U06DNMJAAL8) anh có ý tưởng như sau về chuẩn bị data để train plasmid model. • Thu thập dữ liệu: tìm tất cả complete genomes của 1 loài, Ecoli từ cơ sở dữ liệu genbank. Ba loài anh tâm đắc nhất là E. coli, K. pneumoniea và S. aureus • Do mình download complete genome nên mình biết được sequence nào là plasmid, sequence nào là chromosome • Mình mô phỏng dữ liệu giải trình tự gen của các genome ở trên (sử dụng art) • Mình chạy genome assembly trên dữ liệu giải trình tự mô phỏng. Tử đây mình sẽ có các contig và assembly graph • Map các contig vào trong genome thì mình sẽ biết được contig nào là từ chromosome, contig nào từ plasmid, và contig nào tử cả 2 • Các contig này sẽ là dữ liệu để train model
 
 Ứng dụng transformer vào trong bài toán cụ thể là plasmid
 
 1. Từ bộ gene hoàn chỉnh
 2. Tạo thành các contig từ short-read
 3. Chuyển đổi giữa assembly graph và dạng độc lập fasta
-    
 4. Alignment các contig vào database để xác định đâu là contig với độ chính xác cao (Hiện tại theo mình biết thì các phương pháp align chủ yếu tập trung vào nhận diện các gene trên plasmid))
     
     <aside> 💡 Thêm cách để nhận diện gene trên chromosome
@@ -147,9 +155,9 @@ Most of the task treat contig as independent, but the relation (edge) connect wi
 
 - Classification of a contig can be improved from the knowledge of the classification of the neighboring contigs in the assembly graph
 
-<aside> 💡 1. Check độ chính xác của việc align, mình có thể tăng ngưỡng 2. Từ SPdes, IUnicycler v0.5.0 (Wick et al., 2017) and SKESA v2.4.0 (Souvorov et al., 2018), two widely used assemblers for bacterial genomes that provide an assembly graph, thus leading to two data sets per isolate… xác định xem các contig kết nối có chính xác là plasmid không? 3. Mình sẽ lấy thông tin này thế nào (lấy trung bình hay sao)
-
-</aside>
+1. Check độ chính xác của việc align, mình có thể tăng ngưỡng
+2. Từ SPdes, IUnicycler v0.5.0 (Wick et al., 2017) and SKESA v2.4.0 (Souvorov et al., 2018), two widely used assemblers for bacterial genomes that provide an assembly graph, thus leading to two data sets per isolate… xác định xem các contig kết nối có chính xác là plasmid không?
+3. Mình sẽ lấy thông tin này thế nào (lấy trung bình hay sao)
 
 **shaw-2021_cfre-SAMN15148288-s.gfa.csv**
 
@@ -170,9 +178,9 @@ Tools
     
     Attempted to reconstruct plasmid underlying assembly graph
     
-    [https://github.com/cchauve/plASgraph2](https://github.com/cchauve/plASgraph2)
+[https://github.com/cchauve/plASgraph2](https://github.com/cchauve/plASgraph2)
     
-    Rely on read coverage and cyclic topology for plasmid assembly, which is best used to find relatively comple plasmid rather than short contig
+Rely on read coverage and cyclic topology for plasmid assembly, which is best used to find relatively comple plasmid rather than short contig
     
 2. Alignment-based tools
     

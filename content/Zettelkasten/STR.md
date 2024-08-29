@@ -7,3 +7,5 @@ Here are some examples of studies that use HV1:
 Vietnamese population
 
 A study of 517 unrelated Vietnamese individuals found 50 haplogroups, with the most common being F1a (15.7%), B5a (10.8%), M (8.9%), and M7b1 (7.7%). The study also estimated genetic diversity at 99.83% and the probability of a random match at 0.37%
+
+Can wrong id have correct result

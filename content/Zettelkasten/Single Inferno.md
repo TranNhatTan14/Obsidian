@@ -46,3 +46,12 @@ Ngầu
 Eye contact tốt
 Đáng yêu
 TẶNG SÁCH VÀ LỜI NÓI TRONG SÁCH
+
+sense of humor
+Trưởng thành
+
+Lịch thiệp và cách cư xử rất đúng mực - điều đó thật sự hấp dẫn
+Nấu ăn giỏi, hiền lành, cư xử chừng mực
+Táo bạo lên nhưng không phải tất cả mọi người
+White
+Nói chuyện vui
