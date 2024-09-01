@@ -4,6 +4,18 @@ links:
 ---
 ==Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)==
 
+Goal
+Cải thiện thị lực
+Phát triển thể chất
+Tìm được công việc mong muốn
+Giảm cân
+Trắng da
+Có bài báo nghiên cứu khoa học
+Multi stream income related to work or have more profit, tạo ra sản phẩm đóng gói, scale up
+Become good man
+
+
+
 # Long-term
 ## 2025
 
