@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55c7023adc128b0a",
+        "id": "430d45556414b152",
         "type": "tabs",
         "children": [
           {
-            "id": "5d1762c693dd5a96",
+            "id": "bd833ec28441fee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/STR.md",
+                "file": "Zettelkasten/Superman.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,46 @@
             }
           },
           {
-            "id": "85ce9dd7b07e3769",
+            "id": "dd90f368f8553835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Zettelkasten/GWAS.md",
+                "file": "Zettelkasten/Large Language Model.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71ea9fb520bb884e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/GWAS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35152334c27c73a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Prompt.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,10 +89,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "http",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -84,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 294.5
   },
   "right": {
     "id": "685661460335a225",
@@ -111,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Zettelkasten/GWAS.md"
+                "file": "Zettelkasten/GWAS.md"
               }
             }
           },
@@ -121,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Zettelkasten/GWAS.md",
+                "file": "Zettelkasten/GWAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Zettelkasten/GWAS.md",
+                "file": "Zettelkasten/GWAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,54 +187,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ce9dd7b07e3769",
+  "active": "71ea9fb520bb884e",
   "lastOpenFiles": [
-    "content/Zettelkasten/NSAID.md",
-    "content/Zettelkasten/GWAS.md",
-    "content/Zettelkasten/Master Degree.md",
-    "content/Zettelkasten/Education.md",
-    "content/Zettelkasten/STR.md",
-    "content/Zettelkasten/Link.md",
-    "content/Zettelkasten/Visual Studio Code.md",
-    "content/Zettelkasten/Transcriptome-wide association study.md",
-    "content/Zettelkasten/Operating Systems.md",
-    "content/Zettelkasten/Vocabulary.md",
-    "content/Zettelkasten/AMR.md",
-    "content/Zettelkasten/Mindset.md",
-    "content/Zettelkasten/Finance.md",
-    "content/Zettelkasten/Ideas & Brainstorms.md",
-    "content/Zettelkasten/Analogy.md",
-    "content/Zettelkasten/Google Chrome.md",
-    "content/Zettelkasten/Superman.md",
-    "content/Zettelkasten/Strength and Weakness.md",
-    "content/Zettelkasten/Update.md",
-    "content/Zettelkasten/Shortcut.md",
-    "content/Zettelkasten/Single Inferno.md",
-    "content/Zettelkasten/World.md",
-    "content/Zettelkasten/extraordinary.md",
-    "content/Zettelkasten/Values & Beliefs.md",
-    "content/Zettelkasten/Real Madrid.md",
-    "content/Zettelkasten/Interest and Consideration.md",
-    "content/Zettelkasten/Vocabulary",
-    "obsidian-copilot/assets/enable-copilot.png",
-    "obsidian-copilot/assets/provide-api-key.png",
-    "obsidian-copilot/assets/features.png",
-    "content/Zettelkasten/Books",
-    "Untitled.canvas",
-    "quartz/static/og-image.png",
-    "obsidian-copilot/data/nodes/0/indices/P80haszoSIOtbkkh5264GQ/0/_state/retention-leases-3.st",
-    "obsidian-copilot/data/nodes/0/indices/mppRPprGS_CXL_P9jqJIGg/0/_state/retention-leases-2.st",
-    "obsidian-copilot/data/nodes/0/indices/mppRPprGS_CXL_P9jqJIGg/0/_state/retention-leases-2.st.tmp",
-    "obsidian-copilot/data/nodes/0/indices/R3U_Mv6SQAibK6iKSuJ0jQ/0/_state/retention-leases-2.st",
-    "obsidian-copilot/data/nodes/0/indices/R3U_Mv6SQAibK6iKSuJ0jQ/0/_state/retention-leases-2.st.tmp",
-    "obsidian-copilot/data/nodes/0/indices/5Y5j9ahUS7ScfpPljeifsw/0/_state/retention-leases-3.st",
-    "obsidian-copilot/data/nodes/0/indices/5Y5j9ahUS7ScfpPljeifsw/0/_state/retention-leases-3.st.tmp",
-    "obsidian-copilot/data/nodes/0/indices/R3U_Mv6SQAibK6iKSuJ0jQ/_state/state-5.st",
-    "content/Files/Pasted image 20240825173542.png",
-    "content/Files/Pasted image 20240825172715.png",
-    "content/Files/Pasted image 20240825172544.png",
-    "content/Files/Pasted image 20240825170840.png",
-    "content/Files/Pasted image 20240825155222.png",
-    "content/Files/Pasted image 20240729135543.png"
+    "Zettelkasten/Prompt.md",
+    "Zettelkasten/GWAS.md",
+    "Zettelkasten/NSAID.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/What I learned from the world.md",
+    "Zettelkasten/Work.md",
+    "Zettelkasten/World.md",
+    "Zettelkasten/Life and Dead.md",
+    "Zettelkasten/Life.md",
+    "Zettelkasten/Learning.md",
+    "Zettelkasten/Large Language Model.md",
+    "Zettelkasten/Superman.md",
+    "Zettelkasten/Laptop.md",
+    "Zettelkasten/Journal.md",
+    "Zettelkasten/Language.md",
+    "Zettelkasten/Kurzgesagt – In a Nutshell.md",
+    "Zettelkasten/Khoa Học và Chúng Ta.md",
+    "Zettelkasten/Jang Wonyoung.md",
+    "Zettelkasten/Item.md",
+    "Zettelkasten/iPhone.md",
+    "Zettelkasten/iPad.md",
+    "Zettelkasten/Interview.md",
+    "Zettelkasten/Improving Accuracy of LLM Applications.md",
+    "Zettelkasten/IKIGAI.md",
+    "Zettelkasten/IELTS.md",
+    "Zettelkasten/Ideas & Brainstorms.md",
+    "Zettelkasten/0",
+    "Learning",
+    "Obsidian",
+    "Knowledge",
+    "Tools",
+    "Writing",
+    "Items",
+    "Zettelkasten/YouTube",
+    "Daily notes",
+    "Files/Pasted image 20240729141544.png",
+    "Files/Pasted image 20240729135543.png",
+    "Vocabulary",
+    "Files/Timeline_6_11_Elementary.png",
+    "Files/Timeline_20_Trip_1.png",
+    "Files/Timeline_20240109_VIASM.png",
+    "Files/Timeline_20230718_IRONTEAM.png",
+    "Files/Timeline_20230717_IRONTEAM.png",
+    "Files/Timeline_20230716_Vingroup.png",
+    "Files/Timeline_20230716_IRONTEAM.png",
+    "Files/Timeline_20230715_Vingroup.png",
+    "Untitled.canvas"
   ]
 }
