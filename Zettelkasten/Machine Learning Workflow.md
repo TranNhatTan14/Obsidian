@@ -43,6 +43,8 @@ Data preparation is an essential part of the machine learning lifecycle, also ==
 
 Deal with problem in EDA include imputation
 
+### Data Augmentation
+
 ## Data quality
 
 The core of the Machine Learning model: Trash in, trash out

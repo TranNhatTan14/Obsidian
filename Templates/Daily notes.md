@@ -1,3 +1,13 @@
+### Journal
+
+Write about your day and add photos, places, and more
+Schedule time for writing and make it a habit
+
+- [ ] Lên danh sách công việc cho ngày mai
+- [ ] What make you grateful today
+- [ ] I Don't Really Know
+- [ ] Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
+
 # Morning Reflection
 ### Goals for Today
 - [ ] Goal 1:

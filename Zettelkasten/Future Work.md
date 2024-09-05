@@ -4,8 +4,6 @@ tags:
 ---
 I want to work as AI Engineer or AI Researcher or Data Scientist in fields like Healthcare, Finance, Fintech, E-commerce. I happy to work remote in global company.
 
-### [[Proactive and Passive]]
-
 Mục tiêu cụ thể khi lựa chọn công việc dựa trên [[IKIGAI]]
 Lên danh sách các lĩnh vực mà mình muốn làm việc
 
@@ -59,9 +57,7 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Create and improve Azure-based BigData platform
 - Azure Data Factory
 
-## AWS
-
-- Maintain and optimize existing AI/ML cloud architecture in AWS.
+- Maintain and optimize existing AI/ML cloud architecture
 
 ## GCP
 
@@ -75,13 +71,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Familiar with software engineering practices, such as version control, testing, and deployment
 
 # Data & Database
-
-## Data
-
-### Data Preprocessing
-
-### Data Augmentation
-### Feature Engineering
 
 ## SQL
 
@@ -116,8 +105,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Optimize and improve model training processes.
 
 ## Fine-tune
-
-
 
 # Requirements
 
@@ -161,12 +148,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Stay at the forefront of cutting-edge developments in AI and apply them to real-world projects.
 
 # Knowledge
-
-### Machine Learning
-
-### Deep Learning
-
-### Natural Language Processing
 
 ### Generative AI
 
@@ -432,3 +413,80 @@ If you get a thrill working with cutting-edge technology and love to help solve 
 
 - This is a remote / virtual role
 - Candidate needs to be based in Vietnam
+
+---
+AI Engineer Senior
+## Job Description
+
+Work with Product Owners/CTO/CEO to develop a strategy for integrating new features
+
+Collaborate with Architects/ Dev /Analytics to meet business requirements of the product
+
+Collaborate with other team members, stakeholder to solve problems
+
+Responsible for developing AI models and features within the Monkey ecosystem
+
+Research and develop AI models to improve business performance and optimize production processes
+
+Participate in the development and integration of core AI into Monkey's products
+
+### Requirements
+
+- Proven experience with Python and its web frameworks (FastAPI, Flask)
+- Strong background in ML and DL (Tensorflow, Pytorch, etc.)
+- Demonstrated experience with AI tasks utilizing LLMs (GPT, Gemini, Llama)
+- Proficiency in managing and operating AI models in production environments (Triton Serving, Torch Serving, Docker)
+- Expertise in fine-tuning and developing AI models for various tasks, including image recognition, voice analysis, and NLP
+- Experience in developing and designing AI services through RESTful API or GRPC
+- Excellent problem-solving skills and ability to work in a collaborative team environment
+- Creative thinking, self-research capability, Ability to work in a team, up-to-date knowledge of new technologies
+
+### Nice to have : 
+
+Optimize AI models for integration with edge devices (smartphone, PC)
+Experience working with Cloud Azure, GCP, AWS for AI-related tasks
+
+## Job Description
+
+Conduct research and development (R&D) to apply public models to AI production
+
+Analyze and explain AI and machine learning (ML) solutions to enhance productivity
+
+Implement AI models in our products, particularly focusing on computer vision and natural language processing (NLP) for product feature enhancement
+
+## Job Requirements
+
+At least 6 months of experience in applying AI to practical and comprehensive technology solutions
+Experience with ML, deep learning, TensorFlow, Python, and NLP
+Knowledge of using GPUs for training and fine-tuning models with tools like Tao Toolkit, Nemo, etc
+Understanding of basic algorithms, object-oriented and functional design principles, and best practice patterns
+Experience in REST API development: FastAPI, Flask, NoSQL database design, and RDBMS design and optimization
+Experience with generative AI APIs: OpenAI, Gemini, Sonet-3.5, etc
+Knowledge of prompt engineering principles for customizing NLP-specific tasks
+### Nice to Have
+
+Understanding of containerization projects
+Experience deploying and serving AI models in production environments
+Experience working with edge devices: Android/iOS
+
+### Job Description
+- Develop and deploy AI applications using Generative AI technology.
+- Integrate applications into various platforms such as websites and mobile apps.
+- Optimize the performance and accuracy of chatbots through deep learning and natural language processing (NLP) techniques.
+- Research and apply the latest technologies to enhance chatbot features and performance.
+- Collaborate with other departments to ensure the chatbot meets business and user requirements.
+- Conduct testing and debugging to ensure product quality.
+
+### Job Requirements
+- Experience working with Generative AI models like GPT-4.
+- Proficiency in Python and libraries such as TensorFlow, PyTorch, Keras.
+- Experience with natural language processing (NLP) technologies and tools.
+- Strong analytical and problem-solving skills.
+- Effective teamwork and communication skills.
+
+### Preferred Qualifications
+- Experience working with commercial chatbot systems.
+- Experience with open-source large language models (LLM).
+- Knowledge of AI tools and platforms such as OpenAI and Hugging Face.
+- Experience in Agile/Scrum projects.
+- Relevant certifications in AI and Machine Learning are an advantage.

@@ -2,6 +2,8 @@
 links:
   - "[[Superman]]"
 ---
+Những thứ mình làm, mình đều học được kiến thức mới
+
 A mindset is an established set of attitudes of a person or group concerning culture, values, philosophy, frame of mind, outlook, and disposition. It may also arise from a person's worldview or beliefs about the meaning of life.
 
 Mindset refers to the established set of attitudes, beliefs, and assumptions that shape how a person thinks, feels, and behaves. It influences how individuals interpret and respond to situations, challenges, and opportunities in their lives.

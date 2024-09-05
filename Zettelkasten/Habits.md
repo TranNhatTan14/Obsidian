@@ -13,51 +13,47 @@ I am early bird.
 
 Managed with [Habitify](Habitify.md) and use Apple devices to tracking.
 
-# Current habits [^1]
+# Morning
 
-### Morning
+### Wake up early without alarm (NO) with Early Rise
 
-###### Wake up early without alarm (NO) with Early Rise
-    
-###### Brain workout
+Or wakeup faster
 
-###### Journal
+### Brain workout with Elevate
+### Exercise
 
-Write about your day and add photos, places, and more
-Schedule time for writing and make it a habit
+### Cooking
 
-- [ ] Lên danh sách công việc cho ngày mai
-- [ ] What make you grateful today
-- [ ] I Don't Really Know
-- [ ] Ghi lại giấc mơ của mình, vì giấc mơ thường mang ý nghĩa nào đó
+### Get dressed
+### Breakfast
 
-###### Elevate
+## 09:00 - 12:00: Deep Work
 
-###### Breakfast
+# Afternoon
 
-###### Deep Work
+### Lunch
 
-### Afternoon
+Tự nấu đồ ăn trưa sẽ kinh tế và đảm bảo dinh dưỡng hơn
 
-###### Lunch
-
-###### Deep Work
-
-### [[Exercise]]
-
-### Evening
-
-###### Dinner
+Không xem video giải trí lúc ăn cơm, có thể xem video thế giới động vật hoặc kiến thức
 
 ### [[Brilliant]]
 
-###### Omega 3.6.9 and vitamin
+### 14:00 - 18-00: Deep Work
 
-###### Deep Work
+# Evening
 
-###### Stretch before sleep
+### Dinner
 
-###### Sleep
+### Omega 3.6.9 and vitamin
+
+### Deep Work
+
+### Meditation with Balance
+
+### Stretch before sleep
+
+### Sleep
 
 More detail about how to sleep well. Visit [Sleep](Sleep.md)
 
@@ -69,7 +65,6 @@ More detail about how to sleep well. Visit [Sleep](Sleep.md)
 
 ### Listening podcast
 ### Learning new language
-### Meditation with Balance
 
 ### Reading
 
@@ -118,10 +113,4 @@ Dậy khoảng 7 giờ
 Tập thể dục
 Vệ sinh cá nhân
 Tắm
-Nấu ăn
-Hoàn thành Elevate
-Thay quần áo
 
----
-
-[^1]: [Habitify](https://app.habitify.me)
