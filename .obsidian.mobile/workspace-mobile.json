@@ -11,16 +11,12 @@
             "id": "3ea6f738c437e906",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "bfc488e1cf1ce533",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Feedback.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -35,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Zettelkasten/Goal.md",
+            "file": "Feedback.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Zettelkasten/Goal.md",
+            "file": "Feedback.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Zettelkasten/Goal.md"
+            "file": "Feedback.md"
           }
         }
       }
@@ -148,12 +143,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9bf5e04f52554ab",
+  "active": "3ea6f738c437e906",
   "lastOpenFiles": [
+    "Feedback.md",
+    "content/Zettelkasten/Goal.md",
     "content/Tool & Resource/Website.md",
     "Grateful.md",
     "content/Tool & Resource/Items.md",
-    "Untitled.md",
     "Everyday.md",
     "eye.md",
     "content/Life/Life.md",
