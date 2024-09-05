@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Mindset.md",
+                "file": "Zettelkasten/Future Work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Mindset.md"
+                "file": "Zettelkasten/Prompt.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Mindset.md",
+                "file": "Zettelkasten/Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Mindset.md",
+                "file": "Zettelkasten/Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,15 +160,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05b55392aa3283cd",
+  "active": "35152334c27c73a5",
   "lastOpenFiles": [
+    "Zettelkasten/Future Work.md",
+    "Zettelkasten/Mindset.md",
     "Zettelkasten/GWAS.md",
     "Zettelkasten/Prompt.md",
     "Zettelkasten/NSAID.md",
     "Files/Pasted image 20240903194507.png",
     "Zettelkasten/OpenCore.md",
     "Templates/Daily notes.md",
-    "Zettelkasten/Future Work.md",
     "Zettelkasten/Machine Learning Workflow.md",
     "Zettelkasten/Habits.md",
     "Zettelkasten/Journal.md",
