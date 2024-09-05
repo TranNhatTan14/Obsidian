@@ -71,4 +71,3 @@ First, sex (as defined in the .fam/.psam input file) is normally included as an 
 ### Hide covariate
 
 By default, for every variant, this file contains a line for each genotype column _and a line for each non-intercept covariate column_. If you're not actually using any information in the covariate lines, the '**hide-covar**' modifier can greatly reduce file sizes. (See also [--pfilter](https://www.cog-genomics.org/plink/2.0/assoc#pfilter) below.) Or, going in the other direction, the '**intercept**' modifier lets you also see the intercept-column fit.
-
