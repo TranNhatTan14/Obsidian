@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "bfe0d8f25a51bf97",
+    "id": "fa423a216c77735b",
     "type": "split",
     "children": [
       {
-        "id": "2714867bc673970e",
+        "id": "13145571c8b6a823",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea6f738c437e906",
+            "id": "5090fc8daace507e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Feedback.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9bf5e04f52554ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Zettelkasten/Goal.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "14d36de828a0f111",
+    "id": "659be5d90ce2033e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c9ff761728978427",
+        "id": "9ab4f01d586389e1",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -51,7 +39,7 @@
         }
       },
       {
-        "id": "581ea76bfbc14f41",
+        "id": "c6a0de09814aca99",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -66,7 +54,7 @@
         }
       },
       {
-        "id": "6319c439660a6bd8",
+        "id": "0619e3b38e8f5961",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,7 +65,7 @@
         }
       },
       {
-        "id": "457f3b0f4d572834",
+        "id": "ade64ae34f8588f6",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -88,11 +76,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "3098cb6238129f8f",
+    "id": "361c36b5de77892f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d81412ba06c3b686",
+        "id": "3d8ad07522b3fa8f",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -109,7 +97,7 @@
         }
       },
       {
-        "id": "6f4900c29868d403",
+        "id": "90990485b6f7f1a0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -121,7 +109,7 @@
         }
       },
       {
-        "id": "493843cd81be3cb4",
+        "id": "c0b166ac41a7b279",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -143,23 +131,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ea6f738c437e906",
-  "lastOpenFiles": [
-    "Feedback.md",
-    "content/Zettelkasten/Goal.md",
-    "content/Tool & Resource/Website.md",
-    "Grateful.md",
-    "content/Tool & Resource/Items.md",
-    "Everyday.md",
-    "eye.md",
-    "content/Life/Life.md",
-    "content/Life/To do.md",
-    "content/Finance/MMO/Cryptocurrency.md",
-    "content/Thought & Writing/Ideas & Brainstorms.md",
-    "content/Thought & Writing/Thought.md",
-    "content/Goal & Project/Project/Assistant.md",
-    "content/To do.md",
-    "content/images/einstein_imagination.webp",
-    "content/images"
-  ]
+  "active": "5090fc8daace507e",
+  "lastOpenFiles": []
 }
