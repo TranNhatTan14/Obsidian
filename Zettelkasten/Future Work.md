@@ -26,11 +26,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Design and build working prototype for ML and AI applications
 - Architect and implement scalable AI systems and pipelines
 
-# Programming
-
-- **Programming language**: Python, C, C++, R, JavaScript
-- OOP
-
 # Training
 
 ## Framework
@@ -293,16 +288,12 @@ Data analysts on automating data processes
 - Thể hiện được mình đam mê với lĩnh vực Healthcare
 - Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
 
----
 https://nodesk.co/remote-jobs/ai
 https://nodesk.co/remote-jobs/machine-learning
 https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
 
-We’re looking for engineers with a ==background in Machine Learning and Artificial Intelligence== to improve our products and build new capabilities. You will be driving fundamental and applied research in this area. You will be combining industry best practices and a first-principles approach to design and build ML models that will improve Figma’s design and collaboration tool.
-
-**The Role You’ll Play**
-
-Here at CB Insights, our ==AI engineers build robust AI-powered services and features that turn all kinds of data into high-value, actionable insights==. This Senior AI Engineer role is on our primary AI product engineering team that focuses on ==integrating AI functionality across our platform, with a heavy emphasis on user-facing features==. Data science and machine learning expertise are NOT required for the role.
+- build robust AI-powered services and features that turn all kinds of data into high-value, actionable insights
+- Integrating AI functionality across our platform, with a heavy emphasis on user-facing features
 
 **Your Main Tasks:**
 
@@ -314,7 +305,7 @@ Here at CB Insights, our ==AI engineers build robust AI-powered services and fea
 
 **What You Bring to the Table:**
 
-- 3+ years professional ==experience in backend engineerin==g in Go, Python, or similar
+- 3+ years professional ==experience in backend engineering== in Go, Python, or similar
 - Strong experience with ==prompt engineering== and ==integrating LLMs into production systems==
 - ==Deep understanding of the capabilities and limitations of various AI models and approaches==
 - Experience with AI frameworks and tools, particularly those supporting advanced workflows and agent orchestration
@@ -323,76 +314,19 @@ Here at CB Insights, our ==AI engineers build robust AI-powered services and fea
 **You’ll be successful here if:**
 
 - You’re passionate about using AI as a powerful lever to drive value for users
-- You can ==take a complex problem or goal, break it down, and devise and implement your own strategies for solving it==
 - Working alongside other high-performing engineers motivates you
-- You have ==previous experience in a fast-paced startup environment==
-- You have ==excellent written and verbal communication skills==
-
-**What you’ll do:**
-
-- Tackle large open-ended problems and drive them to completion, collaborating with other designers and engineers to make the web a better place.
-- Identify strategic opportunities where machine learning models improve the experience in Firefox.
-- Lead the design, development, and integration of innovative machine learning models in Firefox, collaborating cross functionally with product management, full stack engineering and design.
-- Stay up-to-date with the latest advancements in machine learning, natural language processing, and related fields to ensure our methodologies remain innovative and relevant.
-- Lead by example to upskill the team on AI and generate thought leadership.
-
-**What you'll bring:**
-
-- 8+ years ==experience as an Engineer in machine learning or artificial intelligence.==
-- Deep knowledge of core web technologies and modern machine learning concepts like deep learning, natural language processing, large language models, reinforcement learning with expertise in one or more areas.
-- Identify difficult problems that are important for the organization, collaborate across teams and the organization to find the best strategy to resolve.
-- Ability to quickly analyze and solve sophisticated software development problems spanning multiple components, sometimes outside your area of expertise.
-- Proven track record of technical leadership across multiple teams, shipping AI products showing a high degree of collaboration, flexibility, and respect for diverse perspectives
-- Strong problem-solving skills and ability to communicate complex concepts to technical and non-technical stakeholders.
-- Passion for responsible AI, transparent algorithms, and putting users’ needs first.
-- Experience with analyzing large-scale dataset utilizing statistical and machine learning tools
-- Experience with design of experiments, survey design, and large-scale AB testing
-- You’re pragmatic about how to move things forward in specific timeframes including trade-offs and safeguards when implementing new functionality.
-- Excellent written and verbal English communication skills and have participated effectively on a distributed team
-
-**Bonus Points**
-
-- You have previously successfully contributed to an open source project.
-- Experience with the browser extensions architecture or ecosystem.
-
-We value a variety of voices within our team and at Mozilla. You don't need to check every box on this list to apply.
+- Problem solving
+	- Take a complex problem or goal, break it down, and devise and implement strategies for solving it
 
 ### Containerization
 ### Cloud deployment
 ### Multi-service architectures
-
-### Employment Hero - Intermediate Machine Learning Engineer
-
-As a Machine Learning Engineer, you will play a pivotal role in advancing our AI efforts. You will have ==expert-level understanding of LLMs and stay up to date with the latest developments in this space to build scalable, robust, and high-performance AI systems==. Your deep technical expertise and business acumen will be crucial in building AI solutions to the identified problems and driving business growth.
-
-**In your role, you'll be focused on**
-
-- Design and build working prototype for machine learning and AI applications.
-- Architect and implement scalable AI systems and pipelines, ensuring seamless integration with existing infrastructure.
-- Design an evaluation framework to track the system performance online and offline.
-- Work closely with cross-functional teams, including software engineers and product managers, to build AI solutions that solve customer problems.
-- Provide an technical guidance and mentorship to other ML engineers, fostering a culture of continuous learning and innovation.
-
-**Requirements**
-
-- 3+ years of experience in machine learning, with a ==strong focus on applied AI and large language models==.
-- Python, LLM, OpenAI, LangChain, LlamaIndex, Vector DB, RAG, HuggingFace, NLP, Recommender System, Chatbot.
-- ==Experience with Generative AI, Prompt Engineering and Large Language Models.==
-- Be curious about the latest developments in AI research, continuously exploring new methodologies, tools, and techniques to enhance our AI capabilities.
-- Experience using Agile methodologies and working with Product teams.
-- Quality coding practices, including test-driven development, unit testing and secure coding awareness.
-- You are passionate about learning and sharing your knowledge, and not afraid to challenge your peers, but also welcome being challenged.
-- English language abilities, both written and verbal - you’ll be working with people across the world.
-
-Experience is important, but for us the ==biggest measure of success is people who can live and breathe our values==. Show us what you can bring to the table, and we’ll empower you to let your talents shine.
 
 ###  Rackspace Technology
 
 As a Machine Learning Engineer, you will deliver ML models and pipelines that solve real-world business problems, while leveraging ML Ops best practices, to ensure successful deployment of ML models and application code. You will leverage cloud-based architectures and technologies to deliver optimized ML models at scale. You will use programming languages like Python and work with popular ML frameworks like Scikit Learn, Tensorflow etc..
 
 If you get a thrill working with cutting-edge technology and love to help solve customers’ problems, we’d love to hear from you. It’s time to rethink the possible. Are you ready?
-
-
 
 ### Responsibilities:
 
@@ -415,78 +349,87 @@ If you get a thrill working with cutting-edge technology and love to help solve 
 - Candidate needs to be based in Vietnam
 
 ---
-AI Engineer Senior
-## Job Description
 
-Work with Product Owners/CTO/CEO to develop a strategy for integrating new features
+### Description
 
-Collaborate with Architects/ Dev /Analytics to meet business requirements of the product
+- Develop and deploy AI applications using Generative AI technology
+- Intergrate application into various platforms: websites and mobile apps
+- Optimize the performance and accuracy of chatbots through DL and NLP techniques
+- Collaborate with other departments to ensure the chatbot meets bussiness and user requirements
+- Conduct testing and debugging to ensure product quality.
 
-Collaborate with other team members, stakeholder to solve problems
+- Analyze and explain AI and machine learning (ML) solutions to enhance productivity
+- Implement AI models in our products, particularly focusing on computer vision and natural language processing (NLP) for product feature enhancement
+- Responsible for developing AI models and features
 
-Responsible for developing AI models and features within the Monkey ecosystem
+### Research
 
-Research and develop AI models to improve business performance and optimize production processes
-
-Participate in the development and integration of core AI into Monkey's products
+- Research and apply latest technologies to enhance chatbot features and performance
+- Conduct research and development (R&D) to apply public models to AI production
+- Research and develop AI models to improve business performance and optimize production processes
 
 ### Requirements
 
-- Proven experience with Python and its web frameworks (FastAPI, Flask)
-- Strong background in ML and DL (Tensorflow, Pytorch, etc.)
-- Demonstrated experience with AI tasks utilizing LLMs (GPT, Gemini, Llama)
-- Proficiency in managing and operating AI models in production environments (Triton Serving, Torch Serving, Docker)
-- Expertise in fine-tuning and developing AI models for various tasks, including image recognition, voice analysis, and NLP
+- Experience working with Generative AI model like GPT-4
+- Proficiency in Python and libraries such as TensorFlow, PyTorch, Keras
+- Experience with [[Natural Language Processing]] technologies and tools
+- Experience with Python and its web framework (FastAPI, Flask)
+- Experience with AI tasks utilizing LLMs (GPT, Gemini, Llama)
+- Proficiency in managing and operating AI models in production environment (Triton Serving, TorchServe, Docker)
+- Expertise in fine-tuning and developing AI models for various tasks: image recognition, voice analysis, and [[Natural Language Processing]]
 - Experience in developing and designing AI services through RESTful API or GRPC
-- Excellent problem-solving skills and ability to work in a collaborative team environment
-- Creative thinking, self-research capability, Ability to work in a team, up-to-date knowledge of new technologies
 
-### Nice to have : 
+### Soft skills
 
-Optimize AI models for integration with edge devices (smartphone, PC)
-Experience working with Cloud Azure, GCP, AWS for AI-related tasks
+- Strong analytical and problem-solving skills
+- Effective teamwork and communication skills
 
-## Job Description
+### Nice to have
 
-Conduct research and development (R&D) to apply public models to AI production
-
-Analyze and explain AI and machine learning (ML) solutions to enhance productivity
-
-Implement AI models in our products, particularly focusing on computer vision and natural language processing (NLP) for product feature enhancement
-
-## Job Requirements
-
-At least 6 months of experience in applying AI to practical and comprehensive technology solutions
-Experience with ML, deep learning, TensorFlow, Python, and NLP
-Knowledge of using GPUs for training and fine-tuning models with tools like Tao Toolkit, Nemo, etc
-Understanding of basic algorithms, object-oriented and functional design principles, and best practice patterns
-Experience in REST API development: FastAPI, Flask, NoSQL database design, and RDBMS design and optimization
-Experience with generative AI APIs: OpenAI, Gemini, Sonet-3.5, etc
-Knowledge of prompt engineering principles for customizing NLP-specific tasks
-### Nice to Have
-
-Understanding of containerization projects
-Experience deploying and serving AI models in production environments
-Experience working with edge devices: Android/iOS
-
-### Job Description
-- Develop and deploy AI applications using Generative AI technology.
-- Integrate applications into various platforms such as websites and mobile apps.
-- Optimize the performance and accuracy of chatbots through deep learning and natural language processing (NLP) techniques.
-- Research and apply the latest technologies to enhance chatbot features and performance.
-- Collaborate with other departments to ensure the chatbot meets business and user requirements.
-- Conduct testing and debugging to ensure product quality.
-
-### Job Requirements
-- Experience working with Generative AI models like GPT-4.
-- Proficiency in Python and libraries such as TensorFlow, PyTorch, Keras.
-- Experience with natural language processing (NLP) technologies and tools.
-- Strong analytical and problem-solving skills.
-- Effective teamwork and communication skills.
-
-### Preferred Qualifications
 - Experience working with commercial chatbot systems.
 - Experience with open-source large language models (LLM).
 - Knowledge of AI tools and platforms such as OpenAI and Hugging Face.
 - Experience in Agile/Scrum projects.
 - Relevant certifications in AI and Machine Learning are an advantage.
+- Understanding of containerization projects [[Docker]]
+- Experience deploying and serving AI models in production environments
+- Experience working with edge devices: Android/iOS
+- Optimize AI models for integration with edge devices (smartphone, PC)
+- Experience working with Cloud Azure, GCP, AWS for AI-related tasks
+
+- Experience of using GPU for training and fine-tuning models with tools (Tao Toolkit, Nemo)
+- Understand of basic algorithms, OOP, functional design principles
+- Experience with REST API development: FastAPI, Flask, NoSQL database design, and RDBMS design and optimization
+- Experience with generative AI APIs: OpenAI, Gemini, Sonet-3.5
+- [[Knowledge]] of prompt engineering principles for customizing NLP-specific tasks
+
+### Collaborate
+
+- Work with Product Owners/CTO/CEO to develop a strategy for integrating new features
+- Collaborate with Architects/ Dev /Analytics to meet business requirements of the product
+- Collaborate with other team members, stakeholder to solve problems
+
+
+### Employment Hero - Intermediate Machine Learning Engineer
+
+As a Machine Learning Engineer, you will play a pivotal role in advancing our AI efforts. You will have ==expert-level understanding of LLMs and stay up to date with the latest developments in this space to build scalable, robust, and high-performance AI systems==. Your deep technical expertise and business acumen will be crucial in building AI solutions to the identified problems and driving business growth.
+
+**In your role, you'll be focused on**
+
+- Design and build working prototype for machine learning and AI applications.
+- Architect and implement scalable AI systems and pipelines, ensuring seamless integration with existing infrastructure.
+- Design an evaluation framework to track the system performance online and offline.
+- Work closely with cross-functional teams, including software engineers and product managers, to build AI solutions that solve customer problems.
+- Provide an technical guidance and mentorship to other ML engineers, fostering a culture of continuous learning and innovation.
+
+**Requirements**
+
+- Experience with strong focus on applied AI and LLM
+- Python, LLM, OpenAI, LangChain, LlamaIndex, Vector DB, RAG, HuggingFace, NLP, Recommender System, Chatbot.
+- Be curious about the latest developments in AI research, continuously exploring new methodologies, tools, and techniques to enhance our AI capabilities.
+- Experience using Agile methodologies and working with Product teams.
+- Quality coding practices, including test-driven development, unit testing and secure coding awareness.
+- You are passionate about learning and sharing your knowledge, and not afraid to challenge your peers, but also welcome being challenged.
+- English language abilities, both written and verbal - you’ll be working with people across the world.
+
+Experience is important, but for us the ==biggest measure of success is people who can live and breathe our values==. Show us what you can bring to the table, and we’ll empower you to let your talents shine.

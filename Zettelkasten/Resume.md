@@ -7,6 +7,9 @@
 
 [Resume](https://www.overleaf.com/project/662216c1aaa7879b26c4e7af)
 
+- You have ==previous experience in a fast-paced startup environment==
+- You have ==excellent written and verbal communication skills==
+
 Center for Biomedical Informatics, Vingroup Big Data Institute, Hanoi, Vietnam
 ### Earable
 

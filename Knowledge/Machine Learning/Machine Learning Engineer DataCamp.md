@@ -9,11 +9,11 @@ This career track teaches you everything you need to know about machine learning
 
 # MLOps Concepts
 
-Discover how MLOps can take machine learning models from local notebooks to functioning models in production that generate real business value.
+- How MLOps can take machine learning from local notebooks to functioning model in production that generate real business value.
 
 # End-to-end Machine Learning
 
-Dive into the world of machine learning and discover how to design, train, and deploy end-to-end models.
+- How to design, train, and deploy end-to-end models
 
 # Developing ML Models for Production
 
@@ -60,15 +60,16 @@ The importance of testing ML pipelines and learn techniques for testing and vali
 
 # MLflow
 
-Learn how to use MLflow to simplify the complexities of building machine learning applications. Explore MLflow tracking, projects, models, and model registry.
+- How to use MLflow to simplify the complexities of building machine learning applications
+- Explore MLflow tracking, projects, models, and model registry
 
 # Fully Automated MLOps
 
-Learn about MLOps architecture, CI/CD/CM/CT techniques, and automation patterns to deploy ML systems that can deliver value over time.
+- MLOps architecture, CI/CD/CM/CT techiniques, and automation patterns to deploy ML systems that can deliver value over time.
 
 # ETL and ELT in Python
 
-Learn to build effective, performant, and reliable data pipelines using Extract, Transform, and Load principles.
+- Build effective, performant, and reliable data pipelines using Extract, Transform, and Load principles
 
 # CI/CD for Machine Learning
 

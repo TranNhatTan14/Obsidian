@@ -23,12 +23,9 @@ Stay updated with the latest advancements in machine learning, including trends 
 # [[Brain–Computer Interface]]
 ### Programming
 
-Delve into advanced concept such as OOP and Algorithm optimization.
-
-Understanding how to write efficient, scalable code is crucial since AI applications often process large amounts of data. 
-
-Practice by contributing to open-source projects or tackling complex problems that challenge your coding skills.
-
+- Delve into advanced concept such as OOP and Algorithm optimization.
+- Understanding how to write efficient, scalable code is crucial since AI applications often process large amounts of data. 
+- Practice by contributing to open-source projects or tackling complex problems that challenge your coding skills.
 - Writing clean, efficient, and scalable code.
 - Understand the principles of software engineering, including version control, testing, and debugging. 
 
@@ -48,15 +45,11 @@ Acquire skills in using tools that facilitate efficient data manipulation.
 
 ### Database Management Systems
 
- Understand the workings and management of database systems to support robust AI solutions.
-
-Learning to use data manipulation tools and understanding database management systems are also valuable skills. 
-
-By mastering data handling, you'll ensure that your AI solutions are built on solid ground, leading to more accurate outcomes.
-
-Learn to use tools like SQL, pandas, and Hadoop for efficient data manipulation and analysis.
-
- Stay abreast of emerging ML trends and frameworks, and practice by building and refining your own models.
+ - Understand the workings and management of database systems to support robust AI solutions.
+- Learning to use data manipulation tools and understanding database management systems are also valuable skills. 
+- By mastering data handling, you'll ensure that your AI solutions are built on solid ground, leading to more accurate outcomes.
+- Learn to use tools like SQL, pandas, and Hadoop for efficient data manipulation and analysis.
+ - Stay abreast of emerging ML trends and frameworks, and practice by building and refining your own models.
 
 # Information Technology
 
@@ -81,16 +74,9 @@ AI Ethics
 AI in Healthcare
 AI in Finance
 
-**Programming**
-
-- **Python**
-- C
-- C++
-
 ### Deploy
 
 - Edge devices, PC, Cloud
-
 - **Top-down approach:** Learn code first, theory later.
 - **Focus on NLP (Natural Language Processing):** If you're interested in other areas like computer vision, ask the author for recommendations.
 - **Use Twitter:** Follow AI experts and engage in the community.
@@ -107,8 +93,6 @@ AI in Finance
 ### [[Spark]]
 
 ### [[Git]]
-
-
 
 # Reseach
 

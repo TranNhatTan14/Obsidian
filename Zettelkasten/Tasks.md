@@ -15,4 +15,4 @@ group by function task.file.filenameWithoutExtension + (task.hasHeading ? (' > '
 ```
 
 https://eugeneyan.com/writing/llm-ux
-https://eugeneyan.com/writing/obsidian-copilot #project f
+https://eugeneyan.com/writing/obsidian-copilot #project

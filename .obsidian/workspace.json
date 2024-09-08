@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bbf8e943f1bcf1",
+            "id": "66a598d5562cae42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Artificial Intelligence.md",
+                "file": "Zettelkasten/NSAID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "f263d65d33836906",
+            "id": "107a95488d696ff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Media.md",
+                "file": "Zettelkasten/Future Work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,19 +34,20 @@
             }
           },
           {
-            "id": "59c8304900f78d63",
+            "id": "76ca591af0c1ddbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Life Milestones.md",
+                "file": "Zettelkasten/Experience.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OOP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Artificial Intelligence.md"
+                "file": "Zettelkasten/Experience.md"
               }
             }
           },
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Artificial Intelligence.md",
+                "file": "Zettelkasten/Experience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Artificial Intelligence.md",
+                "file": "Zettelkasten/Experience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +175,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83bbf8e943f1bcf1",
+  "active": "76ca591af0c1ddbd",
   "lastOpenFiles": [
+    "Zettelkasten/Future Work.md",
+    "Zettelkasten/Knowledge.md",
+    "Zettelkasten/Resume.md",
+    "Zettelkasten/NSAID.md",
+    "Zettelkasten/Artificial Intelligence.md",
+    "Knowledge/Machine Learning/Machine Learning Engineer DataCamp.md",
+    "Knowledge/Machine Learning/Machine Learning Scientist.md",
+    "Knowledge/Machine Learning/Machine Learning Workflow.md",
+    "Zettelkasten/Tasks.md",
+    "Zettelkasten/Git.md",
+    "Files/Pasted image 20240909034617.png",
+    "Zettelkasten/Data Engineer.md",
+    "Zettelkasten/Media.md",
     "Zettelkasten/Artem Kirsanov.md",
     "Zettelkasten/What is the most important things with me.md",
     "Zettelkasten/WIRED.md",
@@ -187,23 +202,11 @@
     "Superman.md",
     "Archived/Untitled.md",
     "Knowledge/Machine Learning/Machine Learning.md",
-    "Zettelkasten/Media.md",
     "Zettelkasten/Life Milestones.md",
     "Zettelkasten/Help.md",
-    "Zettelkasten/Grateful.md",
-    "Zettelkasten/Google.md",
-    "Applications/Duolingo.md",
-    "Applications/Balance.md",
     "Archived",
     "Applications",
-    "Zettelkasten/Deep Learning.md",
-    "Zettelkasten/Machine Learning Workflow.md",
     "Knowledge/Machine Learning",
-    "Zettelkasten/Exercise.md",
-    "Zettelkasten/Obsidian.md",
-    "Health.md",
-    "Obsidian/Dataview.md",
-    "Zettelkasten/Data.md",
     "Work",
     "How to Interview and Hire ML",
     "Files/Pasted image 20240903194507.png",
@@ -220,7 +223,6 @@
     "Files/Timeline_20230718_IRONTEAM.png",
     "Files/Timeline_20230717_IRONTEAM.png",
     "Files/Timeline_20230716_Vingroup.png",
-    "Files/Timeline_20230716_IRONTEAM.png",
     "Untitled.canvas"
   ]
 }
