@@ -5,8 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: relating to time
 prefix: 
-root: 
-suffix:
+root: tempor - time
+suffix: al - relating to
 ---

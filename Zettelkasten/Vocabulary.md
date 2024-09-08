@@ -48,7 +48,7 @@ Buy the same hangover drink
 Pursuing Master program
 Filters out all variants with missing rates exceeding 0.02
 
-# Word
+# Word (with context)
 
 conduct
 
@@ -59,4 +59,35 @@ phil - love
 [[anthrop]] - human kind
 ist - one who does
 
----
+# Synonyms
+
+- whole
+	- unabridged, comprehensive
+- necessary
+	- unalterable, imperative
+- correct
+	- decorous, flassless #valorant
+- [[Brilliant]]
+	- luminous, glittering
+
+# Phases
+
+- In order to (mean with the purpose of doing something) attack Rome, Hannibal and his army crossed the Apls in 218 BCE
+- He made himself a laughingstock (mean the subject of ridicule) by singing off-key to Bobby Darin's "Mack the Knife."
+- coldhearted (describes someone who lacks kindness or affection)
+- eavesdrop (To eavesdrop means to secretly listen to someone else's conversation)
+- fish out of water (refer to a person in an unsuitable position)
+- life's too short (mean one shouldn't waste time on unimportant things)
+- stick in the mud (someone who is dull or old-fashtioned)
+- In other words (explain it more clearly), she is a great fit for the job
+
+# Connotation
+
+## Positive
+
+- Enticing means highly attractive and able to arouse hope
+
+## Negative
+
+- Lethargy means weakness, sleepiness, or sluggishness
+- Derisive mean sneering and expressing contempt or ridicule

@@ -18,3 +18,5 @@ Thời gian xem hết X video đăng lại TikTok của em anh còn có nữa l�
 
 Không có nổi 20K trong ví, không có điện thoạim không có xe, không có người yêu suốt 6 năm trời
 Anh vẫn mạnh mẽ bước tiếp và rồi anh vào lớp 1
+
+- Thực ra Shin bịa chuyện ngứa đầu để làm quen với chị đấy

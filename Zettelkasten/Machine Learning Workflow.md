@@ -148,6 +148,18 @@ Tools: Jenkins, GitLab CI, GitHub Actions
 - Integration with production systems
 - Cloud platforms: AWS SageMaker, Google Cloud AI Platform, Azure Machine Learning
 
+```bash
+apt install
+
+brew install
+
+conda create -n
+
+docker-compose up
+
+kubectl apply -f
+```
+
 ## Monitoring and Logging
 
 - Tracking model performance and system health

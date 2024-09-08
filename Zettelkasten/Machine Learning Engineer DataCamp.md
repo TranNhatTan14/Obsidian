@@ -17,7 +17,46 @@ Dive into the world of machine learning and discover how to design, train, and d
 
 # Developing ML Models for Production
 
-# Shell
+- How shifting mindset from a MLE mindset to an MLOps mindset will allow to train, document, maintain, and scale model to their fullest potential
+
+## Moving from Research to Production
+
+Move machine learning models from the research and development phase into a production environment.
+The process of moving from a research prototype to a reliable, scalable, and maintain system.
+
+You will learn about the process of moving from a research prototype to a reliable, scalable, and maintainable system.
+Understanding these key aspects of MLOps ensures that your team can efficiently manage and optimize machine learning pipelines. By focusing on continuous experimentation, regular maintenance, and model evaluation, you help create more accurate and reliable models that drive business success.
+
+- Three aspects of MLOps ensures that our team can efficiently manage and optimize ML pipelines
+	- Continuous experimentation
+	- Regular maintainance
+	- Model evaluation
+- These help create accurate and reliable models that drive bussiness success.
+
+- Writing maintainable code
+- Version control
+- Code organization
+- Writing effective documentation
+- Why document labeling methods
+
+## Ensuring Reproducibility
+
+In this chapter, you’ll learn about the importance of reproducibility in machine learning, and how to ensure that your models remain reproducible and reliable over time. You’ll explore various techniques and best practices that you can use to ensure the reproducibility of your models.
+
+The importantance of reproducibility in machine learning, and how to ensure that model remain reproducible and reliable over time.
+Techniques and practices that you can use to ensure the reproducibility of model.
+
+## Machine Learning in Production environments
+
+Examine the various challenges associated with deploying machine learning models into production environments.
+Learn about the various approaches to deploying ML models in production and strategie for monitoring and maintaining ML models in production
+
+## Testing ML Pipelines
+
+Learn about the various ways to test machine learning pipelines and ensure they perform as expected.
+The importance of testing ML pipelines and learn techniques for testing and validating ML pipelines.
+
+# [[Shell]]
 
 # MLflow
 

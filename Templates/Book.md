@@ -1,4 +1,6 @@
 ---
 status: Planning
-type:
+author: 
+type: 
+description:
 ---

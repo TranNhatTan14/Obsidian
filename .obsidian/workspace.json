@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "430d45556414b152",
+        "id": "ba779bc80133223b",
         "type": "tabs",
         "children": [
           {
-            "id": "83443097d3ceb9ff",
+            "id": "2cd783bb94d4cd2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Interview and Hire ML/How to Interview and Hire ML and AI Engineers.md",
+                "file": "Zettelkasten/0/Game.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,59 @@
             }
           },
           {
-            "id": "5e99cbee75a73570",
+            "id": "e6625303c7c8e2f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Automation.md",
+                "file": "Zettelkasten/Tips and Tricks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32629c1bfbc2ba62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Machine Learning Workflow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3625c133581dd8c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Vocabulary.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ad714fcfa204235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/elementary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,11 +119,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 322.5
   },
   "right": {
     "id": "685661460335a225",
@@ -110,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Interview and Hire ML/How to Interview and Hire ML and AI Engineers.md"
+                "file": "Vocabulary/elementary.md"
               }
             }
           },
@@ -120,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Interview and Hire ML/How to Interview and Hire ML and AI Engineers.md",
+                "file": "Vocabulary/elementary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Interview and Hire ML/How to Interview and Hire ML and AI Engineers.md",
+                "file": "Vocabulary/elementary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,38 +202,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83443097d3ceb9ff",
+  "active": "3ad714fcfa204235",
   "lastOpenFiles": [
-    "Zettelkasten/Automation.md",
-    "How to Interview and Hire ML/How to Interview and Hire ML and AI Engineers.md",
-    "Zettelkasten/Tasks.md",
-    "How to Interview and Hire ML/AI Engineers.md",
-    "How to Interview and Hire ML",
-    "Zettelkasten/Prompt.md",
-    "Zettelkasten/Future Work.md",
-    "Zettelkasten/Mindset.md",
-    "Zettelkasten/GWAS.md",
-    "Zettelkasten/NSAID.md",
-    "Files/Pasted image 20240903194507.png",
-    "Zettelkasten/OpenCore.md",
-    "Templates/Daily notes.md",
+    "Vocabulary/elementary.md",
+    "Zettelkasten/Vocabulary.md",
+    "Zettelkasten/Love.md",
+    "Zettelkasten/Motivation.md",
+    "Zettelkasten/Brilliant.md",
+    "Zettelkasten/Thinking.md",
+    "Zettelkasten/Current Work.md",
+    "Zettelkasten/Tips and Tricks.md",
+    "Vocabulary/caution.md",
+    "Templates/Vocabulary.md",
+    "Vocabulary/vision.md",
+    "Vocabulary/temporal.md",
+    "Vocabulary/central.md",
+    "Vocabulary/preassign.md",
     "Zettelkasten/Machine Learning Workflow.md",
-    "Zettelkasten/Habits.md",
-    "Zettelkasten/Journal.md",
-    "Zettelkasten/Operating Systems.md",
-    "Zettelkasten/Superman.md",
-    "Zettelkasten/Large Language Model.md",
-    "content/Zettelkasten/Goal.md",
+    "Zettelkasten/Courage and Creativity.md",
+    "Templates/Book.md",
+    "Zettelkasten/0/Game.md",
+    "Zettelkasten/Shell.md",
+    "Zettelkasten/Machine Learning Engineer DataCamp.md",
+    "Zettelkasten/World.md",
+    "Zettelkasten/NSAID.md",
+    "Knowledge/Computational Biology.md",
+    "Superman.md",
+    "Zettelkasten/Prompt.md",
+    "Zettelkasten/Timeline.md",
+    "How to Interview and Hire ML",
+    "Files/Pasted image 20240903194507.png",
     "content/Zettelkasten",
     "content",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/What I learned from the world.md",
-    "Zettelkasten/Work.md",
-    "Zettelkasten/World.md",
-    "Zettelkasten/Life and Dead.md",
-    "Zettelkasten/Life.md",
-    "Zettelkasten/Learning.md",
-    "Zettelkasten/Laptop.md",
     "Zettelkasten/0",
     "Learning",
     "Obsidian",

@@ -1,3 +1,12 @@
+# Tips
+
+- Sentences are clearer when all items in a list have the same structure. This is called parallel construction
+	- They donated clothes, gave money, and dilivered hot meals
+- The quickest way to learn more complex vocabulary is also the most fun: **read more, keep a list**
+- Uống chanh ban ngày, ra ngoài bắt nắng, uống ban đêm thận không lọc được - Triệu Lộ Tư
+- Lê và dứa không nên ăn cùng với sản phẩm từ sữa, ăn vào dễ bị đi ngoài
+- Ngắm mặt trời, ăn nhiều cà chua, ăn hạt vừng chứa nhiều kẽm nữa là mắt sáng, hạn chế bấm điện thoại #eye
+
 > [!tip] Self
 > Tự tin hơn bằng cách soi gương và chụp ảnh hàng ngày
 > Chụp ảnh bằng Live Photo
@@ -41,3 +50,5 @@ Parkinson’s Law
 
 - Không đọc thầm để có thể đọc nhanh hơn
 - Hiểu được ngoại ngữ sẽ rất tốt làm mình sẽ hiểu mọi thứ nhanh hơn
+
+# Tricks

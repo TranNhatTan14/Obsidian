@@ -9,3 +9,6 @@ I think I will have 3 motivation in 6, 12, 18
 - Let your mind be still, Peace will follow
 - In silence, the truth is revealed
 - Vision without action is a daydream. Action without vision is a nightmare. Balance dreams with deeds.
+- Wisdom comes from queit comtemplation
+- Let go of expectations, they only bring disappointment.
+- Your spririt is your strongest ammor
