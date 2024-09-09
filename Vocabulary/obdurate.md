@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: stubborn and hardened in feelings
 prefix: 
-root: 
+root: dur - hard
 suffix:
 ---

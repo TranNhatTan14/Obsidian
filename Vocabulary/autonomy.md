@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
 description: 
 prefix: 
-root: 
+root: auto -self
 suffix:
 ---

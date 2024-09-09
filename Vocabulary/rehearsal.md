@@ -2,10 +2,7 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
 description: 

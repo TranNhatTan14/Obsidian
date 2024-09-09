@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
 description: 
-prefix: 
+prefix: ex - not or out of
 root: 
 suffix:
 ---

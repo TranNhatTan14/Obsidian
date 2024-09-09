@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
 description: 
 prefix: 
 root: 
-suffix:
+suffix: able - having the quality of
 ---

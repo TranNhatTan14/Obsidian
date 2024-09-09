@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
 description: 
 prefix: 
-root: 
-suffix:
+root: script - write
+suffix: ion - act or process of
 ---

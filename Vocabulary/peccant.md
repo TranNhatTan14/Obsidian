@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: violating a moral law
 prefix: 
-root: 
+root: pecc - sin
 suffix:
 ---

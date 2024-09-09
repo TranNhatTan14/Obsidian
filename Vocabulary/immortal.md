@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
 description: 
-prefix: 
-root: 
-suffix:
+prefix: im - not
+root: mort - death
+suffix: al - relating to
 ---

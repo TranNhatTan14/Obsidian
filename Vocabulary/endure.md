@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to suffer patiently
 prefix: 
-root: 
+root: dur - hard
 suffix:
 ---

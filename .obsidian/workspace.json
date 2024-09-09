@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83bbf8e943f1bcf1",
+            "id": "38ddd7aee8f40323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Vocabulary/multilingual.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,32 +21,20 @@
             }
           },
           {
-            "id": "f263d65d33836906",
+            "id": "5bb15df45eb088cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Media.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59c8304900f78d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Life Milestones.md",
+                "file": "Vocabulary/sublingual.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +66,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -123,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary.md"
+                "file": "Vocabulary/sublingual.md"
               }
             }
           },
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Vocabulary/sublingual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Vocabulary/sublingual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,37 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83bbf8e943f1bcf1",
+  "active": "5bb15df45eb088cd",
   "lastOpenFiles": [
-    "Zettelkasten/Git.md",
-    "Zettelkasten/Data Engineer.md",
-    "Zettelkasten/Knowledge.md",
+    "Vocabulary/linguist.md",
+    "Vocabulary/sublingual.md",
+    "Vocabulary/multilingual.md",
+    "Vocabulary/impeccable.md",
+    "Vocabulary/unthinkable.md",
+    "Vocabulary/peccant.md",
+    "Vocabulary/peccadillo.md",
+    "Vocabulary/impossible.md",
+    "Vocabulary/immortal.md",
+    "Vocabulary/mortify.md",
+    "Vocabulary/mortician.md",
+    "Vocabulary/imperfect.md",
+    "Vocabulary/immovable.md",
+    "Vocabulary/durable.md",
+    "Vocabulary/formidable.md",
+    "Vocabulary/capable.md",
+    "Vocabulary/obdurate.md",
+    "Vocabulary/endure.md",
+    "Vocabulary/evaluation.md",
+    "Vocabulary/connotation.md",
+    "Vocabulary/diction.md",
+    "Vocabulary/dictator.md",
+    "Vocabulary/contradiction.md",
+    "Vocabulary/cultivate.md",
+    "Vocabulary/appreciate.md",
+    "Vocabulary/accelerate.md",
     "Files/Pasted image 20240909034617.png",
-    "Knowledge/Machine Learning/Machine Learning Workflow.md",
-    "Zettelkasten/Artificial Intelligence.md",
-    "Zettelkasten/Artem Kirsanov.md",
-    "Zettelkasten/What is the most important things with me.md",
-    "Zettelkasten/WIRED.md",
-    "Zettelkasten/Apple.md",
-    "Zettelkasten/Andrew Ng.md",
-    "Zettelkasten/3Blue1Brown.md",
-    "Zettelkasten/Andrej Karpathy.md",
-    "Zettelkasten/Attention.md",
-    "Zettelkasten/Dream.md",
-    "Superman.md",
-    "Archived/Untitled.md",
-    "Knowledge/Machine Learning/Machine Learning.md",
-    "Zettelkasten/Media.md",
-    "Zettelkasten/Life Milestones.md",
-    "Zettelkasten/Help.md",
-    "Zettelkasten/Grateful.md",
-    "Zettelkasten/Google.md",
-    "Applications/Duolingo.md",
-    "Applications/Balance.md",
     "Archived",
     "Applications",
-    "Zettelkasten/Deep Learning.md",
-    "Zettelkasten/Machine Learning Workflow.md",
     "Knowledge/Machine Learning",
     "Work",
     "How to Interview and Hire ML",

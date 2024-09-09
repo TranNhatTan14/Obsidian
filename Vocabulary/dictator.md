@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: machine that records spoken words
 prefix: 
-root: 
+root: dict - say
 suffix:
 ---

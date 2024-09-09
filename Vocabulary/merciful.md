@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: thuơng xót
 prefix: 
 root: 
-suffix:
+suffix: ful - full of
 ---

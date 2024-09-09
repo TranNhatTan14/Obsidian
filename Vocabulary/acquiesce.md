@@ -2,14 +2,11 @@
 tags: 
 links: 
 synonyms: 
-antonyms:
-  - genial
-  - amiable
-  - convival
+antonyms: 
 homophones: 
 anagrams: 
-description: 
-prefix: 
+description: accept reluctantly
+prefix: ac - to or near
 root: 
 suffix:
 ---
