@@ -20,3 +20,4 @@ Không có nổi 20K trong ví, không có điện thoạim không có xe, khôn
 Anh vẫn mạnh mẽ bước tiếp và rồi anh vào lớp 1
 
 - Thực ra Shin bịa chuyện ngứa đầu để làm quen với chị đấy
+- If this year we can't FALL IN LOVE, wait next year we can LOVE IN FALL

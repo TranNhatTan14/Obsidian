@@ -6,6 +6,8 @@
 - Uống chanh ban ngày, ra ngoài bắt nắng, uống ban đêm thận không lọc được - Triệu Lộ Tư
 - Lê và dứa không nên ăn cùng với sản phẩm từ sữa, ăn vào dễ bị đi ngoài
 - Ngắm mặt trời, ăn nhiều cà chua, ăn hạt vừng chứa nhiều kẽm nữa là mắt sáng, hạn chế bấm điện thoại #eye
+- Recording your thoughts and feelings has medical benefits. For example, it can reduce stress and decrease blood pressure #health 
+- Avoid watching late-night TV, which can stimulate rather than relax session #sleep
 
 > [!tip] Self
 > Tự tin hơn bằng cách soi gương và chụp ảnh hàng ngày

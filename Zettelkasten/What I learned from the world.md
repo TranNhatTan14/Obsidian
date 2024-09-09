@@ -2,7 +2,7 @@
 tags:
   - Writing
 ---
-###### Quote
+### Quote
 
 > [!quote] Sam Altman, Founder & CEO @ OpenAI
 > Có rất ít công ty đi xây foundation models cho riêng họ. Những cơ hội lớn nhất nằm ở chỗ biến những foundation models thành các sản phẩm ứng dụng khác nhau
@@ -18,11 +18,11 @@ tags:
 2. Gia tộc Suneo thực sự chăm chỉ, giàu lên nhờ năng lực
 3. Catch tricky mistakes in your writing by reading it aloud to yourself. This forces you to hear errors that you otherwise might miss.
 
-### Story
+# Story
 
 Câu chuyện về chiếc bình và những quả bóng bàn
 
-###### Thỏ và chó săn
+### Thỏ và chó săn
 
 Trong một buổi đi săn, người thợ săn đã dùng mũi tên bắn trúng vào chân một con thỏ. Thỏ dù bị thương rất nặng nhưng vẫn liều mình chạy trốn. Anh ta liền ra lệnh cho chó săn của mình đuổi theo. Nhưng mãi mà nó không thể bắt được con mồi và đành phải bỏ cuộc. Khi bị chủ mắng là vô dụng, chú chó liền không phục đáp lại “tôi đã cố gắng hết sức rồi”.
 
@@ -44,3 +44,10 @@ Cả "cố gắng hết sức" và "dốc hết sức" đều diễn tả ý n�
 4. Sắc thái:
     - "Cố gắng hết sức" có vẻ nhẹ nhàng hơn.
     - "Dốc hết sức" mang tính quyết liệt, dồn hết tâm sức vào.
+
+# People
+
+- Toni Kross
+	- Làm những điều phức tạp một cách đơn giản và hiệu quả
+- Duong Vu
+	- Tinh thần học tập

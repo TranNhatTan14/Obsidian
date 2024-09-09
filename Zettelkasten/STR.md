@@ -1,3 +1,5 @@
+https://awesome-iris-f42.notion.site/Usage-STR-pipeline-79a0a0a8bb3846bfa875b8c62abd714f
+
 Mitochondrial DNA (mtDNA) hypervariable segment 1 (HV1) is a sequence polymorphism that's used in many applications, including: Forensic genetics, Genetic diversity and human evolution assessment, Consanguinity determination, and Mitochondrial disease diagnosis.
 
 HV1 is part of the control region of mtDNA, which is the most polymorphic region of the molecule. The control region contains three hypervariable regions (HV1, HV2, and HV3).

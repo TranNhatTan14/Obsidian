@@ -1,10 +1,10 @@
 ---
 tags: 
 links: 
-synonyms:
-  - effortless
-  - straightforward
-antonyms: 
+synonyms: 
+antonyms:
+  - genial
+  - amiable
 homophones: 
 anagrams: 
 description: 

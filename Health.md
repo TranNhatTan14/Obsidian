@@ -14,17 +14,16 @@ links: "[[Superman]]"
 4. Niềng răng
 5. Tập cười thật tự tin
 
-### Sleep
+# Sleep
 
-Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
-
-Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
-
-Always try to sleep at the right time
-2 hours before basic time sleep we often buồn ngủ
-Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
-Sleep enough
----
+- Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
+- Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
+- Always try to sleep at the right time
+- 2 hours before basic time sleep we often buồn ngủ
+- Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
+- Sleep enough
+- Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính
+- Để ngủ thật ngon, trước khi ngủ hãy nằm trong chăn và nhớ về những thời gian vui vẻ như khi có ai đó giúp đỡ bạn, hay khi bạn giúp đỡ người khác và cảm thấy tự hào. Rồi bạn sẽ ngủ một giấc thật ngon lành.
 
 ### Mental Health
 
@@ -44,13 +43,9 @@ Sleep enough
 - Hạn chế sử dụng thiết bị để bảo vệ mắt
 - Blue night filter is big marketing tool
 - Most of the eye strain because of glare
-
 - Use 01 hour
-    
 - https://www.tiktok.com/@soldier.boy06/photo/7304562878416194818
-    
 - Mình thấy mắt hơi mỏi khi vừa ngủ dậy
-    
 - Dùng điện thoại quá gần
 
 [https://www.youtube.com/watch?v=LwO086rYjEQ](https://www.youtube.com/watch?v=LwO086rYjEQ)
@@ -89,10 +84,6 @@ Tâng cơ, giảm mỡ
 - Thừa cân
 - Sức bền không tốt
 
----
-
-### Nutrition & Diet
-
 ### Fitness
 
 https://www.instagram.com/hironori_nakajima/
@@ -105,3 +96,5 @@ https://doi.org/10.1210/jc.2016-2891
 - [ ] Mua nano Canxi
 
 # Nutrition
+
+- Chuyển sang uống sữa hạt

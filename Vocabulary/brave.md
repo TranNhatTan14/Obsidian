@@ -2,8 +2,10 @@
 tags: 
 links: 
 synonyms:
-  - effortless
-  - straightforward
+  - fearless
+  - dauntless
+  - resolute
+  - intrepid
 antonyms: 
 homophones: 
 anagrams: 

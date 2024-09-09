@@ -60,6 +60,7 @@ Thực tế rằng, follow một ai đó bạn sẽ cần dành thời gian, vì
 
 - Minh Đỗ
 - [Huy Hieu Pham](https://huyhieupham.github.io)
+	- Call for Brain Informatics #brain
 
 ### Developer
 

@@ -19,13 +19,3 @@ Build personal assistant
 ==Earn in USD, spend in VND==
 
 https://www.youtube.com/watch?v=a6U6AobyWtw&t=10s
-
-
-
-
-
-
-
-
-
-

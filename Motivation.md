@@ -12,3 +12,5 @@ I think I will have 3 motivation in 6, 12, 18
 - Wisdom comes from queit comtemplation
 - Let go of expectations, they only bring disappointment.
 - Your spririt is your strongest ammor
+- One beam, no matter how big, cannot support an entire house on its own. Unity creates strength
+- When you drink water, remember the spring. Gratitude sustains the spirit. #gratitude #grateful

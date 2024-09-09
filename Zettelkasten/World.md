@@ -22,3 +22,35 @@ Muốn giàu thì phải lợi ích nhóm, còn giàu tri thức thì chỉ là 
 bao năm bầm dập ngoài đời. học được bản nếu còn muốn công bằng thì sẽ ko làm giàu được. sông ko bằng, núi không bằng, muốn công bằng thì chỉ có thể mãi nghèo.
 
 lựa chọn quan trọng hơn nỗ lực
+
+A picture is worth a thousand words
+
+### Relationships: [[Love]]
+
+Môn đăng hộ đối
+Gió tầng nào gặp mây tầng đó
+
+Learn code we need 2 screen for better performance, we have iPad when don’t have screen
+
+LIfe is not equal
+
+Trần Nhật Tân đang cảm thấy như thế nào?
+- Mình đang cảm thấy mắt mình không tốt, tệ hơn so với trước
+- Mình cố gắng vì điều gì, mình nên làm gì
+
+Mình sẽ cố gắng để cải thiện thị lực của mình, vậy mình sẽ cần giảm thời gian sử dụng những đồ dùng không cần thiết
+
+- [[Laptop]]
+- [[iPad]] and [[iPhone]]
+
+- Google Chrome, nhưng tiêu thụ rất nhiều RAM
+
+- Binance
+- TikTok
+- Rune Seeker
+
+# Update
+
+- [Google Cloud Blog](https://cloud.google.com/blog)
+- [Google Research](https://research.google)
+- https://www.emergentmind.com

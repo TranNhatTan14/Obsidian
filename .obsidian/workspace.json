@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba779bc80133223b",
+        "id": "ae5f352ec75f5a27",
         "type": "tabs",
         "children": [
           {
-            "id": "2cd783bb94d4cd2c",
+            "id": "83bbf8e943f1bcf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/0/Game.md",
+                "file": "Zettelkasten/Artificial Intelligence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e6625303c7c8e2f7",
+            "id": "f263d65d33836906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Tips and Tricks.md",
+                "file": "Zettelkasten/Media.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,46 +34,19 @@
             }
           },
           {
-            "id": "32629c1bfbc2ba62",
+            "id": "59c8304900f78d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Machine Learning Workflow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3625c133581dd8c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Vocabulary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ad714fcfa204235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/elementary.md",
+                "file": "Zettelkasten/Life Milestones.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/elementary.md"
+                "file": "Zettelkasten/Artificial Intelligence.md"
               }
             }
           },
@@ -161,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/elementary.md",
+                "file": "Zettelkasten/Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/elementary.md",
+                "file": "Zettelkasten/Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,34 +173,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad714fcfa204235",
+  "active": "83bbf8e943f1bcf1",
   "lastOpenFiles": [
-    "Vocabulary/elementary.md",
-    "Zettelkasten/Vocabulary.md",
-    "Zettelkasten/Love.md",
-    "Zettelkasten/Motivation.md",
-    "Zettelkasten/Brilliant.md",
-    "Zettelkasten/Thinking.md",
-    "Zettelkasten/Current Work.md",
-    "Zettelkasten/Tips and Tricks.md",
-    "Vocabulary/caution.md",
-    "Templates/Vocabulary.md",
-    "Vocabulary/vision.md",
-    "Vocabulary/temporal.md",
-    "Vocabulary/central.md",
-    "Vocabulary/preassign.md",
-    "Zettelkasten/Machine Learning Workflow.md",
-    "Zettelkasten/Courage and Creativity.md",
-    "Templates/Book.md",
-    "Zettelkasten/0/Game.md",
-    "Zettelkasten/Shell.md",
-    "Zettelkasten/Machine Learning Engineer DataCamp.md",
-    "Zettelkasten/World.md",
-    "Zettelkasten/NSAID.md",
-    "Knowledge/Computational Biology.md",
+    "Zettelkasten/Artem Kirsanov.md",
+    "Zettelkasten/What is the most important things with me.md",
+    "Zettelkasten/WIRED.md",
+    "Zettelkasten/Apple.md",
+    "Zettelkasten/Andrew Ng.md",
+    "Zettelkasten/3Blue1Brown.md",
+    "Zettelkasten/Andrej Karpathy.md",
+    "Zettelkasten/Attention.md",
+    "Zettelkasten/Dream.md",
     "Superman.md",
-    "Zettelkasten/Prompt.md",
-    "Zettelkasten/Timeline.md",
+    "Archived/Untitled.md",
+    "Knowledge/Machine Learning/Machine Learning.md",
+    "Zettelkasten/Media.md",
+    "Zettelkasten/Life Milestones.md",
+    "Zettelkasten/Help.md",
+    "Zettelkasten/Grateful.md",
+    "Zettelkasten/Google.md",
+    "Applications/Duolingo.md",
+    "Applications/Balance.md",
+    "Archived",
+    "Applications",
+    "Zettelkasten/Deep Learning.md",
+    "Zettelkasten/Machine Learning Workflow.md",
+    "Knowledge/Machine Learning",
+    "Zettelkasten/Exercise.md",
+    "Zettelkasten/Obsidian.md",
+    "Health.md",
+    "Obsidian/Dataview.md",
+    "Zettelkasten/Data.md",
+    "Work",
     "How to Interview and Hire ML",
     "Files/Pasted image 20240903194507.png",
     "content/Zettelkasten",
@@ -237,10 +212,6 @@
     "Zettelkasten/0",
     "Learning",
     "Obsidian",
-    "Knowledge",
-    "Tools",
-    "Writing",
-    "Items",
     "Files/Pasted image 20240729141544.png",
     "Files/Pasted image 20240729135543.png",
     "Files/Timeline_6_11_Elementary.png",
