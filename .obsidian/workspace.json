@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66a598d5562cae42",
+            "id": "83bbf8e943f1bcf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/NSAID.md",
+                "file": "Vocabulary.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "8526079eb50fa0c7",
+            "id": "f263d65d33836906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Location Mention Recognition.md",
+                "file": "Zettelkasten/Media.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,20 +34,19 @@
             }
           },
           {
-            "id": "18b00864d9188364",
+            "id": "59c8304900f78d63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Laptop.md",
+                "file": "Zettelkasten/Life Milestones.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Laptop.md"
+                "file": "Vocabulary.md"
               }
             }
           },
@@ -135,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Laptop.md",
+                "file": "Vocabulary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Laptop.md",
+                "file": "Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,25 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b00864d9188364",
+  "active": "83bbf8e943f1bcf1",
   "lastOpenFiles": [
-    "Zettelkasten/OpenCore.md",
-    "Zettelkasten/Location Mention Recognition.md",
-    "Zettelkasten/NSAID.md",
-    "Zettelkasten/Future Work.md",
-    "Zettelkasten/Experience.md",
-    "Zettelkasten/Goal.md",
-    "Zettelkasten/Knowledge.md",
-    "Zettelkasten/Resume.md",
-    "Zettelkasten/Artificial Intelligence.md",
-    "Knowledge/Machine Learning/Machine Learning Engineer DataCamp.md",
-    "Knowledge/Machine Learning/Machine Learning Scientist.md",
-    "Knowledge/Machine Learning/Machine Learning Workflow.md",
-    "Zettelkasten/Tasks.md",
     "Zettelkasten/Git.md",
-    "Files/Pasted image 20240909034617.png",
     "Zettelkasten/Data Engineer.md",
-    "Zettelkasten/Media.md",
+    "Zettelkasten/Knowledge.md",
+    "Files/Pasted image 20240909034617.png",
+    "Knowledge/Machine Learning/Machine Learning Workflow.md",
+    "Zettelkasten/Artificial Intelligence.md",
     "Zettelkasten/Artem Kirsanov.md",
     "Zettelkasten/What is the most important things with me.md",
     "Zettelkasten/WIRED.md",
@@ -204,8 +191,19 @@
     "Zettelkasten/Attention.md",
     "Zettelkasten/Dream.md",
     "Superman.md",
+    "Archived/Untitled.md",
+    "Knowledge/Machine Learning/Machine Learning.md",
+    "Zettelkasten/Media.md",
+    "Zettelkasten/Life Milestones.md",
+    "Zettelkasten/Help.md",
+    "Zettelkasten/Grateful.md",
+    "Zettelkasten/Google.md",
+    "Applications/Duolingo.md",
+    "Applications/Balance.md",
     "Archived",
     "Applications",
+    "Zettelkasten/Deep Learning.md",
+    "Zettelkasten/Machine Learning Workflow.md",
     "Knowledge/Machine Learning",
     "Work",
     "How to Interview and Hire ML",
