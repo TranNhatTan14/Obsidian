@@ -12,6 +12,41 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 1. Công ty muốn tìm một người "fit" với công việc, nghĩa là có thể đáp ứng được 80% công việc
 2. Một điều thú vị là phỏng vấn thường sẽ khó hơn là khi thực hiện công việc, nên là đừng tạo áp lực quá lớn
 
+# [[Resume]]
+
+# Companies
+
+## Yes
+
+1. [Creative Force](https://www.creativeforce.io/jobs/ai-engineer)
+2. [Token Metrics](https://jobs.lever.co/tokenmetrics/d3f09378-0dcc-40ee-80cd-f61ce9a9bd00)
+3. [FPT Smart Cloud](https://fptsmartcloud.com/job_opportunity/ai-engineer)
+4. [AI Specialist (Crypto)](https://jobs.gft.com/job/Hanoi-AI-Specialist-%28Crypto%29-10000/1106658701)
+5. Rackspace Senior Machine Learning Engineer - Vietnam remotely
+6. [Prep](https://www.topcv.vn/brand/congngheprep/tuyen-dung/ai-engineer-j1429014.html?ta_source=JobSearchList_LinkDetail&u_sr_id=AL0PXYlsmftO3L18AZDC6sG07kxIVJMNa56533Bd_1723266909)
+7. [Taureau.AI AI Engineer](https://www.taureau.ai/careers/ai-engineer)
+8. [Early Start](https://monkey.edu.vn/tuyen-dung/ai-engineer-senior)
+9. [Sapo](https://tuyendung.sapo.vn/co-hoi-viec-lam/lap-trinh-vien-ai-a3590.html)
+
+## No
+
+- VNPAY
+- Giaohangtietkiem
+
+### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
+
+# Interview
+
+- Tự tin
+- Thể hiện được mình có kiến thức tốt
+- Hiểu rõ về những dự án đã thực hiện
+- Thể hiện được mình đam mê với lĩnh vực Healthcare
+- Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
+
+https://nodesk.co/remote-jobs/ai
+https://nodesk.co/remote-jobs/machine-learning
+https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
+
 ---
 
 Không nên quá phụ thuộc vào AI
@@ -80,15 +115,12 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Strong knowledge of databases, including the database engines and hosting option in AWS.
     - RDS PostGres database and PGVector database highly preferred.
 - Database operations and data manipulation
-
 - Pandas/Polars for data manipulation and analysis
-
 - Train, fine-tune, and deploy AI models
 
 # Artificial Intelligence
 
 - OpenAI, LangChain, LlamaIndex, VectorDB, RAG, HuggingFace
-
 - Consulting with the manager to determine and refine machine learning objectives.
 - Demonstrated ability to develop and implement AI solutions.
 - Model Development
@@ -130,11 +162,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 
 - Research background and publications advantageous
 - Skills to apply research findings to practical problems
-
-### Experience
-
-- 2+ years as AI Engineer, Data Scientist, or ML Engineer
-- Specific experience in NLP, Computer Vision, and Data Mining projects
 
 ### Research and Experimentation
 
@@ -249,48 +276,12 @@ Required Skills/Qualifications:
 ---
 
 - In this role, you'll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies
-
-- As an ML engineer, 
 - Define and develop MLOps pipelines and containerized solutions to enable secure, robust delivery of models to the enterprise
 - Work closely with your client to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle
 - You'll develop algorithms, write scripts, build predictive analytics, apply ML and deep learning, and use the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help drive innovation, research, and development for our military and government leaders to make informed decisions
 - Your advanced consulting skills and extensive technical expertise will guide clients as they navigate the landscape of ML algorithms, tools, and frameworks
 
 Data analysts on automating data processes
-# [[Resume]]
-
-# Companies
-
-## Yes
-
-1. [Creative Force](https://www.creativeforce.io/jobs/ai-engineer)
-2. [Token Metrics](https://jobs.lever.co/tokenmetrics/d3f09378-0dcc-40ee-80cd-f61ce9a9bd00)
-3. [FPT Smart Cloud](https://fptsmartcloud.com/job_opportunity/ai-engineer)
-4. [AI Specialist (Crypto)](https://jobs.gft.com/job/Hanoi-AI-Specialist-%28Crypto%29-10000/1106658701)
-5. Rackspace Senior Machine Learning Engineer - Vietnam remotely
-6. [Prep](https://www.topcv.vn/brand/congngheprep/tuyen-dung/ai-engineer-j1429014.html?ta_source=JobSearchList_LinkDetail&u_sr_id=AL0PXYlsmftO3L18AZDC6sG07kxIVJMNa56533Bd_1723266909)
-7. [Taureau.AI AI Engineer](https://www.taureau.ai/careers/ai-engineer)
-8. [Early Start](https://monkey.edu.vn/tuyen-dung/ai-engineer-senior)
-9. [Sapo](https://tuyendung.sapo.vn/co-hoi-viec-lam/lap-trinh-vien-ai-a3590.html)
-
-## No
-
-- VNPAY
-- Giaohangtietkiem
-
-### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
-
-# Interview
-
-- Tự tin
-- Thể hiện được mình có kiến thức tốt
-- Hiểu rõ về những dự án đã thực hiện
-- Thể hiện được mình đam mê với lĩnh vực Healthcare
-- Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
-
-https://nodesk.co/remote-jobs/ai
-https://nodesk.co/remote-jobs/machine-learning
-https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
 
 - build robust AI-powered services and features that turn all kinds of data into high-value, actionable insights
 - Integrating AI functionality across our platform, with a heavy emphasis on user-facing features
