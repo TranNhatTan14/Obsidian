@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to train or provide with knowledge
 prefix: 
-root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+root: struct - build
+suffix:
 ---

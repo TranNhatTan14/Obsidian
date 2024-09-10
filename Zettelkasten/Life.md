@@ -22,7 +22,7 @@ bot and automation
 - Sitting up straight and maintaining good posture while listening can help improve your retention.
 - Listen without judging or jumping to conclusions to better understand and remember what you hear.
 
-###### Self
+### Self
 
 - Right place values you in right way, so don't stay in a place where nobody sees your value
     

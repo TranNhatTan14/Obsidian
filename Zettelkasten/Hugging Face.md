@@ -9,7 +9,7 @@ https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 
 https://huggingface.co/welcome
 
-###### Build the `chatbot` pipeline using 🤗 Transformers Library
+### Build the `chatbot` pipeline using 🤗 Transformers Library
 
 ```python
 from transformers.utils import logging

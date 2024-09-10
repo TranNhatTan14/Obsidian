@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to arouse interest or curiosity
 prefix: 
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix: ate - denotes a verb
 ---

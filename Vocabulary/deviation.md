@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: departing from the norm
 prefix: 
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix: ion - process
 ---

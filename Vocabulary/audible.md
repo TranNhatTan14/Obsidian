@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: able to be heard
 prefix: 
-root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+root: aud - hear
+suffix: ible - able to be
 ---

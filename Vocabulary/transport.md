@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to move from one place to another
 prefix: 
-root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+root: port - carry
+suffix:
 ---

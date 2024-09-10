@@ -18,3 +18,8 @@
 2. Choose only top research paper (About 15-20 papers) and sorting
 3. Capture high-level understanding based on tool Typeset for area, or paper-level
 4. Reading paper with strategy: like Andrew
+
+# Sắp xếp
+
+1. Liệt kê danh sách đầy đủ ra
+2. Sắp xếp, phân loại

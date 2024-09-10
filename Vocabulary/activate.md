@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to make something active
 prefix: 
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix: ate - denotes a verb
 ---

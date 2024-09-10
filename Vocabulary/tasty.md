@@ -5,11 +5,9 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: having a pleasant flavor
 prefix: 
 root: 
 suffix: 
-pronunciation: 
-example: 
-etymology:
+pronunciation: TAYS-tee
 ---

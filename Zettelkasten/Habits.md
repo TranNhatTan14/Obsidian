@@ -61,7 +61,7 @@ More detail about how to sleep well. Visit [Sleep](Sleep.md)
 
 ### Drink enough water
 
-[LocknLock Stainless Steel Water Bottle 750 ml](Item.md#LocknLock%20Stainless%20Steel%20Water%20Bottle%20750%20ml)
+[LocknLock Stainless Steel Water Bottle 750 ml](Items.md#LocknLock%20Stainless%20Steel%20Water%20Bottle%20750%20ml)
 
 ### Listening podcast
 ### Learning new language

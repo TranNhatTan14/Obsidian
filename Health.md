@@ -16,6 +16,9 @@ links: "[[Superman]]"
 
 # Sleep
 
+## Tips
+
+- Journal to release worries and set you mind up for restful sllep
 - Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
 - Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
 - Always try to sleep at the right time

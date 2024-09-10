@@ -2,6 +2,9 @@
 links:
   - "[[English]]"
 ---
+Where I can learn new vocab
+From Elevate Word
+
 ### Prompt to get the word
 
 Follow the rules

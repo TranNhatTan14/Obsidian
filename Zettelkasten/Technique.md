@@ -1,6 +1,8 @@
-- **Mnemonics**
+# Mnemonics
+
+- Construct memory aids to hel you remember difficult vocabulary words
     
-    Creating an acronym, phrase, or rhyme to associate with the word. For example, to remember the word "gregarious" (sociable), you might think of "Greg is always with us" because Greg is social.
+Creating an acronym, phrase, or rhyme to associate with the word. For example, to remember the word "gregarious" (sociable), you might think of "Greg is always with us" because Greg is social.
     
 - **Visualization**
     
@@ -19,8 +21,7 @@
     Linking the word to something familiar. For example, linking "benevolent" (kind) to someone you know who is very kind
     
 - **Chunking**
-    
-    Breaking the word into smaller, more manageable parts. For example, for "antidisestablishmentarianism," breaking it down into "anti-dis-establishment-arian-ism."
+	- Breaking the word into smaller, more manageable parts. For example, for "antidisestablishmentarianism," breaking it down into "anti-dis-establishment-arian-ism."
 
 Feynman technique
 

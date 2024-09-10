@@ -5,11 +5,9 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to bring together for a common purpose
 prefix: 
 root: 
 suffix: 
-pronunciation: 
-example: 
-etymology:
+pronunciation: you-NIGHT
 ---

@@ -5,11 +5,9 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to observe or become aware of
 prefix: 
 root: 
 suffix: 
-pronunciation: 
-example: 
-etymology:
+pronunciation: NO-tiss
 ---

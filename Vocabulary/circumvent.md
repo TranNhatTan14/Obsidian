@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to get around (tránh né)
 prefix: 
-root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+root: vent - come
+suffix:
 ---

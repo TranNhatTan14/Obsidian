@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: process of gradual growth (tích luỹ)
 prefix: 
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix: ion - process
 ---

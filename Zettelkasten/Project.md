@@ -9,7 +9,7 @@
 - Mask face detecion
 - Emotion detection
 
-###### Recognition
+### Recognition
 - The more difficult problem of category or class recognition was also initiallly
 - General object recognition falls into two broad categories: instance recognition and class recognition
 - Extracting infomative 2D features
@@ -19,12 +19,12 @@
 - Old
 - SIFT, k-means, naive Bayesian, SVM, boosting
 
-###### Context and scene understanding
+### Context and scene understanding
 
 - Context play a very important role in human object recognition
 - Providing usefull semantic clues for general scene understanding
 
-###### Face recognition
+### Face recognition
 
 - Human-Computer Interaction
 - Face recognizers work best when they are given images of face under a wide variety of pose, illumination, and expression (PIE) conditions

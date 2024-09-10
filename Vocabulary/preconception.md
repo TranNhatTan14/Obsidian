@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
-prefix: 
+description: idea formed before experience
+prefix: pre - before
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix:
 ---

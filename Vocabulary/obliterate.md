@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
-prefix: 
+description: to destroy completely
+prefix: ob - against
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix:
 ---

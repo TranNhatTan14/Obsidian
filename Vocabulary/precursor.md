@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
-prefix: 
+description: event that comes before another
+prefix: pre - before
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix:
 ---

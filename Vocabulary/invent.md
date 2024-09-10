@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: to create or discover
 prefix: 
-root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+root: vent - come
+suffix:
 ---

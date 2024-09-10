@@ -2,7 +2,6 @@
 tags:
   - Audio
 links:
-  - "[[Apple]]"
   - "[[Items]]"
-description: AirPod Pro 2
+description: Sony WH-1000XM4 Headphone
 ---

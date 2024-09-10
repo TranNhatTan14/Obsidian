@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: open to discussion
 prefix: 
 root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+suffix: able - having the quality of
 ---

@@ -5,11 +5,8 @@ synonyms:
 antonyms: 
 homophones: 
 anagrams: 
-description: 
+description: able to be done
 prefix: 
-root: 
-suffix: 
-pronunciation: 
-example: 
-etymology:
+root: do
+suffix: able - having the quality of
 ---
