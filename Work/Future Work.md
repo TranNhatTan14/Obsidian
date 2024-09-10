@@ -11,7 +11,8 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 
 1. Công ty muốn tìm một người "fit" với công việc, nghĩa là có thể đáp ứng được 80% công việc
 2. Một điều thú vị là phỏng vấn thường sẽ khó hơn là khi thực hiện công việc, nên là đừng tạo áp lực quá lớn
-
+3. Công việc mình có thể tiếp tục nghiên cứu
+4. Công việc mình có thể làm việc hybrid trong một số trường hợp
 # [[Resume]]
 
 # Companies
@@ -142,7 +143,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Ability to work in a team environment and effectively communicate technical concepts to clients, stakeholders, and senior leaders
 - Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information
 - AI/LLM: HuggingFace, OpenAI, etc
-- Experience ETLing large amounts of data (preferably, with AI) in production
 - ElasticSearch / Cognitive Search
 
 # CI/CD
@@ -325,7 +325,6 @@ If you get a thrill working with cutting-edge technology and love to help solve 
 - Demonstrable experience in all aspects of the ML lifecycle (processing, training, evaluating, deploying, serving, monitoring)
 - Collaborate with a cross functional agile team spanning design, data science, product management, and engineering to build new technologies and features.
 - Experience in developing scalable data driven solutions while working closely with infrastructure teams.
-- Experience in dealing with databases and building ETL pipelines
 - Strong software development experience with Python or other programming languageStrong communication and teamwork skills
 - Passionate about techniques and solving challenging problems
 

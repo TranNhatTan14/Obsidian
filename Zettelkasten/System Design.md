@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Machine Learning]]"
+  - "[[Machine Learning Lifecycle]]"
   - "[[Artificial Intelligence]]"
 ---
 Đọc yêu cầu của khách hàng

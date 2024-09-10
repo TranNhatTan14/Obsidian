@@ -1,3 +1,4 @@
+
 # Problem and System
 
 ## Problem define
@@ -11,10 +12,26 @@
 - Collect relevant data include private data from company and public dataset
 - Understand data and context, representation and measurement, potential bias.
 
-- ETL (Extract, Transform, Load) processes
 - Tools: Apache Airflow, Luigi, AWS Glue
 - Data lakes: Amazon S3, Azure Data Lake
 - Databases: PostgreSQL, MongoDB, Cassandra
+
+### ETL (Extract, Transform, Load) processes
+
+ETL is ==a set of computer instructions that combine data from different systems into a single database or data store==
+
+- Build complex ETL code
+
+- Build complex Data Engineering workflows
+- Create complex data solutions and build data pipelines
+- Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
+- Capture and share industry best practices amongst the community
+- Attend and present valuable information at Industry Events
+
+- Build effective, performant, and reliable data pipelines using Extract, Transform, and Load principles
+
+- Experience in dealing with databases and building ETL pipelines
+- Experience ETLing large amounts of data (preferably, with AI) in production
 
 ## Data Storage
 
@@ -47,17 +64,16 @@ Deal with problem in EDA include imputation
 
 ## Data quality
 
-The core of the Machine Learning model: Trash in, trash out
-
-Data quality can be defined along four main dimensions, namely accuracy, completeness, consistency, and timeliness.
+- The core of the Machine Learning model: Trash in, trash out
+- Data quality can be defined along four main dimensions, namely accuracy, completeness, consistency, and timeliness.
 
 ![[Pasted image 20240810141314.png]]
 
-## Data ingestion
+## Data Ingestion
 
-Typically, in the design phase, we also look into how to extract and process data. This is done by using an automated data pipeline, of which we see a high-level example here. A data pipeline is often a part within the machine learning lifecycle through which data is automatically processed. 
-
-A common type of data ingestion process is ETL, which stands for extract, transform, and load. It describes the three steps gone through in an ETL pipeline. The data is extracted from the source, transformed to the required format, and loaded into some internal or proprietary database. In an ETL pipeline, we can also include automated checks, such as expectations we have about certain data columns. 
+- Typically, in the design phase, we also look into how to extract and process data. This is done by using an automated data pipeline, of which we see a high-level example here. A data pipeline is often a part within the machine learning lifecycle through which data is automatically processed. 
+- A common type of data ingestion process is ETL, which stands for extract, transform, and load.
+- It describes the three steps gone through in an ETL pipeline. The data is extracted from the source, transformed to the required format, and loaded into some internal or proprietary database. In an ETL pipeline, we can also include automated checks, such as expectations we have about certain data columns. 
 
 ## Data Profiling
 
@@ -79,14 +95,13 @@ More features can
 - Achieve more stability
 - Be more expensive due to additional pre-precessing steps
 - Require more maintenance
-
-![[Pasted image 20240810143251.png]]
-
+- Lead to noise, or over-engineering
 ### Normalization
 
 ### Standardization 
 
-Standardization scales features to have a mean of zero and a variance of one. Standardization benefits algorithms that assume features are centered around zero and have variance in the same order, like in Support Vector Machines (SVMs) and Linear Regression. We can use the sklearn-dot-preprocessing-dot-StandardScaler function for standardization. Similarly to normalization, we create a standard scaler object, pass our heart disease DataFrame as an argument, and get a standardized version of the data back
+- Standardization scales features to have a mean of zero and a variance of one. Standardization benefits algorithms that assume features are centered around zero and have variance in the same order, like in Support Vector Machines (SVMs) and Linear Regression. 
+- We can use the sklearn.preprocessing.StandardScaler function for standardization. Similarly to normalization, we create a standard scaler object, pass our heart disease DataFrame as an argument, and get a standardized version of the data back
 
 ## Feature Selection
 
@@ -94,7 +109,7 @@ Standardization scales features to have a mean of zero and a variance of one. St
 
 - The feature store is a tool through which features can be managed and easily accessed by multiple people working of different projects.
 - When you want to collaborate with multiple people on multiple project that share the same feature sets, it is a great time to start using a feature store. In this way, you can avoid doing the same repeated work to get the same features.
-- The benefit of feature store is **Reusabiity** and **Consistency**.
+- The benefit of feature store is **reusabiity** and **consistency**.
 - Advanced features stores are implemented as so-called dual databases, one for grabbing the training data and the other for making predictions
 
 ![[Pasted image 20240810143322.png]]
@@ -111,7 +126,8 @@ Standardization scales features to have a mean of zero and a variance of one. St
 
 ### Cross validation
 
-When it comes to validating our models, cross-validation provides another robust way to estimate performance by providing an average score across different splits on our dataset. This way, we ensure our performance is not dependent on one arbitrary split. k_fold cross_validation is a resampling procedure used to evaluate models on limited data. The procedure has a single parameter, k, for the number of groups that the data sample will be split into. Since our heart disease dataset is quite small, k_fold cross_validation is a good choice. Here is a visualization of k-fold cross-validation with k equals five. We partition the data into five equal groups, and for each different group, we train the model with four parts training data and one part testing data.
+- When it comes to validating our models, cross-validation provides another robust way to estimate performance by providing an average score across different splits on our dataset. This way, we ensure our performance is not dependent on one arbitrary split. k_fold cross_validation is a resampling procedure used to evaluate models on limited data. 
+- The procedure has a single parameter, k, for the number of groups that the data sample will be split into. Since our heart disease dataset is quite small, k_fold cross_validation is a good choice. Here is a visualization of k-fold cross-validation with k equals five. We partition the data into five equal groups, and for each different group, we train the model with four parts training data and one part testing data.
 
 ![[Pasted image 20240810181806.png]]
 
@@ -130,7 +146,7 @@ When it comes to validating our models, cross-validation provides another robust
 ## Orchestration
 
 - Managing containerized applications
-- Tool: Kubernetes
+- [[Kubernetes]]
 
 ## CI/CD
 

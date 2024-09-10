@@ -6,7 +6,7 @@ links:
 ---
 Graph Transformer for assembly graph of bacterial
 
-Transfer Learning from [[Natural Language Processing]], [[Machine Learning Workflow]]
+Transfer Learning from [[Natural Language Processing]], [[Machine Learning Lifecycle]]
 
 # Problem definition
 

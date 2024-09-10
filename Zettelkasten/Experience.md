@@ -2,7 +2,7 @@
 tags:
   - Work
 ---
-# [[Machine Learning]]
+# [[Machine Learning Lifecycle]]
 
 Understand the theory behind algorithms like decision trees, support vector machines, and clustering methods. Practice implementing machine learning models and fine-tuning them for better accuracy and performance.
 
@@ -57,13 +57,12 @@ Acquire skills in using tools that facilitate efficient data manipulation.
 - System Design
 - Data Structure & Algorithms
 - Graph Theory
-- ETL flow building skills
 - API
 - Operating systems
 - Slurm?
 - Git and Git Flow
 - Docker and Kubernete
-- [Kubeflow](https://www.kubeflow.org/) and MLFlow
+- [Kubeflow](https://www.kubeflow.org/) 
 - Cloud and Edge device
 - SQL
 - Skills
@@ -95,20 +94,6 @@ AI in Finance
 ### [[Git]]
 
 # Reseach
-
-# Other
-
-### ETL code
-
-ETL code, or Extract, Transform, Load code, is ==a set of computer instructions that combine data from different systems into a single database or data store==
-
-- Build complex ETL code
-
-- Build complex Data Engineering workflows
-- Create complex data solutions and build data pipelines
-- Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
-- Capture and share industry best practices amongst the community
-- Attend and present valuable information at Industry Events
 
 # Cloud
 

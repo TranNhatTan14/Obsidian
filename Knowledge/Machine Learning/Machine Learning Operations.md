@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Machine Learning]]"
+  - "[[Machine Learning Lifecycle]]"
 description: Machine Learning Operations is an extension of the DevOps framework, not a subset or alternative.
 ---
 Model build pipiline > Model pipeline
@@ -67,7 +67,7 @@ Formart of the output model in PyTorch or pickle or what
 ![[Pasted image 20240810182432.png]]
 # Experiment tracking
 
-###### Logging experiments on MLFlow
+### Logging experiments on MLFlow
 
 ![[Pasted image 20240810181223.png]]
 

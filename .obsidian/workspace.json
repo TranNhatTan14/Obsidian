@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae5f352ec75f5a27",
+        "id": "965c6644085f7e7a",
         "type": "tabs",
         "children": [
           {
-            "id": "38ddd7aee8f40323",
+            "id": "aa99399064348ab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/multilingual.md",
+                "file": "Zettelkasten/NSAID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "5bb15df45eb088cd",
+            "id": "f36a5b028ef3763d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/sublingual.md",
+                "file": "Zettelkasten/MLflow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f51ca52a1cd68304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Location Mention Recognition.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MLflow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/sublingual.md"
+                "file": "Zettelkasten/Location Mention Recognition.md"
               }
             }
           },
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/sublingual.md",
+                "file": "Zettelkasten/Location Mention Recognition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/sublingual.md",
+                "file": "Zettelkasten/Location Mention Recognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,11 +175,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bb15df45eb088cd",
+  "active": "f51ca52a1cd68304",
   "lastOpenFiles": [
-    "Vocabulary/linguist.md",
+    "Zettelkasten/NSAID.md",
+    "Knowledge/Machine Learning/Machine Learning Lifecycle.md",
+    "Zettelkasten/MLflow.md",
+    "Zettelkasten/Thinking.md",
+    "Files/Pasted image 20240910114813.png",
+    "Files/Pasted image 20240910114457.png",
+    "Files/Pasted image 20240910111131.png",
+    "Files/Pasted image 20240910110834.png",
+    "Files/Pasted image 20240910105342.png",
+    "Files/Pasted image 20240910105259.png",
+    "Zettelkasten/Experience.md",
+    "Knowledge/Machine Learning/Machine Learning Operations.md",
+    "Knowledge/Machine Learning/Machine Learning Engineer DataCamp.md",
+    "Vocabulary/ingestion.md",
+    "Files/Pasted image 20240810143251.png",
+    "Zettelkasten/Data Engineer.md",
+    "Work/Future Work.md",
+    "Knowledge/Machine Learning/Machine Learning Model.md",
     "Vocabulary/sublingual.md",
     "Vocabulary/multilingual.md",
+    "Vocabulary/linguist.md",
     "Vocabulary/impeccable.md",
     "Vocabulary/unthinkable.md",
     "Vocabulary/peccant.md",
@@ -177,18 +209,6 @@
     "Vocabulary/imperfect.md",
     "Vocabulary/immovable.md",
     "Vocabulary/durable.md",
-    "Vocabulary/formidable.md",
-    "Vocabulary/capable.md",
-    "Vocabulary/obdurate.md",
-    "Vocabulary/endure.md",
-    "Vocabulary/evaluation.md",
-    "Vocabulary/connotation.md",
-    "Vocabulary/diction.md",
-    "Vocabulary/dictator.md",
-    "Vocabulary/contradiction.md",
-    "Vocabulary/cultivate.md",
-    "Vocabulary/appreciate.md",
-    "Vocabulary/accelerate.md",
     "Files/Pasted image 20240909034617.png",
     "Archived",
     "Applications",
@@ -202,13 +222,6 @@
     "Learning",
     "Obsidian",
     "Files/Pasted image 20240729141544.png",
-    "Files/Pasted image 20240729135543.png",
-    "Files/Timeline_6_11_Elementary.png",
-    "Files/Timeline_20_Trip_1.png",
-    "Files/Timeline_20240109_VIASM.png",
-    "Files/Timeline_20230718_IRONTEAM.png",
-    "Files/Timeline_20230717_IRONTEAM.png",
-    "Files/Timeline_20230716_Vingroup.png",
     "Untitled.canvas"
   ]
 }

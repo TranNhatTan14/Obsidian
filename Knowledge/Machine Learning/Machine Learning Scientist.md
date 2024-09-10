@@ -3,7 +3,7 @@ tags:
   - Course
   - Learning
 links:
-  - "[[Machine Learning]]"
+  - "[[Machine Learning Lifecycle]]"
 URL: https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python
 ---
 ## Winning a Kaggle Competition in Python

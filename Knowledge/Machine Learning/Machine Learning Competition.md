@@ -1,7 +1,7 @@
 ---
 links:
   - "[[Competition]]"
-  - "[[Machine Learning]]"
+  - "[[Machine Learning Lifecycle]]"
   - "[[Artificial Intelligence]]"
   - "[[Computer Science]]"
 URL: https://mlcontests.com
