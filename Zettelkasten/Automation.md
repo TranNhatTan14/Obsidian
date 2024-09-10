@@ -11,3 +11,10 @@
 2. Use tool to check for new word, most used word
 3. Create or update vocabulary database
 4. Keep learning with spaced repitition
+
+# Reading research paper
+
+1. Choose the area (Like what you research right now, or what you want to learn)
+2. Choose only top research paper (About 15-20 papers) and sorting
+3. Capture high-level understanding based on tool Typeset for area, or paper-level
+4. Reading paper with strategy: like Andrew
