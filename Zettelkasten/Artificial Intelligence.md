@@ -26,7 +26,6 @@ A high-throughput and memory-efficient inference and serving engine for LLMs
 
 [[Natural Language Processing]]
 
-
 Acquire several different data souces of different types and store that data on database
 
 - Implement a module that fetches some data

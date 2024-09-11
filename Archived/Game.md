@@ -1,8 +1,8 @@
 \Nine Men's Morris
 Chess
 
-- [Teamfight Tactics](https://teamfighttactics.leagueoflegends.com)
-- [Tower Defense](https://qqgame.qq.com/webappframe/?appid=10094)
+- Teamfight Tactics
+- Tower Defense
 - Ranked game
 - T1
 - CSGO

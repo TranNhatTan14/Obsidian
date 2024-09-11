@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c312658f1dff0c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/IELTS.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0daf4da2e7547218",
             "type": "leaf",
             "state": {
@@ -32,9 +19,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a79d0a8b9fd9635a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/NSAID.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71eb5212ee9bc0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Artificial Intelligence.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7a089077bb2fffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Hardware.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications/Elevate.md"
+                "file": "Zettelkasten/Hardware.md"
               }
             }
           },
@@ -121,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications/Elevate.md",
+                "file": "Zettelkasten/Hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications/Elevate.md",
+                "file": "Zettelkasten/Hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,12 +187,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0daf4da2e7547218",
+  "active": "5361e3dea2f5487d",
   "lastOpenFiles": [
-    "Vocabulary/enunciate.md",
+    "Zettelkasten/World.md",
+    "Knowledge/Machine Learning/Machine Learning Engineer DataCamp.md",
+    "Archived/Game.md",
+    "Knowledge.md",
+    "Zettelkasten/Artificial Intelligence.md",
+    "Work/NSAID.md",
     "Applications/Elevate.md",
-    "Vocabulary/construct.md",
     "Zettelkasten/IELTS.md",
+    "Vocabulary/enunciate.md",
+    "Vocabulary/construct.md",
     "Knowledge/Computational Biology.md",
     "Motivation.md",
     "Superman.md",
@@ -183,12 +215,6 @@
     "Vocabulary/unite.md",
     "Vocabulary/notice.md",
     "Vocabulary/immortal.md",
-    "Vocabulary/demographic.md",
-    "Vocabulary/audible.md",
-    "Vocabulary/obstruct.md",
-    "Vocabulary/multilingual.md",
-    "Vocabulary/obviate.md",
-    "Vocabulary/obliterate.md",
     "Files/Pasted image 20240729143305.png",
     "Files/Pasted image 20240729141836.png",
     "Files/Pasted image 20240729141544.png",
