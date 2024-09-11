@@ -152,3 +152,7 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 
 - Do background là Mechatronics nên khó có thể cạnh tranh hơn so với các bạn sinh viên học đúng chuyên ngành
 - Không có background tốt về IT or Software Engineer
+
+# Overthinking
+
+Đừng nghĩ mọi người sẽ nhìn mình nữa

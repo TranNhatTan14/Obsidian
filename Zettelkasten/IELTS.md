@@ -22,7 +22,7 @@ links:
 - Time the task is being explained for highlight and read question
 - Không phải lật lật
 - Đeo bịt lỗ tai
-## Question Type
+## Question types
 
 Các dạng câu hỏi trong bài thi Đọc (học thuật) của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
 ### General
@@ -42,19 +42,13 @@ Các dạng câu hỏi trong bài thi Đọc (học thuật) của hình thức 
 - Matching Features
 - Matching Sentence Endings
 
-Completion
+### Completion
+
 - Summary Completion
 - Note Completion
 - Table Completion
 - Flow-chart Completion
 - Diagram Label Completion
-
-- Ôn theo dạng bài (Mình cần danh sách dạng bài)
-- Mổ xẻ lỗi sai
-
-Vì sao lại sai
-
-- Chăm đọc tiếng Anh (Đọc paper)
 
 # Listening
 
@@ -62,15 +56,13 @@ Vì sao lại sai
 
 [https://dailydictation.com/](https://dailydictation.com/)
 
-sentece form table summary completion
 Based on context, xem chõ đố là điền từ loại gì
+
 - Use AirPods Pro 2 and Sony WH-1000XM4
 - 40 questions
 - 4 parts with 10 question for each part
 
-Type of quesiton in the listening test
-
-**Test**
+## Question types
 
 Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
 
@@ -92,27 +84,24 @@ Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên m�
 - Trên 250 và dưới 350 find optimal choice
 - Task 2 to Task 1
 - 15 35 10
-    
 
-THI THỬ
+## Part 1
 
-Thuốc nhỏ mắt EyeMiru 40EX
+- Trong phần 1, bạn sẽ được cho một biểu đồ, bảng biểu hoặc sơ đồ và được yêu cầu mô tả, tóm tắt và giải thích các thông tin được cung cấp theo ngôn ngữ của bạn. Bạn cũng có thể sẽ được yêu cầu mô tả và giải thích số liệu, các bước của một quy trình, cách một vật hoạt động hoặc mô tả một sự vật hoặc sự kiện.
+- Học sách Gujiabei
+- Cứu tinh cho W1
 
-[Đăng ký xét duyệt học bổng S-Global giai đoạn 2](https://www.hocbongsglobal2.com/xet-duyet-hoc-bong-sglobal-2)
-
-IOC Check 2024 Hoàn
-
-- Write research paper for
+## Part 2
 
 Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
 
-- Trong phần 1, bạn sẽ được cho một biểu đồ, bảng biểu hoặc sơ đồ và được yêu cầu mô tả, tóm tắt và giải thích các thông tin được cung cấp theo ngôn ngữ của bạn. Bạn cũng có thể sẽ được yêu cầu mô tả và giải thích số liệu, các bước của một quy trình, cách một vật hoạt động hoặc mô tả một sự vật hoặc sự kiện.
+
 - Trong phần 2, bạn sẽ được yêu cầu viết một bài luận nhằm đưa ra quan điểm, tranh luận hoặc trả lời vấn đề nào đó
 
 - Để làm được văn hay thì phải biết học và đọc văn mẫu
     - Đọc và tìm ra dàn ý của bài văn mấu
     - Lựa chọn câu, từ, cấu trúc hay tổng hợp vào database
-    - Vận dụng văn mẫu + kết hợp văn cá nhân, viết mở bài, kết bài VẠN NĂNG
+    - ==Vận dụng văn mẫu + kết hợp văn cá nhân, viết mở bài, kết bài VẠN NĂNG==
         
 - Dạng bài của W2
     - Argumentative/Opinion/Agree or Disagree
@@ -120,15 +109,11 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
     - Problem & Solution
     - Advantage and Disadvantages
     - 2-Part Question
-- Học sách Gujiabei
-- Cứu tinh cho W1
 
 # Speaking
 
 - ==Chủ đề speaking cố gắng hướng về điều mình biết nhiều, điểm mạnh của mình như là công nghệ==
-
 - ChatGPT
-- Thi trên máy tính để có thể sử dụng kĩ năng 10 finger typing nhanh hơn
 - Speak every day with ELSA Speak or The Coach or build own app
 - Paraphase
 
@@ -147,7 +132,7 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
 
 ### Standing on the Shoulders of Giants
 
-ChatGPT
+https://www.youtube.com/@theforumcenter
 
 https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing (twice)
 Dang Tran Tung 6 times IELTS 9.0
@@ -195,6 +180,10 @@ Những kỹ năng mình có thể làm nhanh hơn (dành ít thời gian hơn) 
 - Nghe chép chính tả
 - Shadowing
 - Mở file nghe, vừa nhìn script vừa shadowing theo băng
+
+### Mổ xẻ lỗi sai
+
+Vì sao lại sai
 
 # Tips and Tricks
 
@@ -256,3 +245,63 @@ Những kỹ năng mình có thể làm nhanh hơn (dành ít thời gian hơn) 
 - Khánh Vy, Nguyễn Lâm Thảo Tâm và MC duyên dáng Phoebe Trần.
 
 [IELTS FACE-OFF](https://www.youtube.com/@ieltsfaceoffvtv7)
+
+THI THỬ
+
+Thuốc nhỏ mắt EyeMiru 40EX
+
+[Đăng ký xét duyệt học bổng S-Global giai đoạn 2](https://www.hocbongsglobal2.com/xet-duyet-hoc-bong-sglobal-2)
+
+IOC Check 2024 Hoàn
+
+- Write research paper for
+
+cho hay đầu tiên trong suốt quá trình học và làm bài, luôn phải có một sự tập trung cao độ.
+
+“Chỉ khi tập trung như vậy, nghĩ đến bài thi, mình mới có suy nghĩ cẩn thận hơn. Bởi nếu xao lãng, không chỉ khiến mình mất thời gian còn dễ mắc phải những lỗi sai đáng tiếc. Trước khi làm bài thi cần có nhiều sự luyện tập làm quen với dạng thức bài sẽ gặp trong đề và cả phương tiện để làm bài, bởi thi IELTS có 2 cách thức thi: thi trên giấy hoặc trên máy tính
+
+Với kỹ năng **Speaking**, Khánh luôn chủ động sử dụng tiếng Anh để giao tiếp với bạn bè và thầy cô trong giờ tiếng Anh, cố gắng sao cho thật tự nhiên, trôi chảy nhất. “Kết hợp với việc nghe các bài nói chuyện hay các bài nói mẫu, em sẽ hiểu rõ hơn về nội dung và cách thức trình bày bài nói của mình sao cho ấn tượng nhất với giám khảo. Chúng ta cần cẩn thận, bình tĩnh khi tiếp cận đề và thể hiện tự tin khi trả lời”, Khánh chia sẻ.
+
+Kỹ năng **Writing**, theo Khánh là khó nhất. Bởi vậy ngoài việc luyện đề thật thường xuyên, theo em, việc có sự tư vấn của thầy cô hay bạn học là rất hữu ích. Khi viết, cần chú ý phân bố thời gian viết các phần sao cho hợp lý nhất, nên lập dàn ý trước để tránh bị lạc đề, tránh mắc các lỗi dùng từ hay ngữ pháp đáng tiếc…
+
+Nam sinh cũng cho rằng, để học tốt Tiếng Anh không cách nào hơn là cố gắng tiếp xúc thật nhiều.
+
+Khánh cũng chủ động trong cách học của mình. “Những từ mới chưa biết, em sẽ chủ động tra cứu, sử dụng phần mềm dịch. Những câu nào chưa hiểu, em đi hỏi những người bạn để cùng nhau trao đổi. Với những từ hay kiến thức mới, em cố gắng ghi chép lại một cách khoa học và hợp lý nhất với bản thân, để sau này có thể dễ đọc lại, tiếp thu; từ đó thêm hiểu hơn những từ đó”.
+
+Khánh cho hay em không học thuộc lòng mà cố gắng sử dụng các từ ngữ trong cuộc sống hằng ngày.
+
+“Khi chúng ta sử dụng nhiều, tự nhiên Ngoại ngữ sẽ trở nên gần gũi, thậm chí thành bản năng”, Khánh nói.
+
+==Yếu tố quan trọng nhất trong học ngôn ngữ là từ vựng==
+
+# Roadmap
+
+## Start with Reading and Listening
+
+làm các đề trong sách Cambridge một cách đều đặn để quen dần với tốc độ của bài nghe cũng như làm quen với các dạng bài cơ bản. 
+
+Với kỹ năng **Listening**, Khánh chủ động tìm nghe các video về lịch sử, địa lý, khoa học, thời sự… bằng tiếng Anh. Khi nghe, em đồng thời ghi chép lại những gì bản thân thấy thú vị hoặc chưa rõ để sau đó có thể tra cứu thêm. Khi làm bài luyện tập, Khánh cố gắng giữ tập trung để không bị bỏ sót thông tin, lắng nghe kỹ để nắm được các từ khoá cần tìm hoặc những mảnh ghép dẫn tới đáp án cuối cùng.
+
+Với kỹ năng **Reading**, Khánh tìm tòi các trang thông tin, tạp chí khoa học… để đọc và học những từ ngữ mới. “Khi làm bài, cần đọc cẩn thận để đảm bảo không hiểu sai ý của tác giả bài viết hoặc bỏ lỡ thông tin trong các phương án trả lời. Em luôn cố gắng nối kết các từ khoá trong bài với các từ khoá trong câu hỏi nhằm dễ dàng nhận thấy đâu là câu trả lời đúng”, Khánh nói.
+
+## Writing
+
+- Thườngg Writing sẽ là khó nhất
+Ban đầu, em gặp khá nhiều trở ngại trong việc viết bài luận một phần vì chưa bao giờ viết bài luận do vốn từ chưa nhiều
+
+Sau đó, nam sinh tập trung hơn vào việc trau chuốt từ ngữ để phù hợp với văn phong của người bản xứ.
+
+“Task 1 khá đơn giản vì thường viết theo dạng, nhưng Task 2 sẽ khó hơn vì đòi hỏi thí sinh phải hiểu biết về các vấn đề xã hội và có mạch ý tưởng trôi chảy, rõ ràng”.
+
+Trang cho biết, một cấu trúc viết cho Task 2 em cảm thấy hữu dụng là kiểu viết OREO l(Opinion Reasoning Example Opinion)., lối viết mạch lạc, logic. Em không dùng nhiều tài liệu, đa phần chỉ tìm kiếm trên Internet hoặc tìm trong cuốn Expert IELTS”.
+
+## Speaking
+
+- Về phần kỹ năng nói, Đức thường trò chuyện video với nhóm nhóm bạn người nước ngoài từ nhiều nơi trên thế giới nên khả năng giao tiếp tương đối ổn. 
+- Ngoài ra, Đức và chị gái cũng thường xuyên nói chuyện với nhau bằng tiếng Anh hàng ngày. Những lúc đi tắm hoặc khi đi trên đường, em tự nói chuyện với bản thân bằng tiếng Anh về vấn đề thường ngày như thời tiết hoặc giao thông... 
+- “Em còn thường xuyên nghe nhạc, đọc truyện bằng tiếng Anh để hiểu rõ hơn về cách nói chuyện của người bản xứ. 
+- Hơn nữa, em cũng hiểu rõ bài thi IELTS là bài thi kiểm tra khả năng giao tiếp bằng ngôn ngữ thông qua 4 kỹ năng, không phải bài kiểm tra khả năng ghi nhớ từ vựng hay cấu trúc câu siêu khủng. Vì vậy các bài viết, bài nói của em mặc dù có ngôn ngữ đơn giản nhưng luôn duy trì được tính tự nhiên và trôi chảy”, Đức kể.
+
+- Bên cạnh đó, **phần Nói** cũng khiến Trang lo sợ vì cấu trúc phần thi này không giống những điều em giao tiếp thông thường.
+- “Ban đầu, em không thể nói được dài như mong muốn. Với những chủ đề quen thuộc, mặc dù có thể nói dài hơn nhưng từ vựng em dùng khá đơn giản, vốn chỉ phù hợp để giao tiếp”.
+- Có nhiều người bạn nước ngoài, Trang thường luyện phát âm thông qua việc trò chuyện. Bên cạnh đó, nữ sinh thường ghi âm câu trả lời cho Task 2, mỗi câu nói trong hơn 1 phút. Trước khi ghi âm, nữ sinh thường viết nhanh ý tưởng ra giấy kèm một số từ vựng liên quan muốn sử dụng trong bài nói.

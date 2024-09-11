@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33701849bcb74373",
+        "id": "8f45b55d66bc9f36",
         "type": "tabs",
         "children": [
           {
-            "id": "4750315991cde2e4",
+            "id": "c312658f1dff0c87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/lachrymose.md",
+                "file": "Zettelkasten/IELTS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "f17956c4be3df374",
+            "id": "0daf4da2e7547218",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Vocabulary.md",
+                "file": "Applications/Elevate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/lachrymose.md"
+                "file": "Applications/Elevate.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/lachrymose.md",
+                "file": "Applications/Elevate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/lachrymose.md",
+                "file": "Applications/Elevate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,14 +161,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4750315991cde2e4",
+  "active": "0daf4da2e7547218",
   "lastOpenFiles": [
-    "Vocabulary/evince.md",
-    "Vocabulary/lachrymose.md",
+    "Vocabulary/enunciate.md",
+    "Applications/Elevate.md",
+    "Vocabulary/construct.md",
+    "Zettelkasten/IELTS.md",
+    "Knowledge/Computational Biology.md",
+    "Motivation.md",
+    "Superman.md",
+    "Zettelkasten/Overthinking.md",
     "Templates/Vocabulary.md",
+    "Vocabulary/lachrymose.md",
+    "Vocabulary/evince.md",
     "Vocabulary.md",
     "Vocabulary/tasty.md",
-    "Vocabulary/construction.md",
     "Zettelkasten/Technique.md",
     "Health.md",
     "Vocabulary/immoral.md",
@@ -182,13 +189,6 @@
     "Vocabulary/multilingual.md",
     "Vocabulary/obviate.md",
     "Vocabulary/obliterate.md",
-    "Vocabulary/instruct.md",
-    "Vocabulary/portable.md",
-    "Vocabulary/transport.md",
-    "Vocabulary/export.md",
-    "Vocabulary/doable.md",
-    "Vocabulary/debatable.md",
-    "Vocabulary/prevention.md",
     "Files/Pasted image 20240729143305.png",
     "Files/Pasted image 20240729141836.png",
     "Files/Pasted image 20240729141544.png",
