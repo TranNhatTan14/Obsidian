@@ -54,3 +54,5 @@ exit
 `Ctrl + B + Page Up` to scroll and `q` to Quit
 
 # OpenCore
+
+https://dortania.github.io/OpenCore-Install-Guide/extras/spoof.html#windows-gpu-selection

@@ -8,6 +8,7 @@
     "antonyms": "multitext",
     "homophones": "multitext",
     "anagrams": "multitext",
-    "status": "text"
+    "status": "text",
+    "date": "date"
   }
 }

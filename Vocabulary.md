@@ -72,8 +72,6 @@ ist - one who does
 	- unalterable, imperative
 - correct
 	- decorous, flassless #valorant
-- [[Brilliant]]
-	- luminous, glittering
 
 # Phases
 

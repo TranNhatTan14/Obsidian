@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f45b55d66bc9f36",
+        "id": "a9aea6728fc21609",
         "type": "tabs",
         "children": [
           {
-            "id": "0daf4da2e7547218",
+            "id": "d4dd2e2b6fd8b646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Applications/Elevate.md",
+                "file": "Writing/What is a successful person.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "a79d0a8b9fd9635a",
+            "id": "ee7066b0d40e733f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/NSAID.md",
+                "file": "Zettelkasten/Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "71eb5212ee9bc0d0",
+            "id": "642a34ed8201d3d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Artificial Intelligence.md",
+                "file": "Templates/Daily notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "b7a089077bb2fffc",
+            "id": "f42abc3bc5428e93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Hardware.md",
+                "file": "Zettelkasten/Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Applications/Elevate.md"
+                "file": "Zettelkasten/Note.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Applications/Elevate.md",
+                "file": "Zettelkasten/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Applications/Elevate.md",
+                "file": "Zettelkasten/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,34 +187,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5361e3dea2f5487d",
+  "active": "f42abc3bc5428e93",
   "lastOpenFiles": [
-    "Zettelkasten/World.md",
-    "Knowledge/Machine Learning/Machine Learning Engineer DataCamp.md",
-    "Archived/Game.md",
-    "Knowledge.md",
-    "Zettelkasten/Artificial Intelligence.md",
-    "Work/NSAID.md",
-    "Applications/Elevate.md",
-    "Zettelkasten/IELTS.md",
-    "Vocabulary/enunciate.md",
-    "Vocabulary/construct.md",
-    "Knowledge/Computational Biology.md",
-    "Motivation.md",
-    "Superman.md",
-    "Zettelkasten/Overthinking.md",
-    "Templates/Vocabulary.md",
-    "Vocabulary/lachrymose.md",
-    "Vocabulary/evince.md",
+    "Zettelkasten/Note.md",
+    "Templates/Daily notes.md",
+    "Templates/Book.md",
+    "Tools/The Eisenhower Matrix.md",
+    "Writing/What is a successful person.md",
+    "Zettelkasten/Attention.md",
     "Vocabulary.md",
-    "Vocabulary/tasty.md",
-    "Zettelkasten/Technique.md",
-    "Health.md",
-    "Vocabulary/immoral.md",
-    "Zettelkasten/Sleep.md",
-    "Vocabulary/unite.md",
-    "Vocabulary/notice.md",
-    "Vocabulary/immortal.md",
+    "Superman.md",
+    "Applications/Brilliant.md",
+    "Work.md",
+    "Tasks.md",
+    "Writing/What is the most important things with me.md",
+    "Zettelkasten/Visual Studio Code.md",
+    "Applications/Elevate.md",
+    "Goal.md",
+    "Zettelkasten/Grateful.md",
+    "Zettelkasten/Prompt.md",
+    "Vocabulary/rejuvenation.md",
+    "Vocabulary/psychologist.md",
+    "Vocabulary/microscopic.md",
+    "Vocabulary/perjury.md",
+    "Vocabulary/symmetrical.md",
+    "Vocabulary/mortally.md",
+    "Vocabulary/gratitude.md",
+    "Vocabulary/astronomy.md",
+    "Vocabulary/astronaut.md",
     "Files/Pasted image 20240729143305.png",
     "Files/Pasted image 20240729141836.png",
     "Files/Pasted image 20240729141544.png",

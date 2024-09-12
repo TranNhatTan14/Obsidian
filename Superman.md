@@ -6,7 +6,7 @@
 - Hiểu hơn về công việc mình đang thực hiện tại dự án NSAID, xem mình có thể cải thiện điều gì?
 -  Tìm hiểu làm sao có thể học từ vựng hiệu quả với Obsidian
 - Thực hiện dự án AMR cho với mục tiêu xây dựng được công cụ tốt và phù hợp
-- Nâng cao trình độ tiếng anh và thi chứng chỉ ngoại ngữ
+- Nâng cao trình độ tiếng anh và thi chứng chỉ ngoại ngữ [[IELTS]]
 - Đi tập thể dục hàng ngày, ăn uống đầy đủ chất dinh dưỡng hàng ngày
 - Nâng cao kiến thức chuyênn môn về sinh học vì tốt cho cuộc sống
 
@@ -131,7 +131,6 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 - [ ] Do the MBTI test to know if I am INTJ
 
 # Goals
-
 
 # Values
 

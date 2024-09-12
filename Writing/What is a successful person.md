@@ -1,10 +1,6 @@
----
-tags:
-  - Writing
----
 You need to understand how the world work, có chiến thuật cụ thể cho mình như là chơi một trò chơi.
 
-###### Một số hướng tiếp cận giúp bạn thành công hơn
+### Một số hướng tiếp cận giúp bạn thành công hơn
 
 - Một mũi tên trúng 2 đích
 - Stand on the shoulders of giants
@@ -37,9 +33,3 @@ Replace bad habits with good habits (Smart Thinking book)
 - OKR
 
 - Rewards or Punishments
-
-The Eisenhower Matrix
-Do: Important, Urgent - Tasks with deadlines or consequences
-Schedule: Important, Not Urgent - Tasks with unclear deadlines that contribute to long-term success
-Delegate: Not Important, Urgent- Tasks that must get done but don’t require your specific skill set
-Delete: Not Important, Not Urgent - Distractions and unnecessay tasks

@@ -1,7 +1,6 @@
 ---
 links:
   - "[[Apple]]"
-  - "[[OpenCore]]"
   - "[[Items]]"
 description: Laptop MSI GF63 9RCX
 ---

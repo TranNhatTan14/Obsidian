@@ -11,6 +11,8 @@ synonyms:
   - "[[bright]]"
   - "[[intelligent]]"
   - "[[clever]]"
+  - "[[luminous]]"
+  - "[[glittering]]"
 antonyms:
   - "[[dull]]"
   - "[[ordinary]]"
