@@ -1,3 +1,7 @@
+- Appreciate file
+- Đi tập thể dục thôi
+- Code mỗi ngày, learning
+- Chăm sóc sức khoẻ. kiếm thêm thu nhập
 - Learn from work, like how to work with data, to get insight, know the trend
 - Transfer Learning from what you work know to future work like from NSAID
 
@@ -20,11 +24,6 @@
 - [[Help]]
 - [[Facts]]
 - [[Dream]]
-
-# Relationships
-
-- [[Family]]
-- [[Friend]]
 
 # 1
 
@@ -155,3 +154,9 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 # Overthinking
 
 Đừng nghĩ mọi người sẽ nhìn mình nữa
+
+# Reference people
+
+- Trần Hà Linh FTU
+- Lúc vui lúc cực vui
+- Bàng Chúng Vọng TQ

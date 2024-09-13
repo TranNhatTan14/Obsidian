@@ -44,7 +44,7 @@ To make these goals even more actionable, let's create a brief timeline:
 Remember to regularly review and adjust these goals as circumstances change or as you achieve milestones. Good luck with your ambitious and well-defined goals!
 
 
-
+- Ôn tập và chuẩn bị thi IELTS trong tháng 1 năm 2025 với mục tiêu đạt 8.0
 ## Work
 
 - [ ] Ôn tập và chuẩn bị thi IELTS

@@ -11,22 +11,15 @@
 ### Những điều mình cảm thấy tệ về bản thân mình
 
 - Mình vừa quên một điều
-    
 - Mình thấy khó chịu trong người khi số dung lượng không tròn trong bộ nhớ
-    
 - Mình thấy không thích email gmail, muốn có mail unique ý nghĩa mà tạo nhiều quá rồi
-    
 - Hôm qua mình có một giấc mơ về buổi đi chơi với em Giang, cảm giác như mình cố gắng để từ chối và làm em khóc vì cố gắng rủ đi chơi
     
 - J2 Team
-    
     - Chi tiêu thông mình
-        
     - Cái gì cần mua để nâng cao hiệu suất thì nên mua
-        
     - Sướng hay khổ trong tương lai, phụ thuộc vào sự cố gắng hiện tại của bạn
-        
-        - Nếu bạn vẫn sống (có tương lai) thì nên quan tâm đến tương lai
+	- Nếu bạn vẫn sống (có tương lai) thì nên quan tâm đến tương lai
     - Chăm chỉ
         
     - Giữ sức khỏe tốt
@@ -76,9 +69,7 @@
         
         1. Giữ sức khoẻ bằng việc ăn uống, nghỉ ngơi điều độ. Tập luyện thể dục đều đặn. Đừng cậy mình còn trẻ mà thức đêm cày game, cày phim. Sau này thời gian nằm trên giường bệnh x10 thời giam nuông chiều bản thân đấy.
     - Dành thời gian kết nối, trò chuyện với chính mình để hiểu bản thân hơn. Hãy tự đặt câu hỏi cho mình và đi tìm giải pháp.
-        
     - Đầu tư cho bản thân đúng cách. Hãy chọn những thứ có thể làm tăng giá trị của bạn một cách bền vững như những khoá học phát triển bản thân, thay đổi tư duy. Đừng theo đuổi sự hào nhoáng bằng những vật ngoài thân như đồ hiệu, tiệc tùng, những cuộc vui vô bổ.
-        
     - Nếu muốn cải thiện mối quan hệ với bất kì ai thì bạn cần phải thấu hiểu họ. Khi hiểu rồi thì bạn mới có thể cảm thông và bao dung hơn, từ đó hoá giải những mâu thuẫn.
         
     - Ngành hot bạn đang định học, sau khi ra trường chưa chắc đã còn hot. Chọn ngành phù hợp với bản thân, không chọn ngành vì ngành hot.
@@ -116,32 +107,20 @@
     Mọi người luôn luôn "uy tín" cho đến khi họ scam
     
 - One day or day one
-    
 - Đầu tiên là tiền đâu
-    
 - Đại học đừng học đại
-    
 - Overthinking: The storms in my head ruin the garden that my soul holds
-    
 - Nếu phân vân giữa hai lựa chọn thi hãy chọn lựa chọn thứ 2, vì …
-    
 - Thuyền quyên (danh từ)
-    
 - Đặt hàng để in
-    
 - Code from scratch
-    
 
 ### Thời gian bị lãng phí hoặc coi là lãng phí và có thể tối ưu được
 
 - Thời gian khởi động thiết bị
-    
 - Thời gian restart thiết bị
-    
 - Thời gian reset thiết bị
-    
 - Thời gian mở lại (Google Translate chẳng hạn)
-    
 
 ### Khi bạn không biết nên làm gì thi hãy làm việc này
 
@@ -150,7 +129,6 @@
 
 ---
 Điều mình đang quan tâm là gì
-
 Học ngôn ngữ vì sự tiên dụng nữa
 
 ---
@@ -189,21 +167,13 @@ Ngày hôm nay mình sẽ làm gì
 Mình sẽ lên kế hoạch vào tối hôm trước
 
 Có vẻ là vì vỡ điện thoại nên mình ít sử dụng điện thoại hơn, không biết nên vui hay nên buồn
-
 Ngủ dậy sớm (chưa)
-
 Uống nước chưa
-
 Nấu ăn, mình nghĩ là mình sẽ ăn thịt luộc, nhưng mà hôm sau thì ăn cơm với cà chua nha
-
 (Hôm nay mình bỏ nhầm thịt chân gió)
-
 Hôm nay có kết quả chưa nhỉ
-
 Thời tiết hôm nay thật là thất thường
-
 Vẫn tiếp tục là ôn tập AI
-
 Bird-eye-view
 
 What are the possible **consequences** for an ML model being trained with high resolution photos with high color depth?
@@ -278,7 +248,6 @@ Mọi thứ đều cố gắng để lấy đi attention của mình
 
 ---
 May 22, 2024
-
 
 Ý là bây giờ có nhiều thứ hay
 

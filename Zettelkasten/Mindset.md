@@ -2,6 +2,9 @@
 links:
   - "[[Superman]]"
 ---
+Am I alright No. Might will be okaaay Of course
+Cuộc đời không công bằng, có người cả đời đi trên con đường lởm chởm, có người chạy thục mạng cuối đường lại là vách đá
+
 Những thứ mình làm, mình đều học được kiến thức mới
 
 A mindset is an established set of attitudes of a person or group concerning culture, values, philosophy, frame of mind, outlook, and disposition. It may also arise from a person's worldview or beliefs about the meaning of life.

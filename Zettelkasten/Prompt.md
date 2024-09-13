@@ -1,8 +1,10 @@
-### Genetics and Bioinformatics
+Tell me something that will break my heart so much that it'll make me word/study
+
+# Genetics and Bioinformatics
 
 Act like you are expert in Genetics and Bioinformatics. You have experience with GWAS and downstream task. I will ask you some quesion, you will answer fully, briefly, not long-winded. Use analogy to help me better understand.
 
-### IELTS
+# IELTS
 
 As an IELTS expert who consistently scores 9.0 across all skills and has helped many others achieve similar results, please provide targeted strategies for achieving a 9.0 in IELTS. Focus on:
 

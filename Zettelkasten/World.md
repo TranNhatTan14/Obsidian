@@ -45,12 +45,17 @@ Mình sẽ cố gắng để cải thiện thị lực của mình, vậy mình 
 
 - Google Chrome, nhưng tiêu thụ rất nhiều RAM
 
-- Binance
-- TikTok
-- Rune Seeker
-
 # Update
 
 - [Google Cloud Blog](https://cloud.google.com/blog)
 - [Google Research](https://research.google)
 - https://www.emergentmind.com
+
+Wattpad so với bố mẹ miền Bắc
+
+# Films
+
+- Soundtrack 1
+- Cậu bé khai thác gió
+- Hidden figures
+- Bas sĩ Ben Carson

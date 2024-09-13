@@ -53,4 +53,9 @@ Parkinson’s Law
 - Không đọc thầm để có thể đọc nhanh hơn
 - Hiểu được ngoại ngữ sẽ rất tốt làm mình sẽ hiểu mọi thứ nhanh hơn
 
+# Food
+
+- Giã đông thịt với dấm, phân tử đường 
+- Bỏ ra chậu cho vài hạt muối vào
+
 # Tricks

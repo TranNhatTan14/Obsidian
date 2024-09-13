@@ -29,6 +29,8 @@ I have 02 profiles. The first profile is for personal use and one for univesity 
 ###### Group tabs
 ###### Folder
 
+### DNS to view Medium
+
 ### [Google Colaboratory](https://colab.research.google.com)
 
 Restart the kernel and clear all the variables and outputs in Google Colab: Press `Ctrl+M` followed by `.`

@@ -42,7 +42,6 @@ The design phase is the most important phase within the machine learning lifecyc
 
 ## Feature
 
-
 ### Feature selection
 
 ### Feature Store
@@ -88,11 +87,11 @@ So working with model and configuration file about what use with date
 7. Register the most suitable model
 8. Visualize and report back to team and determine next steps
 
-###### Hyperparameter tuning
+### Hyperparameter tuning
 
 ### Metadata store
 
-###### Data Versioning
+### Data Versioning
 
 Purpose for Reproducibility
 
@@ -158,13 +157,11 @@ Who trained the model, when, which script is used, which metadata
 
 ![[Pasted image 20240811154637.png]]
 
-
-
 ### Runtime environment
 
 ![[Pasted image 20240810145013.png]]
 
-### Microservices architecture
+## Microservices architecture
 
 Using a microservices architecture allows multiple teams to work on isolated parts of the application since problems in one microservice won't affect other microservices. This also helps to scale up different services in your application since they function independently.
 
@@ -177,7 +174,7 @@ The microservice architecture structures an application as a collection of separ
 ![[Pasted image 20240810145648.png]]
 
 ![[Pasted image 20240811154424.png]]
-#### Intergration
+### Intergration
 
 After the model has been deployed as a microservice and the API allows us to inference the model, one last step is required. The last step is to integrate the model within the business process. This is different for each business, but most of the time involves connecting the API with the system that is already in place. Before we actually use the machine learning model in production, it is common practice to first test the model with a sample of the data to make sure everything works as expected.
 
@@ -192,7 +189,7 @@ Can be moved to where you want
 Short startup times, don't requires separate machine and own operating systems
 Make applications run faster
 
-### CI/CD pipeline
+## CI/CD pipeline
 
 The CI/CD pipeline provides automation such that new changes can be made easily and always go through thorough automated checks.
 
@@ -202,15 +199,15 @@ Setting up a CI/CD pipeline can be tedious at the start, but it can greatly spee
 
 ![[Pasted image 20240810150044.png]]
 
-###### Continous Integration
+### Continous Integration
 
 Continuous integration is the practice where code changes are continuously integrated quickly and frequently. Each change is automatically tested when these are committed and merged. In this way, we can identify errors and bugs easily and make sure that many developers can work together on the same code.
 
-###### Continous Deployment
+### Continous Deployment
 
 Continuous deployment works together with continuous integration by automating the release of the code that was validated during the continuous integration process. The goal of the practice of continuous deployment is to always have production-ready code.
 
-###### Deployment strategies
+### Deployment strategies
 
 We have three deployment strategies
 
@@ -222,25 +219,25 @@ We have three deployment strategies
 
 ![[Pasted image 20240810150405.png]]
 
-###### CI/CD with AWS Elastic Beanstalk
+### CI/CD with AWS Elastic Beanstalk
 
 While AWS Elastic Beanstalk provides a great platform for deploying machine learning models, many alternatives exist, especially if you're working in a different cloud environment. For instance, **Azure Machine Learning** provides similar functionality for deploying ML models. It has tools to create real-time scoring services for models, manage compute resources for training, and monitor the performance of models in production.
 
 Google Cloud Platform also has a similar solution called **App Engine**, which can be used as an alternative.
 
-###### Kubernetes
+### Kubernetes
 
 Another option is Kubernetes, an open-source container orchestration system for automating the deployment, scaling, and management of containerized applications. Kubernetes works on many cloud platforms, including GCP, Microsoft Azure, and AWS. Kubernetes might have a steeper learning curve than some platform-specific tools, but it offers much flexibility and control over your deployments.
 
 # Monitoring and Maintenance
 
-###### Types of monitoring
+### Types of monitoring
 
 Monitoring the machine learning performance in production is one of the key aspects of maintaining the model in the long term. A combination of statistical and computational metrics will help to have a sustainable machine learning model.
 
-###### Visualization
+### Visualization
 
-###### Data drift and concept drift and variate drift
+### Data drift and concept drift and variate drift
 
 Data drift describes a change in the input data. Over time, we could get customers of different ages or customers from different regions. Changes in the input data might affect the performance of the machine learning model, but since data inherently changes, this is not necessarily the case.
 

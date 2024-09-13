@@ -5,6 +5,8 @@ links: "[[Superman]]"
 
 - [ ] Danh sách bài tập mắt [priority:: highest]
 - [ ] Mua thực phẩm chức năng cho mắt
+- [ ] Chống ánh sáng xanh
+- [ ] Mổ mắt ICL
 
 # Teeth
 
@@ -101,3 +103,12 @@ https://doi.org/10.1210/jc.2016-2891
 # Nutrition
 
 - Chuyển sang uống sữa hạt
+
+
+
+- Calcium D3
+- Care about side effect
+- Pure daun kelor
+- Vitamin D3. K2
+- Series Phan Nữ Uyên Nhi series 2021
+- After kelor - Bột chùm ngây
