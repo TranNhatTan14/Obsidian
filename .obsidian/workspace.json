@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45a099a5a15016ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Journal.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b0f0fd2602c4359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Google.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae375c65730d43e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/World.md",
+                "file": "Work/NSAID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,19 +21,33 @@
             }
           },
           {
-            "id": "57389e6960db0d0d",
+            "id": "047bd1de2db8e803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health.md",
+                "file": "Zettelkasten/Prompt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "612dc64f42b2e5e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Multimodal Personal Assistant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Journal.md"
+                "file": "Zettelkasten/Prompt.md"
               }
             }
           },
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Journal.md",
+                "file": "Zettelkasten/Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Journal.md",
+                "file": "Zettelkasten/Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,35 +174,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45a099a5a15016ae",
+  "active": "047bd1de2db8e803",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Zettelkasten/Multimodal Personal Assistant.md",
+    "Zettelkasten/Prompt.md",
+    "Zettelkasten/PRomot.md",
+    "Superman.md",
+    "Zettelkasten/System.md",
+    "Zettelkasten/Mindset.md",
+    "Zettelkasten/Grateful.md",
+    "Zettelkasten/Finance.md",
+    "Zettelkasten/LLM.md",
+    "Zettelkasten/Large Language Model.md",
+    "Knowledge/Machine Learning/Machine Learning Model.md",
+    "Work/NSAID.md",
+    "Zettelkasten/Google.md",
+    "Zettelkasten/Journal.md",
+    "Work/Location Mention Recognition.md",
+    "Zettelkasten/World.md",
+    "Health.md",
     "Zettelkasten/Items.md",
     "Zettelkasten/Hugging Face.md",
-    "Zettelkasten/Grateful.md",
     "Relationships/Family.md",
-    "Superman.md",
     "Relationships",
-    "Zettelkasten/World.md",
-    "Zettelkasten/Mindset.md",
-    "Zettelkasten/Google.md",
-    "Health.md",
     "Zettelkasten/Reference people.md",
     "Zettelkasten/Habits.md",
-    "Zettelkasten/Prompt.md",
     "Vocabulary/superman.md",
     "Zettelkasten/Tips and Tricks.md",
     "Zettelkasten/To do.md",
-    "Knowledge/Machine Learning/Machine Learning Operations.md",
-    "Zettelkasten/Andrej Karpathy.md",
-    "Tasks.md",
-    "Applications/Instagram.md",
-    "Goal.md",
-    "Zettelkasten/Attention.md",
-    "Writing/What is a successful person.md",
-    "Templates/Daily notes.md",
-    "Templates/Note.md",
-    "Templates/Book.md",
-    "Tools/The Eisenhower Matrix.md",
     "Files/Pasted image 20240729143305.png",
     "Files/Pasted image 20240729141836.png",
     "Files/Pasted image 20240729141544.png",

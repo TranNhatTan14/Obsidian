@@ -4,6 +4,74 @@ links:
   - "[[Competition]]"
   - "[[Microsoft]]"
 ---
+https://github.com/mehranshakarami/AI_Spectrum
+
+To add on top of this [@Amy_Bray](https://zindi.africa/users/Amy_Bray) When we build a csv using the JSON Data, we do not have the ordering issue. The main concern here is the CSV you provided us , the person who created it did not create it correctly, and we fear that the same mistakes have been carried over to the test that we are being evaluated on. To put it into context, The same text provided here by @salim-benhamadi when we build our data from the JSON in the github we get this:
+
+Try to retrieve JSON data instead. So you won't lose too much data ([](https://github.com/rsuwaileh/IDRISI/blob/main/LMR/data/EN/gold-random-json/)[https://github.com/rsuwaileh/IDRISI/blob/main/LMR/data/EN/gold-random-json/](https://github.com/rsuwaileh/IDRISI/blob/main/LMR/data/EN/gold-random-json/))
+
+The effect of this:
+
+I have just used the Golden random json data on Github , with the same strategy I used in the CSV data that got me 0.16 on the LB and I just got 0.28. So this is a valid point. Most probably the test dataset labelling has followed the Train csv provided format and not the JSON data on github.
+
+I think the labels in the csv file follow some sort of location hierarchy, ie city,county,state,country and if more than one country appears, kinda rearranges that as well, to help identify locations easily. The issue raised by [@Salim-benhamadi](https://zindi.africa/users/Salim-benhamadi) and [@koleshjr](https://zindi.africa/users/koleshjr) is that if the objective is to get the locations as they appear in the text without any hierarchical considerations then the json labels will work perfectly with the given metrics and well, depending on the model used. So I kinda see your point. Cheers!
+
+Thank you for the clarifications [](https://zindi.africa/users/Amy_Bray)[@Amy_Bray](https://zindi.africa/users/Amy_Bray), but I see no difference in WER score with different capitalization. Confirm, please, that the capitalization is relevant. Thank you!
+
+
+For example, if the text was "South Africa is larger than South Wales but neither is bigger than South East Asia." You would need to return "**South Africa South East Asia South Wales**".
+
+so the first priority is given to locations with a larger number of words, followed by locations in alphabetical order as the second priority ?
+
+[@yassin104](https://zindi.africa/users/yassin104) good point, and [@Amy_Bray](https://zindi.africa/users/Amy_Bray) what about whether to include locations even if occured twice in a text or should we include only unique locations, and let say if a location occured twice with different case, then which one to pick.
+
+I think thats a mistake: It should be
+
+South Africa South East Asia South Wales
+
+If I am not wrong given the updated train set.
+
+And to answer your question Nayal I think all locations should be returned even if they are repeated. I am saying this because the updated train has repeated locations. You sshould probably check it out
+
+I think it's safe to not have duplicates [@Nayal_17](https://zindi.africa/users/Nayal_17)
+
+[@onyinye](https://zindi.africa/users/onyinye) i had explained the reason behind keeping the dubplicates for keeping WER metric valid in my previous discussion post. Kindly give it a look. And even in the new train csv, some duplicates are considered and some are not. This whole competition is about to end but data problem still exists, it's too disappointing.
+
+My apologies for my previous typo, here is the correct alphabetical order:
+
+For example, if the text was "South Africa is larger than South Wales but neither is bigger than South East Asia." You would need to return "South Africa South East Asia South Wales".
+
+The data for this competition was prepared using location mentions labeled by human annotators. Duplicate mentions, if any, should be treated as one and your model need only generate every unique location mentioned in a sample text. Only distinct locations mentioned in a text, and picked up by your model, should be grouped and ordered alphabetically.
+
+- Duplicate location mentions, should be treated as one
+- Only distinct locations mentioned in a text
+- Hello, the casing is the same as that in the tweet, an extra challenge
+- Don't remove character like
+	- 732 .
+	- 9 @
+	- 8 ,
+	- 0 !
+	- 1 : ;
+	- 0 ' "
+	- 202 -
+	- 28 _
+	- 103 /
+	- 0 
+	- 6 +
+	- 2 ~
+	- 3 #
+	- Not remove number
+
+
+
+
+
+
+
+
+
+
+
 https://huggingface.co/adambuttrick/ner-test-bert-base-uncased-finetuned-500K-AdamW-3-epoch-locations/tree/main
 
 219 sample don't have location

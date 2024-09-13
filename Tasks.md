@@ -1,3 +1,47 @@
+- Build template code for each task (for working data with competition in Kaggle or Zindi), can get insight from notebook in Kaggle
+- Build docker for NSAID
+- I want to build something that can gain my knowledge and I can show it to people, it also can help me make mm
+- Join the competition
+- IIIel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Most Important Tasks (MITs)
 
 ```tasks

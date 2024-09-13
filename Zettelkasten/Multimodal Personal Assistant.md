@@ -1,40 +1,20 @@
 ---
-tags:
-  - Status/Completed
+tags: []
 links:
   - "[[Project]]"
 ---
 > [!important]
 > Mục đích của Chatbot này vừa là để cho như công việc của mình bên GeneStory về xây dựng Chatbot, học thêm kiến thức cần thiết, và cũng là để xây dựng công cụ giúp bản thân mình
 
-#### Tận dụng AI trong cuộc sống của mình
+# Requirements
 
-- Video summarization
-- Kiểm tra từ vựng của mình
-- Build local AI to luyện thi IELTS cùng mình
-- Sử dụng để summazrize nội dung bài đọc
+- Host in Cloud and access with API
 
-Việc mình thực hiện lại các notebook của Kaggle là tốt để mình hiểu hơn, tuy nhiên mình cần xem là trong thực tế, người ta sẽ sử dụng công cụ gì để có thể tự động hóa những công việc như vậy
+## Functions
 
-Việc mình học với TensorFlow giúp mình hiểu ra nhiều điều, liệu mình có thể ứng dụng vào trong một bài toán cụ thể nào không?
-
-Chatbot
-
-Training
-
-### Choose open source model
-
-[Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face)
-
-Meta Llama 3, LLaMA 2
-
-[Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2)
-
-Mistral AI
-
-[Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral)
-
-GPT-2, BLOOM, Grok.AI, Falcon, BERT
+- Summarization content (video, document)
+- Mentor (help me learn language, vocabulary, prepared for IELTS)
+- Chatbot can chat with me in voice like ChatGPT
 
 ![[Pasted image 20240729135543.png]]
 
@@ -440,18 +420,6 @@ Use chatbot in production, it should be monitored to ensure safe, non-toxic conv
 https://www.deeplearning.ai/short-courses/quantization-in-depth/
 https://www.deeplearning.ai/short-courses/quantization-fundamentals-with-hugging-face/
 
-### Chatbot
-
-Basic of an LLM
-How to prompt?
-The difference between a pre-trained and fine-tuned model
-
-Build a chatbot from scratch and have GUI
-
-Langchain
-
-Make a project more robust by providing things like LLM independence, retry logic, tracing, and other features
-
 ### Retrieval Augmented Generation
 
 RAG over documents has two phases:
@@ -483,9 +451,11 @@ Converting a chunk into a ‘**dense vector**’ that represents the meaning of 
 
 Adding the embedding and original data to a database.
 
-### Database
+## Database
 
-###### Vector database
+### Relation database
+
+### Vector database
 
 The database is going to provide storage for the embedding and data. Often these are **vector databases** due to the embedding, but **graph databases** and traditional databases are also used.
 
@@ -495,7 +465,7 @@ The database is going to provide storage for the embedding and data. Often these
 - Approximate Nearest Neighbor (ANN) algorithm used in many vector databases
 - Hierarchical Navigable Small World, or HNSW
 
-###### Graph database
+### Graph database
 
 [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag)
 
@@ -542,10 +512,6 @@ The agent can help me to summary the PDF research paper like [Typeset](Tool.md#T
 - [Building Your Own Database Agent](https://www.deeplearning.ai/short-courses/building-your-own-database-agent)
 
 https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
-
-
-
-
 
 ### Pipeline
 
@@ -601,13 +567,7 @@ https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/
 - JSON
 - Vector
 
-**Types of databases**
-
-- Relation database
-- Graph database
-- Vector database
-
-###### Inspiration
+### Inspiration
 
 Website
 
@@ -625,7 +585,23 @@ Website
     - **Market summary**: Get the market summary for today and share it with me. Focus on tech stocks and the S&P 500.
     - **Front Page of Hacker News**: Summarize the top 5 posts from [https://news.ycombinator.com/best](https://news.ycombinator.com/best) and share them with me, including links
 
----
-### References
+### Chatbot
 
+Basic of an LLM
+How to prompt?
+The difference between a pre-trained and fine-tuned model
+
+Build a chatbot from scratch and have GUI
+
+Langchain
+
+Make a project more robust by providing things like LLM independence, retry logic, tracing, and other features
+# References
+
+- [Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face)
+- Meta Llama 3, LLaMA 2
+- [Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2)
+- Mistral AI
+- [Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral)
+- GPT-2, BLOOM, Grok.AI, Falcon, BERT
 - https://cloud.google.com/blog/products/ai-machine-learning/rag-with-bigquery-and-langchain-in-cloud
