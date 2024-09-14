@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af9be2ebcf746613",
+        "id": "152068a9bea98da5",
         "type": "tabs",
         "children": [
           {
-            "id": "ae375c65730d43e6",
+            "id": "535ae8bba741df25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/NSAID.md",
+                "file": "Zettelkasten/Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,33 +21,19 @@
             }
           },
           {
-            "id": "047bd1de2db8e803",
+            "id": "9031d31425ef43b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Prompt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "612dc64f42b2e5e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Multimodal Personal Assistant.md",
+                "file": "Zettelkasten/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Prompt.md"
+                "file": "Zettelkasten/Attention.md"
               }
             }
           },
@@ -134,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Prompt.md",
+                "file": "Zettelkasten/Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Prompt.md",
+                "file": "Zettelkasten/Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,35 +160,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "047bd1de2db8e803",
+  "active": "535ae8bba741df25",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Zettelkasten/Apple.md",
+    "Zettelkasten/Analogy.md",
+    "Zettelkasten/Artificial Intelligence.md",
+    "Zettelkasten/Attention.md",
+    "Zettelkasten/Untitled.md",
     "Zettelkasten/Multimodal Personal Assistant.md",
-    "Zettelkasten/Prompt.md",
-    "Zettelkasten/PRomot.md",
-    "Superman.md",
-    "Zettelkasten/System.md",
-    "Zettelkasten/Mindset.md",
-    "Zettelkasten/Grateful.md",
+    "Zettelkasten/Andrej Karpathy.md",
+    "Zettelkasten/Andrew Ng.md",
+    "Zettelkasten/3Blue1Brown.md",
+    "Zettelkasten/Artem Kirsanov.md",
+    "Work.md",
+    "Zettelkasten/Assistant.md",
+    "Zettelkasten/Automation.md",
+    "Zettelkasten/Certification.md",
+    "Zettelkasten/Cryptocurrency.md",
+    "Zettelkasten/Competition.md",
+    "Zettelkasten/Data.md",
+    "Zettelkasten/Life.md",
+    "Writing/What I learned from the world.md",
+    "Zettelkasten/Distraction.md",
+    "Knowledge/Machine Learning/Deep Learning.md",
+    "Work/Experience.md",
+    "Items/Eyeglasses.md",
     "Zettelkasten/Finance.md",
-    "Zettelkasten/LLM.md",
-    "Zettelkasten/Large Language Model.md",
-    "Knowledge/Machine Learning/Machine Learning Model.md",
-    "Work/NSAID.md",
     "Zettelkasten/Google.md",
-    "Zettelkasten/Journal.md",
-    "Work/Location Mention Recognition.md",
-    "Zettelkasten/World.md",
-    "Health.md",
-    "Zettelkasten/Items.md",
-    "Zettelkasten/Hugging Face.md",
-    "Relationships/Family.md",
+    "Zettelkasten/Freedom in Thought.md",
+    "Articles",
+    "Knowledge/Language",
     "Relationships",
-    "Zettelkasten/Reference people.md",
-    "Zettelkasten/Habits.md",
-    "Vocabulary/superman.md",
-    "Zettelkasten/Tips and Tricks.md",
-    "Zettelkasten/To do.md",
     "Files/Pasted image 20240729143305.png",
     "Files/Pasted image 20240729141836.png",
     "Files/Pasted image 20240729141544.png",
@@ -220,8 +208,6 @@
     "How to Interview and Hire ML",
     "content/Zettelkasten",
     "content",
-    "Zettelkasten/0",
-    "Learning",
     "Untitled.canvas"
   ]
 }

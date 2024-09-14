@@ -4,51 +4,12 @@
 - Join the competition
 - IIIel
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Most Important Tasks (MITs)
 
-```tasks
+tasks
 sort by due
 sort by priority
 limit 5
-```
 
 # Tasks
 

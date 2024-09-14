@@ -3,7 +3,7 @@ tags: []
 links:
   - "[[Principle]]"
 ---
-**The Pareto principle (also known as the 80/20 rule)**
+The Pareto principle (also known as the 80/20 rule)
 
 A concept that suggests a disproportionate relationship between inputs and outputs, causes and effects, or effort and results in various situations.
 

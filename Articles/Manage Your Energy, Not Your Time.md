@@ -1,6 +1,5 @@
 ---
-tags:
-  - Article
+tags: []
 ---
 Time is a finite resource, but energy is different. It has four wellsprings—the body, emotions, mind, and spirit—and in each, it can be systematically expanded and renewed.
 

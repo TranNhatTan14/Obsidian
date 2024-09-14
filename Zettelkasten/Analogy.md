@@ -5,4 +5,3 @@
 ### Function = Tool > Blackbox = [[Deep Learning]]
 
 ### Garbage In, Garbage Out (GIGO)
-
