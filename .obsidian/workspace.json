@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "152068a9bea98da5",
+        "id": "720b371e83a8926b",
         "type": "tabs",
         "children": [
           {
-            "id": "535ae8bba741df25",
+            "id": "3a122f9a20047fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Attention.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9031d31425ef43b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Untitled.md",
+                "file": "Work/NSAID.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Attention.md"
+                "file": "Work/NSAID.md"
               }
             }
           },
@@ -120,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Attention.md",
+                "file": "Work/NSAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Attention.md",
+                "file": "Work/NSAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,41 +147,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "535ae8bba741df25",
+  "active": "3a122f9a20047fcf",
   "lastOpenFiles": [
-    "Zettelkasten/Apple.md",
-    "Zettelkasten/Analogy.md",
-    "Zettelkasten/Artificial Intelligence.md",
-    "Zettelkasten/Attention.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/Multimodal Personal Assistant.md",
-    "Zettelkasten/Andrej Karpathy.md",
-    "Zettelkasten/Andrew Ng.md",
-    "Zettelkasten/3Blue1Brown.md",
-    "Zettelkasten/Artem Kirsanov.md",
-    "Work.md",
-    "Zettelkasten/Assistant.md",
-    "Zettelkasten/Automation.md",
-    "Zettelkasten/Certification.md",
-    "Zettelkasten/Cryptocurrency.md",
-    "Zettelkasten/Competition.md",
-    "Zettelkasten/Data.md",
-    "Zettelkasten/Life.md",
-    "Writing/What I learned from the world.md",
-    "Zettelkasten/Distraction.md",
+    "Knowledge/Machine Learning/Improving Accuracy of LLM Applications.md",
     "Knowledge/Machine Learning/Deep Learning.md",
-    "Work/Experience.md",
-    "Items/Eyeglasses.md",
-    "Zettelkasten/Finance.md",
-    "Zettelkasten/Google.md",
-    "Zettelkasten/Freedom in Thought.md",
+    "Work/NSAID.md",
+    "Tasks.md",
+    "Health.md",
+    "Vocabulary/tasty.md",
+    "Work/Research.md",
+    "Superman.md",
+    "Zettelkasten/Visual Studio Code.md",
+    "Knowledge/Operating Systems.md",
+    "Goal.md",
+    "Knowledge/Machine Learning/Large Language Model.md",
+    "Templates/Vocabulary.md",
+    "Work/Future Work.md",
+    "Vocabulary.md",
+    "Knowledge.md",
+    "Zettelkasten/Journal.md",
+    "Competition.md",
+    "Attention.md",
+    "Work.md",
+    "Books/Courage and Creativity.md",
+    "Vocabulary/superman.md",
+    "Zettelkasten/Wiki.md",
+    "Knowledge/Machine Learning/Natural Language Processing.md",
+    "Knowledge/Computational Biology.md",
+    "Knowledge/Brain–Computer Interface.md",
+    "Files/Pasted image 20240729135543.png",
+    "Habits",
     "Articles",
     "Knowledge/Language",
     "Relationships",
     "Files/Pasted image 20240729143305.png",
     "Files/Pasted image 20240729141836.png",
     "Files/Pasted image 20240729141544.png",
-    "Files/Pasted image 20240729135543.png",
     "Files/Pasted image 20240910114813.png",
     "Files/Pasted image 20240910114457.png",
     "Files/Pasted image 20240910111131.png",
@@ -207,7 +195,6 @@
     "Work",
     "How to Interview and Hire ML",
     "content/Zettelkasten",
-    "content",
     "Untitled.canvas"
   ]
 }

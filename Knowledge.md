@@ -1,8 +1,3 @@
-- Machine Learning
-- Large Language Models
-- Generative AI
-- Prompt Engineering
-
 # Programming
 
 ### Python
@@ -11,5 +6,24 @@
 
 https://stackoverflow.com/questions/12627118/get-a-function-arguments-default-value
 
-- **Programming language**: Python, C, C++, R, JavaScript
-- OOP
+### C, C++, R, JavaScript
+
+# [[Machine Learning]]
+
+- [[Large Language Model]]
+- [[Generative AI]]
+- [[Prompt]]
+
+## [[Natural Language Processing]]
+## [[Computer Vision]]
+
+# [[Genetics]]
+
+[[Bioinformatics]]
+[[Computational Biology]]
+
+### [[Docker]]
+[[Git]]
+[[Spark]]
+
+# OOP

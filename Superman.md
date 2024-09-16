@@ -1,3 +1,5 @@
+- [[Habits]]
+
 - Appreciate file
 - Đi tập thể dục thôi
 - Code mỗi ngày, learning
@@ -15,8 +17,6 @@
 - Nâng cao kiến thức chuyênn môn về sinh học vì tốt cho cuộc sống
 
 - [[Health]]
-- [[Habits]]
-	- [[Exercise]]
 - [[Attention]]
 - [[Distraction]]
 - [[Goal]]
@@ -65,9 +65,7 @@
 - [[Andrew Ng]]
 - [[Deep Learning]]
 - [[Certification]]
-- [[Competition]]
 - GitHub Student Developer Pack
-- [[Freedom in Thought]]
 - [[Cryptocurrency]]
 - [[Data]]
 - [[Artem Kirsanov]]
@@ -126,7 +124,6 @@ Skills you have and do better than other, can earn money from it.
 
 You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh cờ)
 
-
 - [ ] Do the MBTI test to know if I am INTJ
 
 # Goals
@@ -160,17 +157,6 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 - Trần Hà Linh FTU
 - Lúc vui lúc cực vui
 - Bàng Chúng Vọng TQ
-
-# Mindset
-
-Am I alright No. Might will be okaaay Of course
-Cuộc đời không công bằng, có người cả đời đi trên con đường lởm chởm, có người chạy thục mạng cuối đường lại là vách đá
-
-Những thứ mình làm, mình đều học được kiến thức mới
-
-A mindset is an established set of attitudes of a person or group concerning culture, values, philosophy, frame of mind, outlook, and disposition. It may also arise from a person's worldview or beliefs about the meaning of life.
-
-Mindset refers to the established set of attitudes, beliefs, and assumptions that shape how a person thinks, feels, and behaves. It influences how individuals interpret and respond to situations, challenges, and opportunities in their lives.
 
 # Analogy
 
@@ -234,6 +220,6 @@ Tận hưởng cuộc sống, mỗi ngày phát triển bản thân hơn, đón 
 
 - You can learn from everything, learn from people around you, learn good thing to do and learn not to do bad thing
 
-# [[World]]
+### Haircut
 
-- Nhìn nhận sự vật, sự việc khách quan (số không tròn có cái hay)
+https://www.tiktok.com/@timbarbershop1ctrungliet

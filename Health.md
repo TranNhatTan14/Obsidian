@@ -1,21 +1,6 @@
 ---
 links: "[[Superman]]"
 ---
-# Eye
-
-- [ ] Danh sách bài tập mắt [priority:: highest]
-- [ ] Mua thực phẩm chức năng cho mắt
-- [ ] Chống ánh sáng xanh
-- [ ] Mổ mắt ICL
-
-# Teeth
-
-1. Vệ sinh răng miệng
-2. Làm trắng răng
-3. Sửa chữa răng miệng
-4. Niềng răng
-5. Tập cười thật tự tin
-
 # Sleep
 
 ## Tips
@@ -30,30 +15,47 @@ links: "[[Superman]]"
 - Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính
 - Để ngủ thật ngon, trước khi ngủ hãy nằm trong chăn và nhớ về những thời gian vui vẻ như khi có ai đó giúp đỡ bạn, hay khi bạn giúp đỡ người khác và cảm thấy tự hào. Rồi bạn sẽ ngủ một giấc thật ngon lành.
 
-### Mental Health
+# Mental Health
 
 - Healthy mind, mental wellbeing
 - Find activities that help you relax: meditating daily, listening to a motivational podcast, going for a walk, be present
 
-### Physical Health
+# Physical Health
 
-[[Exercise]]
+## Eye
 
-### Improve eyesight
+- [ ] Danh sách bài tập mắt [priority:: highest]
+- [ ] Mua thực phẩm chức năng cho mắt
+- [ ] Chống ánh sáng xanh
+- [ ] Mổ mắt ICL
 
 - Mắt sáng thật tuyệt vời, mình sẽ không cần đeo kính và không thấy mỏi mắt nữa, tự tin hơn
 - Eye exercises
 - Carrot actually improve eyesight, they have beta-carotene which is important part of vitamin A pathway
-- Vitamin A, C, E, lutein and zeaxanthine important in metabolic pathway of the cell that are in you retina
+- Vitamin A, C, E, lutein and zeaxanthine are important for the metabolic pathway of the cell that are in your retina
 - Hạn chế sử dụng thiết bị để bảo vệ mắt
-- Blue night filter is big marketing tool
-- Most of the eye strain because of glare
+- Blue light filter is big marketing tool
+- Most of the eye strain because of glare, recommend use anti-glare cover to help
 - Use 01 hour
-- https://www.tiktok.com/@soldier.boy06/photo/7304562878416194818
 - Mình thấy mắt hơi mỏi khi vừa ngủ dậy
 - Dùng điện thoại quá gần
+- Lack of sleep, too much caffeine, or stress not good for eye
+- UV can damage your eye
 
-[https://www.youtube.com/watch?v=LwO086rYjEQ](https://www.youtube.com/watch?v=LwO086rYjEQ)
+[Eye Doctor Answers Eye Questions From Twitter](https://www.youtube.com/watch?v=LwO086rYjEQ)
+
+### Advice
+
+- Make sure you-re watching over your closed eyelids
+- Eating well, and stay healthy
+
+## Teeth
+
+1. Vệ sinh răng miệng
+2. Làm trắng răng
+3. Sửa chữa răng miệng
+4. Niềng răng
+5. Tập cười thật tự tin
 
 Cause
 
@@ -103,8 +105,6 @@ https://doi.org/10.1210/jc.2016-2891
 # Nutrition
 
 - Chuyển sang uống sữa hạt
-
-
 
 - Calcium D3
 - Care about side effect

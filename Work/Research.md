@@ -6,11 +6,10 @@ links:
 Đạt kết quả nghiên cứu tốt, chuẩn bị để có thể pursuit master program  with scholarship
 
 Nghiên cứu theo hướng ứng dụng, thay vì tạo ra nghiên cứu mới (Multidisciplinary)
-### Areas
 
 # Directions
 
-## [[Artificial Intelligence]] and Healthcare 
+## [[Artificial Intelligence]] and Genetics
 
 ### [[NSAID]]
 
@@ -25,10 +24,20 @@ Nghiên cứu theo hướng ứng dụng, thay vì tạo ra nghiên cứu mới 
 
 Research about brain function and Brain-Computer Interfaces. Develop smart devices help increase human performance.
 
+# Eye
+
+Lutein nên dùng từ 10-25 mg kèm Zeaxanthin (1-5 mg) càng tốt, dùng ngay sau khi ăn sáng hoặc ăn trưa
+Khuyến khích nên dùng kết hợp Lutein và dầu cá
+
+Loại Nature-s bounty 214K uống 30 ngày mua ở Long Châu màu xanh lá cây hoặc mua bên Pharmacity
+
+Uống 3 tháng rồi nghỉ xong lại uống
+
+Lutein của Puritan's pride
 # Required
 
 - [[IELTS]]
-- Good mentor and connection 
+- Good mentor and connection
 
 ### [[Q&A]]
 

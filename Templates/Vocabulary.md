@@ -1,15 +1,13 @@
 ---
-tags: 
-links: 
+description: 
 synonyms: 
 antonyms: 
 homophones: 
-anagrams: 
-description: 
 prefix: 
 root: 
 suffix: 
 pronunciation: 
 example: 
 etymology:
+connotation:
 ---

@@ -52,3 +52,15 @@ bot and automation
 - Open Facebook, see post in Troll Football about result of C1
 - Think about X with LHRGENESTORY
 - Spatial in iPhone, how it work
+
+### 202406
+
+Nghe tin mẹ bị sỏi thận đau bụng phải đi viện, mình đã rất buồn và khóc
+
+### 202405
+
+- Kết thúc chương trình đào tạo kĩ sư AI, cảm xúc thay đổi lẫn lộn vì công ty GeneStory xử lý hợp đồng không chuyên nghiệp.
+
+### 202011
+
+- Vân tay mẹ không rõ nữa

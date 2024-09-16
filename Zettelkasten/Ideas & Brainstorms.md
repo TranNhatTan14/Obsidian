@@ -1,9 +1,3 @@
-### Assistant
-
-- Knowledge
-	- How to connect (link) the dot (graph, sparse graph)
-- Agent
-
 ### Health
 
 - Không được lãng phí đồ ăn mẹ nấu và chuẩn bị cho, lên danh sách những đồ ăn mình có
@@ -12,12 +6,7 @@
 - Mình chưa đánh giá được mức độ quan trọng của công việc và thời gian cần thiết để thực hiện công việc
 - Mình hơi OCD với số không được tròn, thay đổi mindset theo hướng 80%
 
-### Mindset
 
-- Yêu bản thân mình của hiện tại, hàng ngày là hệ thống phản hồi để mình có thể phát triển và tối ưu bản thân hơn
-- Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80% [[PCA]]
-- Giỏi thì mới cạnh tranh và phát triển được
-- Hình ảnh chú chim nhảy từ trên cao tập bay
 
 Vấn đề của mình đang là gì
 
@@ -314,8 +303,6 @@ You and time are limited
 - Được không cần thiết thì buông bỏ, dồn sức cho những điều xứng đáng
 - Mình đang trên con đường hạnh phúc, để có thêm hạnh phúc chứ không phải KHÔNG hạnh phúc và đang đi tìm hạnh phúc
 
----
-
 1. To understand, learn and do from SCRATCH. To applications, use TEMPLATE and FREE RESOURCES
 2. Take a TOP-DOWN approach, understand the APPLICATION, and then deeply understand the BOTTOM-UP
 3. ÍT thì mình trân trọng NHIỀU hơn
@@ -337,11 +324,6 @@ You and time are limited
 https://www.producthunt.com/
 https://github.com/trending
 https://news.ycombinator.com/
-
-BMW
-- Chánh Chi Kiến
-- Nhìn thấy mới là thực, tai nghe chưa chắc là thực. Nếu chỉ nghe, và suy diễn trong đầu mình, thay vì biết chuyện gì đang diễn ra
-- Nhìn thấy bản chất sự việc, có thể có "lớp trang điểm", nghe thì là thông tin dựa trên quan điểm của người nói
 
 # Thinking
 

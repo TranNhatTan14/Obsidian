@@ -1,4 +1,6 @@
-==Human-Machine Interaction or Brain-Computer Interfaces==
+[[Work]]
+[[Research]]
+[[Competition]]
 
 https://www.modular.com
 Analogy, connect new thing with existing thing

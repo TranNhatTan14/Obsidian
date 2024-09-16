@@ -130,72 +130,6 @@ Remember, this is a deeply personal process. Take your time, be honest with your
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. Be specific:
     - Instead of vague goals like "be successful," define what success means to you.
     - Example: "Become a senior software engineer at a tech company" or "Own a house by the beach"
@@ -224,3 +158,7 @@ Remember, this is a deeply personal process. Take your time, be honest with your
     - Be willing to adjust your goals or strategies as circumstances change.
 
 Remember, the process of setting and working towards long-term goals is ongoing. It's okay to revise your goals as you grow and your priorities shift. The key is to have a clear direction and take consistent action towards what you want to achieve.
+
+# How
+
+- How to connect (link) the dot (graph, sparse graph) #Knowledge #Assistant
