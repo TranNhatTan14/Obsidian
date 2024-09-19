@@ -6,6 +6,7 @@
 - Ngày mai ăn gì
 	- Mình nghĩ là mình sẽ ăn ruốc và xúc xích
 - Ngày mai công việc mình sẽ làm gì
+	- Mình sẽ liệt kê cụ thể hơn các bước cần thực hiện trong [[NSAID]]
 - Mua quần mới và quần tập thể dục
 - Mua lăn khử mùi và sữa tắm
 - Mua hoa quả và ăn hoa quả
@@ -13,7 +14,8 @@
 - Nấu cơm để không tốn năng lượng xem hôm nay ăn quán gi
 - Giặt qua áo mưa xong phơi
 - Giẳt đồ 2 ngày 1 lần
-
+- Mua giày
+- Mua thuốc nhỏ mắt
 - Hoàng Nam Tiến
 	- Xuyên không 10 năm
 		- Lúc đấy mình là ai? Một nhà khoa học? Một người khởi nghiệp
