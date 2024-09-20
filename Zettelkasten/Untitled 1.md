@@ -1,6 +1,5 @@
 - Tối mình thấy không nên dùng máy tính nữa, hạn chế. Thay vào đó dùng iPad hoặc đọc sách
 - Hiện giờ mình sẽ làm gì
-- Giặt quần áo
 - Ngày mai sẽ tập gì? Danh sách bài tập
 - Mua thuốc
 - Ngày mai ăn gì

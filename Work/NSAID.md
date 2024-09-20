@@ -5,6 +5,43 @@ links:
   - "[[Work]]"
   - "[[Biology]]"
 ---
+Warning: 36303 het. haploid genotypes present (see plink_results.hh ); many commands treat these as missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands treat these as missing.
+Note: 8 nonstandard chromosome codes present.
+79 people removed due to missing genotype data (--mind).
+IDs written to plink_results.irem .
+Warning: --hwe observation counts vary by more than 10%, due to the X
+chromosome.  You may want to use a less stringent --hwe p-value threshold for X chromosome variants.
+--hwe: 88 variants removed due to Hardy-Weinberg exact test.
+469474 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+
+Error: chrX is present in the input file, but no sex information was provided;
+rerun this import with --psam or --update-sex.  --split-par may also be
+appropriate.
+
+1213 samples (0 females, 0 males, 1213 ambiguous; 1213 founders) loaded from
+RAW-temporary.psam.
+--split-par: 3807 chromosome codes changed.
+==Note: 8 nonstandard chromosome codes present.==
+864072 variants loaded from RAW-temporary.pvar.zst.
+Note: No phenotype data present.
+--exclude: 861932 variants remaining.
+--update-sex: 1211 samples updated, 1 ID not present.
+--remove: 1194 samples remaining.
+1194 samples (663 females, 531 males; 1194 founders) remaining after main
+filters.
+
+--split-par hg38 
+Error: Human chrX pseudoautosomal variant(s) appear to be present in the input
+VCF, but --split-par was not specified.
+
+--vcf-half-call haploid \\
+Error: Line 3535 of --vcf file has a GT half-call.
+Use --vcf-half-call to specify how these should be processed.
+
+--output-chr chrM \
+
 - [/] Build Docker for NSAID pipeline  [priority:: high]  [due:: 2024-08-30]
 
 # Stats
