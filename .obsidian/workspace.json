@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "720b371e83a8926b",
+        "id": "8cc7d23b01312ec1",
         "type": "tabs",
         "children": [
           {
-            "id": "3a122f9a20047fcf",
+            "id": "28413537177a06f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competition.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a191127dca2c951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Untitled 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7595cb71f06ef419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/NSAID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/NSAID.md"
+                "file": "Competitions/Lacuna Malaria Detection Challenge.md"
               }
             }
           },
@@ -134,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/NSAID.md",
+                "file": "Competitions/Lacuna Malaria Detection Challenge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/NSAID.md",
+                "file": "Competitions/Lacuna Malaria Detection Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,12 +143,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7595cb71f06ef419",
+  "active": "0f36613f77ecb3a4",
   "lastOpenFiles": [
-    "Work/Data Engineer.md",
     "Competition.md",
-    "Work/NSAID.md",
+    "Competitions/Lacuna Malaria Detection Challenge.md",
+    "Zettelkasten/compecompe.md",
+    "Zettelkasten/Visual Studio Code.md",
+    "Competitions",
     "Zettelkasten/Untitled 1.md",
+    "Work/NSAID.md",
+    "Work/Data Engineer.md",
     "Knowledge/Operating Systems.md",
     "Zettelkasten/Prompt.md",
     "Zettelkasten/Tips and Tricks.md",
@@ -190,7 +163,6 @@
     "Vocabulary/tasty.md",
     "Work/Research.md",
     "Superman.md",
-    "Zettelkasten/Visual Studio Code.md",
     "Goal.md",
     "Knowledge/Machine Learning/Large Language Model.md",
     "Templates/Vocabulary.md",
@@ -200,8 +172,6 @@
     "Zettelkasten/Journal.md",
     "Attention.md",
     "Work.md",
-    "Books/Courage and Creativity.md",
-    "Vocabulary/superman.md",
     "Files/Pasted image 20240729135543.png",
     "Habits",
     "Articles",
@@ -221,7 +191,6 @@
     "Knowledge/Machine Learning",
     "Work",
     "How to Interview and Hire ML",
-    "content/Zettelkasten",
     "Untitled.canvas"
   ]
 }

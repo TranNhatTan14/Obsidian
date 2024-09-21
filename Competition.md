@@ -12,9 +12,13 @@ https://discord.com/channels/1246878423402680360/1265789410629259345
 https://www.drivendata.org/competitions/
 
 https://www.drivendata.org/competitions/295/cdc-automated-abstraction/
+
+https://zindi.africa/competitions/lacuna-malaria-detection-challenge
+
+# No
+
 https://www.drivendata.org/competitions/296/cdc-novel-variables/
 
 https://zindi.africa/competitions/geoai-amazon-basin-secret-runway-detection-challenge
-https://zindi.africa/competitions/lacuna-malaria-detection-challenge
 https://zindi.africa/competitions/geoai-challenge-for-agricultural-plastic-cover-mapping-with-satellite-imagery
 https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge
