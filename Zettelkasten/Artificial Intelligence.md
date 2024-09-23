@@ -1,6 +1,118 @@
 ---
 aliases: []
 ---
+What Artificial Intelligence can do
+
+- Language translation, voice chat with 
+- Sentiment analysis
+- Natural Language Processing
+- Virtual assistant
+- Education and learning
+- Summarization
+- Output in template
+- Predict
+- Generate text or other forms of content, understanding and generating human-like data 
+	- Content creation
+- Classifying
+- Question aswering
+- Automate tasks that involve the analysis of data, reducing the need for manual intervention and speeding up processes
+- Brainstorm idea
+- Personalized recommendations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Inference engine
 
 Inference engine is a part of artificial intelligence systems that helps make decisions or solve problems by analyzing information and applying rules. It works like a brain, taking in data and using logical steps to draw conclusions. Inference engines are used in expert systems, chatbots, and recommendation systems

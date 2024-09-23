@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "720b371e83a8926b",
+        "id": "540bbeec9d46aebe",
         "type": "tabs",
         "children": [
           {
-            "id": "3a122f9a20047fcf",
+            "id": "b9de3e1fd7ad0572",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/NSAID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,10 +44,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "139",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -66,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/NSAID.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/NSAID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/NSAID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,54 +140,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a122f9a20047fcf",
+  "active": "b9de3e1fd7ad0572",
   "lastOpenFiles": [
-    "Knowledge/Machine Learning/Improving Accuracy of LLM Applications.md",
-    "Knowledge/Machine Learning/Deep Learning.md",
-    "Work/NSAID.md",
-    "Tasks.md",
-    "Health.md",
-    "Vocabulary/tasty.md",
-    "Work/Research.md",
-    "Superman.md",
+    "Work/Current Work.md",
+    "Zettelkasten/Artificial Intelligence.md",
     "Zettelkasten/Visual Studio Code.md",
-    "Knowledge/Operating Systems.md",
-    "Goal.md",
-    "Knowledge/Machine Learning/Large Language Model.md",
-    "Templates/Vocabulary.md",
+    "Zettelkasten/Associate AI Engineer for Data Scientists.md",
+    "Files/Pasted image 20240922214055.png",
+    "Files/Pasted image 20240922214030.png",
+    "Files/Pasted image 20240922214015.png",
+    "Files/Pasted image 20240922213933.png",
+    "Files/Pasted image 20240922212540.png",
+    "Files/Pasted image 20240922211407.png",
+    "Files/Pasted image 20240922211335.png",
     "Work/Future Work.md",
-    "Vocabulary.md",
     "Knowledge.md",
-    "Zettelkasten/Journal.md",
-    "Competition.md",
-    "Attention.md",
+    "Zettelkasten/Apple.md",
+    "Files/Pasted image 20240922110023.png",
+    "Files/Pasted image 20240922105854.png",
+    "Files/Pasted image 20240922105752.png",
+    "Zettelkasten/Better.md",
+    "Work/AMR.md",
+    "Superman.md",
+    "Tasks.md",
+    "Vocabulary.md",
     "Work.md",
-    "Books/Courage and Creativity.md",
-    "Vocabulary/superman.md",
-    "Zettelkasten/Wiki.md",
-    "Knowledge/Machine Learning/Natural Language Processing.md",
-    "Knowledge/Computational Biology.md",
-    "Knowledge/Brain–Computer Interface.md",
-    "Files/Pasted image 20240729135543.png",
+    "Zettelkasten/Prompt.md",
+    "Work/Data Engineering.md",
+    "Work/NSAID.md",
+    "Competitions.md",
+    "Zettelkasten/Laptop.md",
+    "Zettelkasten/Operating Systems.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/MLflow.md",
+    "Vocabulary/obdurate.md",
+    "Vocabulary/notice.md",
+    "Vocabulary/multilingual.md",
+    "Vocabulary/mortify.md",
+    "Vocabulary/mortician.md",
+    "Knowledge/Language",
     "Habits",
     "Articles",
-    "Knowledge/Language",
-    "Relationships",
-    "Files/Pasted image 20240729143305.png",
-    "Files/Pasted image 20240729141836.png",
-    "Files/Pasted image 20240729141544.png",
-    "Files/Pasted image 20240910114813.png",
-    "Files/Pasted image 20240910114457.png",
-    "Files/Pasted image 20240910111131.png",
-    "Files/Pasted image 20240910110834.png",
-    "Files/Pasted image 20240910105342.png",
-    "Files/Pasted image 20240910105259.png",
-    "Archived",
-    "Applications",
-    "Knowledge/Machine Learning",
-    "Work",
-    "How to Interview and Hire ML",
-    "content/Zettelkasten",
+    "obsidian-copilot/data/nodes/0/node.lock",
+    "obsidian-copilot/data/nodes/0",
+    "obsidian-copilot/data/nodes",
+    "obsidian-copilot/data/thread_contention_monitoring_enabled.conf",
+    "obsidian-copilot/data/batch_metrics_enabled.conf",
+    "obsidian-copilot/data/logging_enabled.conf",
+    "obsidian-copilot/data/rca_enabled.conf",
     "Untitled.canvas"
   ]
 }

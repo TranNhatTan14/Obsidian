@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Competition]]"
+  - "[[Competitions]]"
   - "[[Machine Learning Lifecycle]]"
   - "[[Artificial Intelligence]]"
   - "[[Computer Science]]"

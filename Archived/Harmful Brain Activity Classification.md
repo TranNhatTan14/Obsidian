@@ -2,7 +2,7 @@
 links:
   - "[[Kaggle]]"
   - "[[Neuroscience]]"
-  - "[[Competition]]"
+  - "[[Competitions]]"
 ---
 1. What is spectrograms
 What is spectrogram in EEG?

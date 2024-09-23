@@ -1,6 +1,6 @@
 [[Work]]
 [[Research]]
-[[Competition]]
+[[Competitions]]
 
 https://www.modular.com
 Analogy, connect new thing with existing thing

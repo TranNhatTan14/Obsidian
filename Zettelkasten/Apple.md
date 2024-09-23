@@ -1,3 +1,11 @@
+# Macbook
+
+- Macbook Air M2 16 Gb 31
+- Nhu cầu của mình là gì
+- 8 hay 16 Gb
+- 13 inch hay 15 inch 
+- Pro hay Air
+
 ### MacOS
 
 ### [[iPhone]] 11 Pro Max

@@ -1,4 +1,3 @@
-- [ ] Become Machine Learning Engineer
 - [ ] Công việc tốt, phù hợp với định hướng của bản thân, ý nghĩa, thu nhập tốt, IKIGAI. [priority:: high] [start:: 2024-08-20] [due:: 2024-11-20] 
 
 Nghiêm túc trong công việc, Mới bắt đầu nên làm tốt một thứ

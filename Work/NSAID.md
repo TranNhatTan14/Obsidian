@@ -5,6 +5,9 @@ links:
   - "[[Work]]"
   - "[[Biology]]"
 ---
+Viết outline gửi cho chị Mai vào thứ 6
+Mini review với chị Mai vào thứ 4 tuần sau
+
 - [/] Build Docker for NSAID pipeline  [priority:: high]  [due:: 2024-08-30]
 
 # Stats
@@ -243,6 +246,9 @@ https://cloufield.github.io/gwaslab/LDSCinGWASLab
 ### Genetic correlations
 
 ### ==PRS analysis==
+
+https://sci-hub.se/https://www.nature.com/articles/s41596-020-0353-1
+https://choishingwan.github.io/PRS-Tutorial/
 
 ### TWAS
 

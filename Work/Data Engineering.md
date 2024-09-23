@@ -6,7 +6,7 @@
 - Evaluate and optimize the security, performance, reliability, cost-efficiency, and scalability of a web application hosted on AWS
 - Design and implement batch and streaming data pipelines on AWS that meet stakeholder requirements and are adaptable to future needs
 
-#### Skills you'll gain
+### Skills you'll gain
 
 - Requirements Gathering
 - Identifying Business Value
@@ -15,6 +15,12 @@
 - Building Data Pipelines on the AWS Cloud
 
 ## Introduction to Data Engineering
+
+- Data Engineering on the Cloud
+
+Advantaage of building on Cloud is Cloud resources are scable and ==elastic==
+Think of using AWS like how ou consume electricity
+
 
 ## The Data Engineering Lifecycle and Undercurrents
 

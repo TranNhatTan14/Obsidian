@@ -1,7 +1,7 @@
 ---
 tags: 
 links:
-  - "[[Competition]]"
+  - "[[Competitions]]"
   - "[[Microsoft]]"
 ---
 https://github.com/mehranshakarami/AI_Spectrum
