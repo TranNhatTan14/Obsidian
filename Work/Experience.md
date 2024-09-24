@@ -86,12 +86,6 @@ AI in Finance
 - **PyTorch**
 
 # [[Mathematics]]
-### [[System Design]]
-### [[Docker]]
-
-### [[Spark]]
-
-### [[Git]]
 
 # Reseach
 

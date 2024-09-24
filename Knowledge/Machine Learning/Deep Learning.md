@@ -47,10 +47,10 @@ The fundamental data structure in PyTorch is called a tensor. A tensor is essent
 
 Neural networks are a critical component of deep learning, a complex subset of machine learning. Familiarize yourself with different types of neural networks, such as convolutional and recurrent neural networks, and learn how to implement them using frameworks like TensorFlow or PyTorch
 
-###### Using derivatives to update model parameters
+### Using derivatives to update model parameters
 
 ![[Pasted image 20240812182941.png]]
-###### Convex and non-convex functions
+### Convex and non-convex functions
 
 Before we learn PyTorch functions that can automatically update model parameters for us, let's take a step back. Some functions, such as the one on the left, have one minimum and one only, called the "global" minimum. These functions are "convex". Some, "non-convex" functions have more than one "local" minimum. At a local minimum, the function value is lowest compared to nearby points, but points further away may be even lower. When minimizing loss functions, our goal is to find the global minimum of the non-convex function, here, when x is approximately one.
 

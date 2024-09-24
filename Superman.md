@@ -57,7 +57,6 @@
 
 # Sort
 
-- [[Current Work]]
 - [[Artificial Intelligence]]
 - [[3Blue1Brown]]
 - [[Andrej Karpathy]]

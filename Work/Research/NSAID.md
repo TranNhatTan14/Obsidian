@@ -119,6 +119,12 @@ Following input of the data, generating reliable results from GWAS requires care
 
 ### ==Phasing and Imputation==
 
+https://cloufield.github.io/GWASTutorial/Phasing
+https://github.com/rodrigopsav/ImputeGen
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/aro2.8
+https://www.protocols.io/view/genotype-imputation-workflow-v3-0-e6nvw78dlmkj/v2
+https://github.com/Orion1618/Odyssey
+
 ### PCA
 
 ## GWAS

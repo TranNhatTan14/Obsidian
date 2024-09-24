@@ -1,3 +1,5 @@
+[Machine Learning Competition](https://mlcontests.com)
+
 - [ ] [[Location Mention Recognition]] [due:: 2024-09-19] 
 - [[Harmful Brain Activity Classification]]
 - [Edge-Device Large Language Model Competition](https://edge-llms-challenge.github.io/edge-llm-challenge.github.io)

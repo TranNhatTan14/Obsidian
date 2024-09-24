@@ -1,9 +1,16 @@
-
 # Problem and System
 
 ## Problem define
 
 ## System Design
+
+Đọc yêu cầu của khách hàng
+Xem tác vụ này có xử lý được bằng AI không
+Input là gì
+Output là gì
+Phân tích dữ liệu
+Bài toán thuộc dạng nào
+Tốc độ nhanh và độ chính xác cao
 
 # Data
 
@@ -16,23 +23,6 @@
 - Data lakes: Amazon S3, Azure Data Lake
 - Databases: PostgreSQL, MongoDB, Cassandra
 
-### ETL (Extract, Transform, Load) processes
-
-ETL is ==a set of computer instructions that combine data from different systems into a single database or data store==
-
-- Build complex ETL code
-
-- Build complex Data Engineering workflows
-- Create complex data solutions and build data pipelines
-- Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
-- Capture and share industry best practices amongst the community
-- Attend and present valuable information at Industry Events
-
-- Build effective, performant, and reliable data pipelines using Extract, Transform, and Load principles
-
-- Experience in dealing with databases and building ETL pipelines
-- Experience ETLing large amounts of data (preferably, with AI) in production
-
 ## Data Storage
 
 ## Exploratory Data Analysis (EDA)
@@ -42,7 +32,16 @@ ETL is ==a set of computer instructions that combine data from different system
 
 The goals of EDA are aim to understand the data and unearth patterns and detect outliers - does data fall outside acceptable ranges? **Designing hypotheses** to validate and check assumptions is vital - does what we expect line up with reality? The EDA stage often influences the choice of ML algorithm, the selection of specific features, and the need for feature engineering; these questions are vital to the future success of the project.
 
-![[Pasted image 20240810175621.png]]
+- Understand the data
+	- Are the any patterns
+- Detect outliers
+	- Does any data fall outside what is acceptable
+	- Are there incorrect or missing values
+- Formulate hypotheses
+	- What should we expect from the data
+- Check assumptions
+	- Does what we expect line up with reality
+
 ### Null and missing data
 
 ### Class (Im)balance
@@ -74,6 +73,23 @@ Deal with problem in EDA include imputation
 - Typically, in the design phase, we also look into how to extract and process data. This is done by using an automated data pipeline, of which we see a high-level example here. A data pipeline is often a part within the machine learning lifecycle through which data is automatically processed. 
 - A common type of data ingestion process is ETL, which stands for extract, transform, and load.
 - It describes the three steps gone through in an ETL pipeline. The data is extracted from the source, transformed to the required format, and loaded into some internal or proprietary database. In an ETL pipeline, we can also include automated checks, such as expectations we have about certain data columns. 
+
+### ETL (Extract, Transform, Load) processes
+
+ETL is ==a set of computer instructions that combine data from different systems into a single database or data store==
+
+- Build complex ETL code
+
+- Build complex Data Engineering workflows
+- Create complex data solutions and build data pipelines
+- Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
+- Capture and share industry best practices amongst the community
+- Attend and present valuable information at Industry Events
+
+- Build effective, performant, and reliable data pipelines using Extract, Transform, and Load principles
+
+- Experience in dealing with databases and building ETL pipelines
+- Experience ETLing large amounts of data (preferably, with AI) in production
 
 ## Data Profiling
 
@@ -118,9 +134,13 @@ More features can
 
 ## Model Selection
 
-##  Model Training
+## Model Training
 
-## Model Evaluation
+## Model Validation
+
+## Model Optimization
+
+# Evaluation
 
 ### Evaluation Metrics
 
@@ -130,10 +150,6 @@ More features can
 - The procedure has a single parameter, k, for the number of groups that the data sample will be split into. Since our heart disease dataset is quite small, k_fold cross_validation is a good choice. Here is a visualization of k-fold cross-validation with k equals five. We partition the data into five equal groups, and for each different group, we train the model with four parts training data and one part testing data.
 
 ![[Pasted image 20240810181806.png]]
-
-## Model Validation
-
-## Model Optimization
 
 # DevOps and MLOps
 

@@ -62,16 +62,6 @@ The data for this competition was prepared using location mentions labeled by hu
 	- 3 #
 	- Not remove number
 
-
-
-
-
-
-
-
-
-
-
 https://huggingface.co/adambuttrick/ner-test-bert-base-uncased-finetuned-500K-AdamW-3-epoch-locations/tree/main
 
 219 sample don't have location

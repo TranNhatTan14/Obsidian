@@ -2,11 +2,6 @@
 links:
   - "[[Machine Learning Lifecycle]]"
 ---
-with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
-
-- Basic coding (for loops, functions, if/else statements) & high school-level math (arithmetic, algebra)
-- Other math concepts will be explained
-
 ## What you'll learn
 
 - Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
@@ -16,19 +11,11 @@ with Machine Learning Specialization. Master fundamental AI concepts and develop
 
 The Machine Learning Specialization is a foundational online program created in collaboration between [DeepLearning.AI](http://deeplearning.ai/) and [Stanford Online](https://online.stanford.edu/).
 
-This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.
-
-This Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and [Landing.AI](http://landing.ai/) to advance the AI field.
-
 This 3-course Specialization is an updated version of Andrew’s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012.
 
 It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
 By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
-
-Applied Learning Project
-
-By the end of this Specialization, you will be ready to:
 
 - Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
 - Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
@@ -48,11 +35,11 @@ By the end of this Specialization, you will be ready to:
 
 ## Skills you'll gain
 
-- Category: Linear RegressionLinear Regression
-- Category: Regularization to Avoid OverfittingRegularization to Avoid Overfitting
-- Category: Logistic Regression for ClassificationLogistic Regression for Classification
-- Category: Gradient DescentGradient Descent
-- Category: Supervised LearningSupervised Learning
+- Linear Regression
+- Regularization to Avoid Overfitting
+- Logistic Regression for Classification
+- Gradient Descent
+- Supervised Learning
 
 ## There are 3 modules in this course
 

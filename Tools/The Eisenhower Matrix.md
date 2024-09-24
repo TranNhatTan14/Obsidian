@@ -3,6 +3,5 @@
 ### Delegate: Not Important, Urgent- Tasks that must get done but don’t require your specific skill set
 ### Delete: Not Important, Not Urgent - Distractions and unnecessay tasks
 
----
 https://ideascale.com/blog/eisenhower-matrix-alternatives
 https://asana.com/resources/eisenhower-matrix
