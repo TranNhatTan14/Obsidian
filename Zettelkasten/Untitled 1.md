@@ -1,0 +1,38 @@
+- Tối mình thấy không nên dùng máy tính nữa, hạn chế. Thay vào đó dùng iPad hoặc đọc sách
+- Hiện giờ mình sẽ làm gì
+- Ngày mai sẽ tập gì? Danh sách bài tập
+- Mua thuốc
+- Ngày mai ăn gì
+	- Mình nghĩ là mình sẽ ăn ruốc và xúc xích
+- Ngày mai công việc mình sẽ làm gì
+	- Mình sẽ liệt kê cụ thể hơn các bước cần thực hiện trong [[NSAID]]
+- Mua quần mới và quần tập thể dục
+- Mua lăn khử mùi và sữa tắm
+- Mua hoa quả và ăn hoa quả
+- Nếu uống nước lọc, cắt thêm vài lát chanh
+- Nấu cơm để không tốn năng lượng xem hôm nay ăn quán gi
+- Giặt qua áo mưa xong phơi
+- Giẳt đồ 2 ngày 1 lần
+- Mua giày
+- Mua thuốc nhỏ mắt
+- Hoàng Nam Tiến
+	- Xuyên không 10 năm
+		- Lúc đấy mình là ai? Một nhà khoa học? Một người khởi nghiệp
+		- Cho rằng lúc đấy mình có bao nhiêu tiền
+	- Xuyên không đến 2025 (xuyên không từ xa đến gần à)
+	- Xuyên không đến ngày mai
+	- Mua nhà
+- Người có sức hút (nhất)
+	- Trong đầu có tri thức
+	- Trong tim có thiện lương
+	- Trong lòng có trách nhiệm
+	- Trong túi có tiền =)))
+- Đánh đổi những gì để gặp được người xứng đáng
+	- Đi làm bằng xe đạp để tiết kiệm thời gian tập thể dục (dành thời gian cho việc đọc sách)
+	- Đi làm 8 tiếng + 2 tiếng đi lại làm việc thêm (job ngoài)
+	- Sáng dậy sớm học tiếng Anh và tiếng Trung
+	- Ăn nhiều rau xanh, uống trà thảo dược
+	- Thay bữa sáng bằng sinh tố, nươc ép
+	- Thay vì xem phim, lướt video giải trí. Đọc sách khi có thời gian (đặt target)
+	- 1 tuần đi tập 3 buổi có PT để tăng cơ, độ dáng
+	- Đầu tư 30-40% thu nhập để đi học ngoại ngữ, kỹ năng mềm, chuyên môn

@@ -5,8 +5,47 @@ links:
   - "[[Work]]"
   - "[[Biology]]"
 ---
+<<<<<<< HEAD:Work/Research/NSAID.md
 Viết outline gửi cho chị Mai vào thứ 6
 Mini review với chị Mai vào thứ 4 tuần sau
+=======
+Warning: 36303 het. haploid genotypes present (see plink_results.hh ); many commands treat these as missing.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands treat these as missing.
+Note: 8 nonstandard chromosome codes present.
+79 people removed due to missing genotype data (--mind).
+IDs written to plink_results.irem .
+Warning: --hwe observation counts vary by more than 10%, due to the X
+chromosome.  You may want to use a less stringent --hwe p-value threshold for X chromosome variants.
+--hwe: 88 variants removed due to Hardy-Weinberg exact test.
+469474 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+
+Error: chrX is present in the input file, but no sex information was provided;
+rerun this import with --psam or --update-sex.  --split-par may also be
+appropriate.
+
+1213 samples (0 females, 0 males, 1213 ambiguous; 1213 founders) loaded from
+RAW-temporary.psam.
+--split-par: 3807 chromosome codes changed.
+==Note: 8 nonstandard chromosome codes present.==
+864072 variants loaded from RAW-temporary.pvar.zst.
+Note: No phenotype data present.
+--exclude: 861932 variants remaining.
+--update-sex: 1211 samples updated, 1 ID not present.
+--remove: 1194 samples remaining.
+1194 samples (663 females, 531 males; 1194 founders) remaining after main
+filters.
+
+--split-par hg38 
+Error: Human chrX pseudoautosomal variant(s) appear to be present in the input
+VCF, but --split-par was not specified.
+
+--vcf-half-call haploid \\
+Error: Line 3535 of --vcf file has a GT half-call.
+Use --vcf-half-call to specify how these should be processed.
+
+--output-chr chrM \
+>>>>>>> d6f311dd2ac5084f1bc0e3db33e1fa0ed008d1cc:Work/NSAID.md
 
 - [/] Build Docker for NSAID pipeline  [priority:: high]  [due:: 2024-08-30]
 
@@ -195,8 +234,6 @@ Fine-mapping aims to identify the causal variants with a locus for a disease, gi
 Credible sets
 
 A **credible set** refers to the minimum set of variants that contains all causal SNPs with probability α. (Under the single-causal-variant-per-locus assumption, the credible set is calculated by ranking variants based on their posterior probabilities, and then summing these until the cumulative sum is >α). We usually report 95% credible sets (α=95%) for fine-mapping analysis.
-
----
 
 Many non-causal variants are significantly associated with a trait of interest owing to linkage disequilibrium; whether these reach the significance threshold depends on their level of correlation with and the strength of association of the causal variant. The output of GWAS is therefore clustered in risk loci — sets of correlated variants that all show a statistically significant association with the trait of interest — and linkage disequilibrium typically prevents pinpointing causal variants without further analysis.
 

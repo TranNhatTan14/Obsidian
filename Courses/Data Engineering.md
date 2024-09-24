@@ -1,6 +1,6 @@
 # Introduction to Data Engineering
 
-#### What you'll learn
+### What you'll learn
 
 - Build an end-to-end data pipeline encompassing all stages of the data engineering lifecycle
 - Evaluate and optimize the security, performance, reliability, cost-efficiency, and scalability of a web application hosted on AWS
@@ -36,7 +36,7 @@ Think of using AWS like how ou consume electricity
 - Implement a batch and a streaming ingestion process on AWS to ingest data from various source systems.
 - Integrate aspects of security, data management, DataOps and orchestration into the data systems you build.
     
-#### Skills you'll gain
+### Skills you'll gain
 
 - Networking on the Cloud
 - DataOps
@@ -46,13 +46,12 @@ Think of using AWS like how ou consume electricity
 
 # Data Storage and Queries
 
-#### What you'll learn
+### What you'll learn
 
 - Design storage architectures for various use cases, and select appropriate technologies to implement this architecture
 - Learn common patterns for querying data in your data pipelines and identify ways to improve query performance and enhance the value of your systems
     
-
-#### Skills you'll gain
+### Skills you'll gain
 
 - Advanced SQL
 - Data Lake Architectures
@@ -62,13 +61,13 @@ Think of using AWS like how ou consume electricity
 
 # Data Modeling, Transformation, and Serving
 
-#### What you'll learn
+### What you'll learn
 
 - Model and transform data based on stakeholder needs to deliver business value
 - Choose the appropriate data processing tools for your architecture design
 - Process data for batch analytics and machine learning data pipelines using distributed and non-distributed processing frameworks
     
-#### Skills you'll gain
+### Skills you'll gain
 
 - Data Modeling
 - Feature Engineering
