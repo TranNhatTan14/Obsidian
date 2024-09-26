@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "47b74ed5ddf28566",
+        "id": "6051199a654adeb0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4d62ab6a579a45",
+            "id": "d9d3d82f2a0702c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4e73a144898cfc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Superman.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cd6c1adf4b646e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Research/NSAID.md",
+                "file": "jskjkjvk.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Research/NSAID.md"
+                "file": "jskjkjvk.md"
               }
             }
           },
@@ -134,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Research/NSAID.md",
+                "file": "jskjkjvk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Research/NSAID.md",
+                "file": "jskjkjvk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,43 +145,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "3cd6c1adf4b646e9",
+  "active": "d9d3d82f2a0702c6",
   "lastOpenFiles": [
-    "Zettelkasten/Untitled 1.md",
-    "Competitions/Lacuna Malaria Detection Challenge.md",
-    "Knowledge/Docker.md",
-    "Files/Pasted image 20240810175621.png",
+    "Knowledge.md",
+    "jskjkjvk.md",
+    "Competitions.md",
     "Attention.md",
-    "Work/Research.md",
-    "Competitions/Location Mention Recognition.md",
+    "Assistant.md",
+    "Templates/Vocabulary.md",
+    "Untitled.md",
+    "Skillset/Operating Systems.md",
+    "Vocabulary/gratitude.md",
+    "Zettelkasten/Q&A.md",
+    "Zettelkasten/Visual Studio Code.md",
+    "Zettelkasten/Automation.md",
+    "Mindset.md",
+    "Tasks.md",
+    "Superman.md",
+    "TN.md",
+    "Work.md",
+    "Zettelkasten/Better.md",
+    "Zettelkasten/Prompt.md",
+    "Vocabulary/luculent.md",
+    "testsssvv.md",
+    "Vocabulary.md",
+    "antonym1.md",
+    "Vocabulary/astronaut.md",
+    "Vocabulary/connotation.md",
+    "Applications/Elevate.md",
+    "Knowledge/Artificial Intelligence",
+    "Files/Pasted image 20240810175621.png",
     "Work/Research",
     "Competitions/Location Mention Recognition",
     "Competitions",
-    "Work/Future Work.md",
-    "Work.md",
-    "Work/Interview.md",
-    "Work/Experience.md",
-    "Courses/Data Engineering.md",
     "Courses",
-    "Work/Research/AMR.md",
-    "Work/Current Work.md",
-    "Superman.md",
-    "Technology.md",
-    "Knowledge/Machine Learning/Machine Learning Operations.md",
-    "Knowledge/Machine Learning/Machine Learning Engineer DataCamp.md",
-    "Knowledge/Machine Learning/Machine Learning Lifecycle.md",
-    "Zettelkasten/Machine Learning.md",
-    "Knowledge/Machine Learning/Machine Learning Scientist.md",
-    "Knowledge/Machine Learning/Machine Learning Specialization.md",
-    "Knowledge/Machine Learning/Natural Language Processing.md",
-    "Courses.md",
-    "Technology/Docker.md",
-    "Knowledge/System Design.md",
-    "Knowledge.md",
-    "Technology",
+    "Skillset",
     "Files/Pasted image 20240922214055.png",
     "Files/Pasted image 20240922214030.png",
     "Files/Pasted image 20240922214015.png",
@@ -221,7 +197,6 @@
     "Habits",
     "Articles",
     "obsidian-copilot/data/nodes/0/node.lock",
-    "obsidian-copilot/data/nodes/0",
     "Untitled.canvas"
   ]
 }

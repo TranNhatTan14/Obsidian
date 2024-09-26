@@ -6,8 +6,6 @@
 - Mình chưa đánh giá được mức độ quan trọng của công việc và thời gian cần thiết để thực hiện công việc
 - Mình hơi OCD với số không được tròn, thay đổi mindset theo hướng 80%
 
-
-
 Vấn đề của mình đang là gì
 
 - Thể chất cần cải thiện

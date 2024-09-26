@@ -4,6 +4,12 @@ links:
   - "[[Competitions]]"
   - "[[Microsoft]]"
 ---
+# Data
+
+- We can only use data from the CSV file, so we should get the most from the
+
+# Computational Resources
+
 https://github.com/mehranshakarami/AI_Spectrum
 
 To add on top of this [@Amy_Bray](https://zindi.africa/users/Amy_Bray) When we build a csv using the JSON Data, we do not have the ordering issue. The main concern here is the CSV you provided us , the person who created it did not create it correctly, and we fear that the same mistakes have been carried over to the test that we are being evaluated on. To put it into context, The same text provided here by @salim-benhamadi when we build our data from the JSON in the github we get this:
@@ -82,7 +88,13 @@ Record video: https://www.youtube.com/watch?v=AJadU-y2fYg
 
 https://www.youtube.com/watch?v=kYlw_CClBAM
 
-###### Model
+### Benchmark
+
+https://paperswithcode.com/sota/named-entity-recognition-ner-on-conll-2003
+https://noisy-text.github.io/2024/
+https://paperswithcode.com/sota/named-entity-recognition-on-wnut-2016
+
+# Model
 
 https://huggingface.co/docs/transformers/en/tasks/token_classification
 
@@ -94,25 +106,24 @@ https://huggingface.co/flair/ner-english-large
 
 https://huggingface.co/models?pipeline_tag=token-classification&language=en&sort=trending
 
-### Benchmark
-
-https://paperswithcode.com/sota/named-entity-recognition-ner-on-conll-2003
-https://noisy-text.github.io/2024/
-https://paperswithcode.com/sota/named-entity-recognition-on-wnut-2016
-
-### Model
-
 https://huggingface.co/crisistransformers
 https://huggingface.co/botryan96/GeoBERT
 https://github.com/clarinsi/geobert
 
-### [Flair](https://flairnlp.github.io/docs/intro)
+## [CrisisTransformers](https://huggingface.co/crisistransformers/CT-M2-BestLoss#crisistransformers)
+
+The models were trained based on the RoBERTa pre-training procedure on a massive corpus of over 15 billion word tokens sourced from tweets associated with 30+ crisis events such as disease outbreaks, natural disasters, conflicts, etc.
+
+CrisisTransformers has 8 pre-trained models, 1 mono-lingual and 2 multi-lingual sentence encoders. The pre-trained models should be finetuned for downstream tasks just like [BERT](https://huggingface.co/bert-base-cased) and [RoBERTa](https://huggingface.co/roberta-base). The sentence encoders can be used out-of-the-box just like [Sentence-Transformers](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) for sentence encoding to facilitate tasks such as semantic search, clustering, topic modelling.
+
+We will use CT-M3-Complete for better tokenizer
+## [Flair](https://flairnlp.github.io/docs/intro)
 
 https://datascience.stackexchange.com/questions/107725/what-are-the-differences-between-bert-embedding-and-flair-embedding
 
 [Flair on Hugging Face](https://huggingface.co/flair)
 
-###### Embeddings using Flair
+### Embeddings using Flair
 
 ==Flair allows you to combine embeddings into "embedding stacks". When not fine-tuning, using combinations of embeddings often gives best results!==
 
@@ -195,6 +206,62 @@ Reproject Embedding True
 
 The difference is the set of defaut parameters. Train is usually used for feature-extraction method, where you have a frozen weight and some LSTM layers afterward while `fine_tune` is used for fine-tuning the whole embedding (e.g. using transformers with `fine_tune=True`). Function `train` is for FLAIR embedding, and `fine_tune` is for Transformer embeddings.
 
+###### [Automatic Mixed Precision](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html)
+
+###### [Mini-batch](https://stackoverflow.com/questions/58269460/what-is-the-meaning-of-a-mini-batch-in-deep-learning)
+
+Check if Florence in train has label as LOC
+Check in test
+
+Danh sách các location ở trong BILOU và danh sách Location ở trong JSON, dùng thống kê xem có miss match thế nào
+
+# Papers
+
+### Model
+
+[CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts](https://www.sciencedirect.com/science/article/pii/S0950705124005501)
+https://huggingface.co/rsuwaileh
+https://huggingface.co/crisistransformers
+
+### Dataset
+
+[IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets](https://www.sciencedirect.com/science/article/pii/S0306457323000778)
+https://github.com/uhuohuy/DLRGeoTweet
+
+[DLRGeoTweet: A comprehensive social media geocoding corpus featuring fine-grained places](https://doi.org/10.1016/j.ipm.2024.103742)
+https://crisisnlp.qcri.org/humaid_dataset.html
+
+### Gazette
+
+[Automatic gazette creation for named entity recognition and application to resume processing](https://www.researchgate.net/publication/262369926_Automatic_gazette_creation_for_named_entity_recognition_and_application_to_resume_processing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Micro Average and Macro Average
 
 Certainly! The difference between macro and micro averaging is an important concept in evaluation metrics, particularly for classification tasks. Let's break down each one:
@@ -254,43 +321,3 @@ Macro Average Precision: (0.8 + 0.6 + 0.9) / 3 = 0.77 Micro Average Precision: W
 In this case, the macro average gives equal weight to the poorly-performing Class B, while the micro average would be dominated by the well-performing Class C.
 
 Recommendation: For your task, I would recommend using micro averaging as the main evaluation metric. Here's why: a. Entity-Level Evaluation: In named entity recognition tasks (which your location mention recognition is a type of), we often care more about correctly identifying entire entities rather than individual tokens. Micro averaging aligns well with this goal. b. Handling Imbalance: While macro averaging might seem appealing for handling the imbalance between 'O' and location tags, it might give too much weight to potentially rare tagging errors (like confusing 'B-LOC' and 'S-LOC'). c. Standard Practice: Micro averaging is often the standard in NER tasks because it provides a good balance between precision and recall across all classes.
-
-
-###### [Automatic Mixed Precision](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html)
-
-###### [Mini-batch](https://stackoverflow.com/questions/58269460/what-is-the-meaning-of-a-mini-batch-in-deep-learning)
-
-Check if Florence in train has label as LOC
-Check in test
-
-Danh sách các location ở trong BILOU và danh sách Location ở trong JSON, dùng thống kê xem có miss match thế nào
-
-# Papers
-
-### Model
-
-[CrisisTransformers: Pre-trained language models and sentence encoders for crisis-related social media texts](https://www.sciencedirect.com/science/article/pii/S0950705124005501)
-https://huggingface.co/rsuwaileh
-https://huggingface.co/crisistransformers
-
-### Dataset
-
-[IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets](https://www.sciencedirect.com/science/article/pii/S0306457323000778)
-https://github.com/uhuohuy/DLRGeoTweet
-
-[DLRGeoTweet: A comprehensive social media geocoding corpus featuring fine-grained places](https://doi.org/10.1016/j.ipm.2024.103742)
-https://crisisnlp.qcri.org/humaid_dataset.html
-
-### Gazette
-
-[Automatic gazette creation for named entity recognition and application to resume processing](https://www.researchgate.net/publication/262369926_Automatic_gazette_creation_for_named_entity_recognition_and_application_to_resume_processing)
-
-# [CrisisTransformers](https://huggingface.co/crisistransformers/CT-M2-BestLoss#crisistransformers)
-
-The models were trained based on the RoBERTa pre-training procedure on a massive corpus of over 15 billion word tokens sourced from tweets associated with 30+ crisis events such as disease outbreaks, natural disasters, conflicts, etc.
-
-## Uses
-
-CrisisTransformers has 8 pre-trained models, 1 mono-lingual and 2 multi-lingual sentence encoders. The pre-trained models should be finetuned for downstream tasks just like [BERT](https://huggingface.co/bert-base-cased) and [RoBERTa](https://huggingface.co/roberta-base). The sentence encoders can be used out-of-the-box just like [Sentence-Transformers](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) for sentence encoding to facilitate tasks such as semantic search, clustering, topic modelling.
-
-We will use CT-M3-Complete for better tokenizer

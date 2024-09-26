@@ -1,14 +1,20 @@
 # Programming
 
-### Python
+## Python
 
 ### Print the default value of function
 
 https://stackoverflow.com/questions/12627118/get-a-function-arguments-default-value
 
-### C, C++, R, JavaScript
+## C++
 
-# [[Machine Learning]]
+## R
+
+## JaveScript
+
+# Artificial Intelligence
+
+## [[Machine Learning]]
 
 - [[Large Language Model]]
 - [[Generative AI]]
@@ -17,9 +23,9 @@ https://stackoverflow.com/questions/12627118/get-a-function-arguments-default-va
 ## [[Natural Language Processing]]
 ## [[Computer Vision]]
 
+## [[Generative AI]]
+
 # [[Genetics]]
 
-[[Bioinformatics]]
-[[Computational Biology]]
-
-# OOP
+## [[Bioinformatics]]
+## [[Computational Biology]]

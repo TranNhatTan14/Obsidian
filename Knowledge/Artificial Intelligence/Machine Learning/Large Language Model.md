@@ -8,10 +8,6 @@ links:
 
 Practices for prompt, RAG, flow engineering, evals and monitoring
 
-# Operational
-
-The organizational
-
 # Strategic
 
 - Find and filter open source models on Hugging Face Hub based on task, rankings, and memory requirements.
@@ -35,27 +31,29 @@ You will:
 
 The course will provide you with the building blocks that you can combine into a pipeline to build your AI-enabled applications!
 
-### Selecting models
-
-Grab "component" 
-
-Voice assistant
-
-Hugging Face Hub is an open platform that hosts models, datasets, and machine learning demos that are called Hugging Face Space
-
-Identifying what task you're working on
-
-I want to do "Automatic Speech Recognition" to "transcribe speech in French"
-
-Model card
-
-- Model architecture
-- How it was trained
-- What limitation it has
-- Model checkpoint refers to the save model, including the pre-trained weights and all the necessary configurations.
 
 Rule of thumb that I use to estimate how much memory I will need for a model
 
 Go to FIle and versions - Find "pytorch_model.bin"
 
 Load model from Transformer library with both use a pipeline as a high-level helper or load model directly
+
+When working with large-scale AI and large language models (LLMs), several factors are critical:
+
+# Data
+
+# Computational Resources
+
+- From server from work
+- Free GPU from Kaggle and Google Colab
+- Free GPU from Github pack
+- Hugging Face
+
+1. Colab Pro - 10 USD/mo with faster GPUs. You can ssh via VSCode to it and treat it like a local machine.
+2. GCP 300 USD Free credit Will last a few months.
+3. Azure 300 USD? (or 150 USD) free credit if you're a student.
+4. E mail paperspace, (there's one more that I forget, but that's extremely cheap, just google) and tell you're a student and ask for discounts.
+
+# Model Architecture
+
+# Optimization and Scaling

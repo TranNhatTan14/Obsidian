@@ -59,13 +59,6 @@ https://dortania.github.io/OpenCore-Install-Guide/extras/spoof.html#windows-gpu-
 
 NOTE: This version of ocvalidate is only compatible with OpenCore version 1.0.1!
 
-OCS: No schema for EnableForAll at 0 index, context <Quirks>!
-OCS: No schema for EnableForAll at 6 index, context <Quirks>!
-
-Serialisation returns 2 errors!
-
-Completed validating /Volumes/EFI/EFI/OC/config.plist in 1 ms. Found 2 issues requiring attention.
-
 https://github.com/benbaker76/Hackintool
 https://github.com/ic005k/OCAuxiliaryTools
 

@@ -36,23 +36,7 @@ Goal is learn from AI and work with AI, thu nhập tốt giúp mình lo được
 
 ### VinUniversity-Illinois Smart Health Center PhD Scholarship and Postdoc Fellowship Program
 
-# Interview
 
-- Tự tin
-- Thể hiện được mình có kiến thức tốt
-- Hiểu rõ về những dự án đã thực hiện
-- Thể hiện được mình đam mê với lĩnh vực Healthcare
-- Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
-
-https://nodesk.co/remote-jobs/ai
-https://nodesk.co/remote-jobs/machine-learning
-https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
-
----
-
-Không nên quá phụ thuộc vào AI
-Tự đọc code, xem code và xem có chạy đúng không
-Vai trò của lập trình viên từ người viết code trở thành người review code
 
 Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng, nên intergate với bộ phận nào
 
@@ -256,7 +240,7 @@ Utilized in finance, healthcare, and marketing for forecasting trends and outcom
 - Job Orchestration
 - Software Engineering
 
-Duties/Responsibilities:
+Responsibilities:
 
 - Maintain and optimize existing data infrastructure, including RDS PostGres database, PGVector database, and planning for future graph databases.
 - Stay up to date on AI developments and how new AI technologies can be used to create custom solutions that advance the mission of IHS.
@@ -272,8 +256,6 @@ Required Skills/Qualifications:
 - Excellent interpersonal, collaborative, relationship building, and communication skills, both verbally and in writing.
     - Demonstrable ability to discuss, teach, and inform non-technical individuals of relevant and applicable topics and functions related to the cloud, AI, and other forms of technology.
 - Knowledge of and appreciation for the classical liberal tradition.
-
----
 
 - In this role, you'll own and define the direction of mission-critical solutions by applying best-fit ML algorithms and technologies
 - Define and develop MLOps pipelines and containerized solutions to enable secure, robust delivery of models to the enterprise
@@ -333,11 +315,6 @@ If you get a thrill working with cutting-edge technology and love to help solve 
 - At least 3 years of experience programming with Python, Scala, or Java2+ years of experience ==building end-to-end data pipelines==
 - 2+ experience working on large-scale data science/data analytics projects
 
-### Location
-
-- This is a remote / virtual role
-- Candidate needs to be based in Vietnam
-
 ---
 
 ### Description
@@ -357,17 +334,6 @@ If you get a thrill working with cutting-edge technology and love to help solve 
 - Research and apply latest technologies to enhance chatbot features and performance
 - Conduct research and development (R&D) to apply public models to AI production
 - Research and develop AI models to improve business performance and optimize production processes
-
-### Requirements
-
-- Experience working with Generative AI model like GPT-4
-- Proficiency in Python and libraries such as TensorFlow, PyTorch, Keras
-- Experience with [[Natural Language Processing]] technologies and tools
-- Experience with Python and its web framework (FastAPI, Flask)
-- Experience with AI tasks utilizing LLMs (GPT, Gemini, Llama)
-- Proficiency in managing and operating AI models in production environment (Triton Serving, TorchServe, Docker)
-- Expertise in fine-tuning and developing AI models for various tasks: image recognition, voice analysis, and [[Natural Language Processing]]
-- Experience in developing and designing AI services through RESTful API or GRPC
 
 ### Soft skills
 
@@ -399,7 +365,6 @@ If you get a thrill working with cutting-edge technology and love to help solve 
 - Collaborate with Architects/ Dev /Analytics to meet business requirements of the product
 - Collaborate with other team members, stakeholder to solve problems
 
-
 ### Employment Hero - Intermediate Machine Learning Engineer
 
 As a Machine Learning Engineer, you will play a pivotal role in advancing our AI efforts. You will have ==expert-level understanding of LLMs and stay up to date with the latest developments in this space to build scalable, robust, and high-performance AI systems==. Your deep technical expertise and business acumen will be crucial in building AI solutions to the identified problems and driving business growth.
@@ -414,12 +379,9 @@ As a Machine Learning Engineer, you will play a pivotal role in advancing our AI
 
 **Requirements**
 
-- Experience with strong focus on applied AI and LLM
 - Python, LLM, OpenAI, LangChain, LlamaIndex, Vector DB, RAG, HuggingFace, NLP, Recommender System, Chatbot.
 - Be curious about the latest developments in AI research, continuously exploring new methodologies, tools, and techniques to enhance our AI capabilities.
 - Experience using Agile methodologies and working with Product teams.
 - Quality coding practices, including test-driven development, unit testing and secure coding awareness.
 - You are passionate about learning and sharing your knowledge, and not afraid to challenge your peers, but also welcome being challenged.
 - English language abilities, both written and verbal - you’ll be working with people across the world.
-
-Experience is important, but for us the ==biggest measure of success is people who can live and breathe our values==. Show us what you can bring to the table, and we’ll empower you to let your talents shine.

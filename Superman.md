@@ -1,11 +1,21 @@
+# Goals
+
+
+
 - [[Habits]]
 
 - Appreciate file
-- Đi tập thể dục thôi
 - Code mỗi ngày, learning
 - Chăm sóc sức khoẻ. kiếm thêm thu nhập
 - Learn from work, like how to work with data, to get insight, know the trend
 - Transfer Learning from what you work know to future work like from NSAID
+
+# Present
+
+- Doing research for [[NSAID]] in GeneStory
+- Join the [[Location Mention Recognition]] and [[Lacuna Malaria Detection Challenge]] 
+- Learning language with Duolingo and [[Elevate]] and [[Brilliant]]
+- Tập thể dục hàng ngày
 
 # Tasks
 
@@ -27,7 +37,6 @@
 
 # 1
 
-- [[GWAS]]
 - [[Experience]]
 - [[English]]
 - [[Finance]]
@@ -50,7 +59,7 @@
 - Đừng xem những nội dung ngắn, gây ảnh hưởng xấu đến não bộ. Khó khăn thì mới có sự trân trọng
 - Đi xe không cẩn thận, mắt mình cũng không tốt đâu
 - [[Game]]
-
+ 
 # Tools
 
 - [[Analogy]]
@@ -124,8 +133,6 @@ Skills you have and do better than other, can earn money from it.
 You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh cờ)
 
 - [ ] Do the MBTI test to know if I am INTJ
-
-# Goals
 
 # Values
 
