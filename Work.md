@@ -1,3 +1,12 @@
+Work in AI for Healthcare and Finance or Education
+Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc
+Nhìn thấy nhiều cơ hội hơn ,sẵn sàng cho cơ hội hơn
+Customize CV for each job
+Think about question to ask during interview
+Write thank you letter after interview
+EMOTIV has location in Hanoi
+
+
 - [ ] Công việc tốt, phù hợp với định hướng của bản thân, ý nghĩa, thu nhập tốt, IKIGAI. [priority:: high] [start:: 2024-08-20] [due:: 2024-11-20] 
 
 # Current work
@@ -53,6 +62,8 @@ https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
 - Làm việc từ thứ 2 đến thứ 6, không làm thứ 7 và Sunday
 - Thời gian làm việc theo tiếng một ngày, thoải mái hơn về thời gian vào làm và thời gian về (same like FPT maybe)
 - Có thể làm việc hybrid trong một số trường hợp
+- Đãi ngộ tốt
+- 
 
 ## Vision
 
@@ -71,3 +82,23 @@ applied AI and LLM
 - Proficiency in managing and operating AI models in production environment (Triton Serving, TorchServe, Docker)
 - Expertise in fine-tuning and developing AI models for various tasks: image recognition, voice analysis, and [[Natural Language Processing]]
 - Experience in developing and designing AI services through RESTful API or GRPC
+
+JOB DESCRIPTION
+Implement various large language and multimodal models and perform tasks such as training and compression.
+Develop various training, compression, and inference technologies by considering large-scale cluster architecture and the internal infrastructure software, apply them to actual models, and generalize them to be automated by infrastructure software.
+Analyze and propose solutions to computational performance, communication, and memory capacity issues that occur during neural network model training and inference.
+Grasp the state-of-the-art AI technology trends and suggest improvements of the company's softwares.
+JOB REQUIREMENT
+Minimum Qualifications
+Bachelor's degree in computer science, engineering, or an AI-related field, and 2+ years’ experience as a machine learning engineer; or master’s degree in an AI-related field
+Ability to understand state-of-the-art AI-related research papers and implement them in practice.
+Ability to analyze AI model training process and results in a logical and quantitative way.
+
+Preferred Qualifications
+PhD degree or further education in an AI-related field 
+4+ years’ experience as a machine learning engineer 
+Contributions to research communities/efforts, including publishing papers at major conferences (e.g., AAAI, ACL, CVPR, ECCV, ICCV, ICLR, ICML, and NeurIPS)
+Experience in training a neural network model on a (large-scale) GPU cluster, especially a large language model (LLM) or a multimodal model
+Knowledge of AI frameworks including PyTorch and TensorFlow, and their internal structure
+Understanding of computer architecture and system
+Experience in configuring a software environment — from a GPU device driver to an AI framework — for a GPU system

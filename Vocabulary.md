@@ -1,36 +1,11 @@
----
-links:
-  - "[[English]]"
----
-Where I can learn new vocab
-From Elevate Word
-
-### Prompt to get the word
-
 Follow the rules
 Take pity on (feel bad for)
-
-**Wagon**
-
-Vehicle with four wheels used for trainsporting goods
-
-**Dazzling**
-
-Extremely bright or brilliant
 
 **Glass ceiling**
 
 Glass ceiling is an institutional barrier that keeps women from obtaining high-level positions,
 
 Sandra Day O'Connor broke glass ceiling as the first female US Supreme Court justice.
-
-**Trustworthy**
-
-credible, veracious
-
-**Kindest**
-
-benevolent, altruistic
 
 **Shot in the dark**
 
@@ -39,37 +14,6 @@ Jack bought a lottery ticket even though he knew it was a shot in the dark
 ### Straight as an arrow
 
 The one notorious con artist is now straight as an arrow after spending years in the prision
-
-### Eavedrop
-
-In the play of Argentina footballer Messi, character often eavesdrop on one another
-
-https://github.com/flairNLP/flair/issues/882#:~:text=NN%3F%20Can%20you-,shed%20some%20light,-on%20how%20this
-
-I can’t forget the aura she had when I first meet her
-Buy the same hangover drink
-Pursuing Master program
-Filters out all variants with missing rates exceeding 0.02
-
-# Word (with context)
-
-conduct
-
-[[Anthropic]] is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-philanthropist - one who loves and promotes human welfare
-phil - love
-[[anthrop]] - human kind
-ist - one who does
-
-# Synonyms
-
-- whole
-	- unabridged, comprehensive
-- necessary
-	- unalterable, imperative
-- correct
-	- decorous, flassless #valorant
 
 # Phases
 
@@ -92,37 +36,7 @@ ist - one who does
 - After the conference, the team went out to ==let their hair down== (to be informal or relaxed) and relax.
 - I didn’t ask for his ==two cents== (an idiom meaning an unsolicited opinion), but he gave it anyway.
 
-# Connotation
-
-## Positive
-
-- Enticing means highly attractive and able to arouse hope
-- Impeccable means without fault or error
-- concur means to be of. the same opinion or belief
-
-## Negative
-
-- Lethargy means weakness, sleepiness, or sluggishness
-- Derisive mean sneering and expressing contempt or ridicule
-- Immoral means unethical, evil, or wrong
-- Agitated means troubled, disturbed, or upset
-- Adversary means someone who offers opposition = enermy
-
-# Pronunciation
-
 # Sentence
 
-- I practiced my Chinese until my speech was **luculent** (adjective, easily understood, as writing or speech)
 - US President Richard Nixon resigned in 1974; the Watergate scandal **cost him his job** (describes losing a paid occupation due to an indiscretion, error, or inability)
 - Many people work two or more jobs to **make ends meet** (to have enough money to live)
-
-# Word
-
-The soldier ==courageously== (An adverb ending in -ly is need to midify the verb) fought the enemy
-
-- Gratitude: A feeling of thankfulness and appreciation >< Ingratitude
-- Astonished: In a state of surprise or wonder >< Unsurprised
-
-After the reading of the will, the sole **heir** exuded an **air** of satisfaction. Air refers a person's general demeanor, while heir refers to a person who inherits wealth or rank.
-
-The archer aimed his bow and arrow at the target taped to the ==bough== (main branch) of the tree

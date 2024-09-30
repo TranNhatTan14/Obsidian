@@ -71,3 +71,10 @@ Không xem video study vì lúc học mình có xem được đâu, nghe đượ
 - Hiểu hơn về cảm xúc của bản thân, hiểu về cơ thể của mình hơn
 - Chăm sóc sức khỏe thể chất và tinh thần
 - Phát huy điểm mạnh và khắc phục điểm yếu
+
+1. Mình muốn giàu có
+2. Tăng thu nhập chủ động và thu nhập bị động
+	1. Tăng thu nhập chủ động cần tăng level, tăng kiến thức của mình, tiêu tiền Việt nhận tiền USD
+	2. Tăng thu nhập bị đông
+		1. Đầu tư dựa trên kiến thức, đầu tư tiền điện tử thay vì đầu tư chứng khoán
+		2. Tạo ra sản phẩm, dịch vụ mà người dùng cần

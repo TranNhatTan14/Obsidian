@@ -1,3 +1,71 @@
+Here are some questions you can ask yourself to help you reflect on yourself and your life: 
+
+**What am I grateful for?**
+
+It's healthy to reflect on what you're thankful for in life, as it's easy to focus on the negative. 
+    
+**Am I happy?**
+
+You might be happy with your life, but you might not feel it if you're not managing your thoughts and emotions. 
+    
+**What are you avoiding?**
+
+You might be avoiding things you need to do, like joining a gym, eating healthier, or having difficult conversations. 
+
+**What are my fears?**
+
+When you face your fears, you can ask yourself what they're trying to tell you and who they're calling you to be. 
+
+**Am I thinking negative thoughts before I fall asleep?**
+
+You can ask yourself if you're putting enough effort into your relationships, taking care of yourself, and achieving your goals. 
+    
+**What are three of my most cherished personal values?**
+
+You can ask yourself what your purpose in life is, what your personality type is, and what you find inspiring.
+
+1. How would you describe your future self?
+2. Where does your future self live?
+3. What job is your future self doing?
+4. How much does your future self earn?
+5. What does a typical day for your future self look like?
+6. What hobbies does your future self enjoy?
+7. How does your future self handle conflict?
+8. What do other people say about your future self?
+9. How does your future self feel about themselves?
+10. What has your future self achieved?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If two people have the same background when start, what make people differrent in the past of life
 
 Even if two people start with the same background, several key factors can make them different as they progress through life:
@@ -119,9 +187,7 @@ In summary, while someone from a higher background may have early advantages, so
 
 
 
-
-> 	[!question] Q&A
-> - Who am I
+- Who am I
 > - Who am I not
 > - What are my strengths?
 > - What are my weakness?
@@ -284,3 +350,18 @@ Remember, the process of setting and working towards long-term goals is ongoing.
 # How
 
 - How to connect (link) the dot (graph, sparse graph) #Knowledge #Assistant
+
+Here are some thought-provoking questions you can ask yourself for personal reflection and growth:
+
+1. What are my top 3 core values, and how well am I living in alignment with them?
+2. If I had unlimited resources, what would I do with my life?
+3. What's one habit I could develop that would have the biggest positive impact on my life?
+4. What's holding me back from pursuing my dreams, and how can I overcome these obstacles?
+5. When do I feel most alive and fulfilled? How can I incorporate more of those moments into my daily life?
+6. What skills or knowledge do I need to acquire to reach my next big goal?
+7. How do I define success, and has that definition changed over time?
+8. What negative self-talk patterns do I need to address and reframe?
+9. In what areas of my life am I settling for less than I deserve?
+10. If I could give advice to my younger self, what would it be?
+
+These questions cover various aspects of personal development, from values and goals to habits and self-reflection. Would you like to explore any of these questions further, or shall we discuss a specific area of personal growth?

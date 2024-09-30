@@ -1,3 +1,46 @@
+# A
+
+Genotyping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Genotyping
 
 Icelandic DNA tells a story of Viking colonization and plunder across the Northern Atlantic.

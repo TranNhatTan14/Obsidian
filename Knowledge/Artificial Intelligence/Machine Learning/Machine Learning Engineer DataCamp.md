@@ -64,6 +64,36 @@ The importance of testing ML pipelines and learn techniques for testing and vali
 
 # ETL and ELT
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CI/CD for Machine Learning
 
 - Elevate your Machine Learning Development with CI/CD using GitHub Actions and Data Version Control
@@ -76,9 +106,85 @@ The importance of testing ML pipelines and learn techniques for testing and vali
 - How to perform hyperparameter tuning using scikit-learn GridSearchCV
 - Automating pull requests with the best model configuration
 
-### Introduction to Continuous Integration/Continuous Delivery and YAML
+## Introduction to Continuous Integration/Continuous Delivery and YAML
 
 In this chapter, you will explore the essential principles of Continuous Integration/Continuous Delivery (CI/CD) and YAML. You'll grasp the software development life cycle and key terms like build, test, and deploy. Discover the differences between Continuous Integration, Continuous Delivery, and Continuous Deployment. Moreover, you'll investigate the significance of CI/CD in machine learning and experimentation.
+
+### SLDC in Machine Learning
+
+Which of the following best describes the difference between continuous deployment and continuous delivery?
+
+Continuous deployment is the practice of automatically releasing every code change to production, while continuous delivery is the practice of preparing code changes for release but allowing for manual approval before deployment.
+Continuous deployment is actually the automated process of deploying code changes to production, while continuous delivery is the practice of preparing code changes for release.
+
+Machine learning workflow
+
+1. Requirements Garthering
+2. Data Preparation
+3. Model Development
+4. Model Evaluation and Tuning
+5. Model Testing
+6. Model Deployment
+
+### YAML
+
+- Used to write configuration
+
+## GitHub Actions
+
+## Continuous Integration in Machine Learning
+
+## Comparing training runs and Hyperparameter tuning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Deployment and Life Cycling
 

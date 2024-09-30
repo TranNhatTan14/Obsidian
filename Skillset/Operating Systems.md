@@ -1,4 +1,4 @@
-# Nano
+# nano
 
 ```bash
 # Open <file-name> in the nano text editor
@@ -14,6 +14,7 @@ du -sh /home/user/*
 ```
 
 # wget
+
 ```bash
 # Specify an output path
 wget -O /home/tantn/workspace/NSAID/pipeline/annotation/GCF_000001405.40.gz.tbi https://ftp.ncbi.nih.gov/snp/latest_release/VCF/GCF_000001405.40.gz.tbi
@@ -29,7 +30,7 @@ conda deactivate
 conda env remove --name env_name
 ```
 
-# Tmux
+# tmux
 
 ```bash
 # Install Tmux
@@ -68,3 +69,7 @@ https://github.com/ic005k/OCAuxiliaryTools
 
 https://dortania.github.io/OpenCore-Post-Install/gpu-patching/#intel-igpu-patching
 https://www.youtube.com/watch?v=pCyonAMQrzw
+
+# bcftools
+
+https://www.nagraj.net/notes/bcftools

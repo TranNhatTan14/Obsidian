@@ -1,3 +1,4 @@
+- [ ] Cắt móng tay
 - [ ] Build template code for each task (for working data with competition in Kaggle or Zindi), can get insight from notebook in Kaggle
 - [ ] Complete Machine Learning Engineer path in DataCamp
 - [ ] Build docker for NSAID

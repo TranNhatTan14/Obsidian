@@ -2,6 +2,8 @@
 links:
   - "[[Education]]"
 ---
+https://www.facebook.com/nguyen.q.phuoc.1/posts/pfbid0iCBoi3ojqevyMdFQKG7guHKwTqvmcP3kqX5WxuYpm9th2Pa4NUoR7Fr1sCwYxUsWl
+
 - Which country and which field
 - Combined degree programs or dual degree programs
 - Đi Úc em nên aim các trường nhóm G8 rank tốt hơn

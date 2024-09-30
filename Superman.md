@@ -113,6 +113,7 @@ Website
 - [Visualization for AI Explainability](https://visxai.io)
 - [State of Open Source AI Book](https://book.premai.io/state-of-open-source-ai/)
 - [Applied Machine Learning](https://kuleshov-group.github.io/aml-book/intro.html)
+- https://www.youtube.com/@statquest
 
 # Status
 

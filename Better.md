@@ -37,8 +37,6 @@ Summary like PCA, we can cover about 80% or less from data, get high concept of 
 3. **Negligence to the research & Limitation to argument**s: When one drafts a book, they generally do a lot of research. The research along with the learnings, experiences, and knowledge is captured in form of a book. You cannot argue, decide, or question about these until you read them. A summary deprives you of it and thus basically eliminates the arguments that could have arisen because of sincere reading. This stalls the development of the topic. 
 
 If I were to sum up, reading the summary is great if one doesn't have time or they just want to get the gist of the content. But for someone who wishes to read for knowledge and wisdom, reading the entire book is only right.
-
----
 # Reading:
 
 Pros:
@@ -67,3 +65,6 @@ Cons:
 - **Passive consumption:** Less mentally stimulating; doesn't engage critical thinking as much.
 - **Limited imagination:** Visuals and interpretations are provided, reducing personal interpretation.
 - **Distractions:** Easier to lose focus or multitask, potentially missing key information.
+
+1 stone kill two birds
+Learn with layer like buid docker

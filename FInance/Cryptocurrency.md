@@ -3,6 +3,60 @@ tags: []
 links:
   - "[[Finance]]"
 ---
+Learn how cryptographic primitives power the blockchain and digital currencies.
+
+# The Fable of Cryptonia (truyện ngụ ngôn về Cryptonia)
+
+
+
+
+
+
+
+
+
+
+Đừng bỏ quên những coin liên quan đến công nghệ đặc biệt là AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ryan Nguyễn - Nguyễn Bá Vượng
 
 Sử dụng đòn bẩy X3 X5

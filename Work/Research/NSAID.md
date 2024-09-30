@@ -5,7 +5,6 @@ links:
   - "[[Work]]"
   - "[[Biology]]"
 ---
-<<<<<<< HEAD:Work/Research/NSAID.md
 Viết outline gửi cho chị Mai vào thứ 6
 Mini review với chị Mai vào thứ 4 tuần sau
 =======
