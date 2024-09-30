@@ -1,7 +1,6 @@
 ---
 tags:
   - Audio
-links:
-  - "[[Items]]"
+links: []
 description: Sony WH-1000XM4 Headphone
 ---

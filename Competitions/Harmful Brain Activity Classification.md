@@ -1,9 +1,9 @@
 ---
-links:
-  - "[[Kaggle]]"
-  - "[[Neuroscience]]"
-  - "[[Competitions]]"
+tags:
+  - "#Neuroscience"
+  - "#Kaggle"
 ---
+
 1. What is spectrograms
 What is spectrogram in EEG?
 

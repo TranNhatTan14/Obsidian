@@ -1,3 +1,5 @@
+Học sử dụng Google One hay AWS từ những khóa học trên Coursera để có thể truy cập free
+
 ### Health
 
 - Không được lãng phí đồ ăn mẹ nấu và chuẩn bị cho, lên danh sách những đồ ăn mình có
@@ -330,3 +332,45 @@ https://news.ycombinator.com/
 - Trời lúc đi làm về rất đẹp, có thể thấy trên ứng dụng thời tiết của điện thoại #Work #Motivation
 - Mình có cảm thấy đôi chút rằng là mình đang chưa tham gia nhiều dự án quan trọng trên GeneStory và cảm giác FOMO là nếu mình rời đi thì mình cũng không có bài báo nào cả
 - Cảm giác công ty không tôn trọng mình, ít nhất là hiện giờ mình đang nghĩ thế 20240910
+
+You write slower than typing < Thinking
+
+không tạo ra mà ứng dụng được. Kiến thức mới từ báo ứng dụng vào thực tế hoặc người trung gian ứng dụng từ nước ngoài USA, CN to VN
+
+Sắp xếp như để trên giá theo quy tắc
+
+Kowloon Walled City in Hong Kong was the most densely populated place on Eartch until its demolitiion in 1993. Currently, there's a park where the city once stood.
+
+![Kowloon Walled City](https://media.cnn.com/api/v1/images/stellar/prod/140330221545-lambot-kowloon002.jpg?q=w_1110,c_fill/f_webp)
+
+While most people think of calories as a property of food, they're actually found in anything with energy. ==A calorie is simply a unit used to measure the amount of energy it takes to increase the temperature of one gram of water by one degree Celsius.==
+
+### Vision
+
+Quan sát nhiều hơn nghĩ có thể làm giảm [[Overthinking]] và [[Stress]]
+
+### Breathe
+
+Thở bằng mũi vầ căng bụng ra có thể làm giảm [[Stress]]
+
+### Mode
+
+Mode zombie for save energy
+
+### Memory tip
+
+- To help yourself recall new information, try to link it to a personal experience or something you already know [[Link]]
+- Repeat important information back to yourself in order to remember it more effectively 
+- Listen without judging or jumping to conclusion to better understand and remember what you hear
+- To help yourself remember information about people, plasces, or things, create a mental map and associate the items to differrent areas of it
+- Use the first letter of each word or phase in the information you hear to create a memmorable acronym or mnemonic
+
+### Tool
+
+Speaking and practice [[IELTS]] with ChatGPT
+
+### Programming
+
+Scratch code - Update with tool like chatbot - Update when use
+
+Đăng ký [[Internet]] để có thể tập speak

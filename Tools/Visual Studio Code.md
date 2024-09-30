@@ -1,7 +1,6 @@
 ---
-links:
-  - "[[Programming]]"
-  - "[[Tool]]"
+tags:
+  - Programming
 ---
 # Port
 

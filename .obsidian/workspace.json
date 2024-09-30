@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "144d8e3a5ed67440",
+        "id": "2dd3eee0a38efa0d",
         "type": "tabs",
         "children": [
           {
-            "id": "723a8f1b0676a892",
+            "id": "b50c63025f004508",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Automation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd63be561d7ac639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FInance/MMO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +66,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 358.5
   },
   "right": {
     "id": "685661460335a225",
@@ -91,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FInance/MMO.md"
+              }
             }
           },
           {
@@ -100,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FInance/MMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FInance/MMO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,35 +161,38 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "723a8f1b0676a892",
+  "active": "cd63be561d7ac639",
   "lastOpenFiles": [
-    "Work.md",
+    "Q&A.md",
+    "Zettelkasten/Tool.md",
+    "Zettelkasten/Untitled.md",
+    "Zettelkasten/World.md",
+    "Zettelkasten/Transformers.md",
+    "Trần Nhật Tân/Timeline.md",
+    "Trần Nhật Tân",
+    "Zettelkasten/VPN.md",
+    "Zettelkasten/Education.md",
+    "Tools/Visual Studio Code.md",
+    "Zettelkasten/Untitled 1.md",
+    "Zettelkasten/Tips and Tricks.md",
+    "Zettelkasten/Shortcut.md",
+    "Zettelkasten/Project.md",
+    "Work/Research/AMR.md",
     "Zettelkasten/Prompt.md",
-    "Zettelkasten/Certification.md",
-    "Templates/Anki.md",
-    "Tools/Anki.md",
-    "Applications/Habitify.md",
-    "FInance/Cryptocurrency.md",
-    "Applications/Balance.md",
-    "Competitions.md",
-    "Better.md",
-    "Attention.md",
-    "Assistant.md",
+    "Zettelkasten/PCA.md",
+    "Courses/Neural Networks Zero to Hero.md",
+    "Ideas & Brainstorms.md",
+    "Knowledge/Hardware.md",
+    "Zettelkasten/Google.md",
+    "Finance.md",
+    "Zettelkasten/Eye drops.md",
+    "Zettelkasten/Digital Ocean.md",
+    "Zettelkasten/Designing and implementing a data science solution on Azure.md",
+    "Certifications/IELTS.md",
+    "Certifications",
+    "Wiki.md",
+    "Work/Track",
     "FInance",
-    "Knowledge/Data Version Control.md",
-    "Health.md",
-    "Knowledge.md",
-    "Mindfulness.md",
-    "Mindset.md",
-    "Motivation.md",
-    "Superman.md",
-    "Tasks.md",
-    "Technology.md",
-    "Zettelkasten/Q&A.md",
-    "Vocabulary.md",
-    "Zettelkasten/Data.md",
-    "Untitled.md",
-    "Goal.md",
     "Knowledge/Artificial Intelligence",
     "Files/Pasted image 20240810175621.png",
     "Work/Research",
@@ -184,9 +209,6 @@
     "Files/Pasted image 20240922211335.png",
     "Files/Pasted image 20240922110023.png",
     "Files/Pasted image 20240922105854.png",
-    "Knowledge/Language",
-    "Habits",
-    "Articles",
     "Untitled.canvas"
   ]
 }

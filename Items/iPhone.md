@@ -1,7 +1,7 @@
 ---
-links:
-  - "[[Apple]]"
-  - "[[Items]]"
+links: []
+tags:
+  - "#Apple"
 ---
 # iPhone Xs
 

@@ -1,3 +1,9 @@
+Build [[Multimodal Personal Assistant]]
+
+1. Help me to more productivity, learning english
+2. Learn new knowledge, good for work, I can show it for future work
+3. Make money with it
+
 - [ ] Cắt móng tay
 - [ ] Build template code for each task (for working data with competition in Kaggle or Zindi), can get insight from notebook in Kaggle
 - [ ] Complete Machine Learning Engineer path in DataCamp

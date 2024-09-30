@@ -4,10 +4,6 @@ links:
   - "[[Tool]]"
 URL:
 ---
-# Obsidian-Copilot: An Assistant for Writing & Reflecting
-
-https://eugeneyan.com/writing/obsidian-copilot
-
 # Highlight
 
 - [ ] Get list of highlight as for new word

@@ -1,3 +1,10 @@
+---
+tags: 
+links:
+  - "[[Education]]"
+  - "[[Scholarship]]"
+  - "[[Goal]]"
+---
 # Master Program
 
 Học thẳng Ph.D không cần qua Master

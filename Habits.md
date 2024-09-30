@@ -59,9 +59,13 @@ Không xem video giải trí lúc ăn cơm, có thể xem video thế giới đ�
 
 ### Meditation with Balance
 
+### Reading book before sleep
+
 ### Stretch before sleep
 
 ### Sleep
+
+Muốn dậy được sớm thì phải ngủ sớm
 
 # NO Time
 

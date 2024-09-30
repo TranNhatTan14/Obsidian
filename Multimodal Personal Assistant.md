@@ -1,8 +1,8 @@
----
-tags: []
-links:
-  - "[[Project]]"
----
+# Process RAW data with TEMPLATE (created with prompt)
+
+- [ ] Prompt for vocabulary
+
+- Note của mình từ Obsidian được đưa lại đến với mình có thể bằng Anki (sử dụng phương pháp SRS), qua đó mình sẽ xác định được răng điều đó có thật sự quan trọng với mình không, mình có thể dùng bốn mức độ của Anki để biến điều đó thành điều quan trọng hoặc không quan trọng
 > [!important]
 > Mục đích của Chatbot này vừa là để cho như công việc của mình bên GeneStory về xây dựng Chatbot, học thêm kiến thức cần thiết, và cũng là để xây dựng công cụ giúp bản thân mình
 
@@ -606,8 +606,6 @@ Make a project more robust by providing things like LLM independence, retry logi
 - GPT-2, BLOOM, Grok.AI, Falcon, BERT
 - https://cloud.google.com/blog/products/ai-machine-learning/rag-with-bigquery-and-langchain-in-cloud
 
-# Assistant
-
 Build a personal assistant to enhance various aspects of your life. A well-designed personal assistant can significantly improve your productivity, learning, and overall quality of life. Here are some key areas where a personal assistant can help:
 
 1. Learning and Knowledge Management:
@@ -700,3 +698,7 @@ To build such a personal assistant, you'd need to consider:
 # Output
 
 Interfaces people can interact with, input is (text, voice) in website or smartphone applications.
+
+# Obsidian-Copilot: An Assistant for Writing & Reflecting
+
+https://eugeneyan.com/writing/obsidian-copilot

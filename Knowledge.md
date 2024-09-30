@@ -29,3 +29,11 @@ https://stackoverflow.com/questions/12627118/get-a-function-arguments-default-va
 
 ## [[Bioinformatics]]
 ## [[Computational Biology]]
+
+# Technology
+
+### [[Docker]]
+### [[Git]]
+### [[Spark]]
+
+### [[Shell]]

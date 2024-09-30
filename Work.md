@@ -1,3 +1,5 @@
+> [tip] Luôn sẵn sàng cho công việc trong mọi trường hợp
+
 Work in AI for Healthcare and Finance or Education
 Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc
 Nhìn thấy nhiều cơ hội hơn ,sẵn sàng cho cơ hội hơn
@@ -41,7 +43,6 @@ You get paid for
 - Your skillset
 - Contributions to the world
 - Experience is important, but for us the ==biggest measure of success is people who can live and breathe our values==. Show us what you can bring to the table, and we’ll empower you to let your talents shine.
-
 - Nghiêm túc trong công việc, Mới bắt đầu nên làm tốt một thứ
 - Ý THỨC, THÁI ĐỘ và TINH THẦN là quan trọng còn tư duy tốt thì đổi ngành không vấn đề
 - Cần chủ động hơn trao đổi với mọi người về những việc mình muốn làm
@@ -69,36 +70,3 @@ https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
 
 Vai trò của lập trình viên từ người viết code trở thành người review code
 applied AI and LLM
-
-> [tip] Luôn sẵn sàng cho công việc trong mọi trường hợp
-
-## Requirements
-
-- Experience working with Generative AI model like GPT-4
-- Proficiency in Python and libraries such as TensorFlow, PyTorch, Keras
-- Experience with [[Natural Language Processing]] technologies and tools
-- Experience with Python and its web framework (FastAPI, Flask)
-- Experience with AI tasks utilizing LLMs (GPT, Gemini, Llama)
-- Proficiency in managing and operating AI models in production environment (Triton Serving, TorchServe, Docker)
-- Expertise in fine-tuning and developing AI models for various tasks: image recognition, voice analysis, and [[Natural Language Processing]]
-- Experience in developing and designing AI services through RESTful API or GRPC
-
-JOB DESCRIPTION
-Implement various large language and multimodal models and perform tasks such as training and compression.
-Develop various training, compression, and inference technologies by considering large-scale cluster architecture and the internal infrastructure software, apply them to actual models, and generalize them to be automated by infrastructure software.
-Analyze and propose solutions to computational performance, communication, and memory capacity issues that occur during neural network model training and inference.
-Grasp the state-of-the-art AI technology trends and suggest improvements of the company's softwares.
-JOB REQUIREMENT
-Minimum Qualifications
-Bachelor's degree in computer science, engineering, or an AI-related field, and 2+ years’ experience as a machine learning engineer; or master’s degree in an AI-related field
-Ability to understand state-of-the-art AI-related research papers and implement them in practice.
-Ability to analyze AI model training process and results in a logical and quantitative way.
-
-Preferred Qualifications
-PhD degree or further education in an AI-related field 
-4+ years’ experience as a machine learning engineer 
-Contributions to research communities/efforts, including publishing papers at major conferences (e.g., AAAI, ACL, CVPR, ECCV, ICCV, ICLR, ICML, and NeurIPS)
-Experience in training a neural network model on a (large-scale) GPU cluster, especially a large language model (LLM) or a multimodal model
-Knowledge of AI frameworks including PyTorch and TensorFlow, and their internal structure
-Understanding of computer architecture and system
-Experience in configuring a software environment — from a GPU device driver to an AI framework — for a GPU system

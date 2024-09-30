@@ -1,13 +1,6 @@
 ---
 tags: 
-links:
-  - "[[Certification]]"
-  - "[[Language]]"
-  - "[[English]]"
-  - "[[Work]]"
-  - "[[Education]]"
-  - "[[Scholarship]]"
-  - "[[Goal]]"
+links: []
 ---
 # Goal
 

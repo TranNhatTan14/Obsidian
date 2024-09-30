@@ -1,8 +1,6 @@
 ---
-tags: 
-links:
-  - "[[Competitions]]"
-  - "[[Microsoft]]"
+tags:
+  - "#Microsoft"
 ---
 # Data
 
