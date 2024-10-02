@@ -1082,7 +1082,6 @@ Back:
 - Root: locate - meaning "to place"
 - Suffix: None
 - Connotation: Generally negative; suggests injury or disruption.
-- Vietnamese: trật khớp
 - Chinese: 脱位
 
 ### Mnemonic

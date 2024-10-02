@@ -64,7 +64,6 @@ https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
 - Thời gian làm việc theo tiếng một ngày, thoải mái hơn về thời gian vào làm và thời gian về (same like FPT maybe)
 - Có thể làm việc hybrid trong một số trường hợp
 - Đãi ngộ tốt
-- 
 
 ## Vision
 

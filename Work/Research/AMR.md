@@ -55,44 +55,6 @@ QC giống như tiền xử lý
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - Thu thập dữ liệu tìm tất cả complete genomes của một loài từ cơ sở dữ liệu GeneBank
 	- E. coli
 	- K. pneumoniea
@@ -393,3 +355,83 @@ Considerations and Best Practices
 - **Database Utilization**: Regularly update your database references to include the latest known plasmid sequences for improved accuracy in classification and annotation.
 - **Cross-Validation**: Use multiple tools and databases for contig classification and annotation to cross-validate your results and increase confidence in the identified plasmid sequences.
 - **Experimental Confirmation**: Whenever feasible, complement bioinformatic predictions with experimental validation to confirm the existence and structure of plasmids within your samples.
+
+# Literature Review
+
+Genomic Language Models: Opportunities and Challenges
+
+# Tokenization
+
+Transformer has many successul applications in the field of bioinformatics, including protein classification, genome or protein embedding, and molecular or protein interaction prediction. Transformer can capture the correlation between tokens and alleviate the long-time memory loss problem. However, unlike natural language, when modeling biological sequences as a language , it is not trivial to determine the best vocabulary (token set). 
+
+- All the proteins, amino acids or k-mers can be used to consruct the token set and each of them has its advantages and drawbacks.
+- PLASMe paper consider different sets of vocabulary and determine the best one emprically
+- Nucleotide level
+- Protein level
+	- Protein clusters: This token set comprises protein clusters from plasmid
+	- The protein domains or curated set of genes are more improtant features than the "physical" features of the sequence (such as GC content)
+
+1. Use Prodigal to predict all the protein from the reference plasmid ==(improve with use of reference chromosome)==
+2. Use DIAMOND to do an all-against-all alignment on the proteins
+3. Construct a graph where the nodes are proteins, and the edges represent pairwise alignment with the e-value below 1e-5
+4. Apply Markow clustering to cluster these proteins into PCs
+5. Only the clusters containing at least two proteins will be kept, leading to 151086 PCs
+6. Set the length of the encode vector to 400 which can cover 99.9% of the plasmids in the database
+7. Use the mask token (with a token ID of 0) to indicate the position of the padding and use an unknown protein token (with a token ID of 1) to represent the unknown proteins
+
+During the prediction stage, we first predict the protein in the query sequence using Prodigal and align them to reference plasmid proterins in PCs using DIAMOND PLASTTP
+Then we encode the vector with the index of the aligned PCs
+We set the stringent thresholds for the alignment of PCs
+
+### Results
+
+PC-based tokens achieved the best precision, recall, and F1-score
+- Using PCs as the tokens allows Transformers to learn the important of proteins directly
+- PC-based Transformer can capture the correlation between different proteins on the contig
+Those protein-originated features are more critical for plasmid identification
+
+The Transformer identified more plasmid than BLAST
+The top 3 tools are all ==hybrid method== that combine machine learning and features derived from protein alignment 
+
+Deeplasmid has difficulties recognizing short plasmid contig
+
+test plasmid of lengths between 1000 and 3000, which account for about 5.58% of the dataset
+All command used by each tools can be found in ==Supplementary Table S5==
+
+The learning based tools achieve higher recall. and the alignment-based methods achieve higher precision
+The learning based approach can be more sensitve to remote homologous sequences by capturing sequence patterns
+The alignment-based methods usually set stringent alignment threshold to reduce the false positive, leading to high presision but low recall
+
+Combining deep learning and homology search to identify plasmids in short-read assemblies.
+==Identify what is plasmid and what is NOT plasmid (chromosome)==
+Contigs that are highly similar to known  plasmid are directly classified as plasmid. Inputs that share somewhat similarities are examined by the deep learning component in PLASME
+Construct the plasmid protein clusters as vocabulary and then used Transformer to learn the important of proteins and correlation between them
+By interpreting Transformer, we found that the more important tokens for identifying plasmids were associated with plasmid were associated with plasmid core genes.
+Overall, PLASME can quickly and accurately identify plasmids in assembled contigs
+
+Short contigs tend to contain more false positives. Due to thte horizontal gene transfer between chromosomes and plasmid, identifying plasmid from short sequeces may result in false positive. Thus, idnetifying the fragment plasmid sequences remain a challenging task
+PLASMe had the best performance on identifying short plasmid.
+PLASMe will output the identified plasmids with marking the starting and ending position in an input sequence if it can be aligned to chromosomal genomes with high similarity
+==User can use our prediction and the marked region to further screen false positive using their domain knowledge about the data/sample.==
+
+PC-level token is better at learning the importance of different proteins and the relationship between them
+==This use PC-level, I think we don't use PC instead we use protein unique for plasmid and chromosome==
+
+For longer sequences. using protein as tokens and embedding them into vectors result in much shorter vectors than those generated by k-mer or BPE
+Using shorter input vectors can reduce the model complexity which helps model trianing on a GPU
+However PC-clustering tokenization also help some limiatation as it is more prone to OOV isssues. Therefore, for newer plasmid, using PC tokens may lead to false negatives
+
+### Problems left for future work
+
+- Plasmid ahave a large diversity, novel plasmids may contain proteins that cannot be aligned with the current database, leading to inaccurate predictions. ==Something like Auto Tokenize==
+	- If a contig only contain new proteins that cannot be aligned to the database, it poses a difficult case for most tools (PLASMe and alignment-based tools)
+		- Deeplasmid also relies on alignment based features such as those from HM-MER, without alignmnent length and the number of contained genes, learning to inaccurate predictions
+		- Tools that rely on motifs or k-mer frequeccy, such as PPR-Meta can only predict accurately if the sequence contain specific motifs or k-mer frequency distribution that have been seen before 
+	- Plasmids contain "unseen" proteins that can still be aligned with known ones. PLASMe can still accurately classify these contigs as long as they possess know essential proteins. Howerver, alignme based tools may classigy these contigs as chromosome due to the poor alignment. For example, Deeplasmid may not construc Pfam vector correct for these novel protein, jeopardizing its overral performance. ==To improve the model'sensitivity, besides updating and expanding the database in time, we will dig deeper into the relationship between plasmid proteins to buld a bridge between known and unknown tokens==
+- The current tokens contains only proteins of plasmid. Studies have shoen that priterin critical for bacterial survival are more likely to be found in chromosme. Therefore adding protein specific to chromosme may help further improve the learning model accuracy. We will add the essential chromosome proterin to the current prootein databse to improve precision further
+- The interpretation of Transformer identified potentially unannotated PCs that may also play an important role tin the life of plasmid. Predicting the dunction of these unaootated pplasmid protein may help study the evelotionary as well as ecological significance of plasmid
+
+### Work
+
+- Cho loài mới khi chưa có dữ liệu để training, chưa có dữ liệu để align
+- Cảm giác giống như bài toán Go khi có nhiều nước đi mới mà máy tính thực hiện mà con người chưa tỉm ra

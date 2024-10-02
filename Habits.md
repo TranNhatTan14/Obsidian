@@ -39,6 +39,11 @@ Wake up early without alarm (NO) with Early Rise
 
 ### Deep Work
 
+Work effectively with Forest. Don't watch YouTube at work
+
+- Don't use phone when in deep work
+- Don't watch YouTube at work, what I should do when eating
+
 # Afternoon
 
 ### Lunch
@@ -132,7 +137,6 @@ Thấy các bạn nữ là ngồi thẳng lưng lên
 
 ### Work
 
-- DON'T use iPhone when deep work
 - Use Forest to focus and manage screentime
 
 ### Self-care

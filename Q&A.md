@@ -37,35 +37,6 @@ You can ask yourself what your purpose in life is, what your personality type is
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 If two people have the same background when start, what make people differrent in the past of life
 
 Even if two people start with the same background, several key factors can make them different as they progress through life:
@@ -188,20 +159,20 @@ In summary, while someone from a higher background may have early advantages, so
 
 
 - Who am I
-> - Who am I not
-> - What are my strengths?
-> - What are my weakness?
-> - How do I define success?
-> - What activities do you enjoy most
-> - What are you grateful for?
-> - What is your dream job?
-> - What makes me happy?
-> - What makes me afraid?
->- What is the most important things to me?
-> - What are my goals
-> - Why are these goals important to me
-> - Khi đọc sách mình sẽ có nhiều thứ cần note lại
-> - Làm sao để hệ thống hóa kiến thức
+> Who am I not
+> What are my strengths?
+> What are my weakness?
+> How do I define success?
+> What activities do you enjoy most
+> What are you grateful for?
+> What is your dream job?
+> What makes me happy?
+> What makes me afraid?
+>What is the most important things to me?
+> What are my goals
+> Why are these goals important to me
+> Khi đọc sách mình sẽ có nhiều thứ cần note lại
+> Làm sao để hệ thống hóa kiến thức
 
 DId the phone more heavier when full of battery or full of storage? (This is a fun question about energy and technical)
 

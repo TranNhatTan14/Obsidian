@@ -1,0 +1,2 @@
+- Mình thấy vui khi thấy từ mới mà mình vừa học được như từ construct
+- Cảm thấy hào hứng khi làm đề tài plasmid vì có thể hướng của mình khả thi thực hiên cho những contig ngắn, quan hệ với những contig dài
