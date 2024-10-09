@@ -20,7 +20,6 @@
 - Hiểu hơn về công việc mình đang thực hiện tại dự án NSAID, xem mình có thể cải thiện điều gì?
 -  Tìm hiểu làm sao có thể học từ vựng hiệu quả với Obsidian
 - Thực hiện dự án AMR cho với mục tiêu xây dựng được công cụ tốt và phù hợp
-- Nâng cao trình độ tiếng anh và thi chứng chỉ ngoại ngữ [[IELTS]]
 - Đi tập thể dục hàng ngày, ăn uống đầy đủ chất dinh dưỡng hàng ngày
 - Nâng cao kiến thức chuyênn môn về sinh học vì tốt cho cuộc sống
 - Use DVC for  current data and use storage from GeneStory for AMR
@@ -32,32 +31,14 @@
 
 - [[Health]]
 - [[Attention]]
-- [[Distraction]]
 - [[Goal]]
 - [[Grateful]]
 - [[Help]]
 - [[Facts]]
-- [[Dream]]
 
-
-- [[Experience]]
-- [[English]]
+- [[Practical Experience]]
 - [[Finance]]
-- [[Bioinformatics]]
 - Embrace AI to learn, work, and elevate life, AI as mentor
-- [[Developer & Hacker]]
-- [[AMR]]
-- [[Brain–Computer Interface]]
-- First Principles of Computer Vision
-- [[Engineer]]
-
-- Đừng xem những nội dung ngắn, gây ảnh hưởng xấu đến não bộ. Khó khăn thì mới có sự trân trọng
-- Đi xe không cẩn thận, mắt mình cũng không tốt đâu
-- [[Game]]
- 
-# Tools
-
-- [[Analogy]]
 
 # Sort
 
@@ -65,28 +46,13 @@
 
 - Giúp mình take note hiệu quả hơn, có thể kiếm tiền từ đây, vừa có kiến thức cũng như dự án #Finance #Knowledge #Work 
 
-- [[Artificial Intelligence]]
+- [[Knowledge]]
 - [[3Blue1Brown]]
 - [[Andrej Karpathy]]
-- [[Andrew Ng]]
-- [[Deep Learning]]
 - GitHub Student Developer Pack
-- [[Cryptocurrency]]
-- [[Data]]
-- [[Artem Kirsanov]]
-- [[Chinese]]
 - Cosmic Writer
 - Escaping Ordinary
 - Khoa Học và Chúng Ta
-- Kurzgesagt – In a Nutshell
-
-# Archived
-
-[Benjamin Tran](https://www.youtube.com/@BenjaminTran)
-
-Benjamin Tran truyền cảm hứng cho mình về một cuộc sống với nhiều điều thú vị. 
-
-[CS50](https://www.youtube.com/cs50)
 
 Website
 
@@ -135,7 +101,7 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 - Kindness
 # Interest and Consideration
 
-- Football team: [[Real Madrid]]
+- Football team: Real Madrid
 - Animal world
 
 # Strength and Weakness
@@ -169,13 +135,4 @@ Chia thời gian hiển thị screen trên điện thoại
 - So sánh bản thân mình với người khác, có thể tạo ra cảm giác tiêu cực, lấy người khác làm tham chiếu, xem bản thân có thể cải thiện gì.
 - Andrej Karpathy, Andrew Ng, Cristiano Ronaldo
 
-
 # Feedback system
-
-# Finance
-
-### Subscriptions
-
-- [Google One](https://one.google.com)
-- [Brilliant Premium](https://brilliant.org/payment/subscription_settings)
-- Coursera Plus

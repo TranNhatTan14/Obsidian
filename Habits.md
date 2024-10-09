@@ -13,11 +13,10 @@ Tools help me to manage habits: Screen Time, Habitify, Focus, Smartphone. Break 
 > Goal of the habits are make life eaiser with automation, effectively, and save time
 > For habit we need to connect habit with time, location, trigger and stack
 
-
-
 ==I am early bird.==
 
 ==Managed with [Habitify](Habitify.md) and use Apple devices to tracking.==
+
 
 # Time
 
@@ -37,12 +36,10 @@ Wake up early without alarm (NO) with Early Rise
 ### Get dressed
 ### Breakfast
 
-### Deep Work
+### [[Deep Work]]
 
-Work effectively with Forest. Don't watch YouTube at work
-
-- Don't use phone when in deep work
-- Don't watch YouTube at work, what I should do when eating
+- Reading research paper and summary with assistant, ask question
+- Write the summary to the Obsidian
 
 # Afternoon
 
@@ -59,6 +56,10 @@ Không xem video giải trí lúc ăn cơm, có thể xem video thế giới đ�
 # Evening
 
 ### Dinner
+
+### Learning English with Anki
+
+- Use Anki source from people share and my own Anki
 
 ### Omega 3.6.9 and vitamin
 
@@ -102,7 +103,6 @@ Nhìn màn hình với khoảng cách xa
 ### Optimize time
 
 - Only watch videos in Watch Later
-- Xem viddeo dựa trên IDBM và Oscar from [Films](https://www.notion.so/bb6acc2866e845a387cbfce59caa9aef?pvs=21)
 
 ### Habit need to change, or limit
 
@@ -127,8 +127,7 @@ Thấy các bạn nữ là ngồi thẳng lưng lên
 > [!success]
 > - Wake up early, khi cơ thể tỉnh dậy hãy tỉnh dậy ngay, đừng cố ngủ thêm một chút rồi mệt mỏi
 
-
-###### Evening
+### Evening
 
 - 20:00: Take Omega 3.6.9 and Vitamin E
 - 21:00 no glass?
@@ -148,7 +147,6 @@ Thấy các bạn nữ là ngồi thẳng lưng lên
 - Không sử dụng thiết bị sau 10 giờ
 - Reading book
 - Mình thương đang không biết làm gì khi vừa ngồi vào làm việc
-- Tắt thông báo Viettel
 - Read book
 
 ### Not too bad, but should be removed
@@ -162,3 +160,8 @@ Thấy các bạn nữ là ngồi thẳng lưng lên
 
 - Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
 - Continute to learn new things on a dauly basis
+
+- Giặt đồ 2 ngày 1 lần
+- Cố gắng viết nhật ký hàng ngày
+
+- Sit up straight

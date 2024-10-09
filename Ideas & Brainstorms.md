@@ -14,7 +14,6 @@ Vấn đề của mình đang là gì
 - Tình thần cần cải thiện
 - Trí tuệ cần cải thiện
 
-
 - Black box
 - Cặp từ trái nghĩa như thái cực của vấn đề
 - Sắp xếp gọn gàng ngay từ đầu hay vừa làm vừa dọn hay làm xong mới dọn
@@ -36,7 +35,6 @@ Vấn đề của mình đang là gì
 - Kiến thức (đầu vào)
 - Thành công
 - Sống với thiên nhiên
-- 
 - Mục đích của mua sắm là mua những gì thật sự cần thiết cho cuộc sống, với chi phí tối ưu
 - Sạc không dây cần thiết khi sạc được cho nhiều thiết bị
 - Sạc có dây cần thiết khi có thể vưa sạc vưa kết nối để chuyển dư liệu
@@ -51,19 +49,16 @@ Vấn đề của mình đang là gì
 - Cái gì cũng cần có điều kiện 
 - what we gave 
 
-
 - Tự do là gì?
 - Tự đo có tồn tại không hay chỉ là một ảo tưởng
 - Mình thấy hạnh phúc và cười khi nghe chị Vân nói
 - Kiến thức như tác phẩm nghệ thuật 
-- Computer 
 - Nếu tiếng việt khó heiuer thì xxme Nhật và Trung
 - Chữ tượng hình
 - Sự kết nối với kiến thức
 - Các ông nghĩ giống bây giờ
 - sao minh thấy có sự kết nối
 - Mình có muốn kết nối hay không
-
 
 - Tư duy và tái tư duy
 - Tiếp thu quan điểm và kiến thức mới
@@ -78,16 +73,10 @@ Vấn đề của mình đang là gì
 - Không sử dụng điện thoại 
 - Để thông báo ứng dụng cần thiết 
 - Đồng bộ 
-- Nước giặt
-- Tập 
-- Dậy sớm
-- Ngủ sớm
-- Xem giờ 
 - Không sử dụng điên thoại trong bao lâu
 - Làm gì lúc đó 
 - Đồng hồ 
 - Hey siri record voice 
-- 
 - Tiền lãi hàng tháng
 - Gửi tiền tiết kiệm thì lãi suất thấp nhưng không cần suy nghĩ nhiều 
 - Đầu tư thì sẽ khó hơn 
@@ -98,13 +87,7 @@ Vấn đề của mình đang là gì
 - Giải bài toán, đo đạc các tín hiệu sinh tồn
 - Health condition
 - Xây dựng mô hình dự đoán từ rất sớm các bệnh
-- Prevent
-- Y tế dự phòng
-- Privacy protection for medial image
-
 - Hỏi thầy về nếu mong muốn học về EEG thì nên học thạc sĩ ngành gì
-- Healthcare
-- PhD student
 - Viện kỹ thuật và khoa học máy tính
 - VinUni đang mở rộng rất nhanh về sức khỏe thông mình và môi trường thông minh
 - Sức khỏe thông minh
@@ -167,57 +150,22 @@ what another people ha ve that I don't have
 - Một thời gian sau khi mình nhìn lại sự việc mình sẽ thấy như thế nào
 - Mình nghĩ suy nghĩ tại thời điểm sau khi nhìn lại sẽ chính xác hơn
 - Đây có thể là một cách hiệu quả để quản lý cảm xúc
-
 - Trí nhớ khi ở trong đầu và khi mình viết ra như thế này thì có điểm gì khác biệt
-
 - Tâm sinh tướng
 
-###### Purpose
+### Purpose
 
 Having a purpose is a fundamental component of living a fulfilling life.
-
-- FIeld
-    - Blockchain
-    - Web3
-    - Fintech
-- Law of Attraction
 
 
 **Others**
 
 - Học kém không đáng sợ, học kém mà mọi người tưởng mình học giỏi mới đáng sợ
-
-###### Fun
-
-- Thú mỏ vịt và huơu cao cổ
-- Người giàu đi xe hơi, uống bia ôm. Người nghèo đi xe ôm, uống bia hơi
-
-
-- **Key words**
-    - Web 3
-    - Blockchain
-    - Cryptocurrency
-    - VPS
-### Learning
-
-
-### Break things
-
-- Early morning
-- Morning
-    - Morning writing about grateful (After you do some kind of stuff, maybe when you eat breakfast)
-- Lunch
-- Afternoon
-- Evening
-- Midnight
-
-
 - Việc học AI bây giờ nếu chạy theo thì phần cứng thì không đáp ứng được GPU
     
     → Tập trung vào ứng dụng trong những trường hợp không cần mô hình quá lớn
     
 - Làm phần mềm thì không thể qua được SWE, tập trung vào phần cứng AIoT
-    
 - Vấn đề của mình bây giờ là không biết mình sẽ làm công việc như thế nào
     
 
@@ -253,8 +201,6 @@ Learn from mistakes > doing ? theory
 
 - Just do it
 - Education. Having a good education will help you progress in life
-- Love
-- A common language that allows people to have relationships.
 - Gratitude
 - Can increase happiness, quality of life, and optimism, and strengthen relationships.
 - Purpose
@@ -265,8 +211,6 @@ Learn from mistakes > doing ? theory
 - A resource that can't be regained, so it's important to use it wisely and live life to the fullest.
 - Communication
 - An essential aspect of human life that allows activity to take place.
-
----
 
 Here are some ways to determine what's most important in your life:
 
@@ -329,7 +273,6 @@ https://news.ycombinator.com/
 
 - Suy nghĩ về cuộc sống như một cuộc chiến, chiến thắng để nhận được phần thường là G, làm mình thấy thích thú và muốn tham gia vào cuộc chiến
 - Đúng là cuộc sống khó có thể thiếu được những cảm xúc như khi xem phim, nhưng hãy biến n thành những cảm xúc đáng quý
-- Trời lúc đi làm về rất đẹp, có thể thấy trên ứng dụng thời tiết của điện thoại #Work #Motivation
 - Mình có cảm thấy đôi chút rằng là mình đang chưa tham gia nhiều dự án quan trọng trên GeneStory và cảm giác FOMO là nếu mình rời đi thì mình cũng không có bài báo nào cả
 - Cảm giác công ty không tôn trọng mình, ít nhất là hiện giờ mình đang nghĩ thế 20240910
 
@@ -353,24 +296,30 @@ Quan sát nhiều hơn nghĩ có thể làm giảm [[Overthinking]] và [[Stress
 
 Thở bằng mũi vầ căng bụng ra có thể làm giảm [[Stress]]
 
-### Mode
+We can learn from machine and machine can learn from human.
+- Vui vẻ và hạnh phúc vì điều mình sẽ thực hiện
 
-Mode zombie for save energy
+Know about the trend like know about data. It can help you in [[Finance]]
 
-### Memory tip
+Chúng ta sinh ra với xuất phát điểm khác nhau và đến những điểm khác nhau. Có thể giao nhau, cùng nhau hoặc không bao giờ gặp nhau.
 
-- To help yourself recall new information, try to link it to a personal experience or something you already know [[Link]]
-- Repeat important information back to yourself in order to remember it more effectively 
-- Listen without judging or jumping to conclusion to better understand and remember what you hear
-- To help yourself remember information about people, plasces, or things, create a mental map and associate the items to differrent areas of it
-- Use the first letter of each word or phase in the information you hear to create a memmorable acronym or mnemonic
+- Thế giới không công bằng, chơi công bằng trong thế giới công bằng là vô nghĩa
+- Vận dụng những thứ mà bạn hơn người khác dù chỉ một chút, kết hợp và tận dụng **lợi thế cạnh tranh** mà bạn có
+	- Mình có khiếu hài hước
+	- Khả năng phân tích
 
-### Tool
+Việc kết hợp những lợi thế cạnh tranh (Talent Stack).
 
-Speaking and practice [[IELTS]] with ChatGPT
+Hãy đưa cho mọi người cái họ muốn nhưng không biết làm sao để có nó. Dựa trên kiến thức đặc trưng (Specific Knowledge) hay kiến thức chất lượng cao
 
-### Programming
+- Cuộc sống là cạnh tranh, cạnh tranh để phát triển
 
-Scratch code - Update with tool like chatbot - Update when use
+Nếu giá trị bản thân chỉ dựa trên năng lực thì nó luôn bị giới hạn. Chỉ khi nào phi vật chất hóa được bản thân mình thì giá trị mới nâng lên vô hạn. Đơn giản khi được làm rõ và gọi tên. Cao nhân chỉ điểm cho mình 4 yếu tố phi vật chất đó là trí tuệ, tâm thái, nhân cách, phẩm chất.
 
-Đăng ký [[Internet]] để có thể tập speak
+Muốn giàu thì phải lợi ích nhóm, còn giàu tri thức thì chỉ là công cụ cho nhà cầm quyền thôi
+
+bao năm bầm dập ngoài đời. học được bản nếu còn muốn công bằng thì sẽ ko làm giàu được. sông ko bằng, núi không bằng, muốn công bằng thì chỉ có thể mãi nghèo.
+
+lựa chọn quan trọng hơn nỗ lực
+
+# Knowledge - Practical Experience - Personal Experience

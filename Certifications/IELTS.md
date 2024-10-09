@@ -1,6 +1,5 @@
 ---
-tags: 
-links: []
+description: Academic IELTS
 ---
 # Goal
 
@@ -10,7 +9,12 @@ links: []
 
 # Reading
 
-- ==Reading research paper, good for work, education focus on how they write academic research, how they explain graph, table which will benefit in Writing 1== #superman
+- ==Reading research paper, good for work, education focus on how they write academic research, how they explain graph, table which will benefit in Writing 1==
+- Use research papers as reading practice #Research
+	- Time yourself reading a paper then summarize it
+		- First we can use SciSpace to help with summary paper
+	- Create IELTS-style questions based on the paper you read.
+	- Focus on understanding graphs, charts, and tables in these papers, as these are common in IELTS Academic Reading
 
 - Time the task is being explained for highlight and read question
 - Không phải lật lật
@@ -72,6 +76,9 @@ Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên m�
 
 # Writing
 
+- Practice summarizing research papers in 150-200 words (Ideal for IELTS Writing Task 1)
+- Write critical analysis of papers (250-300 words) discussing methods, results, and implication (good practice for Task 2)
+
 - Word count
 - Type with keyboard more faster
 - Trên 250 và dưới 350 find optimal choice
@@ -105,6 +112,8 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
 
 # Speaking
 
+Speaking and practice [[IELTS]] with ChatGPT
+
 - ==Chủ đề speaking cố gắng hướng về điều mình biết nhiều, điểm mạnh của mình như là công nghệ==
 - ChatGPT
 - Speak every day with ELSA Speak or The Coach or build own app
@@ -127,7 +136,7 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
 
 https://www.youtube.com/@theforumcenter
 
-https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing (twice)
+https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing 
 Dang Tran Tung 6 times IELTS 9.0
 
 https://vietnamnet.vn/nam-sinh-ha-noi-chia-se-bi-quyet-dat-diem-ielts-cao-2233201.html
@@ -241,8 +250,6 @@ Vì sao lại sai
 
 THI THỬ
 
-Thuốc nhỏ mắt EyeMiru 40EX
-
 [Đăng ký xét duyệt học bổng S-Global giai đoạn 2](https://www.hocbongsglobal2.com/xet-duyet-hoc-bong-sglobal-2)
 
 IOC Check 2024 Hoàn
@@ -298,3 +305,64 @@ Trang cho biết, một cấu trúc viết cho Task 2 em cảm thấy hữu dụ
 - Bên cạnh đó, **phần Nói** cũng khiến Trang lo sợ vì cấu trúc phần thi này không giống những điều em giao tiếp thông thường.
 - “Ban đầu, em không thể nói được dài như mong muốn. Với những chủ đề quen thuộc, mặc dù có thể nói dài hơn nhưng từ vựng em dùng khá đơn giản, vốn chỉ phù hợp để giao tiếp”.
 - Có nhiều người bạn nước ngoài, Trang thường luyện phát âm thông qua việc trò chuyện. Bên cạnh đó, nữ sinh thường ghi âm câu trả lời cho Task 2, mỗi câu nói trong hơn 1 phút. Trước khi ghi âm, nữ sinh thường viết nhanh ý tưởng ra giấy kèm một số từ vựng liên quan muốn sử dụng trong bài nói.
+
+- Để nói được cần có = Vocabulary + Grammar + Ideas
+
+# Vocabulary
+
+- Keep a journal of new academic vocabulary you encounter #Research 
+
+Literal and implicit
+
+## Words
+
+## Phrases
+
+### Idioms
+
+### Colocation
+
+# Grammar
+
+## Standard
+
+## Non-standard
+
+# Ideas
+
+We need topic knowledge and how to orgranization and insight
+
+Learning IELTS in TikTok is not the good idea
+Dany Thụy IELTS 9.0
+
+- Current IELTS band score
+- Target band score 7
+	- For each skill
+- Which specific areas of the IELTS exam do you find the most challenging
+- 4. How much time do you have to prepare for the IELTS exam?
+
+As a highly proficient English language expert, I'm here to guide you towards achieving excellence in IELTS. To provide the most effective assistance, I'll need to understand your current level of English and your specific goals. Let's begin with a few key questions:
+
+1. What is your current IELTS band score, or if you haven't taken the test yet, how would you assess your English proficiency?
+2. Which specific areas of the IELTS exam (Listening, Reading, Writing, or Speaking) do you find most challenging?
+
+Thank you for providing that detailed information. It's clear you have ambitious goals, and with your current score of 6.0, achieving a 7.5 or 8.0 in 6 months is challenging but possible with dedicated effort. Let's outline a strategy to improve your skills, focusing particularly on Writing and Speaking for the Academic IELTS.
+
+Given your timeframe and targets, here's a structured approach:
+
+1. Diagnostic Assessment:
+   First, we should conduct a thorough analysis of your current abilities in all four skills. Can you share a recent IELTS-style essay you've written and your scores for each section of your last IELTS test?
+
+2. Skill-specific Focus:
+   - Writing: We'll need to work on task achievement, coherence and cohesion, lexical resource, and grammatical range and accuracy. What types of academic writing are you most familiar with?
+   
+   - Speaking: We'll focus on fluency and coherence, lexical resource, grammatical range and accuracy, and pronunciation. How often do you currently practice speaking English?
+
+3. Reading and Listening:
+   While these are your stronger areas, we'll still need to refine them. How do you currently practice these skills?
+
+4. Study Plan:
+   Based on your 6-month timeline, we should create a weekly study schedule. How many hours per week can you dedicate to IELTS preparation?
+
+5. Academic Focus:
+   Since you're aiming for a Master's program and research, we'll need to incorporate academic vocabulary and concepts. What field of study are you planning to pursue?

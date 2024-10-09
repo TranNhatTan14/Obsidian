@@ -1,7 +1,7 @@
 ---
-links:
-  - "[[Tool]]"
-  - "[[Network]]"
+tags:
+  - Tool
+  - Network
 ---
 https://manual.nssurge.com/book/understanding-surge/en/
 https://kb.nssurge.com/surge-knowledge-base/

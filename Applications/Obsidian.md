@@ -1,8 +1,6 @@
 ---
-tags: 
-links:
-  - "[[Tool]]"
-URL:
+tags:
+  - Tool
 ---
 # Highlight
 

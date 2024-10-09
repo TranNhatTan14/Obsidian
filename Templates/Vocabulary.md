@@ -4,9 +4,9 @@ You are an expert linguist tasked with completing a comprehensive word analysis 
 definition: 
 IPA: /example/
 Pronunciation: [EX-am-ple](https://www.google.com/search?q=how+to+pronounce+[WORD])
-Synonyms: [[synonyms1]], [[synonyms2]], [[synonyms3]]
-Antonym: [[antonym1]], [[antonym2]], [[antonym3]]
-Homophones, [[homophone1]], [[homophone2]], [[homophone3]]
+Synonyms: 
+Antonym: 
+Homophones
 Prefix: pre - meaning
 Root: root - meaning
 Suffix: fix - meaning

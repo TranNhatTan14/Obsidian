@@ -1,7 +1,7 @@
 ---
 tags:
   - Audio
-links:
-  - "[[Apple]]"
+  - Apple
+links: []
 description: AirPod Pro 2
 ---

@@ -1,2 +1,0 @@
-Apple Shortcut
-Keyboard shortcut

@@ -9,6 +9,10 @@
 - Obsidian
 - Surge
 
+# Challenges
+
+- Hành trình kiếm 500 triệu trong 365 ngày #Finance #Challenge 
+
 # Items
 
 - [[Eyeglasses]]
@@ -21,7 +25,7 @@
 
 ### Eye drops
 
-I usually use [Sancoba](https://www.pharmacity.vn/dung-dich-nho-mat-cai-thien-chuc-nang-dieu-tiet-sancoba-eye-drops-5ml.html) or V.Rohto
+I usually use [Sancoba](https://www.pharmacity.vn/dung-dich-nho-mat-cai-thien-chuc-nang-dieu-tiet-sancoba-eye-drops-5ml.html)
 
 ### Wish list
 
@@ -56,11 +60,8 @@ View [[Apple]] for more detail about how I use these device
 ###### Laptop MSI GF63 9RCX
 
 ###### Sony WH-1000XM4 headphone
-###### Kính nhìn gần
-###### Kính nhìn xa
-###### Nên mua sạc không dây cho iPhone và Airpod
-
-Giấy A4 ở tủ quần áo 
+### Kính nhìn gần
+### Kính nhìn xa
 
 # Life
 
@@ -71,19 +72,15 @@ Giấy A4 ở tủ quần áo
 https://www.tiktok.com/@khiemslayss
 https://www.tiktok.com/@khanhchyyyy693
 
-###### Photographer
+### Photographer
 
 https://www.tiktok.com/@gamanderlopez
 https://www.tiktok.com/@michele_bavassano
 https://www.tiktok.com/@semkavkvadrate
 
-###### Finess
+### Finess
 
 https://www.instagram.com/brianwallack/
-
-###### Study aboard
-
-https://www.instagram.com/_bachluuduong_/
 
 ### Group
 
@@ -103,10 +100,6 @@ https://www.tiktok.com/@techiestory.net
 ### Health
 
 https://www.tiktok.com/@drkhonghanhnguyen: Chăm sóc da
-
-### Exercise
-
-https://www.tiktok.com/@heiafitness
 
 ### Clothing
 
@@ -138,10 +131,6 @@ https://tiktok.com/@loveyourbodyvn
 ### Tâm lý học
 
 https://www.tiktok.com/@chiuhenh1996
-
-###### Pen spinning
-
-https://www.tiktok.com/@ryzingspins
 
 # Courses
 
@@ -187,7 +176,7 @@ https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge
 
 # Certifications
 
-- [ ] [[IELTS]] [priority:: highest] [due:: 2024-12-31]
+- [ ] [[IELTS]]
 - [ ] https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect
 - [ ] https://www.coursera.org/professional-certificates/data-engineering
 - [ ] [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
@@ -195,4 +184,55 @@ https://zindi.africa/competitions/geoai-ground-level-no2-estimation-challenge
 - [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty)
 - [ ] [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification) [priority:: high] [due:: 2024-12-31] 
 - [ ] [Professional Machine Learning Engineer Google Cloud](https://cloud.google.com/learn/certification/machine-learning-engineer)
-- [ ] [[HSK]]
+
+# Tools
+
+## Cognitive tools
+
+**Cognitive tools** are mental strategies or techniques that aid in thinking, understanding, learning, and problem-solving. They help people process and organize information more efficiently and creatively, making it easier to grasp complex concepts or make decisions.
+
+### Analogy
+
+### Mind map
+
+Visual diagrams that organize information around a central idea, helping to structure thoughts and make connections between concepts.
+
+### Heuristics
+
+Mental shortcuts or rules of thumb used to make decisions quickly (e.g., "if something is expensive, it must be good").
+
+### Metaphors
+
+Comparisons used to explain or describe something by referring to it as something else (e.g., "time is a thief" to describe how quickly time passes).
+
+### Checklists
+
+Simple, structured lists to ensure that key steps in a process are not overlooked, often used to enhance focus and reduce errors.
+    
+### Visualization 
+
+Creating mental images or diagrams to represent complex information, improving comprehension and recall.
+
+# Keywords
+
+- VPS
+- HuggingFace GPU
+- Transformer
+- Law of Attraction
+- Fintech
+
+# Shortcut
+
+- Apple Shortcut
+- Keyboard shortcut
+
+# Podcast
+
+https://www.youtube.com/@WIRED
+The Hanoi Chamomile #Learning #Minimalism
+Reducible
+Quanta Magazine
+Freedom in Thought
+Artem Kirsanov #Neuroscience
+3Blue1Brown
+Oddly Normal

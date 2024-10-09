@@ -65,3 +65,8 @@ To develop this success-oriented mindset:
 - Set challenging but achievable goals regularly
 - Celebrate small wins along the way to larger goals
 - Learn from failures and setbacks instead of being discouraged by them
+
+# Work
+
+- Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc
+- Nhìn thấy nhiều cơ hội hơn, sẵn sàng cho cơ hội mới

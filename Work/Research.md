@@ -34,11 +34,5 @@ Loại Nature-s bounty 214K uống 30 ngày mua ở Long Châu màu xanh lá câ
 Uống 3 tháng rồi nghỉ xong lại uống
 
 Lutein của Puritan's pride
-# Required
 
-- [[IELTS]]
 - Good mentor and connection
-
-### [[Q&A]]
-
-- How to read research paper effectively [[Automation]]

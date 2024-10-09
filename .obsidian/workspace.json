@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1a97d50c4f364a15",
+        "id": "ab721164dce25aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "f100d3bfe6b00976",
+            "id": "86b67bfd58c82a28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Research/AMR.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Flashcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "685661460335a225",
@@ -97,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Work/Research/AMR.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Research/AMR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Research/AMR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,36 +139,39 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f100d3bfe6b00976",
+  "active": "86b67bfd58c82a28",
   "lastOpenFiles": [
-    "Personal development.md",
-    "Work/Research/AMR.md",
-    "Happy.md",
-    "Tools/Visual Studio Code.md",
-    "Habits/Deep Work.md",
     "Habits.md",
-    "Q&A.md",
-    "Ideas & Brainstorms.md",
-    "Work.md",
-    "Work/Track/Associate AI Engineer for Data Scientists.md",
-    "Knowledge/Language/Vocabulary.md",
-    "Vocabulary.md",
-    "IBM AI Engineering Professional Certificate.md",
-    "Files/Pasted image 20240930210356.png",
+    "Feedback.md",
+    "Superman.md",
+    "Workflow.md",
+    "Finance.md",
+    "Knowledge/Language/Chinese.md",
+    "Distraction.md",
+    "Software & Application.md",
+    "Skills.md",
+    "Relationship & Connection.md",
+    "Relationships/Family.md",
+    "Attention.md",
+    "Tools/Google.md",
+    "Journal.md",
+    "Technique.md",
+    "Tools.md",
+    "Tips and Tricks.md",
+    "Work/Research.md",
+    "Archived.md",
     "Wiki.md",
-    "Zettelkasten/Automation.md",
-    "FInance/MMO.md",
-    "Zettelkasten/Tool.md",
-    "Zettelkasten/Untitled.md",
-    "Zettelkasten/World.md",
-    "Zettelkasten/Transformers.md",
-    "Trần Nhật Tân/Timeline.md",
+    "Tools/Cognitive tools/Analogy.md",
+    "Personal Experience.md",
+    "Ideas & Brainstorms.md",
+    "Work/Practical Experience.md",
+    "Knowledge.md",
+    "Applications/Brilliant.md",
+    "Life",
+    "Education",
+    "Tools/Cognitive tools",
+    "Files/Pasted image 20240930210356.png",
     "Trần Nhật Tân",
-    "Zettelkasten/VPN.md",
-    "Zettelkasten/Education.md",
-    "Zettelkasten/Untitled 1.md",
-    "Zettelkasten/Tips and Tricks.md",
-    "Zettelkasten/Shortcut.md",
     "Certifications",
     "Work/Track",
     "FInance",
@@ -187,9 +179,6 @@
     "Files/Pasted image 20240810175621.png",
     "Work/Research",
     "Competitions/Location Mention Recognition",
-    "Competitions",
-    "Courses",
-    "Skillset",
     "Files/Pasted image 20240922214055.png",
     "Files/Pasted image 20240922214030.png",
     "Files/Pasted image 20240922214015.png",

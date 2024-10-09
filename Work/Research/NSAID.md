@@ -5,9 +5,6 @@ links:
   - "[[Work]]"
   - "[[Biology]]"
 ---
-Viết outline gửi cho chị Mai vào thứ 6
-Mini review với chị Mai vào thứ 4 tuần sau
-=======
 Warning: 36303 het. haploid genotypes present (see plink_results.hh ); many commands treat these as missing.
 Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands treat these as missing.
 Note: 8 nonstandard chromosome codes present.
@@ -43,8 +40,7 @@ VCF, but --split-par was not specified.
 Error: Line 3535 of --vcf file has a GT half-call.
 Use --vcf-half-call to specify how these should be processed.
 
---output-chr chrM \
->>>>>>> d6f311dd2ac5084f1bc0e3db33e1fa0ed008d1cc:Work/NSAID.md
+--output-chr chrM
 
 - [/] Build Docker for NSAID pipeline  [priority:: high]  [due:: 2024-08-30]
 
@@ -121,7 +117,9 @@ https://www.protocols.io/view/genotype-imputation-workflow-v3-0-e6nvw78dlmkj/v2
 https://github.com/Orion1618/Odyssey
 https://github.com/adrianodemarino/Imputation_beagle_tutorial
 
-### PCA
+### [[PCA]]
+
+- It is now standard practice to include top principal components (usually computed by  as covariates in any association analysis, to correct for population stratification. See [Price AL, Patterson NJ, Plenge RM, Weinblatt ME, Shadick NA, Reich D (2006) Principal components analysis corrects for stratification in genome-wide association studies](https://www.nature.com/articles/ng1847) for discussion.
 
 ## GWAS
 
@@ -136,8 +134,6 @@ The output of a GWAS analysis is a list of P values, effect sizes and their dire
 https://www.cog-genomics.org/plink/2.0/assoc
 
 Before we continue, three usage notes.
-
-- It is now standard practice to include top principal components (usually computed by [--pca](https://www.cog-genomics.org/plink/2.0/strat#pca)) as covariates in any association analysis, to correct for population stratification. See [Price AL, Patterson NJ, Plenge RM, Weinblatt ME, Shadick NA, Reich D (2006) Principal components analysis corrects for stratification in genome-wide association studies](https://www.nature.com/articles/ng1847) for discussion.
 - This method does not properly adjust for small-scale family structure. As a consequence, it is usually necessary to prune close relations with e.g. [--king-cutoff](https://www.cog-genomics.org/plink/2.0/distance#king_cutoff) before using --glm for genome-wide association analysis. (Note that biobank data usually comes with a relationship-pruned sample ID list; you can use [--keep](https://www.cog-genomics.org/plink/2.0/filter#sample) on that list, instead of performing your own expensive --king-cutoff run.) If this throws out more samples than you'd like, consider using mixed model association software such as [SAIGE](https://www.leelabsg.org/software), [BOLT-LMM](https://data.broadinstitute.org/alkesgroup/BOLT-LMM/), [GCTA](https://cnsgenomics.com/software/gcta/#fastGWA), or [FaST-LMM](https://www.microsoft.com/en-us/research/project/fastlmm/) instead; or [regenie](https://rgcgithub.github.io/regenie/)'s whole genome regression.
 - Finally, the statistics computed by --glm are not calibrated well[1](https://www.cog-genomics.org/plink/2.0/assoc#glm_footnote1) when the minor allele count is very small. "[--mac](https://www.cog-genomics.org/plink/2.0/filter#maf) 20" is a reasonable filter to apply before --glm; it's possible to make good use of --glm results for rarer variants (e.g. they could be input for a gene-based test), but some sophistication is required. ==Also, when working with unbalanced binary phenotypes, be aware that Firth regression can be similar to adding a [pseudocount](https://en.wikipedia.org/wiki/Additive_smoothing) of 0.5 to the number of case and control minor allele observations, so weird things happen when the _expected_ number of case minor allele observations is less than 0.5. You probably don't want to throw out every variant with MAC < 300 when your case:control ratio is 1:600 (you may still have excellent power to detect _positive_ association between the minor allele and case status, after all), but you shouldn't take reported odds-ratios or p-values literally for those variants.==
 
@@ -211,7 +207,22 @@ What are the affected pathways?
 
 To ==identify pathways whose perturbation may mediate the trait in question== (red box), one can analyse the enrichment of multiple GWAS-implicated genes in predefined pathways. Additional approaches include trans-eQTL mapping and CRISPR perturbation of GWAS loci/genes followed by cellular phenotyping (not shown). For these analyses, the context of a relevant tissue, cell type and cell state needs to be carefully considered and analysed. ATAC-seq, assay for transposase-accessible chromatin using sequencing; H3K27Ac, histone H3 acetylated at K27; SNP, single-nucleotide polymorphism.
 
+https://yanglab.westlake.edu.cn/software.html
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8654883/pdf/41467_2021_Article_27438.pdf
+
 ### Statistical fine-mapping
+
+Simplifying causal gene identification in GWAS loci
+https://www.medrxiv.org/content/10.1101/2024.07.26.24311057v1.full.pdf
+https://github.com/kheilbron/caldera
+
+https://stephenslab.github.io/susieR
+https://cnsgenomics.com/data/teaching/GNGWS23/module1/11_fine-mapping.html
+https://cran.r-project.org/web/packages/susieR/vignettes/finemapping_summary_statistics.html
+
+http://www.christianbenner.com/
+
+[PaintorPipe: a pipeline for genetic variant fine-mapping using functional annotations](https://pmc.ncbi.nlm.nih.gov/articles/PMC10783948/pdf/vbad188.pdf)
 
 Fine-mapping aims to identify the causal variants with a locus for a disease, given the evidence of the significant association of the locus (or genomic region) in GWAS of a disease.
 
@@ -258,6 +269,7 @@ Common methods to estimate SNP heritability includes:
 **LD score regression (univariate, cross-trait and partitioned) by LDSC**
 
 https://cloufield.github.io/GWASTutorial/08_LDSC
+https://cloufield.github.io/gwaslab/LDSCinGWASLab
 
 - LDSC is one of the most commonly used command line tool to estimate inflation, hertability, genetic correlation and cell/tissue type specificity from GWAS summary statistics.
 - Linkage disequilibrium (LD) : non-random association of alleles at different loci in a given population
@@ -267,8 +279,6 @@ https://cloufield.github.io/GWASTutorial/08_LDSC
 - The analysis works by dividing SNPs into different "sets" based on their functional roles (like grouping ingredients by type, such as spices, vegetables, etc.). For example, some SNPs might be in regions of the genome that regulate gene expression, while others might be in coding regions that directly affect proteins.
 - By analyzing these sets separately, researchers can determine which groups of SNPs (which "ingredients") contribute more to the heritability of a trait. If a particular set of functionally related SNPs shows "enrichment," it means that set has a larger-than-expected impact on heritability, similar to how a certain spice might dominate the flavor of a dish.
 - This helps pinpoint which biological processes are most important for the trait in question.
-
-https://cloufield.github.io/gwaslab/LDSCinGWASLab
 
 ### Genetic correlations
 

@@ -1,19 +1,4 @@
----
-links: "[[Superman]]"
----
 # Sleep
-
-## Tips
-
-- Journal to release worries and set you mind up for restful sllep
-- Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
-- Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
-- Always try to sleep at the right time
-- 2 hours before basic time sleep we often buồn ngủ
-- Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
-- Sleep enough
-- Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính
-- Để ngủ thật ngon, trước khi ngủ hãy nằm trong chăn và nhớ về những thời gian vui vẻ như khi có ai đó giúp đỡ bạn, hay khi bạn giúp đỡ người khác và cảm thấy tự hào. Rồi bạn sẽ ngủ một giấc thật ngon lành.
 
 # Mental Health
 
@@ -26,11 +11,13 @@ links: "[[Superman]]"
 
 - [ ] Danh sách bài tập mắt [priority:: highest]
 - [ ] Mua thực phẩm chức năng cho mắt
-- [ ] Chống ánh sáng xanh
-- [ ] Mổ mắt ICL
+- [ ] Chống ánh sáng xan
+
+### Chỉ sử dụng điện thoại vào mục đích tối thiểu
+
+- Màn hình của điện thoải nhỏ không nên sử dụng nhiều, có thể gây ảnh hưởng không tốt đến mắt
 
 - Mắt sáng thật tuyệt vời, mình sẽ không cần đeo kính và không thấy mỏi mắt nữa, tự tin hơn
-- Eye exercises
 - Carrot actually improve eyesight, they have beta-carotene which is important part of vitamin A pathway
 - Vitamin A, C, E, lutein and zeaxanthine are important for the metabolic pathway of the cell that are in your retina
 - Hạn chế sử dụng thiết bị để bảo vệ mắt
@@ -71,9 +58,6 @@ Cause
 - Đau răng
 - Viêm tuyến lệ
 
-    - Exercise
-        - Ronaldo
-        - Pamela and Chloe
     - Live with nature
 
 1. Chăm sóc bản thân
@@ -112,3 +96,5 @@ https://doi.org/10.1210/jc.2016-2891
 - Vitamin D3. K2
 - Series Phan Nữ Uyên Nhi series 2021
 - After kelor - Bột chùm ngây
+
+# Memory
