@@ -11,11 +11,25 @@
             "id": "86b67bfd58c82a28",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dream.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9820330c37f9c496",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,8 +153,10 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "86b67bfd58c82a28",
+  "active": "9820330c37f9c496",
   "lastOpenFiles": [
+    "Dream.md",
+    "Comparisons.md",
     "Habits.md",
     "Feedback.md",
     "Superman.md",
@@ -165,8 +181,6 @@
     "Personal Experience.md",
     "Ideas & Brainstorms.md",
     "Work/Practical Experience.md",
-    "Knowledge.md",
-    "Applications/Brilliant.md",
     "Life",
     "Education",
     "Tools/Cognitive tools",

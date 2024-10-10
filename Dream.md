@@ -1,6 +1,6 @@
 ---
-tags:
-  - Sleep
+links:
+  - "[[Sleep]]"
 ---
 Dream is creative
 https://www.quora.com/Why-are-my-dreams-much-more-creative-than-I-am-in-reality
