@@ -24,7 +24,6 @@ Luôn sẵn sàng cho công việc trong mọi trường hợp
 > [!tip] Work
 > [Thực hành AWS mà không cần tạo tài khoản](https://devopsvn.tech/aws-practice/thuc-hanh-aws-ma-khong-can-tao-tai-khoan)
 > Saved weight to Kaggle dataset
-> Use Codespaces to programming
 > Hỏi về công ty như nhà tuyển dụng, gửi mail (Thân gửi Quý công ty)
 > Use [DeepLearning.ai](http://deeplearning.ai/) for free ChatGPT API
 

@@ -80,11 +80,18 @@ AI in Finance
 - **Focus on NLP (Natural Language Processing):** If you're interested in other areas like computer vision, ask the author for recommendations.
 - **Use Twitter:** Follow AI experts and engage in the community.
 
-**2. Tools:**
+# Programming
 
-- **Python, Polar, C++, CUDA**
-- **PyTorch**
+## Python
 
+### Polar
+
+- Pandas/Polars for data manipulation and analysis
+- GPU with Polars, Daniel Warfield https://pola.rs/posts/gpu-engine-release
+
+## C++
+
+## CUDA
 # [[Mathematics]]
 
 # Reseach

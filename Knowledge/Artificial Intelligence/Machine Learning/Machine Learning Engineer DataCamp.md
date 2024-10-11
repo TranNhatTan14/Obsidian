@@ -1,6 +1,4 @@
 ---
-tags:
-  - Status/InProgress
 links:
   - "[[Machine Learning Lifecycle]]"
 URL: https://app.datacamp.com/learn/career-tracks/machine-learning-engineer

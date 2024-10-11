@@ -67,7 +67,6 @@ Schedule time for writing and make it a habit
 
 # {{date:dddd, MMMM Do, YYYY}}
 
-<% tp.web.daily_quote() %>
 
 ## Agenda
 

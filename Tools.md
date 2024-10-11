@@ -30,10 +30,6 @@ Do hours worth of reading in minutes
 - Workspace
 - Github Project
 
-### [Codespaces](https://github.com/codespaces)
-
-Go from code to commit faster on any project.
-
 ### Microsoft
 
 Office
@@ -47,7 +43,7 @@ Visual Studio Code
 **Github**
 
 - Github Education
-- Github Codespaces + iPad
+- 
 - Github Copilot
     - Windows + I to ask
     - Ctrl + Enter to open suggest code

@@ -305,6 +305,8 @@ TWAS is a method to identify significant expression-trait associations using exp
 - [Transcriptome-wide association studies: recent advances in methods, applications and available databases](https://doi.org/10.1038/s42003-023-05279-y)
 - [Genome-wide versus transcriptome-wide association studies: Prospects and limitations](https://doi.org/10.1016/j.egg.2024.100221)
 
+**TWAS has a more powerful resolution in identifying a single gene for the studied trait**. Due to Linkage disequilibrium, identifying the causal variant became challenging after performing GWAS. The difficulties in interpreting these findings motivated the development of gene-prioritizing technique such as
+
 # Resources
 
 - [Genome-wide association studies](https://www.nature.com/articles/s43586-021-00056-9)
@@ -331,3 +333,4 @@ TWAS is a method to identify significant expression-trait associations using exp
     - explain the aim for each post-GWAS analysis.
     - explain the results of LDSC.
     - explain the annotated results
+    - 

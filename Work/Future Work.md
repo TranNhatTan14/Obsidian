@@ -2,6 +2,16 @@
 tags:
   - Work
 ---
+- Work in [[Artificial Intelligence]] for [[Healthcare]] or [[Finance]] or #Education
+- I want to work in [[Neuroscience]] and [[Brain–Computer Interface]]
+
+## Expectations
+
+- Làm việc từ thứ 2 đến thứ 6, không làm thứ 7 và Sunday
+- Thời gian làm việc theo tiếng một ngày, thoải mái hơn về thời gian vào làm và thời gian về (same like FPT maybe)
+- Có thể làm việc hybrid trong một số trường hợp
+- Đãi ngộ tốt
+
 I want to work as AI Engineer or AI Researcher or Data Scientist in fields like Healthcare, Finance, #Fintech, E-commerce. I happy to work remote in global company.
 
 Mục tiêu cụ thể khi lựa chọn công việc dựa trên [[IKIGAI]]
@@ -100,7 +110,6 @@ Mình nên là người hiểu business, hiểu yêu cầu, hiểu khách hàng,
 - Strong knowledge of databases, including the database engines and hosting option in AWS.
     - RDS PostGres database and PGVector database highly preferred.
 - Database operations and data manipulation
-- Pandas/Polars for data manipulation and analysis
 - Train, fine-tune, and deploy AI models
 
 # Artificial Intelligence
@@ -383,14 +392,3 @@ As a Machine Learning Engineer, you will play a pivotal role in advancing our AI
 - Quality coding practices, including test-driven development, unit testing and secure coding awareness.
 - You are passionate about learning and sharing your knowledge, and not afraid to challenge your peers, but also welcome being challenged.
 - English language abilities, both written and verbal - you’ll be working with people across the world.
-
-
-- Work in [[Artificial Intelligence]] for [[Healthcare]] or [[Finance]] or #Education
-- I want to work in [[Neuroscience]] and [[Brain–Computer Interface]]
-
-## Expectations
-
-- Làm việc từ thứ 2 đến thứ 6, không làm thứ 7 và Sunday
-- Thời gian làm việc theo tiếng một ngày, thoải mái hơn về thời gian vào làm và thời gian về (same like FPT maybe)
-- Có thể làm việc hybrid trong một số trường hợp
-- Đãi ngộ tốt

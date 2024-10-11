@@ -148,6 +148,8 @@ https://www.tiktok.com/@chiuhenh1996
 - [IBCOL 2024 International Blockchain Olympiad](https://2024.ibcol.org/)
 - [Zalo AI Challenge 2023](https://challenge.zalo.ai)
 
+https://www.drivendata.org/competitions
+
 ## Kaggle
 
 - Learn from compeleted competitions, ideas,

@@ -84,7 +84,7 @@ Muốn dậy được sớm thì phải ngủ sớm
 
 ### Reading
 
-[https://readwise.io/dailyreview](https://readwise.io/dailyreview)
+https://readwise.io/dailyreview
 
 10 Finger Typing
 Ngồi thẳng lưng

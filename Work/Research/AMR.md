@@ -41,14 +41,13 @@ Kết hợp theo 3 hướng
 - Alignment
 - Graph sử dụng thông tin từ asssembly graph
 - Transformer sử dụng token liên quan đến protein đặc trưng cho plasmid và chromosome. Transfer Learning from [[Natural Language Processing]]
-## Data
-
-- Data in FASTA and GFA format in plASgraph2 dataset
-- First we can only focus on: E. coli, K. pneumoniea, S. aureus
-## Function
-
 ### QC
 
+1. Filter by length
+	1. Can we have hypothesis for with length to filter 
+2. Alignment with chromosome database to exclude high predict chromosome
+	1. Use information from assembly graph to exclude connect contigs
+3. Alignment with plasmid database 
 - Xác định được sequence nào là chromosome và plasmid
 - Mô phỏng lại quá trình giải trình tự gene sử dụng ART
 - Chạy genome assembly trên dữ liệu mô phỏng sẽ tạo ra assembly graph
@@ -227,7 +226,17 @@ PC-based token achieved the best precision, recall and F1-score
 - Manual curation of high-confidence predictions
 - Experimental validation of novel plasmid predictions
 
-## Evaluation
+# Data
+
+- Data in FASTA and GFA format in plASgraph2 dataset
+- First we can only focus on: E. coli, K. pneumoniea, S. aureus
+
+## Assembly graph
+
+- hai contig noi voi nhau va can kiem tra thong tin lien quan den coverage because of randonfragmentrtion
+- One key feature of plasmids is that many are circular. In an assembly graph, if you observe that certain contigs form a **small circular structure**, that’s a strong indication of a plasmid. Tools that detect circularity, such as SPAdes or Unicycler, can identify these loops in the graph and suggest plasmid contigs.
+
+# Evaluation
 
 - Compare with platon, PLASMe, plASgraph2 (alignment, machine learning, hybrid)
 - Compare with different contig length 
@@ -315,8 +324,6 @@ PC-based token achieved the best precision, recall and F1-score
 
 # Approach
 
-### Structured approach to efficiently retrieve plasmid sequences from contigs, ensuring a comprehensive analysis of sequencing data
-
 The process of identifying plasmid sequences within contigs generated from sequencing projects involves a ==combination of bioinformatics tools and databases==. This approach facilitates the differentiation of chromosomal and plasmid DNA, ==allowing for the accurate assembly and annotation of plasmid sequences.==
 
 Step-by-Step Guide
@@ -333,12 +340,6 @@ Considerations and Best Practices
 - **Database Utilization**: Regularly update your database references to include the latest known plasmid sequences for improved accuracy in classification and annotation.
 - **Cross-Validation**: Use multiple tools and databases for contig classification and annotation to cross-validate your results and increase confidence in the identified plasmid sequences.
 - **Experimental Confirmation**: Whenever feasible, complement bioinformatic predictions with experimental validation to confirm the existence and structure of plasmids within your samples.
-
-1. Filter by length
-	1. Can we have hypothesis for with length to filter 
-2. Alignment with chromosome database to exclude high predict chromosome
-	1. Use information from assembly graph to exclude connect contigs
-3. Alignment with plasmid database 
 
 ### Tools
 
@@ -391,4 +392,4 @@ Hybrid
 - Sequeces Composition
 	- GC content: Plasmids and chromosomes from the same species may have different GC content. (but when split into contig this information maybe change, how about relatives in [plASgraph2])
 - k-mers
-	- 3-5 k-mers can help capture specific motifs or sequence patterns that are more feequent in plasmid (antibiotic resistance genes) or chromosome (essential genes)
+	- 3-5 k-mers can help capture specific motifs or sequence patterns that are more frequent in plasmid (antibiotic resistance genes) or chromosome (essential genes)

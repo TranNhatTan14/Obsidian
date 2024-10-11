@@ -1,3 +1,5 @@
+# Knowledge - Practical Experience - Personal Experience
+
 Học sử dụng Google One hay AWS từ những khóa học trên Coursera để có thể truy cập free
 
 ### Health
@@ -75,10 +77,6 @@ Vấn đề của mình đang là gì
 - Đồng bộ 
 - Không sử dụng điên thoại trong bao lâu
 - Làm gì lúc đó 
-- Đồng hồ 
-- Hey siri record voice 
-- Tiền lãi hàng tháng
-- Gửi tiền tiết kiệm thì lãi suất thấp nhưng không cần suy nghĩ nhiều 
 - Đầu tư thì sẽ khó hơn 
 - Thực hiện cả 2 nhưng đầu tư với trọng số ít hơn 
 - Điện thoại có thể giúp mình điều gì
@@ -263,19 +261,6 @@ You and time are limited
 
 - Làm sao để lưu trữ thông tin về một người, kỉ niệm
 
-# Stay up to date with technology
-
-https://www.producthunt.com/
-https://github.com/trending
-https://news.ycombinator.com/
-
-# Thinking
-
-- Suy nghĩ về cuộc sống như một cuộc chiến, chiến thắng để nhận được phần thường là G, làm mình thấy thích thú và muốn tham gia vào cuộc chiến
-- Đúng là cuộc sống khó có thể thiếu được những cảm xúc như khi xem phim, nhưng hãy biến n thành những cảm xúc đáng quý
-- Mình có cảm thấy đôi chút rằng là mình đang chưa tham gia nhiều dự án quan trọng trên GeneStory và cảm giác FOMO là nếu mình rời đi thì mình cũng không có bài báo nào cả
-- Cảm giác công ty không tôn trọng mình, ít nhất là hiện giờ mình đang nghĩ thế 20240910
-
 You write slower than typing < Thinking
 
 không tạo ra mà ứng dụng được. Kiến thức mới từ báo ứng dụng vào thực tế hoặc người trung gian ứng dụng từ nước ngoài USA, CN to VN
@@ -321,5 +306,3 @@ Muốn giàu thì phải lợi ích nhóm, còn giàu tri thức thì chỉ là 
 bao năm bầm dập ngoài đời. học được bản nếu còn muốn công bằng thì sẽ ko làm giàu được. sông ko bằng, núi không bằng, muốn công bằng thì chỉ có thể mãi nghèo.
 
 lựa chọn quan trọng hơn nỗ lực
-
-# Knowledge - Practical Experience - Personal Experience

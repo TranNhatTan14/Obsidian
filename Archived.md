@@ -7,10 +7,12 @@
 - Ranked game
 - T1
 - CSGO
-- MixiGaming
-- Tam Quốc Mèo
 - Rune Seeker
 - Valorant
+
+# YouTube
+
+- MixiGaming
 
 # Applications
 
@@ -24,21 +26,15 @@ Nhược điểm của video ngắn là mình sẽ xem nhiều video và bị kh
 
 Mình follow ai và tại sao mình lại follow
 
-DAV
-Thường thích ở một mình , nhưng không phải không có bạn bè. Có một số người bạn, không quá nhiều nhưng vẫn đủ thân
-Luôn giữ khoảng cách đủ gần nhưng không quá xa với mọi người xung quanh
-
 Chăm sóc bản thân
 Chế độ ăn uống và tập luyện
 Định nghĩa cho việc mặc gì cũng đẹp
 
 maianhh.dao Vuiiii
 
-
 ### Help people
 
 rus.alien
-
 
 ### Music
 
@@ -56,7 +52,6 @@ Nhà trong ngõ
 miriammache Yoga, body
 PhuongLinh Fit
 RinePomPom
-
 
 ### Motivation
 

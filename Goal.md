@@ -1,8 +1,5 @@
----
-links:
-  - "[[Superman]]"
----
 ==Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)==
+- Chia nhỏ thành các bước
 
 Remember to regularly review and adjust these goals as circumstances change or as you achieve milestones. Good luck with your ambitious and well-defined goals!
 
@@ -10,9 +7,6 @@ Remember to regularly review and adjust these goals as circumstances change or a
 - Professional goal link to career and work life
 - Tangible goals are materialistic and measureable (earning a degree or buying a house)
 - Intangible goals are personal growth, values, and relationship
-- Học chương trình thạc sĩ và tiến sĩ trên chương trình Illnois của VinGroup
-- Giải quyết các bài toán của Việt Nam
-- Biết được mình thích làm gì và theo đuổi lâu dài
 
 - Having enough wealth and income to cover your living expenses without needing to work for money.
 - ==It allows you to make choices about how you spend your time and resources== without being constrained by financial concerns. 
@@ -22,8 +16,6 @@ Remember to regularly review and adjust these goals as circumstances change or a
 - Have meaningful time for myself and with important relationship
 - Sử dụng tài nguyên và công cụ, đừng để công cụ sử dụng mình
 - Xác định mục đích sử dụng của từng đồ dùng
-
-- Chia nhỏ thành các bước
 - Tại sao mắt cận khi ngủ dậy lại thấy cộm mắt
 
 - Chuẩn bị trước, không được lười, nếu không có thể ảnh hưởng đến thời gian và tài chính (sạc máy tính và thẻ công ty)
@@ -48,6 +40,10 @@ Next steps:
 1. Update portfolio with healthcare AI projects
 2. Network with target companies on LinkedIn
 3. Prepare for technical interviews focusing on healthcare data science
+
+- Học chương trình thạc sĩ và tiến sĩ trên chương trình Illnois của VinGroup
+- Giải quyết các bài toán của Việt Nam
+- Biết được mình thích làm gì và theo đuổi lâu dài
 
 ## [[IELTS]]
 
@@ -85,6 +81,7 @@ Next steps:
 ## Kaggle Master 
 
 - [ ] Gain vote from notebook share in Zindi and Kaggle
+	- [ ] Biết được lúc nào có một cuộc thi một cách tự động
 
 # Long-term goals (over a year, 5 year)
 

@@ -36,7 +36,7 @@
 - [[Help]]
 - [[Facts]]
 
-- [[Practical Experience]]
+- [[Professional Experience]]
 - [[Finance]]
 - Embrace AI to learn, work, and elevate life, AI as mentor
 

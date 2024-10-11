@@ -1,7 +1,7 @@
 ---
 tags: []
 links:
-  - "[[Practical Experience]]"
+  - "[[Professional Experience]]"
 URL: https://app.datacamp.com/learn/courses/intermediate-docker
 ---
 ```bash

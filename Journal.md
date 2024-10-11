@@ -3,11 +3,9 @@
     
 - Học để có thể ứng dụng AI
 - Từ đó xây dựng lại những mô hình AI dạy lại mình cách tối ưu nhất như AlphaZero, DeepMind đang làm
-- Đáng lẽ mình có thể tìm hiểu về trang của Aromic và xem có pipeline không
 
 ### Những điều mình cảm thấy tệ về bản thân mình
 
-- Mình vừa quên một điều
 - Mình thấy khó chịu trong người khi số dung lượng không tròn trong bộ nhớ
 - Mình thấy không thích email gmail, muốn có mail unique ý nghĩa mà tạo nhiều quá rồi
 - Hôm qua mình có một giấc mơ về buổi đi chơi với em Giang, cảm giác như mình cố gắng để từ chối và làm em khóc vì cố gắng rủ đi chơi
@@ -23,11 +21,6 @@
         
     - Biết rộng, chuyên sâu về 1 thứ. Xã hội cần một người chuyên xử lý vấn đề, chứ không phải một người "nói" nhiều về mọi thứ.
         
-    - cân bằng giữa việc học và nghỉ ngơi
-        
-    - Ở trong đại học đừng rụt rè, với cả thầy cô lẫn bạn bè. Thấy sai phải nói sai, thấy đúng phải khen hay. Bảo vệ quan điểm nhưng không nên bảo thủ. Lời khen tưởng đương nhiên mà đôi khi lại là cả một sự động viên lớn lao đấy!
-        
-        - Đa phần giảng viên đại học đều khá open minded (ít nhất ở ĐHBK HN là như vậy), nên họ đều không những không trù ghét sinh viên bất đồng quan điểm, mà họ còn đánh giá cao việc nêu lên mâu thuẫn và giải quyết mâu thuẫn. Mình có quan hệ tốt với rất nhiều thầy cô chỉ bằng việc chỉ ra rằng có gì đó trên bảng mà mình nghĩ là không thoả đáng. Đôi khi các thầy cô cũng nhầm lẫn.
     - Học về kinh tế học quản lý tài chính cá nhân học cách đầu tư sớm hơn.
         - học tài chính trước rồi hãy học đầu tư
         
@@ -39,13 +32,9 @@
     - Đừng chạy theo các mối quan hệ xã giao mà hãy tập trung phát triển bản thân thật sớm. Bạn có năng lực, tự khắc người khác sẽ muốn tìm tới đặt mối quan hệ với bạn
         
     - quản lí chi tiêu, saving (mở tk tiết kiệm - không cần nhiều những phải có), tập thể dục Từ hôm nay . One day or day oneeeee
-        
     - ng ta đánh giá thái độ > trình độ. Thực chất phải là "ưu tiên những đứa có thái độ trong những đứa có trình độ
-        
     - Hãy tìm hiểu về Ikigai, và trong lần đổi việc kế tiếp, không bắt buộc phải chính xác. Nhưng hãy tiến gần hơn đến Ikigai của bạn
-        
         - ghi chép để lưu lại và ôn tập
-            
         - tiếng Anh là ngôn ngữ bởi vậy phải sử dụng nhiều mới hiệu quả đc bác. Nếu không có cơ hội sử dụng để giao tiếp thì hãy dùng những từ vựng, ngữ pháp mới học đc để viết 1 bài văn ngắn
             
     - Bằng mọi giá hay yêu bản thân, miễn là nó không ảnh hưởng tới người khác.
@@ -137,13 +126,6 @@ Ngày hôm nay mình sẽ làm gì
 Mình sẽ lên kế hoạch vào tối hôm trước
 
 Có vẻ là vì vỡ điện thoại nên mình ít sử dụng điện thoại hơn, không biết nên vui hay nên buồn
-Ngủ dậy sớm (chưa)
-Uống nước chưa
-Nấu ăn, mình nghĩ là mình sẽ ăn thịt luộc, nhưng mà hôm sau thì ăn cơm với cà chua nha
-(Hôm nay mình bỏ nhầm thịt chân gió)
-Hôm nay có kết quả chưa nhỉ
-Thời tiết hôm nay thật là thất thường
-Vẫn tiếp tục là ôn tập AI
 Bird-eye-view
 
 What are the possible **consequences** for an ML model being trained with high resolution photos with high color depth?
@@ -157,25 +139,10 @@ Good
 Làm một việc gì đó nếu thấy được ý nghĩa của nó
 
 Tạo cho mình cảm giác không lãng phí thời gian và công sức
-
-Học EDA để mỗi khi có dữ liệu mới trên Kaggle thì mình sẽ tạo notebook EDA
-
-Học EDA, các bước trong EDA
-
-Biết được lúc nào có một cuộc thi một cách tự động
-
-Notebook nhanh chóng
-
-Mục tiêu là đạt thành Master or Grandmaster trên Kaggle
-
 Cảm xúc của mình đi xuống từ khi đi xuống lấy đồ cho GeneStory
-
 Và khi biết là Cúc và Trường đều ở lại
-
 Cố lên Trần Nhật Tân
-
 Điều cần làm bây giờ là chuẩn bị thật tốt cho công việc sắp tới
-
 Danh sách công ty
 
 ---
@@ -278,29 +245,20 @@ Creative writing 10
 **Nỗi đau lớn nhất khi sử dụng**
 
 Cost 10
-
 Lack of expertise 15
-
 Performance on South East Asia language 70
 
 Sự phụ thuốc lớn vào các mô hình có sẵn. Startup finetune sẽ chết
-
 Hầu hết tập trung vào ứng dụng GenAI chứ không phải nghiên cứu. Làm gì thd thg ở VN là không ổn
-
 3.Ứng dụng trong chăm sóc khách hàng và hỗ trợ, cắt giảm chi phí nhân sự
-
 GenAI ở DNA rồi cũng maybe giống Grab/MOMO
 
 xem ông nào trên thế giới làm ngon, mang về copy + localize content se thanh cong, không cần phải stress nhiều, để dành nội lực đi đánh market to hơn với idea badass hơn
 
 Khéo tính ra xài OpenAI còn rẻ hơn tự host =)))))
-
 Em đang bắt đầu từ số 0, cty thì chỉ yêu cầu rag đơn giản, bộ dịch offline + chèn thêm context để dịch nội bộ. Llama3 chạy trên rtx 4090 đang rất ổn, nhưng finetune yêu cầu cao hơn thì em thua. Vì trình không đủ..
-
 có người đi trước làm mẫu mà còn thành công thì tội gì không học hả bạn
-
 Giờ dùng đến open source chắc chỉ có những product mà số user lên đến hàng chục triệu, hoặc những tổ chức cần privacy và viện nghiên cứu thôi. Thực sự openai API nó quá tiện và dễ tích hợp cho nhiều task khác nhau.
-
 open source để build pro5 thôi a ạ :))) từ thời OS Software đã thế rồi
 
 [Top 3 LLMs mà mình sử dụng hàng ngày] 🎖 Ai dùng LLM một thời gian chắc cũng biết mỗi LLM đều có một điểm mạnh riêng cho từng công việc riêng. Cá nhân mình cũng đăng kí sử dụng cũng như dùng localhost rất nhiều mô hình khác nhau. Dưới đây mà 3 LLMs tốt nhất mà mình dùng hàng ngày cho công việc:
@@ -309,7 +267,6 @@ open source để build pro5 thôi a ạ :))) từ thời OS Software đã thế
     
     - Claude 3 chắc chắn là mô hình cho kết quả tốt nhất trên tiếng Việt về cả giọng văn lẫn kiến thức. Việc sử dụng synthetic data hợp lí cũng như luôn tuân theo triết lí "Tiên Học Lễ, Hậu Học Văn" của Anthropic đã phát huy tác dụng. Nói chung con này gần như là hoàn hảo, ai nói gì nói chứ Opus vẫn là số một trong lòng mình (hiện tại)
 2. GPT-4-Turbo - Coding/Data Analysis
-    
     - Có hai lí do khiến mình vẫn dùng GPT-4. Thứ nhất là mình có tài khoản nhân viên free trọn đời, thứ hai là mình biết data bên này rất khoẻ về code nên các task liên quan đến coding thì các dòng GPT vẫn chiếm thế thượng phong. Còn lại thì chú này bây giờ có vẻ hết phép rồi, không còn gì ngoài scandal nội bộ
 3. Nous-Capybara-34B - Local Creative Writer
 - Nếu không trả tiền cho Gemini Advance (vì 2TB Google Drive free) thì mình luôn chọn Nous-Capybara-34B cho các task creative writing bằng tiếng Anh. Mô hình dựa trên Yi-34B-200k, data con này được synthetic dựa trên các forum philosophy nên viết mấy cái liên quan đến conspiracy nghe khá ảo. Ngoài ra mình cũng hay nhờ chú này viết lại Tweet trước khi mình tweet lên X Link: [https://huggingface.co/NousResearch/Nous-Capybara-34B](https://huggingface.co/NousResearch/Nous-Capybara-34B) Have fun. Do your best, the rest will come!
@@ -337,9 +294,7 @@ Tính ra bên Nous xuất bản nhiều model chất lượng ghê em nhỉ. ấ
 llama.cpp và LMStudio.
 
 Một sự kiện AI ra mắt có thể ảnh hưởng đến nhiều thứ
-
 Cổ phiếu Doulingo sau khi OpenAI demo live translation
-
 
 1. Get the lastest update from new technologies or new idea
 2. "If you copy from one architect, then you're just a thief. If you copy from ten, then you've made your research."
@@ -518,71 +473,40 @@ May 24, 2024
 [Video về Đức phật](https://www.youtube.com/watch?v=NBwm7Yz35As)
 
 Vì chúng ta ảo tưởng kết quả
-
 Muốn kiếm sống thì phải học kĩ năng
-
 Nếu chỉ làm hạng 2. Hòa mình vào đám đông, sống an toàn, không tài năng thì ...
-
-Tầng 8 đồ ăn
-
 Con người có 3 ham muốn là thức ăn, tình dục, giấc ngủ?
-
 Đừng quá tin vào người khác
-
 Mình là con người, hãy làm tốt những điều đó đã: Thở, ăn uống đầy đủ
-
 Simple model like Linear, Logistic use in Bio
-
 Mình vừa có ý tưởng liệu mình có thể đăng ký nhiều tài khoản dựa trên Google Qwiklabs
-
 Share account
-
 Folow YouTube
-
 Video TikTok hướng dẫn
-
 Đăng ký Telegram
-
 [https://www.facebook.com/watch/?v=398615502781502](https://www.facebook.com/watch/?v=398615502781502)
 
 Computer Vision
 
 Theo dõi những người như Fei-Fei Li và LAB
-
 Ứng dụng của AI trong Healthcare
-
 Với mong muốn là robot có thể nhìn thấy được như con người chúng ta
-
 Neuroscience
-
 Robot có thể suy nghĩ được như chúng ta
 
-Robot có thể giao tiếp được như chúng ta
+
+
 
 # Spatial Intelligence
 
 mình nên bắt đầu với việc xem các công ty có yêu cầu như thế nào
-
 Mình sẽ xem cả các công ty trong nước và ngoài nước
-
 Theo từng lĩnh vực
-
 Mình muốn làm ở lĩnh vực gì
-
 Mình có thể làm ở những lĩnh vực nào
-
 Graph database
-
 Vector database
-
 Biểu diễn một vector như thế nào
-
-Uống nước
-
-Mở Facebook
-
-Xem highlight Man City, Real Madrid
-
 AI Agent
 
 Gemini 1.5 Flash
@@ -596,36 +520,23 @@ Veo: Video generator
 Trillium - 6th generation TPU
 
 - Sức khỏe là trên hết
-    
 - Finance
-    
 - Xây dựng database về những bộ phim đã xem, thay vì nhớ tên, theo date
-    
 - Lúc gợi nhớ thông tin như những đứa trẻ nhảy lên đòi kẹo
-    
 - Automation
-    
 - Graph Transformer
-    
 - Language
-    
 - Mình chưa đủ hiểu về ngành mình đang tham gia
-    
 - Kiếm được nhiều tiền để cải thiện chất lượng cuộc sống
-    
 - Switch cost: Chỉ sử dụng những tab đang open trên Chrome
     
 
 Muốn hiểu bản thân mình thì mình cần có dữ liệu về mình
-
 Giống như việc các tập đoàn lớn đang phân tích về chúng ta
-
 Mình nghĩ về 3 thứ mình theo đuổi trong cuộc sống
 
 1. Tri thức
-    
 2. Beautiful
-    
 3. Power
     
 
@@ -644,23 +555,12 @@ Wabi Sabi
 Cách họ đối xử với người khác
 
 pv, bb, đồng nghiệp, gia đình
-
 Phán xét, nói xấu sau lưng
-
 General and Specific knowledge
-
-Codespaces
-
-Remote compute
-
 mortgage
-
 loan obtained for the purchase of property
-
 Mình đã từng cảm thấy fresh, khi mình không nối quá nhiều thứ
-
 Gõ phím 10 ngón thật tuyệt vời
-
 Đừng nghĩ nhiều quá, "sống" và cảm nhận hiện tại
 
 ---
@@ -668,46 +568,29 @@ May 14, 2024
 Hôm nay mình xem video này giới thiệu về GPT-4o
 
 Đã có desktop app
-
 Real-time response conversation
-
 Can Interupt
-
 Learn about our Emotion
-
 Differrent voice tone
-
 Can see, hear
-
 Translate real-time
-
 AI phát triển nhanh quá, mình cần làm gì để theo kịp xu hướng
 
 #### Approachs
 
 1. Tiếp cận từ tầng ứng dụng, xem công việc yêu cầu gì
-    
 2. Tầng công nghệ, xem những công nghệ hiện nay có thể giúp gì
-    
 3. Under the hood
     
 
-**
-
 1. Hola 2019: Anh có đang hiểu ý em không?
-
 - 205 D3 thầy Hùng
-    
 - 12 thành viên + bang Chiến
-    
 - vịt + rượu Hola, bánh mì sữa
-    
 - Hola food, mùa đông
-    
 - gác đêm cuối, đổ rác sớm, tập thể dục
-    
 - Hola dạy học, đá cầu, bắn súng,
-    
+
 1. Tiểu học Hợp Châu: Nhật ký của mẹ
 2. 910: Cũng đành thôi
 
@@ -716,12 +599,6 @@ Không khí ăn cơm hôm nay mình không thích một chút nào
 
 Give you a chance to do more challenging work, so you can find out if you have motivation to work on it
 
-- MoE
-    
-- SORA: Diffusion Transformer
-	- Distributed and Blockchain
-
----
 
 May 7, 2024
 
@@ -729,20 +606,12 @@ Learning path
 
 [https://cloud.google.com/learn/training/machinelearning-ai](https://cloud.google.com/learn/training/machinelearning-ai)
 
-NLP
-
-[https://www.tensorflow.org/text](https://www.tensorflow.org/text)
-
 Hôm nay là ngày tổng kết CTAI và có buổi chia sẻ của đại diện bên trường VInUni
 
 Mình nhớ được điều gì?
-
 Thể hiện được đam mê
-
 Hướng nghiên cứu match
-
 Thời gian thi Reading trong ngày thì mình sẽ đọc paper
-
 Thời gian writing thì mình sẽ viết report hoặc viết báo
 
 Sau này mình sẽ review lại 1 tháng qua mình đã viết những gì
@@ -750,49 +619,29 @@ Sau này mình sẽ review lại 1 tháng qua mình đã viết những gì
 Và tổng hợp vào ngày đầu tiên của tháng mới những việc cần thực hiện
 
 Hôm nay chị Huyền nói về việc kỷ luật
-
 Mình sẽ xem video tại mục Watch Later vào buổi tối
-
 Thói quen
-
 Khi tắm mình sẽ nghe video của chú HIEU
-
 Bỏ thịt ra và thêm nước nếu cần
-
 Tắm xong thì xem video trên Watch Later
-
 Hạt, rau và hoa quả
-
 Sữa hạt không đường
-
 Sinh tố hoa quả
-
-Mua sữa ĐÃ XONG
-
 Mình thấy vui khi nhìn thấy quyển sách và có ý định đọc sách
-
 Nhiều khi mình cũng có những lúc cười
 
 ---
 Mình có thể sử dụng thuật toán của Facebook để sử dụng trong 15 phút mỗi ngày nhưng vẫn nắm được hết thông tin cần xem
 
 Untitled cho phép người dùng sử dụng 1,000,000 token free
-
 New way to express equation in LaTex with Untitled
-
 I have learn about gradient with Andrej Karpathy's video
-
 I learning
 
 #### Watched
 
-April 17, 2024
-
-Mình cảm giác mình bị loại khỏi FPT AI là do tiếng Anh của mình chưa tốt (nghĩ lại thì không make sense lắm nhưng hay là do hôm trước có cuộc gọi từ FPT AI)
-
 Mình đã làm những việc ảnh hưởng đến sức khỏe của mình
 
----
 March 31, 2024
 Xin chào Trần Nhật Tân của hiện tại, mình là Trần Nhật Tân ngày 2024/03/31.
 
@@ -810,7 +659,6 @@ Theo như mình tính thì ngày mai mình sẽ 23 tuổi.
 - Mình nhìn thấy có nhiều cơ hội và mình đã nói với mọi người là mình có kế hoạch đi du học thạc sĩ đó. Mong là cậu vẫn đang theo đuổi ước mơ của mình.
 - Hiện tại thì mình nhớ được như vậy, có gì mình sẽ bổ sung thêm nha
     
-
 **Chuyện vui xung quanh thì nhiều lắm**
 
 - Anh Quang lấy chị Nga rồi, anh chị sắp có em bé, chú bé rồng của gia đình

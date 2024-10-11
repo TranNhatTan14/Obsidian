@@ -3,3 +3,4 @@
 - Hoàn thành được check list buổi sáng
 - Biết ơn vì thầy Hiệp và anh Hoàn đã tạo điều kiện cho mình
 - Trời lúc đi làm về rất đẹp, có thể thấy trên ứng dụng thời tiết của điện thoại #Work #Motivation
+- - When you drink water, remember the spring. Gratitude sustains the spirit. 

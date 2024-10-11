@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ab721164dce25aaf",
+        "id": "10cda9e8f5065458",
         "type": "tabs",
         "children": [
           {
-            "id": "86b67bfd58c82a28",
+            "id": "f9b620de6d5610a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dream.md",
+                "file": "Machine Learning Systems.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9820330c37f9c496",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Flashcard",
+                "query": "Quote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,11 +66,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "right": {
     "id": "685661460335a225",
@@ -105,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning Systems.md"
+              }
             }
           },
           {
@@ -114,8 +109,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning Systems.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,14 +121,23 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "10fa908c9b00442f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
         ],
@@ -140,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 375.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,37 +156,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9820330c37f9c496",
+  "active": "f9b620de6d5610a9",
   "lastOpenFiles": [
-    "Dream.md",
-    "Comparisons.md",
-    "Habits.md",
-    "Feedback.md",
-    "Superman.md",
-    "Workflow.md",
-    "Finance.md",
-    "Knowledge/Language/Chinese.md",
-    "Distraction.md",
-    "Software & Application.md",
-    "Skills.md",
-    "Relationship & Connection.md",
-    "Relationships/Family.md",
-    "Attention.md",
-    "Tools/Google.md",
-    "Journal.md",
-    "Technique.md",
-    "Tools.md",
-    "Tips and Tricks.md",
-    "Work/Research.md",
-    "Archived.md",
-    "Wiki.md",
-    "Tools/Cognitive tools/Analogy.md",
-    "Personal Experience.md",
+    "Thinking.md",
+    "Machine Learning Systems.md",
+    "Files/Pasted image 20241011144435.png",
+    "Files/Pasted image 20241011143725.png",
+    "Work/Research/AMR.md",
+    "Writing/What I learned from the world.md",
+    "Prompt.md",
+    "Quotes.md",
+    "Applications/Obsidian.md",
+    "Motivation.md",
+    "Templates/Daily notes.md",
+    "Competitions/Secure Offline RAG System.md",
+    "Work/Professional Experience.md",
+    "Work/Future Work.md",
     "Ideas & Brainstorms.md",
-    "Work/Practical Experience.md",
+    "Knowledge/Artificial Intelligence/Large Language Models.md",
+    "Q&A.md",
+    "Tips and Tricks.md",
+    "Knowledge/Artificial Intelligence/Machine Learning/Machine Learning Engineer DataCamp.md",
+    "Grateful.md",
+    "To do.md",
+    "Knowledge/Artificial Intelligence/Machine Learning/Natural Language Processing.md",
+    "Superman.md",
+    "Can Large Language Models Explain Their Internal Mechanisms.md",
+    "Work/Research/NSAID.md",
+    "Goal.md",
+    "Journal.md",
+    "Daily notes",
     "Life",
     "Education",
     "Tools/Cognitive tools",
@@ -192,15 +201,12 @@
     "Knowledge/Artificial Intelligence",
     "Files/Pasted image 20240810175621.png",
     "Work/Research",
-    "Competitions/Location Mention Recognition",
     "Files/Pasted image 20240922214055.png",
     "Files/Pasted image 20240922214030.png",
     "Files/Pasted image 20240922214015.png",
     "Files/Pasted image 20240922213933.png",
     "Files/Pasted image 20240922212540.png",
     "Files/Pasted image 20240922211407.png",
-    "Files/Pasted image 20240922211335.png",
-    "Files/Pasted image 20240922110023.png",
     "Untitled.canvas"
   ]
 }

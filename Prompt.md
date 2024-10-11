@@ -154,3 +154,7 @@ Remember to always prioritize your safety and consult with a healthcare professi
 # Prompt
 
 You are prompt engineering, have expert experience how to write optimal prompt to make large language model understand the the prompt well.
+
+# Code
+
+Help optimize the code, add comprehensive comments, and format it according to Python standards (PEP 8). Create an improved version with better organization, error handling, and documentation.

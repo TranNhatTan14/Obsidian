@@ -41,7 +41,6 @@ You get paid for
 - Thể hiện được mình đam mê với lĩnh vực Healthcare
 - Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
 
-
 Customize CV for each job
 Think about question to ask during interview
 Write thank you letter after interview

@@ -2,12 +2,22 @@
 tags:
   - Tool
 ---
+# Spaced Repetition
+
+https://github.com/st3v3nmw/obsidian-spaced-repetition
+
 # Highlight
 
 - [ ] Get list of highlight as for new word
 # Link and Tag
 
+## Tag
+
+Tag is like clustering
+
 **Tags are keywords or topics that help you quickly find the notes you want.** **A link is a relationship between two files and a mechanism that allows you to open the linked file**. A link can be a backlink, an outgoing link, a link to an external file or site and even a link to a non-existing note
+
+I don’t use tags myself, however I do know you can put tags in YAML Frontmatter and they won’t show up in preview mode. They are searchable
 
 ### Images
 
@@ -16,9 +26,6 @@ tags:
 3. Add image with clipboard
 
 <div style="color: red;">This is blue text.</div>
-
-> This is a blockquote.
-> It can span multiple lines.
 
 # Links
 
