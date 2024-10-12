@@ -205,7 +205,7 @@ Mental shortcuts or rules of thumb used to make decisions quickly (e.g., "if som
 
 ### Metaphors
 
-Comparisons used to explain or describe something by referring to it as something else (e.g., "time is a thief" to describe how quickly time passes).
+Comparisons used to explain or describe something by referring to it as something else.
 
 ### Checklists
 

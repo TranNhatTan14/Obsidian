@@ -15,13 +15,6 @@ Nhìn chung, sạc điện thoại khi pin còn khoảng 20-30% trở lên sẽ 
 
 TrollDecrypt
 
-## AirPod Pro 2
-
-### Adaptive Mode
-
-Dynamically responds to environment and cancels or allows external noise
-
-### Conversation Awareness
 ## iPad Pro M1 12.9 inch WiFi 128GB
 
 # Function

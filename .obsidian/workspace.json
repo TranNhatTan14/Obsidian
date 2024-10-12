@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "10cda9e8f5065458",
+        "id": "8e6834b7d017594c",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b620de6d5610a9",
+            "id": "97edab4b51befb11",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning Systems.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Quote",
+                "query": "20240729143601",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "685661460335a225",
@@ -98,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning Systems.md"
-              }
+              "state": {}
             }
           },
           {
@@ -109,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,12 +131,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,53 +149,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f9b620de6d5610a9",
+  "active": "97edab4b51befb11",
   "lastOpenFiles": [
-    "Thinking.md",
-    "Machine Learning Systems.md",
-    "Files/Pasted image 20241011144435.png",
-    "Files/Pasted image 20241011143725.png",
-    "Work/Research/AMR.md",
-    "Writing/What I learned from the world.md",
-    "Prompt.md",
-    "Quotes.md",
-    "Applications/Obsidian.md",
-    "Motivation.md",
-    "Templates/Daily notes.md",
-    "Competitions/Secure Offline RAG System.md",
-    "Work/Professional Experience.md",
-    "Work/Future Work.md",
-    "Ideas & Brainstorms.md",
-    "Knowledge/Artificial Intelligence/Large Language Models.md",
+    "Files/Pasted image 20240825155222.png",
+    "Files/Timeline_6_11_Elementary.png",
+    "Files/Pasted image 20240729143601.png",
+    "Life/IKIGAI.md",
+    "Certifications/IELTS.md",
+    "Wiki.md",
+    "Life.md",
+    "Standing on the Shoulders of Giants.md",
+    "Tools/Cognitive tools/Metaphors.md",
     "Q&A.md",
-    "Tips and Tricks.md",
-    "Knowledge/Artificial Intelligence/Machine Learning/Machine Learning Engineer DataCamp.md",
-    "Grateful.md",
-    "To do.md",
-    "Knowledge/Artificial Intelligence/Machine Learning/Natural Language Processing.md",
+    "Items/Headphone.md",
+    "Knowledge/Artificial Intelligence/Machine Learning/Transfer Learning.md",
+    "Items/Apple.md",
     "Superman.md",
-    "Can Large Language Models Explain Their Internal Mechanisms.md",
-    "Work/Research/NSAID.md",
-    "Goal.md",
-    "Journal.md",
+    "Relationship & Connection.md",
+    "Trần Nhật Tân/Timeline.md",
+    "Files/Timeline_19.png",
+    "Files/Timeline_18_22_Meet_my_crush.png",
+    "Files/Timeline_20190818_University.png",
+    "Files/Timeline_20190808_University.png",
+    "Files/Timeline_17.png",
+    "Files/Pasted image 20240817074903.png",
+    "Files/Timeline_20_Trip_1.png",
+    "Files/Timeline_20240109_VIASM.png",
+    "Relationships/Love.md",
+    "Items/AirPod.md",
+    "FInance/MMO.md",
+    "FInance/Geographic Arbitrage.md",
+    "Books/Smart Thinking.md",
+    "Books/Courage and Creativity.md",
+    "Applications/TikTok.md",
+    "Applications/ChatGPT.md",
+    "Applications/Brilliant.md",
+    "Applications/Balance.md",
+    "Applications/Surge.md",
+    "Applications/Obsidian.md",
     "Daily notes",
     "Life",
     "Education",
     "Tools/Cognitive tools",
-    "Files/Pasted image 20240930210356.png",
     "Trần Nhật Tân",
     "Certifications",
     "Work/Track",
     "FInance",
     "Knowledge/Artificial Intelligence",
-    "Files/Pasted image 20240810175621.png",
     "Work/Research",
-    "Files/Pasted image 20240922214055.png",
-    "Files/Pasted image 20240922214030.png",
-    "Files/Pasted image 20240922214015.png",
-    "Files/Pasted image 20240922213933.png",
-    "Files/Pasted image 20240922212540.png",
-    "Files/Pasted image 20240922211407.png",
     "Untitled.canvas"
   ]
 }

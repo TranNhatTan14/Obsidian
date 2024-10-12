@@ -155,13 +155,13 @@ In summary, while someone from a higher background may have early advantages, so
 
 
 
-
+What are my weakness?
 
 
 - Who am I
 > Who am I not
 > What are my strengths?
-> What are my weakness?
+
 > How do I define success?
 > What activities do you enjoy most
 > What are you grateful for?

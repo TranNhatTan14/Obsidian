@@ -1,2 +1,0 @@
-- Use AI to help in work
-- AI as mentor

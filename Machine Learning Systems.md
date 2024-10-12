@@ -90,3 +90,42 @@ Regularization is a critical technique for improving the performance and general
 ### Dropout
 
 ### Early Stopping
+
+## Activation Functions
+
+- Signmoid
+- Tanh
+- ReLU
+- Softmax
+
+## Weight Initialization
+
+- Uniform and Normal Initialization
+- Xavier Initialization
+- He Initialization
+
+## System Bottlenecks
+
+### Runtime Complexity of Matrix Multiplication
+
+### Compute and Memory Bottleneck
+
+## Training Parallelization
+
+### Data Parallel
+
+### Model Parallel
+
+# Efficient AI
+
+## Efficient Model Architectures
+
+## Efficient Model Compression
+
+- Prunning
+- Quantization
+- Knowledge Distillation
+
+## Efficient Inference Hardware
+
+## Efficient Numerics

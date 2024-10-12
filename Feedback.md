@@ -1,6 +1,5 @@
 - Mắt mình đang kém hơn
 - Chưa sử dụng iPad thật sự hiệu quả
-- Mua lăn khử mùi
 - Mình sẽ làm gì khi có thông báo nhìn màn hình chưa đủ xa 
 - Tối mình thấy không nên dùng máy tính nữa, hạn chế. Thay vào đó dùng iPad hoặc đọc sách
 - Hiện giờ mình sẽ làm gì
@@ -8,7 +7,6 @@
 - Mua hoa quả và ăn hoa quả
 - Nếu uống nước lọc, cắt thêm vài lát chanh
 - Nấu cơm để không tốn năng lượng xem hôm nay ăn quán gi
-- Giặt qua áo mưa xong phơi
 
 - Hoàng Nam Tiến
 	- Xuyên không 10 năm

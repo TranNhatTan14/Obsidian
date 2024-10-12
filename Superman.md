@@ -113,8 +113,12 @@ You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh
 
 ## Weaknesses
 
+Cải thiện điểm yếu, hoặc biến yếu điểm thành thế mạnh
+
 - Do background là Mechatronics nên khó có thể cạnh tranh hơn so với các bạn sinh viên học đúng chuyên ngành
 - Không có background tốt về IT or Software Engineer
+- Mắt cận
+- Chiều cao
 
 ### Overthinking
 

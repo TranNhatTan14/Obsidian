@@ -7,7 +7,7 @@ Creating an acronym, phrase, or rhyme to associate with the word. For example, t
 # Visualization
     
 Associating the word with a vivid mental image. For example, for the word "voluminous" (large in volume), you might picture a large, overflowing book.
-    
+
 # Flashcards
     
 Writing the word on one side of a card and its definition on the other, and repeatedly testing yourself.

@@ -1,3 +1,0 @@
-- [Google Cloud Blog](https://cloud.google.com/blog)
-- [Google Research](https://research.google)
-- https://www.emergentmind.com

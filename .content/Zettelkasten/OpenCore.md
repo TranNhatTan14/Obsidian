@@ -1,5 +1,0 @@
----
-links:
-  - "[[Apple]]"
-  - "[[Operating Systems]]"
----

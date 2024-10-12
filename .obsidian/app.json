@@ -8,7 +8,7 @@
   "attachmentFolderPath": "Files",
   "showIndentGuide": false,
   "livePreview": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "showInlineTitle": true,
   "showRibbon": true,
   "pdfExportSettings": {

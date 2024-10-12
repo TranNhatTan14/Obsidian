@@ -306,3 +306,9 @@ Muốn giàu thì phải lợi ích nhóm, còn giàu tri thức thì chỉ là 
 bao năm bầm dập ngoài đời. học được bản nếu còn muốn công bằng thì sẽ ko làm giàu được. sông ko bằng, núi không bằng, muốn công bằng thì chỉ có thể mãi nghèo.
 
 lựa chọn quan trọng hơn nỗ lực
+
+
+- Việc nhớ đường đi về giống như đạt được mục tiêu #Analogy 
+	- Giống như love process
+- 
+- Ghi lại [[Dream]] xong nhờ ChatGPT giải mã

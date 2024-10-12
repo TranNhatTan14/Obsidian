@@ -1,7 +1,6 @@
 ---
 tags:
   - Application
-links:
   - Meditation
 ---
 # Body Scan

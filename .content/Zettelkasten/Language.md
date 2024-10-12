@@ -1,5 +1,0 @@
----
-links:
-  - "[[English]]"
-  - "[[Chinese]]"
----

@@ -8,12 +8,11 @@ LIfe is not equal
 Not life change and you can change with it, It not about what happens to you, it’s how you react
 In life, there are things we can’t control, just like the wind. But here’s the empowering part: we have the ability to adapt and change our course. It’s like adjusting the sails of a boat—we can always find a way to navigate through challenges and rough waters. So, when life throws curveballs, remember: you may not control the wind, but you’re the captain of your ship. Adjust those sails and keep sailing towards your dreams!
 
-bot and automation
-
 ### Productivity
 
 - You can read faster than you can speak, avoid **subvocalizaion** with humming or counting silently
 - Trình bày những thứ phức tạp một cách dễ hiểu
+- bot and automation
 
 ### Memory
 

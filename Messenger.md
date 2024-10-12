@@ -1,4 +1,0 @@
-- Việc nhớ đường đi về giống như đạt được mục tiêu #Analogy 
-	- Giống như love process
-- 
-- Ghi lại [[Dream]] xong nhờ ChatGPT giải mã

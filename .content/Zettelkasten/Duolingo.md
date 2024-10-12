@@ -1,6 +1,0 @@
----
-tags:
-  - Application
-links:
-  - "[[Language]]"
----

@@ -1,4 +1,0 @@
-- [ ]  [Learn from Hugging Face](https://huggingface.co/learn)
-- [ ] Complete [Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
-- [ ] Learn courses in [DeepLearning AI](https://www.deeplearning.ai/)
-- [ ] Complete [[Machine Learning Engineer DataCamp]]

@@ -112,7 +112,7 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
 
 # Speaking
 
-Speaking and practice [[IELTS]] with ChatGPT
+Speaking and practice with ChatGPT
 
 - ==Chủ đề speaking cố gắng hướng về điều mình biết nhiều, điểm mạnh của mình như là công nghệ==
 - ChatGPT
@@ -132,7 +132,7 @@ Speaking and practice [[IELTS]] with ChatGPT
 - Sáng làm đề
 - Chiều luyện nói
 
-### Standing on the Shoulders of Giants
+### [[Standing on the Shoulders of Giants]]
 
 https://www.youtube.com/@theforumcenter
 
