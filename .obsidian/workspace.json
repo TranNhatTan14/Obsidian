@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8e6834b7d017594c",
+        "id": "d3e550e59d02bf84",
         "type": "tabs",
         "children": [
           {
-            "id": "97edab4b51befb11",
+            "id": "ac566b5362a6c585",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20240729143601",
+                "query": "dataview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 372.5
   },
   "right": {
     "id": "685661460335a225",
@@ -88,7 +87,7 @@
             }
           },
           {
-            "id": "c10d07f62acce7c7",
+            "id": "e0dbe7a7aeef20fe",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -96,7 +95,7 @@
             }
           },
           {
-            "id": "1c5738c03544fe69",
+            "id": "661e85bfa5a3caf8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -107,7 +106,7 @@
             }
           },
           {
-            "id": "79561528dc3de1c2",
+            "id": "b72fbcf33fe271c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -123,19 +122,31 @@
             }
           },
           {
-            "id": "10fa908c9b00442f",
+            "id": "2a10605b2b795bda",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "99f6221aa3a7a346",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 414.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,54 +160,53 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "97edab4b51befb11",
+  "active": "ac566b5362a6c585",
   "lastOpenFiles": [
-    "Files/Pasted image 20240825155222.png",
-    "Files/Timeline_6_11_Elementary.png",
-    "Files/Pasted image 20240729143601.png",
-    "Life/IKIGAI.md",
-    "Certifications/IELTS.md",
-    "Wiki.md",
-    "Life.md",
-    "Standing on the Shoulders of Giants.md",
-    "Tools/Cognitive tools/Metaphors.md",
-    "Q&A.md",
-    "Items/Headphone.md",
-    "Knowledge/Artificial Intelligence/Machine Learning/Transfer Learning.md",
-    "Items/Apple.md",
-    "Superman.md",
-    "Relationship & Connection.md",
-    "Trần Nhật Tân/Timeline.md",
-    "Files/Timeline_19.png",
-    "Files/Timeline_18_22_Meet_my_crush.png",
-    "Files/Timeline_20190818_University.png",
-    "Files/Timeline_20190808_University.png",
-    "Files/Timeline_17.png",
-    "Files/Pasted image 20240817074903.png",
-    "Files/Timeline_20_Trip_1.png",
-    "Files/Timeline_20240109_VIASM.png",
-    "Relationships/Love.md",
-    "Items/AirPod.md",
-    "FInance/MMO.md",
-    "FInance/Geographic Arbitrage.md",
-    "Books/Smart Thinking.md",
-    "Books/Courage and Creativity.md",
-    "Applications/TikTok.md",
-    "Applications/ChatGPT.md",
-    "Applications/Brilliant.md",
-    "Applications/Balance.md",
-    "Applications/Surge.md",
+    "Knowledge.md",
+    "Knowledge/Bioinformatics.md",
+    "Books/Hands-On Graph Neural NetworksUsing Python.md",
+    "Prompt.md",
+    "Writing/What kind of person should we look up to.md",
+    "Applications/Elevate.md",
+    "Knowledge/Artificial Intelligence.md",
+    "Resources/Files/Pasted image 20241028153824.png",
+    "Journals/20241028.md",
+    "Untitled.md",
+    "[.md",
+    "Resources/Files/Pasted image 20241028154414.png",
+    "Resources/Files/Pasted image 20241028154303.png",
+    "Resources/Files/Pasted image 20241028154129.png",
+    "Resources/Files/Pasted image 20241028153951.png",
+    "Resources/Files/Pasted image 20241028153840.png",
+    "Resources/Files/Pasted image 20241028153838.png",
+    "Seminar/Portal.md",
+    "Journals",
+    "Courses/CS224W.md",
     "Applications/Obsidian.md",
-    "Daily notes",
-    "Life",
-    "Education",
-    "Tools/Cognitive tools",
-    "Trần Nhật Tân",
-    "Certifications",
-    "Work/Track",
-    "FInance",
-    "Knowledge/Artificial Intelligence",
-    "Work/Research",
+    "Keyword.md",
+    "Ideas & Brainstorms.md",
+    "Finance.md",
+    "Web3.md",
+    "Knowledge/Cryptocurrency.md",
+    "Blockchain.md",
+    "SciSpace.md",
+    "Work/Work.md",
+    "Knowledge/Cloud Computing.md",
+    "Tools.md",
+    "Certifications/IELTS.md",
+    "Resources.md",
+    "Principle",
+    "Extensions",
+    "Locations",
+    "Resources",
+    "Resources/Tools/Google",
+    "Knowledge/Artificial Intelligence/Graph",
+    "Seminar",
+    "Resources/Files/Pasted image 20241023104429.png",
+    "Courses/DeepLearningAI",
+    "Resources/Files/Pasted image 20241020130922.png",
+    "Resources/Files/Pasted image 20241020130626.png",
+    "Superman/Health/Mental Health",
     "Untitled.canvas"
   ]
 }

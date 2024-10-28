@@ -80,7 +80,7 @@ Activities you enjoy and find inherently fullfiling.
 
 # 2. What I am good at
 
-[[Skills]]
+[[Skillset]]
 
 Things I have a natural talent for have honed through experience
 

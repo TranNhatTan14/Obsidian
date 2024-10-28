@@ -1,0 +1,15 @@
+- Mình gặp vấn đề với thư viện khá nhiều và không biết rõ cách khắc phục #Work 
+- Đô khi  thấy buồn ngủ khi bắt đầu làm việc buổi sáng
+- Thiếu kiến thức, cảm thấy mình chưa sẵn sàng cho công việc mới
+- Đôi lúc mình không biết nên làm gì #Time #Work 
+- ==Mắt mình đang kém hơn==
+- Đau lưng
+- Chưa sử dụng iPad thật sự hiệu quả
+- ==Mình sẽ làm gì khi có thông báo nhìn màn hình chưa đủ xa== 
+- Tối mình thấy không nên dùng máy tính nữa, hạn chế. Thay vào đó dùng iPad hoặc đọc sách
+- Hiện giờ mình sẽ làm gì
+- Ngày mai sẽ tập gì? Danh sách bài tập
+- Mua hoa quả và ăn hoa quả
+- Nếu uống nước lọc, cắt thêm vài lát chanh
+- Dạo này mình cười nhiều hơn, note lại xem những lúc như thế tại sao lại cười
+

@@ -457,7 +457,3 @@ If you want scripts to run based on a trigger or event happening outside of Azur
 Two tools that are commonly used in MLOps projects are ==Azure DevOps and GitHub (Actions)==. Both tools allow you to create automation pipelines and can trigger Azure Machine Learning pipelines.
 
 As a data scientist, you may prefer to work with the Azure Machine Learning Python SDK. However, when working with tools like Azure DevOps and GitHub, you may prefer to configure the necessary resources and jobs with the Azure Machine Learning CLI extension instead. The Azure CLI is designed for automating tasks and may be easier to use with Azure DevOps and GitHub.
-
----
-
-Spark

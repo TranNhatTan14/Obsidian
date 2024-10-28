@@ -1,26 +1,8 @@
 ---
-links:
-  - "[[Machine Learning Lifecycle]]"
-description: Machine Learning Operations is an extension of the DevOps framework, not a subset or alternative.
+aliases:
+  - Machine Learning Operations is an extension of the DevOps framework, not a subset or alternative.
 ---
 Model build pipiline > Model pipeline
-### Data Engineer
-
-- Extract raw data from different sources and store in a centrailized place
-- **Design and maintain data pipelines** to ensure efficient data flow and accessibility for analysis.
-- Make sure that incoming data is validated according to data quality requirements.
-
-### Machine Learning Engineer
-
-That's correct! The machine learning engineer is responsible for deploying the model. Having clear roles and responsibilities leaves no confusion as to who does what, which can greatly speed up the lifecycle.
-
-### Data Scientist
-
-- Assess the performance of the machine learning model according to the performance requirements
-- Develop and implement ML model to solve specific bussiness problems
-- Perform hyperparameter tuning to make sure the model training process is optimized
-
-Understanding Machine Learning Operations (MLOps) is essential for any data scientist, engineer, or leader to ==take machine learning models from a local notebook to a functioning model in production==. This course introduces you to the key processes, phases, and levels of MLOps, including ==design, development, deployment, and monitoring==. You'll discover how ==automation== enables organizations to efficiently launch, monitor, and update their machine learning models.
 
 # Design
 

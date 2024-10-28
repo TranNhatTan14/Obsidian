@@ -1,3 +1,8 @@
+---
+links:
+  - "[[Knowledge]]"
+---
+
 ### Alleles
 
 Different versions of the same variant are called alleles. For example, a SNP may have two alternative bases, or alleles, C and T4.

@@ -1,0 +1,2 @@
+- A picture is worth a thousand words
+- You can’t judge a book by its cover

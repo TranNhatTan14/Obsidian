@@ -13,3 +13,8 @@ Work effectively with Forest. Don't watch YouTube at work
 
 - Don't use phone when in deep work
 - Don't watch YouTube at work, what I should do when eating
+
+- Reading research paper and summary with assistant, ask question
+- Write the summary to the Obsidian
+
+Use Forest to focus and manage screentime

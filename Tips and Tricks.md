@@ -7,7 +7,6 @@
 - Lê và dứa không nên ăn cùng với sản phẩm từ sữa, ăn vào dễ bị đi ngoài
 - Ngắm mặt trời, ăn nhiều cà chua, ăn hạt vừng chứa nhiều kẽm nữa là mắt sáng, hạn chế bấm điện thoại #eye
 - Recording your thoughts and feelings has medical benefits. For example, it can reduce stress and decrease blood pressure #health 
-- Avoid watching late-night TV, which can stimulate rather than relax session #Sleep
 
 Luôn sẵn sàng cho công việc trong mọi trường hợp
 
@@ -67,16 +66,6 @@ Parkinson’s Law
 - To help yourself remember information about people, plasces, or things, create a mental map and associate the items to differrent areas of it
 - Use the first letter of each word or phase in the information you hear to create a memmorable acronym or mnemonic
 
-# Sleep
-
-- Journal to release worries and set you mind up for restful sllep
-- Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
-- Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
-- Always try to sleep at the right time
-- 2 hours before basic time sleep we often buồn ngủ
-- Không nhìn thiết bị công nghệ 1 tiếng trước khi ngủ
-- Sleep enough
-- Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính
-- Để ngủ thật ngon, trước khi ngủ hãy nằm trong chăn và nhớ về những thời gian vui vẻ như khi có ai đó giúp đỡ bạn, hay khi bạn giúp đỡ người khác và cảm thấy tự hào. Rồi bạn sẽ ngủ một giấc thật ngon lành.
-- Limit midday naps to 30 minutes to avoid disrupted sleep at night
 # Tricks
+
+- Try not to humbling when reading in both Vietnamses and English #Language #Reading

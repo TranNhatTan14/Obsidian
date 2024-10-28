@@ -5,10 +5,10 @@
   "readableLineLength": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "/",
-  "attachmentFolderPath": "Files",
+  "attachmentFolderPath": "Resources/Files",
   "showIndentGuide": false,
   "livePreview": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showInlineTitle": true,
   "showRibbon": true,
   "pdfExportSettings": {

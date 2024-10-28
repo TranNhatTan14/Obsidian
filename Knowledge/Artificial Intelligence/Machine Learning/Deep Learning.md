@@ -1,7 +1,6 @@
 ---
 links:
   - "[[Artificial Intelligence]]"
-  - "[[Machine Learning Lifecycle]]"
 ---
 DL is a subset of Machine Learning
 

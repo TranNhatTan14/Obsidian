@@ -311,7 +311,7 @@ trainer = Trainer(
 trainer.train()
 ```
 
-###### Checkpoint
+### Checkpoint
 
 We would also create checkpoints or an intermediate version of the model 
 
@@ -361,7 +361,7 @@ output = mdel_1000.generate(
 )
 ```
 
-Using open source [Hugging Face](Hugging%20Face.md) library
+Using open source Hugging Face library
 
 This course use smaller models with just a few of million parameters
 
@@ -741,3 +741,5 @@ https://learnen.io
 
 https://eugeneyan.com/writing/llm-ux
 https://eugeneyan.com/writing/obsidian-copilot
+
+- Giúp mình take note hiệu quả hơn, có thể kiếm tiền từ đây, vừa có kiến thức cũng như dự án #Finance #Knowledge #Work 

@@ -1,31 +1,33 @@
 # Most Important Tasks (MITs)
 
-tasks
-sort by due
-sort by priority
-limit 5
-
-tasks
-sort by due
-group by function task.file.filenameWithoutExtension + (task.hasHeading ? (' > ' + task.heading) : '')
-
-- [ ] Lên kế hoạch tập cho ngày mai
-- [ ] Cập nhật nội dung trong file thông tin và viết methods
-- [ ] Transfer ảnh từ Google Drive sang iCloud
-	- [ ] Download ảnh từ Google Photos của Hiếu
-	- [ ] Xóa ảnh trong Google Photos
-	- [ ] Tải sang iCloud
-- [ ] Đọc tài liệu du học Singapore
+- [ ] Cải thiện điểm yếu, hoặc biến yếu điểm thành thế mạnh [[Strength and Weaknesses]]
+- [ ] Use [[Minimalism]] to remove 80%
+	- [ ] Use Obsidian taskview
 - [ ] Đăng ký Internet để có thể tập Speak with [[ChatGPT]]
-	- [ ] Đăng ký gói theo tháng hay năm, đăng ký gói bao nhiêu
 - [ ] Build [[Multimodal Personal Assistant]]
-	1. Help me to more productivity, learning english
-	2. Learn new knowledge, good for work, I can show it for future work
-	3. Make money with it
-- [ ] Build template code for each task (for working data with competition in Kaggle or Zindi), can get insight from notebook in Kaggle
-- [ ] Complete Machine Learning Engineer path in DataCamp
-- [ ] I want to build something that can gain my knowledge and I can show it to people, it also can help me make money
-- [ ] Fix the audio of [[Headphone]] and how to use better sound maybe with wire
-- [ ] [Learn from Hugging Face](https://huggingface.co/learn)
-- [ ] Learn courses in [DeepLearning AI](https://www.deeplearning.ai)
-- [ ] Sign for [Apple Developer Program fee waiver](https://developer.apple.com/support/fee-waiver/)
+	- [ ] Help me to more productivity, learning english
+	- [ ] Learn new knowledge, good for work, I can show it for future work
+	- [ ] Make money with it 
+- [ ] NSAID
+	- [ ] Viết thêm nội dung
+- [ ] Chiến thuật cho điểm mạnh và diểm yếu của mình
+- [ ] Learn from https://medium.com/@danielwarfield1
+- [ ] Learn Graph Neural Network course from https://distill.pub
+- [ ] https://visxai.io
+- [ ] Learn the [[Neural Networks Zero to Hero]] course
+- [ ] Submit [[NSAID]] research paper
+- [ ] Submit [[AMR]]
+- [ ] Chia thời gian hiển thị screen trên điện thoại theo Focus mode
+- [ ] Learn https://mlu-explain.github.io
+- [ ] Learn https://stanford.edu/~shervine
+- [ ] Learn [Google Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17)
+- [ ] Xây dựng thói quen đọc blog trên [[Google Chrome]]
+- [ ] [Annotated Research Paper Implementations](https://nn.labml.ai)
+- [ ] https://kuleshov-group.github.io/aml-book/intro.html
+- [ ] https://book.premai.io/state-of-open-source-ai
+- [ ] Hiểu hơn về công việc mình đang thực hiện tại dự án NSAID, xem mình có thể cải thiện điều gì?
+ - [ ] Tìm hiểu làm sao có thể học từ vựng hiệu quả với Obsidian
+- [ ] Thực hiện dự án AMR cho với mục tiêu xây dựng được công cụ tốt và phù hợp
+- [ ] Nâng cao kiến thức chuyênn môn về sinh học vì tốt cho cuộc sống
+
+Xóa video đã tim trên TikTok

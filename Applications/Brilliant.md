@@ -2,11 +2,13 @@
 tags:
   - Visualization
   - Interactive
+  - Application
 links:
   - "[[Mathematics]]"
   - "[[Computer Science]]"
 URL: https://brilliant.org
-description: Learn interactively Math, Computer Science concepts, also English
+aliases:
+  - Learn interactively Math, Computer Science concepts, also English
 ---
 - Momentum increases with consistent force.
 - In a world of variables, your streak is a constant. #Analogy

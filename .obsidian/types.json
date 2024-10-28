@@ -3,12 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Links": "multitext",
-    "synonyms": "multitext",
-    "antonyms": "multitext",
-    "homophones": "multitext",
-    "anagrams": "multitext",
-    "status": "text",
-    "date": "date"
+    "Links": "multitext"
   }
 }

@@ -1,4 +1,5 @@
-LIfe is not equal
+- LIfe is not equal
+- Fucking Yes or No
 
 ### Standing on the Shoulders of Giants
 
@@ -40,19 +41,12 @@ In life, there are things we can’t control, just like the wind. But here’s t
 
 ### 2024/04
 
-- Sinh nhật Trần Nhật Tân
 - Đăng ký chương trình FPT Software AI Residency và mình đã nhận được mail reject vào ngày 2024/04/16
 - Sinh nhật bố
 
 ### 2024/05
 
 - Hoàn thành chương trình đào tạo kĩ sư AI
-
-# Distraction
-
-- Open Facebook, see post in Troll Football about result of C1
-- Think about X with LHRGENESTORY
-- Spatial in iPhone, how it work
 
 ### 202406
 

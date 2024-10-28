@@ -5,15 +5,9 @@ links:
   - "[[Artificial Intelligence]]"
   - "[[Andrej Karpathy]]"
 ---
-I learn from scratch with [Andrej Karpathy](https://app.capacities.io/da04e088-7156-4e19-8539-8299ccbb287f/596e673f-1704-4ce3-a675-de03647576d6)
-
 We build a **Generatively Pretrained Transformer (GPT)**, following the paper "Attention is All You Need" and OpenAI's GPT-2 / GPT-3. We talk about **connections to ChatGPT**, which has taken the world by storm. We watch **GitHub Copilot**, itself a GPT, help us write a GPT (meta :D!) . I recommend people watch the earlier makemore videos to get comfortable with the autoregressive language modeling framework and basics of tensors and PyTorch nn, which we take for granted in this video.
 
 - Attention is All You Need
-    
-- Transformer
-    
-- ChatGPT
     
 
 Build ChatGPT

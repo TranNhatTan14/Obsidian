@@ -1,7 +1,12 @@
 ---
 tags:
   - Tool
+  - Application
 ---
+# Link
+
+	[[Obsidian]] and link with before
+
 # Spaced Repetition
 
 https://github.com/st3v3nmw/obsidian-spaced-repetition
@@ -41,7 +46,6 @@ Tại sao minh sử dụng Obsidian thay vi Notion
 
 # Plugins
 
-- Dataview
 - Tasks
 
 ## Dataview

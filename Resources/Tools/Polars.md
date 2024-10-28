@@ -1,0 +1,6 @@
+---
+tags:
+  - Data
+links:
+  - "[[Programming]]"
+---

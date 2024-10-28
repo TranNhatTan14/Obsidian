@@ -8,27 +8,6 @@ Understand the theory behind algorithms like decision trees, support vector mach
 
 Stay updated with the latest advancements in machine learning, including trends like transfer learning, federated learning, and few-shot learning.
 
-- **Write algorithms from scratch.**
-    - [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-
-### Transfer Learning
-
-### Knowledge distillation
-### Model Prune
-### Model Quantization
-# [[Natural Language Processing]]
-
-# [[Computer Vision]]
-
-# [[Brain–Computer Interface]]
-### Programming
-
-- Delve into advanced concept such as OOP and Algorithm optimization.
-- Understanding how to write efficient, scalable code is crucial since AI applications often process large amounts of data. 
-- Practice by contributing to open-source projects or tackling complex problems that challenge your coding skills.
-- Writing clean, efficient, and scalable code.
-- Understand the principles of software engineering, including version control, testing, and debugging. 
-
 # Data
 
 ### Data Preprocessing
@@ -61,7 +40,6 @@ Acquire skills in using tools that facilitate efficient data manipulation.
 - Operating systems
 - Slurm?
 - Git and Git Flow
-- Docker and Kubernete
 - [Kubeflow](https://www.kubeflow.org/) 
 - Cloud and Edge device
 - SQL
@@ -79,20 +57,6 @@ AI in Finance
 - **Top-down approach:** Learn code first, theory later.
 - **Focus on NLP (Natural Language Processing):** If you're interested in other areas like computer vision, ask the author for recommendations.
 - **Use Twitter:** Follow AI experts and engage in the community.
-
-# Programming
-
-## Python
-
-### Polar
-
-- Pandas/Polars for data manipulation and analysis
-- GPU with Polars, Daniel Warfield https://pola.rs/posts/gpu-engine-release
-
-## C++
-
-## CUDA
-# [[Mathematics]]
 
 # Reseach
 

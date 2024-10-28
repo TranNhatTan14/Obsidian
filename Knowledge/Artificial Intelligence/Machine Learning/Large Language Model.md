@@ -1,8 +1,10 @@
 ---
 links:
   - "[[Artificial Intelligence]]"
+aliases:
+  - LLM
 ---
-- We will not train LLM, instead we will finetuning
+==We will not train LLM, we will finetuning instead==
 
 # Tactical
 
@@ -57,3 +59,14 @@ When working with large-scale AI and large language models (LLMs), several facto
 # Model Architecture
 
 # Optimization and Scaling
+
+---
+
+https://developers.google.com/machine-learning/resources/intro-llms
+https://aws.amazon.com/what-is/large-language-model
+https://medium.com/data-science-at-microsoft
+https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f
+
+# Transformers
+
+# Self-attention

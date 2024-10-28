@@ -2,8 +2,10 @@
 tags:
   - Github
   - Programming
+  - Software
 URL: https://github.com/codespaces
-description: Go from code to commit faster on any project
+aliases:
+  - Go from code to commit faster on any project
 ---
 # GitHub Codespaces + GitHub Copilot
 

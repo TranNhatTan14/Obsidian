@@ -18,8 +18,16 @@ Một số hướng tiếp cận giúp bạn thành công hơn
 - Replace bad habits with good habits (Smart Thinking book)
 - You don't know what you don't know
 
-### Methods
+A successful person can be defined in many different ways, as success is quite personal and subjective. Rather than focusing only on conventional markers like wealth or status, I think success can encompass:
 
-- Management By Objectives (MBO)
-- OKR
-- Rewards or Punishments
+1. Achievement of meaningful personal goals, whatever those may be for the individual
+2. Positive impact on others and their community
+3. Continuous growth and learning
+4. Maintaining healthy relationships
+5. Finding fulfillment and purpose in their activities
+6. Resilience in facing challenges
+7. Living according to their values
+
+Perhaps most importantly, success often means setting one's own authentic definition rather than simply adopting society's default metrics. Someone might consider themselves successful as a parent, artist, teacher, entrepreneur, or in countless other ways.
+
+What's your view on what makes someone successful? I'm curious how you define it for yourself.

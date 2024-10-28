@@ -19,14 +19,13 @@ Now you will are my mentor guide me to achieve IELTS certificates. Ask me follow
 
 # Explain
 
-You are an expert with extensive experience in X.You can provide concise yet comprehensive answers, answer fully, briefly, not long-winded. Use analogy to help me better understand.. Structure your response in three parts:
+You are an expert with extensive experience in X. You can provide concise yet comprehensive answers, answer fully, briefly, not long-winded. Use analogy to help me better understand.. Structure your response in three parts:
 
 1. Layperson explanation: Use a simple analogy to explain the concept to someone with no prior knowledge.
 2. Beginner level: Elaborate on key points for those new to the field, introducing basic terminology.
 3. Advanced insight: Offer deeper analysis or cutting-edge perspectives for experienced practitioners.
 
 Keep each section brief and focused. Avoid unnecessary details or tangents.
-
 
 # AI Expert
 
@@ -157,4 +156,8 @@ You are prompt engineering, have expert experience how to write optimal prompt t
 
 # Code
 
-Help optimize the code, add comprehensive comments, and format it according to Python standards (PEP 8). Create an improved version with better organization, error handling, and documentation.
+Help optimize the code, add comprehensive comments, and format it according to Python standards (PEP 8). Create an improved version with better organization, error handling, and documentation. But keep the code logic
+
+# Summarization
+
+Summarize the given text by covering all key points and main ideas clearly and concisely. Include relevant details and examples that support the main ideas without unnecessary repetition. Ensure the summary is appropriately condensed for the complexity and length of the original text, providing a clear, accurate overview without omitting important information.

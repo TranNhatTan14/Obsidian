@@ -1,22 +1,14 @@
 # Approach
 
-- Học bổng của Vin sau đó đi xin học bổng tại các trường
-- Xin học bổng từ các thầy cô sau đó xin học bổng của Vin
-
 > [!tip] Nếu tiền học là vấn đề thì tiền đó sang Australia or Canada thì cơ hội việc làm và định cư cao hơn
 
-You can do it
-
 - You can learn direct to Ph.D
-
 - Specific
-    
 - ≥ 80%
 - Scholarship types
 - List of universities
 - List of programs
 - Measurable
-- ≥ 80%
 
 ### Achievements
 
@@ -37,6 +29,10 @@ Các trường đại học thường xét duyệt hồ sơ dựa trên tổng h
 
 Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luận tốt, thư giới thiệu mạnh là những yếu tố quan trọng. Ngoài ra, nếu bạn chứng minh được nguồn funding thì càng có lợi thế.
 
+- Thư giới thiệu mạnh
+- Bài luận tốt
+- Chứng minh được nguồn funding
+
 ### Major
 
 - Computer Science and Information Systems
@@ -50,6 +46,12 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 
 [List of targeted universities by countries](https://scholarships.vinuni.edu.vn/list-of-targeted-universities/)
 [List of supported fields of study and research areas](https://scholarships.vinuni.edu.vn/list-of-supported-fields-of-study-and-research-areas/)
+
+### Research Interest
+
+- AIoT
+- Healthcare
+- Brain-Computer Interfaces
 
 ### Help
 
@@ -65,15 +67,9 @@ Với các bạn nộp đơn bậc Thạc sĩ, mình nghĩ việc có bài luậ
 - Đỗ Mạnh Tuấn
     - [Manh Tuan Do’s Google Scholar](https://scholar.google.com/citations?user=0AdKxPkAAAAJ&hl=en&oi=sra)
 
-### Research Interest
-
-- AIoT
-- Healthcare
-- Brain-Computer Interfaces
-
 # University
 
-### Australia
+## Australia
 
 ### [Australian National University](https://www.anu.edu.au/)
     
@@ -327,3 +323,9 @@ https://www.facebook.com/nguyen.q.phuoc.1/posts/pfbid0iCBoi3ojqevyMdFQKG7guHKwTq
 - Combined degree programs or dual degree programs
 - Học bổng bao nhiêu phần trăm
 - Cần chuẩn bị những gì
+
+- Chương trình toán của chị Huyền giới thiệu
+
+Cực kỳ nên đi học thạc sỹ, thậm chí là Tiến sĩ nữa nha. Chị có bạn học sinh đạt 100% học bổng PhD cho ngành AI tại trường Deakin University của Úc luôn nè. Chị thấy là ngành này cũng đang được quan tâm nhiều nên cơ hội cũng nhiều. Em thử tham khảo Úc nghen, hiện tại em vẫn còn thời gian chuẩn bị, ngoài việc học tiếng Anh, chú tâm điểm GPA như kỳ vọng mình đặt ra thì nên tham gia nhiều các hoạt động liên quan đến ngành như các cuộc thi hay nghiên cứu khoa học. Theo chị để đạt học bổng em sẽ cần bổ sung kinh nghiệm đi làm hay thực tập (cái này vừa học vừa làm parttime cũng được nè) ở các công ty chuyên về AI thì hồ sơ cũng nổi bật hơn đó. Và đặc biệt là cần chuẩn bị bài luận tốt lúc apply ấy.
+
+Nên em nhé, học AI thì nên lên Master nhé. Em cần chuẩn bị tiếng anh để có IELTS >= 6.5. Nếu có thể nên có thêm công bố quốc tế thì càng vững chắc hơn. GPA của em như vậy là ok lắm r.

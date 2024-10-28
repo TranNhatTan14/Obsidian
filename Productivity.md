@@ -1,2 +1,0 @@
-- A picture is worth a thousand words
-- Learn code we need 2 screen for better performance, we have iPad when don’t have screen

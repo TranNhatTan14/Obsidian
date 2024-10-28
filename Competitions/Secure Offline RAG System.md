@@ -7,13 +7,10 @@ https://app.trustii.io/datasets/1529
 
 ## Introduction :
 
-**Are you passionate about open-source [[Large Language Models]] (LLMs), data privacy, and versatile AI applications? Join our exciting challenge to push the boundaries of what's possible with offline RAG systems!**
-
 While we leverage powerful models like GPT-4 and OpenAI embeddings, some use cases require a fully offline solution to ensure data sensitivity and compliance.
 
-We invite the data science community on Trustii.io to help us create a complete offline RAG system for embeddings creation and chat/retrieval, leveraging the power of open-source technologies. The results of this challenge will be made **open source under the MIT license**, contributing to the broader community.
-
-## Objectives
+We invite the data science community on Trustii.io to help us create a complete offline RAG system for embeddings creation and chat/retrieval, leveraging the power of open-source technologies. 
+# Objectives
 
 **Build a Flexible Local RAG System**: Develop a RAG system that generates embeddings using an open-source LLM, the system must support local execution without relying on external API calls. The system should be **flexible** and capable of handling various types of text data, including but not limited to Q&A datasets, websites, code snippets, documentation, and more.
 
@@ -28,3 +25,11 @@ We invite the data science community on Trustii.io to help us create a complete 
 **Use of LangChain**: Build a chat interface using the **LangChain API**, allowing users to interact with the vector store and generate responses based on retrieved documents. The interface should demonstrate flexibility by handling various content types (text, code, websites, etc.). The chat interface must Support multiple languages, specifically English and French, for both text retrieval and response generation. The LLM must be capable of processing and generating **code snippets** and technical language.
 
 **Programming Language**: The system must be developed in **Python**.
+
+# Resources
+
+https://python.langchain.com/docs/tutorials/local_rag/
+
+https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-ollama-streamlit-181d42805895
+
+https://medium.com/@pankaj_pandey/building-a-local-rag-agent-with-llama3-and-langchain-6f041655eb83

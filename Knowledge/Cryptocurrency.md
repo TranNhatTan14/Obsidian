@@ -1,9 +1,16 @@
 ---
-tags: 
+tags:
+  - Finance
+  - Technology
 links:
   - "[[Blockchain]]"
   - "[[Web3]]"
+  - "[[Finance]]"
 ---
+Crypttocurrencies are a new way to exchange goods and services. They run on blockchain - data structures are cryptographically secure.
+
+---
+
 ### Futures and Spot
 
 - Spot
@@ -15,8 +22,6 @@ links:
 
 ### Binance and Onus
 
-[](https://cafemmo.club/)[https://cafemmo.club](https://cafemmo.club)
-
 - FILVNDC ANTcoin
     - Chỉ báo MA10
 - Stop loss
@@ -27,8 +32,6 @@ links:
 ~~Bơi theo cá mập~~ → Đứng trên vai người khổng lồ
 
 Bơi theo cá mập hay bơi theo để cá mập ăn?
-
-
 
 Learn how cryptographic primitives power the blockchain and digital currencies.
 

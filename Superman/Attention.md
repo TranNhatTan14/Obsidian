@@ -1,0 +1,77 @@
+---
+links:
+  - "[[Superman]]"
+---
+- Relationship
+	- [[IELTS]]
+- [[Habits]]
+- Items
+	- [[iPhone]]
+	- [[iPad]]
+	- [[AirPod]]
+	- [[Laptop]]
+	- [[Headphone]]
+	- [[Eyeglasses]]
+- [[Work]]
+	- [[Current Work]]
+		- [[Multimodal Personal Assistant]]
+		- [[Bioinformatics]]
+	- [[Research]]
+		- [[NSAID]]
+		- [[AMR|AMR]]
+	- [[Future Work]]
+	- Cloud
+- [[Finance]]
+	- [[Cryptocurrency]]
+- [[Modular]]
+- Applications
+	- Photos
+	- Camera
+	- Clock
+	- [[Health]]
+	- [[Elevate]]
+	- [[Brilliant]]
+	- [[Duolingo]]
+	- [[Balance]]
+	- [[Threads]]
+	- [[Instagram]]
+	- [[Facebook]]
+	- [[Messenger]]
+	- Calendar
+	- [[ChatGPT]]
+	- [[Forest]]
+	- [[Habitify]]
+	- [[Health]]
+	- Liên Quân Mobile
+	- Mail
+	- Note
+	- [[Podcast]]
+	- Reminder
+	- Sendo
+	- Shopee
+	- Shortcut
+	- [[Surge]]
+	- Strong
+	- [[YouTube Music]]
+	- [[Zalo]]
+	- [[Claude]]
+- [[Language]]
+	- [[English]]
+	- [[Chinese]]
+- Draw Your Brain
+- [[Minimalism]]
+- Proverbs
+- Techniques
+
+==Introduce the world's innovations to Vietnam, and share Vietnam's wisdom with the world.==
+
+- [[Research]]
+- [[Analogy]]
+- [[Geographic Arbitrage]]
+- [[Health]]
+- [[Finance]]
+
+- Chăm sóc sức khoẻ. kiếm thêm thu nhập
+- Learn from work, like how to work with data, to get insight, know the trend
+- Transfer Learning from what you work to future work like from NSAID
+- Help people aroud the world with knowledge

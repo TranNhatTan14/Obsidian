@@ -1,14 +1,9 @@
-# Knowledge - Practical Experience - Personal Experience
-
-Học sử dụng Google One hay AWS từ những khóa học trên Coursera để có thể truy cập free
-
 ### Health
 
 - Không được lãng phí đồ ăn mẹ nấu và chuẩn bị cho, lên danh sách những đồ ăn mình có
 - Mình gặp thầy Hiệp vào buổi liên hoan team nghiên cứu, thầy bảo mình tăng cân
 - Việc đánh lại thộng tin hiểu quả trong một số trường hợp, mình có thể sử dụng công cụ để tổng hợp lại thông tin
 - Mình chưa đánh giá được mức độ quan trọng của công việc và thời gian cần thiết để thực hiện công việc
-- Mình hơi OCD với số không được tròn, thay đổi mindset theo hướng 80%
 
 Vấn đề của mình đang là gì
 
@@ -17,8 +12,6 @@ Vấn đề của mình đang là gì
 - Trí tuệ cần cải thiện
 
 - Black box
-- Cặp từ trái nghĩa như thái cực của vấn đề
-- Sắp xếp gọn gàng ngay từ đầu hay vừa làm vừa dọn hay làm xong mới dọn
 - Manage time, knowledge, energy
 - Tối ưu hóa
 
@@ -48,9 +41,6 @@ Vấn đề của mình đang là gì
 - Xem những gì đang kết nối với mình 
 - GIỎI THÌ MỚI SỐNG SÓT ĐƯỢC
 
-- Cái gì cũng cần có điều kiện 
-- what we gave 
-
 - Tự do là gì?
 - Tự đo có tồn tại không hay chỉ là một ảo tưởng
 - Mình thấy hạnh phúc và cười khi nghe chị Vân nói
@@ -62,6 +52,14 @@ Vấn đề của mình đang là gì
 - sao minh thấy có sự kết nối
 - Mình có muốn kết nối hay không
 
+- Nắm bắt được cơ hội
+- Biết được cái gì mình thích và theo đuổi lâu dài
+- Mình thích gì?
+- Năng suất không cao 
+- Năng suất và phát triển kinh tế 
+- Chán
+
+
 - Tư duy và tái tư duy
 - Tiếp thu quan điểm và kiến thức mới
 - Cách đặt câu hỏi
@@ -70,60 +68,6 @@ Vấn đề của mình đang là gì
 - Nhận chính thức cũng rất khó 
 - Khó khăn cũng có thể là cơ hội 
 - Backup trường hợp quay về Earable làm 
-- Học kiến thức liên quan
-- Khó khăn có phải thời điểm tốt để học và làm thêm vì khi kinh tế tốt sẽ phân Vân giữa làm và đi học 
-- Không sử dụng điện thoại 
-- Để thông báo ứng dụng cần thiết 
-- Đồng bộ 
-- Không sử dụng điên thoại trong bao lâu
-- Làm gì lúc đó 
-- Đầu tư thì sẽ khó hơn 
-- Thực hiện cả 2 nhưng đầu tư với trọng số ít hơn 
-- Điện thoại có thể giúp mình điều gì
-- Khoa học sức khỏe
-- Trung tâm nghiên cứu sức khỏe thông minh
-- Giải bài toán, đo đạc các tín hiệu sinh tồn
-- Health condition
-- Xây dựng mô hình dự đoán từ rất sớm các bệnh
-- Hỏi thầy về nếu mong muốn học về EEG thì nên học thạc sĩ ngành gì
-- Viện kỹ thuật và khoa học máy tính
-- VinUni đang mở rộng rất nhanh về sức khỏe thông mình và môi trường thông minh
-- Sức khỏe thông minh
-
-**Illnois Smart Health Center**
-
-- Tạo ra các hệ thống y tê số y tế thông mình, y tế chính xác
-- Tiếp cận dịch vụ với VinMec
-- Tạo ra công nghệ tiên tiến, giá rẻ để mọi người có thể tiếp cận
-- Biomedical sensing - Track các điều kiện sống
-- Telehealth
-- 10 dự án
-- Các cơ hội thực tập và trở thành nghiên cứu sinh của các dự án
-- Bắt đầu tuyển sinh từ năm 2022
-- Nếu ngành học không phù hợp thì có thể qua quan hệ
-- Giỏi
-- Được giới thiệu
-- Không thể học nếu không có học phí
-- Đúng hơnn là không thể học trường tốt nếu khônng có học phí
-- Nhất quan hệ nhì tiền tệ
-- Làm sản phẩm để được đầu tư
-- Thế mạnh của sinh viên Vinuni về khoa hcoj dưcx liệu, thế mạnh về lập trình
-
-- Local issue
-- Gửi các em đi học về các nhóm giỏi nhất 
-- Có thể ứng dụng vào các bải toán ở Việt nam
-
-- Đặt bạn vào nhóm nghiên cứu lớn
-- Có hiểu biết về mặt toán và kỹ thuật
-
-- Nắm bắt được cơ hội
-- Biết được cái gì mình thích và theo đuổi lâu dài
-- Mình thích gì?
-
-- Mới vui hơn 
-- Năng suất không cao 
-- Năng suất và phát triển kinh tế 
-- Chán
 
 - Định nghĩ well-being 
 
@@ -171,31 +115,9 @@ Having a purpose is a fundamental component of living a fulfilling life.
 2. **Smart and Connected Devices**: Mechatronics combined with AI enables the creation of smart and connected devices. Imagine a future where your home appliances, vehicles, and personal gadgets seamlessly communicate and adapt to your preferences. From smart homes to self-driving cars, the integration of AI with Mechatronics can revolutionize our daily lives, making them more convenient, efficient, and environmentally friendly.
 3. **Enhanced Human-Machine Interaction**: Mechatronics and AI integration pave the way for intuitive and natural interactions between humans and machines. Through technologies such as gesture recognition, voice control, and haptic feedback, we can create interfaces that allow us to communicate and collaborate seamlessly with machines. This opens up possibilities for applications in healthcare, entertainment, and assistive technologies.
 
-### Important
-
-#### Becoming the best version of yourself
-
-Be yourself BUT always your BETTER SELF
-
-Yourself mean unique
-
-The best version of yourself is when you live authentically, stay true to your values, and do things that bring you happiness, purpose, and meaning. It also means living according to your own values and goals, rather than those of other people
-
-CV chỉnh sửa thêm và hãy làm được
-
-#### Health
-
-- Phát triển chiều cao hết khả năng
-
-Regular exercise and healthy eating can help keep diseases away.
-
-#### Family
-
-A constant source of support that teaches important lessons.
-
 #### Education
 
-Learn from mistakes > doing ? theory
+Learn from mistakes > doing > theory
 
 - Just do it
 - Education. Having a good education will help you progress in life
@@ -267,14 +189,10 @@ không tạo ra mà ứng dụng được. Kiến thức mới từ báo ứng d
 
 Sắp xếp như để trên giá theo quy tắc
 
-Kowloon Walled City in Hong Kong was the most densely populated place on Eartch until its demolitiion in 1993. Currently, there's a park where the city once stood.
-
-![Kowloon Walled City](https://media.cnn.com/api/v1/images/stellar/prod/140330221545-lambot-kowloon002.jpg?q=w_1110,c_fill/f_webp)
-
 While most people think of calories as a property of food, they're actually found in anything with energy. ==A calorie is simply a unit used to measure the amount of energy it takes to increase the temperature of one gram of water by one degree Celsius.==
 
 ### Vision
-
+	
 Quan sát nhiều hơn nghĩ có thể làm giảm [[Overthinking]] và [[Stress]]
 
 ### Breathe
@@ -312,3 +230,56 @@ lựa chọn quan trọng hơn nỗ lực
 	- Giống như love process
 - 
 - Ghi lại [[Dream]] xong nhờ ChatGPT giải mã
+
+Mình vừa có ý tưởng liệu mình có thể đăng ký nhiều tài khoản dựa trên Google Qwiklabs
+Kỷ luật định nghĩa thành công
+
+Một sự kiện AI ra mắt có thể ảnh hưởng đến nhiều thứ #Finance 
+Cổ phiếu Doulingo sau khi OpenAI demo live translation
+
+https://www.zotero.org #Research 
+
+Applying this question practically in your life can be a transformative process. Here's a step-by-step approach you might consider:
+
+1. Regular reflection: Set aside time periodically (weekly, monthly, or quarterly) to ask yourself this question. You could make it part of a journaling practice or a personal retreat.
+2. Values clarification: Start by identifying your core values. You could:
+    - List things that are most important to you
+    - Reflect on times when you felt most fulfilled or proud
+    - Consider what you'd want to be remembered for
+
+What are the most important things to me?
+
+When I need to answer some questions but I don't have enough data of myself, so I need to write journal more
+
+20240801
+
+- Mình vẫn cố gắng duy trì chuỗi học tập, tuy nhiên mình thấy có nhiều thứ mình học được nhưng chưa được note lại hiệu quả
+- Công việc có tiến triển tốt hơn so với ngày hôm qua, mình có trao đổi với anh Hoàn và chị Trang
+- Cảm giác đứng trên bảng xếp hạng như trong [[Brilliant]] và Zindi
+- Mình cảm thấy không thoải mái đối với một số mối quan hệ
+- Công việc thì hôm nay mình học được cách chạy fine-tune LLM với Flair
+- Cảm giác stuck khi mình có kiến thức cần nạp thêm vào nhưng chưa biết xử lý như thế nào?
+- Mọi người đang cố gắng, vì mục tiêu, hãy cố gắng
+
+You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh cờ)
+
+Tận dụng tối đa nguồn lực mình có thể nhận được
+
+- Embrace AI to learn, work, and elevate life, AI as mentor
+
+
+
+# Others
+
+- Da mình đang có màu hơi vàng, làm mình nghĩ đến anh Mạnh ngày trước
+- Da trắng theo cách của Triệu Lộ Tư
+- Ngày xưa mắt mình nhìn đẹp, phục hồi thôi
+
+
+Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack app, đóng gói thành IPA rồi đưa lên TestFlight bán, với mã liên quan đến UIID
+- Kiếm được nhiều tiền
+- High risk, high return
+- Don’t put all your eggs in one basket (in finance and apply to other area)
+- Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
+
+### [Tracking Progress in Natural Language Processing](https://nlpprogress.com)

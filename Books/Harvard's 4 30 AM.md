@@ -1,4 +1,4 @@
 ---
-status: In Progress
-type:
+tags:
+  - Book
 ---

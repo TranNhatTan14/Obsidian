@@ -1,3 +1,12 @@
+---
+tags:
+  - Application
+links:
+  - "[[iPhone]]"
+  - "[[iPad]]"
+  - "[[Knowledge/Language/Vocabulary|Vocabulary]]"
+description: Brain workout with Elevate
+---
 Elevate help practice Writing, Speaking, Reading, Math, Memory skills
 
 # Games
@@ -154,3 +163,34 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 ### Sequencing
 
 ### Synthesis
+
+# Study Materials
+
+Flashcards, tips and more to deepen your skills
+
+## Public Speaking
+
+- Train in vocal clarity and linguistic precision
+- Gain insight from master speakers
+- Deliver more effective presentations
+- Become a better conversationalist
+- Manage speaking anxiety
+- Use vocal emphasis to shape meaning
+
+## Speed Reading
+
+- Establish your baseline reading speed and learn how to increase it
+- Reduce subvocalization to increase your comprehension
+- Put the strategies you learn into action by challenging yourself to read faster
+- Expand your vocabulary to increase your reading comprehension
+- Get expert tips on how to increase your reading speed
+
+## Mathematics
+
+## Vocabulary Building
+
+- Master unfamiliar words by learning roots, prefixes, and suffixes
+- Learn strategies to improve your vocabulary
+- Identify unfamiliar words based on context
+- Use words with greater precision
+- Employ vocabulary essential for professional and personal settings

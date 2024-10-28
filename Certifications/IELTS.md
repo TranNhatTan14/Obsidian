@@ -1,18 +1,45 @@
 ---
-description: Academic IELTS
+tags:
+  - Certificate
+aliases:
+  - Academic IELTS
 ---
-# Goal
+# Introduction
 
-- Reading and Listening: 8.5
-- Writing and Speaking: 7.5
+**Speaking Practice**: Use ChatGPT to simulate IELTS Speaking Part 2, where you speak continuously for two minutes on a given topic. Focus on organizing your ideas clearly.
+
+- Thường xuyên nói chuyện với người nước ngoài để tăng khả năng giao tiếp
+- Thường xuyên nói chuyện bằng tiếng Anh hàng ngày khi đi tắm, hoặc khi đi trên đường, tự nói chuyện với bản thân về các chủ đề như thời tiết và giao thông
+- Nghe nhạc, đọc truyện bằng tiếng Anh để hiểu rõ hơn về cách nói chuyện của người bản xử
+
+- “Em còn thường xuyên nghe nhạc, đọc truyện bằng tiếng Anh để hiểu rõ hơn về cách nói chuyện của người bản xứ. 
+- Hơn nữa, em cũng hiểu rõ bài thi IELTS là bài thi kiểm tra khả năng giao tiếp bằng ngôn ngữ thông qua 4 kỹ năng, không phải bài kiểm tra khả năng ghi nhớ từ vựng hay cấu trúc câu siêu khủng. Vì vậy các bài viết, bài nói của em mặc dù có ngôn ngữ đơn giản nhưng luôn duy trì được tính tự nhiên và trôi chảy”, Đức kể.
+
+- Có nhiều người bạn nước ngoài, Trang thường luyện phát âm thông qua việc trò chuyện. Bên cạnh đó, nữ sinh thường ghi âm câu trả lời cho Task 2, mỗi câu nói trong hơn 1 phút. Trước khi ghi âm, nữ sinh thường viết nhanh ý tưởng ra giấy kèm một số từ vựng liên quan muốn sử dụng trong bài nói.
+
+- Để nói được cần có = Vocabulary + Grammar + Ideas
+
+# Method
+
+## Thi trên máy tính tại IDP
+
 - Thi trên máy tính tại IDP và speaking với người thật, thi trên máy tính có kết quả nhanh
+
+## Practice
+
+- Thời gian gấp rút nên hãy dùng ứng dụng đã có sẵn như ELSA Speak or The Coach and ChatGPT
+
+# [[Tips and Tricks]]
+
+- ==Chủ đề speaking cố gắng hướng về điều mình biết nhiều, điểm mạnh của mình như là công nghệ== #Speaking 
+- Liên tưởng nội dung để có thể nói được nhiều chủ đề (Like Multi model in AI) #Speaking 
 
 # Reading
 
 - ==Reading research paper, good for work, education focus on how they write academic research, how they explain graph, table which will benefit in Writing 1==
 - Use research papers as reading practice #Research
 	- Time yourself reading a paper then summarize it
-		- First we can use SciSpace to help with summary paper
+		- First we can use [[SciSpace]] to help with summary paper
 	- Create IELTS-style questions based on the paper you read.
 	- Focus on understanding graphs, charts, and tables in these papers, as these are common in IELTS Academic Reading
 
@@ -21,7 +48,6 @@ description: Academic IELTS
 - Đeo bịt lỗ tai
 ## Question types
 
-Các dạng câu hỏi trong bài thi Đọc (học thuật) của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
 ### General
 
 - Multiple Choice
@@ -49,30 +75,21 @@ Các dạng câu hỏi trong bài thi Đọc (học thuật) của hình thức 
 
 # Listening
 
-- Learn like normal (80%) and the test (20%)
-
-[https://dailydictation.com/](https://dailydictation.com/)
-
-Based on context, xem chõ đố là điền từ loại gì
-
-- Use AirPods Pro 2 and Sony WH-1000XM4
 - 40 questions
 - 4 parts with 10 question for each part
 
 ## Question types
 
-Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên máy tính sẽ tương tự như hình thức thi trên giấy. Các dạng câu hỏi thông dụng như sau:
-
-- Câu hỏi nhiều lựa chọn (Multiple Choice)
-- Nối thông tin (Matching)
-- Kế hoạch/Bản đồ/Biểu đồ (Plan/Map/Diagram Labelling)
-- Hoàn thành biểu mẫu (Form Completion)
-- Hoàn thành ghi chú (Note Completion)
-- Hoàn thành bảng (Table Completion)
-- Hoàn thành lưu đồ (Flow-chart Completion)
-- Hoàn thành tóm tắt (Summary Completion)
-- Hoàn thành câu (Sentence Completion)
-- Câu hỏi yêu cầu trả lời ngắn (Short Answer Questions)
+- Multiple Choice
+- Matching
+- Plan/Map/Diagram Labelling
+- Form Completion
+- Note Completion
+- Table Completion
+- Flow-chart Completion
+- Summary Completion
+- Sentence Completion
+- Short Answer Questions
 
 # Writing
 
@@ -88,8 +105,7 @@ Các dạng câu hỏi trong bài thi Nghe của hình thức thi IELTS trên m�
 ## Part 1
 
 - Trong phần 1, bạn sẽ được cho một biểu đồ, bảng biểu hoặc sơ đồ và được yêu cầu mô tả, tóm tắt và giải thích các thông tin được cung cấp theo ngôn ngữ của bạn. Bạn cũng có thể sẽ được yêu cầu mô tả và giải thích số liệu, các bước của một quy trình, cách một vật hoạt động hoặc mô tả một sự vật hoặc sự kiện.
-- Học sách Gujiabei
-- Cứu tinh cho W1
+- Task 1 viết theo dạng
 
 ## Part 2
 
@@ -110,51 +126,41 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
     - Advantage and Disadvantages
     - 2-Part Question
 
+## Writing
+
+- Thườngg Writing sẽ là khó nhất
+
+Khó khăn
+- Chưa bao giờ viết luận
+- Từ vựng chưa nhiều
+
+- một cấu trúc viết cho Task 2 em cảm thấy hữu dụng là kiểu viết OREO l(Opinion Reasoning Example Opinion)., lối viết mạch lạc, logic. Em không dùng nhiều tài liệu, đa phần chỉ tìm kiếm trên Internet hoặc tìm trong cuốn Expert IELTS”.
+
 # Speaking
 
-Speaking and practice with ChatGPT
-
-- ==Chủ đề speaking cố gắng hướng về điều mình biết nhiều, điểm mạnh của mình như là công nghệ==
-- ChatGPT
-- Speak every day with ELSA Speak or The Coach or build own app
 - Paraphase
 
 ## Part 1
 
 ## Part 2
 
-**Speaking Practice**: Use ChatGPT to simulate IELTS Speaking Part 2, where you speak continuously for two minutes on a given topic. Focus on organizing your ideas clearly.
-
 # Strategy
 
-### Giờ gì làm việc nấy
+## Giờ gì làm việc nấy
 
 - Sáng làm đề
 - Chiều luyện nói
 
-### [[Standing on the Shoulders of Giants]]
+## [[Standing on the Shoulders of Giants]]
 
-https://www.youtube.com/@theforumcenter
-
-https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing 
-Dang Tran Tung 6 times IELTS 9.0
-
-https://vietnamnet.vn/nam-sinh-ha-noi-chia-se-bi-quyet-dat-diem-ielts-cao-2233201.html
-[IELTS Mock (Practice) Exams with teacher feedback](https://www.youtube.com/playlist?list=PLT4o5xHgvqv9XN57ZaI9HOqwzKg46w0H_))
-https://www.youtube.com/@LearnEnglishWithTVSeries
-[https://www.youtube.com/@butfirst_English](https://www.youtube.com/@butfirst_English)
-
+- https://www.youtube.com/@theforumcenter
+- https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing 
+- Dang Tran Tung 6 times IELTS 9.0
+    - The IELTS Workshop
 - Khánh Vy
-- Khiemslay
-- Nguyễn Lâm Thảo Tâm
-- Live with the language
-1. Đặng Trần Tùng
-    - The IELTS Workshopcauas
-5. Vừng
 
 Những người được IELTS 9.0 ở Việt Nam
 
-1. Đặng Trần Tùng
 2. Trần Hoài Giang
 3. Nguyễn Hàng Phương Dung
 4. Trương Hải Hà
@@ -172,9 +178,9 @@ Kiến thức được chuẩn bị từ những người đi trước (tài li�
 2. Tạo lập môi trường thi ngay tại nhà (thời gian thi, độ dài, môi trường, bấm giờ)
 - Learn IPA
 
-### 1 stone kill 2 birds
+## 1 stone kill 2 birds
 
-### Học khó hơn thi
+## Học khó hơn thi
 
 Những kỹ năng mình có thể làm nhanh hơn (dành ít thời gian hơn) so với lúc thi là Reading and Writing. Còn 2 kĩ năng còn lại không thể làm nhanh hơn được
 
@@ -183,9 +189,14 @@ Những kỹ năng mình có thể làm nhanh hơn (dành ít thời gian hơn) 
 - Shadowing
 - Mở file nghe, vừa nhìn script vừa shadowing theo băng
 
-### Mổ xẻ lỗi sai
+Test on 80% time, but maybe speak and writing we will do 120% (sound great)
+- Thử thách trong thời gian giới hạn và ngắn
+
+## Mổ xẻ lỗi sai
 
 Vì sao lại sai
+
+## Live with the language
 
 # Tips and Tricks
 
@@ -197,28 +208,19 @@ Vì sao lại sai
 - Scaning
 - Nắm được các dạng bài
 - KHÔNG ĐỌC KỸ ĐỀ BÀI CẦN GÌ
-- điền hết tất cả 40 câu 🙂
+- điền hết tất cả 40 câu
 - Thà đánh nhầm còn hơn bỏ sót
 - Biết thật nhiều từ vựng
 - paraphrasing
-- SRS
+- [[Spaced Repetition]]
 - Làm sao để không cần hiểu hết mà vẫn có thể làm đúng hết?
 - Đề Forecast theo quý
-- Liên tưởng nội dung để có thể nói được nhiều chủ đề (Like Multi model in AI)
 - Academic English Help
     - Hãy sử dụng Shadowing (SHADOWING SAO CHO ĐÚNG CÁCH VÀ HIỆU QUẢ)
-- Phân tích các video Mock Test Speaking
-    
-- Mock test là gì
-    
-- [IELTSonlinetests.com](http://ieltsonlinetests.com/)
     
 - Đừng quá để bản thân bị áp lực bởi thành tích và điểm số
     
 - Bên cạnh đó, việc hiểu được văn hóa, hình ảnh so sánh, ẩn dụ của người bản xứ cũng là một nền tảng giúp người học dễ dàng ghi điểm cao trong bài thi
-- Coi như là một cái cherry on top
-- Test on 80% time, but maybe speak and writing we will do 120% (sound great)
-- Thử thách trong thời gian giới hạn và ngắn
 - Đặt mục tiêu dưới 6.5
 - VN có vẻ thích IELTS
 - Hoặc là TOEIC
@@ -284,43 +286,9 @@ Với kỹ năng **Listening**, Khánh chủ động tìm nghe các video về 
 
 Với kỹ năng **Reading**, Khánh tìm tòi các trang thông tin, tạp chí khoa học… để đọc và học những từ ngữ mới. “Khi làm bài, cần đọc cẩn thận để đảm bảo không hiểu sai ý của tác giả bài viết hoặc bỏ lỡ thông tin trong các phương án trả lời. Em luôn cố gắng nối kết các từ khoá trong bài với các từ khoá trong câu hỏi nhằm dễ dàng nhận thấy đâu là câu trả lời đúng”, Khánh nói.
 
-## Writing
-
-- Thườngg Writing sẽ là khó nhất
-Ban đầu, em gặp khá nhiều trở ngại trong việc viết bài luận một phần vì chưa bao giờ viết bài luận do vốn từ chưa nhiều
-
-Sau đó, nam sinh tập trung hơn vào việc trau chuốt từ ngữ để phù hợp với văn phong của người bản xứ.
-
-“Task 1 khá đơn giản vì thường viết theo dạng, nhưng Task 2 sẽ khó hơn vì đòi hỏi thí sinh phải hiểu biết về các vấn đề xã hội và có mạch ý tưởng trôi chảy, rõ ràng”.
-
-Trang cho biết, một cấu trúc viết cho Task 2 em cảm thấy hữu dụng là kiểu viết OREO l(Opinion Reasoning Example Opinion)., lối viết mạch lạc, logic. Em không dùng nhiều tài liệu, đa phần chỉ tìm kiếm trên Internet hoặc tìm trong cuốn Expert IELTS”.
-
-## Speaking
-
-- Về phần kỹ năng nói, Đức thường trò chuyện video với nhóm nhóm bạn người nước ngoài từ nhiều nơi trên thế giới nên khả năng giao tiếp tương đối ổn. 
-- Ngoài ra, Đức và chị gái cũng thường xuyên nói chuyện với nhau bằng tiếng Anh hàng ngày. Những lúc đi tắm hoặc khi đi trên đường, em tự nói chuyện với bản thân bằng tiếng Anh về vấn đề thường ngày như thời tiết hoặc giao thông... 
-- “Em còn thường xuyên nghe nhạc, đọc truyện bằng tiếng Anh để hiểu rõ hơn về cách nói chuyện của người bản xứ. 
-- Hơn nữa, em cũng hiểu rõ bài thi IELTS là bài thi kiểm tra khả năng giao tiếp bằng ngôn ngữ thông qua 4 kỹ năng, không phải bài kiểm tra khả năng ghi nhớ từ vựng hay cấu trúc câu siêu khủng. Vì vậy các bài viết, bài nói của em mặc dù có ngôn ngữ đơn giản nhưng luôn duy trì được tính tự nhiên và trôi chảy”, Đức kể.
-
-- Bên cạnh đó, **phần Nói** cũng khiến Trang lo sợ vì cấu trúc phần thi này không giống những điều em giao tiếp thông thường.
-- “Ban đầu, em không thể nói được dài như mong muốn. Với những chủ đề quen thuộc, mặc dù có thể nói dài hơn nhưng từ vựng em dùng khá đơn giản, vốn chỉ phù hợp để giao tiếp”.
-- Có nhiều người bạn nước ngoài, Trang thường luyện phát âm thông qua việc trò chuyện. Bên cạnh đó, nữ sinh thường ghi âm câu trả lời cho Task 2, mỗi câu nói trong hơn 1 phút. Trước khi ghi âm, nữ sinh thường viết nhanh ý tưởng ra giấy kèm một số từ vựng liên quan muốn sử dụng trong bài nói.
-
-- Để nói được cần có = Vocabulary + Grammar + Ideas
-
-# Vocabulary
+# [[Knowledge/Language/Vocabulary|Vocabulary]]
 
 - Keep a journal of new academic vocabulary you encounter #Research 
-
-Literal and implicit
-
-## Words
-
-## Phrases
-
-### Idioms
-
-### Colocation
 
 # Grammar
 
@@ -329,6 +297,12 @@ Literal and implicit
 ## Non-standard
 
 # Ideas
+
+- Learn like normal (80%) and the test (20%)
+
+Based on context, xem chõ đố là điền từ loại gì
+
+- Use AirPods Pro 2 and Sony WH-1000XM4
 
 We need topic knowledge and how to orgranization and insight
 
@@ -366,3 +340,12 @@ Given your timeframe and targets, here's a structured approach:
 
 5. Academic Focus:
    Since you're aiming for a Master's program and research, we'll need to incorporate academic vocabulary and concepts. What field of study are you planning to pursue?
+
+# Resources
+
+- https://www.youtube.com/@LearnEnglishWithTVSeries #Speaking #Listening
+- https://dailydictation.com #Listening #Writing #Learning 
+
+- [IELTS Mock (Practice) Exams with teacher feedback](https://www.youtube.com/playlist?list=PLT4o5xHgvqv9XN57ZaI9HOqwzKg46w0H_) #Speaking 
+- [https://www.youtube.com/@butfirst_English](https://www.youtube.com/@butfirst_English)
+- https://ieltsonlinetests.com

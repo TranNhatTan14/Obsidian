@@ -1,2 +1,0 @@
-- Learn [[English]], thi IELTS, bổ sung kiến thức cần thiết dựa trên yêu cầu công việc, làm việc với [[Glocalization]] #Goal
-- 

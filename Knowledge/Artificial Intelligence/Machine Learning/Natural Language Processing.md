@@ -2,13 +2,13 @@
 links:
   - "[[Artificial Intelligence]]"
   - "[[Hugging Face]]"
+  - "[[Transformer]]"
+aliases:
+  - NLP
 ---
-### [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
-
 - Word embeddings
 - Recurent Network
 - Attention Network
-- Transformers
 - Transfer Learning
 - Bidirectional models
 - Beam search
@@ -32,19 +32,3 @@ NLP teaches computers to **understand human languages**
 - Entity extraction
 - Machine Translations
 - Interactive conversation
-
-### NLP on Google Cloud
-
-#### NLP solutions
-
-### NLP with Vertex AI
-
-### Text representation
-
-### Tasks
-
-View [Hugging Face Tasks](https://huggingface.co/tasks)
-
-### Chatbot
-
-### LLM

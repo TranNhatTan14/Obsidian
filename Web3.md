@@ -1,0 +1,6 @@
+---
+tags:
+  - Finance
+links:
+  - "[[Blockchain]]"
+---

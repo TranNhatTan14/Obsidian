@@ -1,4 +1,6 @@
 ---
-status: Planning
-type:
+tags:
+  - Book
+links:
+  - "[[Habits]]"
 ---

@@ -491,9 +491,7 @@ Deploy and Run
 
 Monitor and Maintain
 
-# [[Git]]
-
-Git
+# Git
 
 Making changes
 

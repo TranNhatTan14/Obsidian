@@ -8,6 +8,7 @@
 - Let go of expectations, they only bring disappointment.
 - Your spririt is your strongest ammor
 - One beam, no matter how big, cannot support an entire house on its own. Unity creates strength
+- Sometimes losing other people helps you find yourself
 
 # Quote
 

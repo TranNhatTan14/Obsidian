@@ -1,3 +1,9 @@
+---
+tags:
+  - Application
+description: Generative AI chatbot and language model act as assistant
+---
+
 # Advanced voice mode
 
 - Natural conversations: Senses and responds to interruptions, humor
@@ -16,3 +22,12 @@ Up to 5x more messages for GPT‑4o
 Access to data analysis, file uploads, vision, web browsing, and image generation
 Access to Advanced Voice Mode
 Create and use custom GPTs
+
+Hôm nay mình xem video này giới thiệu về GPT-4o
+
+- Real-time response conversation
+- Can Interupt
+- Learn about our Emotion
+- Differrent voice tone
+- Can see, hear
+- Translate real-time
