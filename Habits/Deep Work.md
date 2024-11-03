@@ -1,8 +1,16 @@
+---
+tags:
+  - Habit
+  - Environment
+links:
+  - "[[AirPod]]"
+  - "[[Tasks]]"
+---
 - Cảm giác có người học cùng hoặc làm việc cùng sẽ giúp mình tập trung hơn không?
 	- Video của The Hanoi Chamomile trên YouTube
 	- Threads của Dương Vũ
 - Âm thanh thì mình có thể sử dụng âm thanh trong iPhone (nghe hơi giả)
-	- Có thể sử dụng âm thanh trong ứng dụng Balance
+- Có thể sử dụng âm thanh trong ứng dụng Balance
 - Quan trọng là hãy trồng cây và tặng cây cho ai đó ý nghĩa
 
 # Forest

@@ -110,4 +110,3 @@ Creating mental images or diagrams to represent complex information, improving c
 
 - Apple Shortcut
 - Keyboard shortcut
-

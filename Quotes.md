@@ -1,3 +1,5 @@
+You may be disappointed if you fail, but you are doomed if you don't try.
+
 “If you want to go fast, go alone. If you want to go far, go together.” – African Proverb
 
 - Your journey is a testament to your strength

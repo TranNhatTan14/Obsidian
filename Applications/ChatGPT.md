@@ -3,7 +3,6 @@ tags:
   - Application
 description: Generative AI chatbot and language model act as assistant
 ---
-
 # Advanced voice mode
 
 - Natural conversations: Senses and responds to interruptions, humor
@@ -31,3 +30,5 @@ Hôm nay mình xem video này giới thiệu về GPT-4o
 - Differrent voice tone
 - Can see, hear
 - Translate real-time
+
+# Memory learn from input

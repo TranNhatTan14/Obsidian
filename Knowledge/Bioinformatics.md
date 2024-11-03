@@ -2,7 +2,6 @@
 links:
   - "[[Knowledge]]"
 ---
-
 ### Alleles
 
 Different versions of the same variant are called alleles. For example, a SNP may have two alternative bases, or alleles, C and T4.
@@ -39,3 +38,12 @@ A contig (as related to genomic studies; derived from the word “contiguous”)
 A genome is typically studied by breaking down its DNA into pieces, analyzing those pieces in the laboratory, and then computationally putting those pieces back together in a conceptual way. Years ago, before genome sequencing became routine, the pieces of DNA would first be cloned and then individual clones would be analyzed to determine which clones overlapped which other clones. A set of overlapping clones that together contain a ‘contiguous’ region of a genome is called a contig – or in this case a clone contig. Genome sequencing uses the concept of a contig, but in a different way. For genome sequencing, the pieces are not actually physical segments of DNA but rather are stretches of generated DNA sequence (often called a sequence read). By establishing the overlaps among a set of sequence reads, one can assemble a sequence contig, from which the actual sequence of the genomic region can be deduced.
 
 https://www.quora.com/What-are-reads-and-contigs-file-formats-bioinformatics#:~:text=%E2%80%9CReads%E2%80%9D%20are%20small%20segments%20of,formed%20by%20assembling%20the%20reads.
+
+# Terminology
+
+### Consensus
+
+### Composition
+
+- The read binning tools such as OBLR employ read overlap graphs that hold neighborhood information of overlapping reads.
+- The use of the read overlap graph has greatly increased the accuracy of binning yet requires effcient means to handle large overlap graphs with millions of reads.

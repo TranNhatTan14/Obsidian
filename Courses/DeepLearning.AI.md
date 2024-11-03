@@ -3,7 +3,6 @@ links:
   - "[[Transformer]]"
   - "[[Natural Language Processing]]"
 ---
-
 # Topics
 
 - Agents

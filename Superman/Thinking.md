@@ -1,3 +1,7 @@
+Nghe audio book không phù hợp với mình lắm
+Mình thích không khí lạnh hơn là không khí nóng 
+Thiền lúc trưa thì sao habbit
+Stay on top in Brilliant
 - Suy nghĩ về cuộc sống như một cuộc chiến, chiến thắng để nhận được phần thường là G, làm mình thấy thích thú và muốn tham gia vào cuộc chiến
 - Đúng là cuộc sống khó có thể thiếu được những cảm xúc như khi xem phim, nhưng hãy biến n thành những cảm xúc đáng quý
 - Mình có cảm thấy đôi chút rằng là mình đang chưa tham gia nhiều dự án quan trọng trên GeneStory và cảm giác FOMO là nếu mình rời đi thì mình cũng không có bài báo nào cả

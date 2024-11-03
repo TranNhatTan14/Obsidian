@@ -25,10 +25,6 @@ Illustration of functional follow-up of GWAS
 4. ==Target gene for a GWAS locus can be prioritized by mapping expression quantitative trait loci== (eQTLs) (left) and ==their co-localization== (right) to ==identify loci where the causal variant from GWAS== is also a causal variant affecting gene expression. For GWAS variants in enhancers, high-throughput chromosome conformation capture (Hi-C) data and maps of enhancer target genes can be used together with simple prioritization by distance to identify genes affected by the causal variant (below). 
 5. To identify pathways whose perturbation may mediate the trait in question (red box), one can analyse the enrichment of multiple GWAS-implicated genes in predefined pathways. Additional approaches include trans-eQTL mapping and CRISPR perturbation of GWAS loci/genes followed by cellular phenotyping (not shown). For these analyses, the context of a relevant tissue, cell type and cell state needs to be carefully considered and analysed. ATAC-seq, assay for transposase-accessible chromatin using sequencing; H3K27Ac, histone H3 acetylated at K27; SNP, single-nucleotide polymorphism.
 
-## HLA
-
-
-
 ## Pre-GWAS
 ### Data collection
 

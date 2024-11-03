@@ -1763,47 +1763,6 @@ Picture a pristine, shining trophy that represents the pinnacle of achievement a
 ID: 1727604241013
 END
 
-# ingestion
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-ingestion
-Back:
-- Definition: The process of taking food or other substances into the body through the mouth.
-- IPA: /ɪnˈdʒɛs.tʃən/
-- Pronunciation: [in-JES-chuhn](https://www.google.com/search?q=how+to+pronounce=ingestion)
-- Synonyms: consumption, intake, absorption
-- Antonym: excretion, expulsion, elimination
-- Prefix: in - meaning "into"
-- Root: gest - meaning "to carry" (from Latin "gerere")
-- Suffix: ion - meaning "action or process"
-- Connotation: Generally neutral; describes a biological process.
-- Vietnamese: sự tiêu thụ
-- Chinese: 摄取
-
-### Mnemonic
-"Ingestion is like pouring a drink into a glass, filling it up."
-
-### Word Family
-- The **ingestive** behavior of the animal is fascinating.
-- After **ingesting** the food, the body begins digestion.
-- **Ingested** substances vary greatly from person to person.
-- The doctor discussed the **ingestion** of supplements.
-- Her **ingestion** of knowledge was evident in her studies.
-
-### Personal Connection
-Ingestion relates to our daily eating habits, reminding us of the importance of nutrition and health in our lives.
-
-### Visual Association
-Imagine a person happily eating a delicious meal, symbolizing the process of ingestion.
-ID: 1727604241018
-END
-
----
-
 # instruct
 
 TARGET DECK: Obsidian
@@ -3340,51 +3299,6 @@ Rotation can remind us of everyday actions, like turning a doorknob or the chang
 ### Visual Association
 Imagine a spinning wheel, symbolizing continuous rotation around a central axis.
 ID: 1727604241204
-END
-
----
-
-# safari
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-safari
-Back:
-- Definition: An expedition to observe or hunt animals in their natural habitat, especially in Africa.
-- IPA: /səˈfɑː.ri/
-- Pronunciation: [suh-FAH-ree](https://www.google.com/search?q=how+to+pronounce=safari)
-- Synonyms: expedition, journey, adventure
-- Antonym: stay, settlement, static
-- Prefix: None
-- Root: safari - meaning "journey" (from Swahili "safari")
-- Suffix: None
-- Connotation: Generally positive; implies adventure and exploration.
-- Vietnamese: cuộc thám hiểm
-- Chinese: 野生动物园
-
-### Mnemonic
-"A safari is like stepping into a wild adventure full of wonders."
-
-### Word Family
-- They planned a **safari** in Kenya to see the wildlife.
-- The **safari** experience was unforgettable.
-- He enjoyed **safari-ing** through the national park.
-- Her photographs from the **safari** captured breathtaking moments.
-- They shared their **safari** stories with friends.
-
-### Personal Connection
-Safari can evoke feelings of adventure and exploration, reminiscent of travels and experiences in nature.
-
-### Visual Association
-Picture a jeep driving through a savanna filled with wild animals, symbolizing the excitement of a safari.
-
-Back To Africa? What To Expect On A Luxury Safari
-
-![](https://imageio.forbes.com/specials-images/imageserve/61a11bdb7afd3d7797865eb5/8-Giraffes-Credit-Micato-Safaris/960x0.jpg?format=jpg&width=960)
-ID: 1727604241209
 END
 
 # sprout

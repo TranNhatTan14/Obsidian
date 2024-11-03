@@ -5,8 +5,8 @@
 - The quickest way to learn more complex vocabulary is also the most fun: **read more, keep a list**
 - Uống chanh ban ngày, ra ngoài bắt nắng, uống ban đêm thận không lọc được - Triệu Lộ Tư
 - Lê và dứa không nên ăn cùng với sản phẩm từ sữa, ăn vào dễ bị đi ngoài
-- Ngắm mặt trời, ăn nhiều cà chua, ăn hạt vừng chứa nhiều kẽm nữa là mắt sáng, hạn chế bấm điện thoại #eye
-- Recording your thoughts and feelings has medical benefits. For example, it can reduce stress and decrease blood pressure #health 
+- Ngắm mặt trời, ăn nhiều cà chua, ăn hạt vừng chứa nhiều kẽm nữa là mắt sáng, hạn chế bấm điện thoại #Eye
+- Recording your thoughts and feelings has medical benefits. For example, it can reduce stress and decrease blood pressure #Health 
 
 Luôn sẵn sàng cho công việc trong mọi trường hợp
 
@@ -17,8 +17,6 @@ Luôn sẵn sàng cho công việc trong mọi trường hợp
 > [!tip] Learning
 > Take a deep breath before listening to something to reduce stress, increase focus, and boost retention.
 
-> [!tip] Love
-> Takes time to get to know her first and is genuinely interested
 
 > [!tip] Work
 > [Thực hành AWS mà không cần tạo tài khoản](https://devopsvn.tech/aws-practice/thuc-hanh-aws-ma-khong-can-tao-tai-khoan)

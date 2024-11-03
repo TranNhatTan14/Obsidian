@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e550e59d02bf84",
+        "id": "bf76db237cd1dcaf",
         "type": "tabs",
         "children": [
           {
-            "id": "ac566b5362a6c585",
+            "id": "a6958e6a593d13a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/Research/AMR.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511cc15e89082c38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/PlasmidEC and gplas2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "Valor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Papers/PlasmidEC and gplas2.md"
+              }
             }
           },
           {
@@ -100,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Papers/PlasmidEC and gplas2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Papers/PlasmidEC and gplas2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 414.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,53 +184,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ac566b5362a6c585",
+  "active": "511cc15e89082c38",
   "lastOpenFiles": [
-    "Knowledge.md",
-    "Knowledge/Bioinformatics.md",
-    "Books/Hands-On Graph Neural NetworksUsing Python.md",
-    "Prompt.md",
-    "Writing/What kind of person should we look up to.md",
-    "Applications/Elevate.md",
-    "Knowledge/Artificial Intelligence.md",
+    "Work/Research/AMR.md",
+    "Applications/Arena of Valor.md",
+    "Resources/Tools/Google/Google Chrome.md",
+    "Rules.md",
+    "Habit Tracker.md",
+    "Things.md",
+    "Knowledge/Cryptocurrency.md",
+    "Emotions/Loving life.md",
+    "Family.md",
+    "Resources/Tools/Git.md",
+    "Snakemake.md",
+    "Work/Track/Associate AI Engineer for Data Scientists.md",
+    "Papers/PlasmidEC and gplas2.md",
+    "Gplas.md",
+    "Quotes.md",
+    "Seminar/mtDMA Matching.md",
+    "Papers/UnitigBIN.md",
+    "Pandas.md",
+    "Applications/TikTok.md",
+    "Love.md",
+    "People/Toni Kroos.md",
+    "Routine.md",
+    "People.md",
+    "Mom.md",
+    "Children.md",
+    "Emotions/Peaceful.md",
+    "Emotions",
+    "People",
+    "Podcasts",
     "Resources/Files/Pasted image 20241028153824.png",
-    "Journals/20241028.md",
-    "Untitled.md",
-    "[.md",
     "Resources/Files/Pasted image 20241028154414.png",
     "Resources/Files/Pasted image 20241028154303.png",
     "Resources/Files/Pasted image 20241028154129.png",
     "Resources/Files/Pasted image 20241028153951.png",
     "Resources/Files/Pasted image 20241028153840.png",
     "Resources/Files/Pasted image 20241028153838.png",
-    "Seminar/Portal.md",
     "Journals",
-    "Courses/CS224W.md",
-    "Applications/Obsidian.md",
-    "Keyword.md",
-    "Ideas & Brainstorms.md",
-    "Finance.md",
-    "Web3.md",
-    "Knowledge/Cryptocurrency.md",
-    "Blockchain.md",
-    "SciSpace.md",
-    "Work/Work.md",
-    "Knowledge/Cloud Computing.md",
-    "Tools.md",
-    "Certifications/IELTS.md",
-    "Resources.md",
     "Principle",
     "Extensions",
     "Locations",
     "Resources",
     "Resources/Tools/Google",
     "Knowledge/Artificial Intelligence/Graph",
-    "Seminar",
     "Resources/Files/Pasted image 20241023104429.png",
-    "Courses/DeepLearningAI",
     "Resources/Files/Pasted image 20241020130922.png",
     "Resources/Files/Pasted image 20241020130626.png",
-    "Superman/Health/Mental Health",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+- ONLY play [[Arena of Valor]] and lower rank than people in [[GeneStory]] and ONLY play AD or Jungle

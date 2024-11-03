@@ -47,7 +47,7 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 ### Syntax
 
 - Avoid making embarrassin mistake in writing
-- Master tricky grammar rules #grammar
+- Master tricky grammar rules #Grammar
 
 ### Other
 
@@ -81,7 +81,7 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 ### Pronunciation
 
 - Become a more confident speaker
-- Learn to [[enunciate]] words clearly
+- Learn to enunciate words clearly
 - Avoid common pronunciation mistakes
 
 ### Recall

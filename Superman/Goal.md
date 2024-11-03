@@ -2,7 +2,6 @@
 links:
   - "[[Superman]]"
 ---
-
 - ==Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)==
 - Chia nhỏ thành các bước
 - Remember to regularly review and adjust these goals as circumstances change or as you achieve milestones. Good luck with your ambitious and well-defined goals!

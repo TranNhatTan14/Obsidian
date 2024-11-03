@@ -2,9 +2,10 @@
 links:
   - "[[Superman]]"
 ---
+https://hbr.org/2022/09/the-most-popular-and-impactful-hbr-articles-of-all-time
+
 - Relationship
 	- [[IELTS]]
-- [[Habits]]
 - Items
 	- [[iPhone]]
 	- [[iPad]]
@@ -13,12 +14,12 @@ links:
 	- [[Headphone]]
 	- [[Eyeglasses]]
 - [[Work]]
-	- [[Current Work]]
+	- [[Work/Current Work]]
 		- [[Multimodal Personal Assistant]]
 		- [[Bioinformatics]]
 	- [[Research]]
 		- [[NSAID]]
-		- [[AMR|AMR]]
+		- [[AMR]]
 	- [[Future Work]]
 	- Cloud
 - [[Finance]]
@@ -40,7 +41,6 @@ links:
 	- Calendar
 	- [[ChatGPT]]
 	- [[Forest]]
-	- [[Habitify]]
 	- [[Health]]
 	- Liên Quân Mobile
 	- Mail
@@ -69,7 +69,6 @@ links:
 - [[Analogy]]
 - [[Geographic Arbitrage]]
 - [[Health]]
-- [[Finance]]
 
 - Chăm sóc sức khoẻ. kiếm thêm thu nhập
 - Learn from work, like how to work with data, to get insight, know the trend

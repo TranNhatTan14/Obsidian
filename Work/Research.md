@@ -11,10 +11,6 @@ Nghiên cứu theo hướng ứng dụng, thay vì tạo ra nghiên cứu mới 
 
 ## [[Artificial Intelligence]] and Genetics
 
-### [[NSAID]]
-
-### [[AMR]]
-
 - Phát triển Human Intelligence from Artificial Intelligence
 - Research in AI and application in Healthcare. Now I working on **Bioinformatics**, research about genetics
 

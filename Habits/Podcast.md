@@ -12,3 +12,5 @@ Quanta Magazine
 Freedom in Thought
 Artem Kirsanov #Neuroscience
 3Blue1Brown
+
+# Amateur Psychology

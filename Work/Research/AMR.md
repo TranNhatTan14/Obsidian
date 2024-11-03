@@ -1,21 +1,9 @@
 ---
+tags:
+  - Research
 aliases:
   - Identify of bacterial plasmid with assembly graph using Graph Transformer
 ---
-# Tasks
-
-- [ ] Prepare data, first use assembly graph for contig and include the positive and negative edge
-	- [ ] What features we want to extract from assembly graph
-	- [ ] How to create edge features like UnitigBin
-	- [ ] The first feature we want to extract is coverage and GC content
-
-- [ ] Phân tích khả năng của việc sử dụng thông tin liên quan đến kết nối của các contig, lựa chọn tham số tối ưu của BLAST cho kết quả tốt nhất
-	==Vấn đề đang gặp phải là số lượng mẫu có thể alignment được với database không nhiều==
-- [ ] Test kết quả đầu ra nếu thêm thông tin về alignment
-- [ ] Thêm thông tin liên quan đến protein trên chromosome xem kết quả có cải thiện không
-- [ ] Tự tạo unitig hoặc contig dựa trên file FASTA và xác dịnh xem có đúng là các contig có kết nối với nhau không
-- [ ] Kết hợp thuật toán từ plASgraph2 và UnitigBin để xây dựng thuật toán (chưa sử dụng đến Transformer)
-
 # Problem definition
 
 DNA assembly to short read to unitig to contig and unitig assembly graph and contig assembly graph
@@ -27,6 +15,11 @@ DNA assembly to short read to unitig to contig and unitig assembly graph and con
 	- Use Graph Transformer for better 
 - No need to train specific model for each specie like PLASMe
 - Can handle short contig (contig between 100 - 1000 bp)
+
+# Workflow
+
+- Assembly genome to use workflow in PlasmidEC
+- 
 
 # Abstract
 
@@ -75,7 +68,6 @@ Hybrid
 - The interpretation of the Transformer identified potentially unannotated PCs that may also play an important role in the life of plasmids
 
 - Thay vì chỉ tập trung vào đặc điểm plasmid có (gene, protein tren do), tap trung them vao nhung gen co trong bacterial ma khong co trong plasmid (như là hình của biểu đồ ven)
-
 - Cho loài mới khi chưa có dữ liệu để training, chưa có dữ liệu để align
 - Cảm giác giống như bài toán Go khi có nhiều nước đi mới mà máy tính thực hiện mà con người chưa tỉm ra
 
@@ -160,7 +152,7 @@ PC-based token achieved the best precision, recall and F1-score
 - Fine-tune on labeled plasmid data
 - Output: Probability of contig being plasmid-derived
 
-## Graph Neural Network:
+## Graph Neural Network
 
 - Construct graphs based on:
     - Sequence similarity between contigs
@@ -178,19 +170,6 @@ PC-based token achieved the best precision, recall and F1-score
 
 - Manual curation of high-confidence predictions
 - Experimental validation of novel plasmid predictions
-
-## Data
-
-A dataset of 240 complete E.Coli genomes from eight different phylogroups and 117 sequence types (STs).
-
-- All genome sequences were completed by the combination of short-and long-read sequencing data
-- First we can only focus on: E. coli, K. pneumoniea, S. aureus
-- We can hybrid with alignment for our task, the metagenomic binning can use it
-
-- Short-read sequences of each sample were assembled with bactofida
-- The resulting contig were labelled by alignment to their respective complete geonmes using QUAST
-	- Only contig larger than 1000 bp with an alignment of at least 90% the contig length were considered
-	- Of those, contigs aligning to multiple positions in the genome (ambiguously aligned contigs) were included as long as they exclusively aligned to either the chromosome or to plasmid
 
 ### Assembly graph
 
@@ -307,9 +286,6 @@ Improved Positional Embedding from Graphs
 - [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699)
 - [Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://proceedings.neurips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
 - [TORMES: an automated pipeline for whole bacterial genome analysis](https://academic.oup.com/bioinformatics/article/35/21/4207/5430930)
-- ==[PlasmidEC and gplas2: an optimized short-read approach to predict and reconstruct antibiotic resistance plasmids in Escherichia coli](https://pmc.ncbi.nlm.nih.gov/articles/PMC10926690/pdf/mgen-10-1193.pdf)==
-- [gplas: a comprehensive tool for plasmid analysis using short-read graphs](https://pmc.ncbi.nlm.nih.gov/articles/PMC7320608/pdf/btaa233.pdf)
-	- https://bio.tools/Gplas
 - [MetaGraph: Plasmid/Chromosome Classification Enhancement Using Graph Neural Networks](https://ieeexplore.ieee.org/document/9906285)
 - [plASgraph2: using graph neural networks to detect plasmid contigs from an assembly graph](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10587606/pdf/fmicb-14-1267695.pdf)
 - [3CAC: improving the classification of phages and plasmids in metagenomic assemblies using assembly graphs](https://academic.oup.com/bioinformatics/article/38/Supplement_2/ii56/6702013)

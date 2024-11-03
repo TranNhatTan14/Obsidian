@@ -3,7 +3,7 @@ tags:
   - Google
   - Application
 ---
-# Extensions
+### Extensions
 
 | Name                                                                                                                  | Description                                                              |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -12,20 +12,17 @@ tags:
 | [Forest](https://chromewebstore.google.com/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk)         | Stay focused, be present                                                 |
 | [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)              | Ad block                                                                 |
 | [Web Highlights](https://chromewebstore.google.com/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm) | PDF & Web Highlighter                                                    |
+[[Redirector]]
 
-- [[Redirector]]
+# Profiles
 
-### Profiles
+## Personal
 
-I have 02 profiles. The first profile is for personal use and one for univesity use.
-
-# Group tabs
+### Group tabs
 
 Temporary organization of open tabs
-# Folder
+### Folder
 
 Permanent storage of URLs
 
-### DNS to view Medium
-
-- Use `/` to jump to search box #Shortcut
+## University

@@ -1,8 +1,7 @@
 ---
 tags:
   - Writing
-aliases:
-  - What is the most important things with me
+aliases: []
 ---
 ### Bản thân mình
 

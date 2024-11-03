@@ -3,8 +3,6 @@ tags:
   - Programming
   - Tool
   - Microsoft
-links:
-  - "[[Programming]]"
 ---
 # Port
 

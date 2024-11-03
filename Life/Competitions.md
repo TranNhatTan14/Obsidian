@@ -12,12 +12,8 @@
 
 https://aiagentschallenge.com
 
-### DrivenData
+# DrivenData
 
 https://www.drivendata.org/competitions
 https://www.drivendata.org/competitions/295/cdc-automated-abstraction
 https://www.drivendata.org/competitions/296/cdc-novel-variables
-
-# Zindi
-
-https://zindi.africa/competitions/lacuna-malaria-detection-challenge

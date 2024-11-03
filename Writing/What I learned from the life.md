@@ -129,3 +129,9 @@ Quản lý những gì mình đã làm được sử dụng Google Sheet
 chị Hà Trang
 Tình thần làm việc hiệu quả
 Khả năng tự lập từ sớm
+
+# People
+
+## Richard Feynman
+
+I couldn’t reduce it to the freshman level. That means we really don’t understand it.

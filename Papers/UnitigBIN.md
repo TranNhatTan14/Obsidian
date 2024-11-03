@@ -1,4 +1,6 @@
 ---
+tags:
+  - Paper
 aliases:
   - Encoding Unitig-level Assembly Graphs with Heterophilous Constraints for Metagenomic Contigs Binning
 ---

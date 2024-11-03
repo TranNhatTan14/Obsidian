@@ -2,7 +2,6 @@
 tags:
   - GeneStory
 ---
-
 Vai trò của mtDNA trong nhận dạng cá thể
 Tóm tắt, gợi ý hướng dẫn
 

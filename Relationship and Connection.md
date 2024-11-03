@@ -1,0 +1,1 @@
+A connection generally denotes a more casual or temporary association, while a relationship implies a deeper, more meaningful and enduring bond between individuals or entities**.

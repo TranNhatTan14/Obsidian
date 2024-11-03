@@ -109,11 +109,6 @@ Having a purpose is a fundamental component of living a fulfilling life.
     
 - Làm phần mềm thì không thể qua được SWE, tập trung vào phần cứng AIoT
 - Vấn đề của mình bây giờ là không biết mình sẽ làm công việc như thế nào
-    
-
-1. **Automation and Robotics Advancements**: The integration of AI with Mechatronics allows for the development of advanced autonomous systems and robots. These intelligent machines can learn from their environments, adapt to changing conditions, and perform complex tasks with precision and efficiency. Industries such as manufacturing, logistics, and healthcare can benefit from enhanced productivity, reduced human error, and increased safety.
-2. **Smart and Connected Devices**: Mechatronics combined with AI enables the creation of smart and connected devices. Imagine a future where your home appliances, vehicles, and personal gadgets seamlessly communicate and adapt to your preferences. From smart homes to self-driving cars, the integration of AI with Mechatronics can revolutionize our daily lives, making them more convenient, efficient, and environmentally friendly.
-3. **Enhanced Human-Machine Interaction**: Mechatronics and AI integration pave the way for intuitive and natural interactions between humans and machines. Through technologies such as gesture recognition, voice control, and haptic feedback, we can create interfaces that allow us to communicate and collaborate seamlessly with machines. This opens up possibilities for applications in healthcare, entertainment, and assistive technologies.
 
 #### Education
 
@@ -283,3 +278,24 @@ Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack ap
 - Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
 
 ### [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
+
+AI-generating new Linkedln picture with Remini #Linkedln #Photo #AI
+
+Khiến xung đột ngày càng gay gắt là cách giải quyết xung đột
+Chó đi vệ sinh ra cầu thang, ghi giấy không được, ghi theo giọng điều của chủ con chó tạo xung đột
+
+Biến chuyện riêng thành chuyện chung
+Tư duy ngược
+
+Ứng biến nhanh #Speaking 
+
+- Good - Better - Best
+- Bad - Worse - Worst
+- Past - Present - Future
+- One - Two - Three
+- Pros - Cons
+
+Claude + V0 + Cursor
+
+
+Listening to audio book is not a good way because we need to more focus and limit by speed, don't know what going on #Habit

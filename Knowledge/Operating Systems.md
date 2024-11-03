@@ -20,46 +20,6 @@ du -sh /home/user/*
 wget -O /home/tantn/workspace/NSAID/pipeline/annotation/GCF_000001405.40.gz.tbi https://ftp.ncbi.nih.gov/snp/latest_release/VCF/GCF_000001405.40.gz.tbi
 ```
 
-# Conda
-
-```bash
-# Deactivate
-conda deactivate
-
-# Remove environment
-conda env remove --name env_name
-
-# Use conda with Jupyter Notebook
-conda install -c anaconda ipykernel
-
-conda env export > environment.yml
-conda env export --no-builds > environment.yml
-```
-
-# tmux
-
-```bash
-# Install Tmux
-sudo apt install tmux
-
-# Create new session with name
-tmux new -s [session_name]
-
-# Attach new session
-tmux attach -t [session_name]
-
-# Kill exist session
-tmux kill-session -t [session_name]
-
-# List of sessions
-tmux ls
-
-# Exit session
-exit
-```
-
-`Ctrl + B + Page Up` to scroll and `q` to Quit
-
 # OpenCore
 
 https://dortania.github.io/OpenCore-Install-Guide/extras/spoof.html#windows-gpu-selection
@@ -80,4 +40,10 @@ https://www.youtube.com/watch?v=pCyonAMQrzw
 
 https://www.nagraj.net/notes/bcftools
 
+```bash
 ls -1 /home/tantn/workspace/STR/web_crosscheck/result/20241022_HID49/20241022_HID49.phieuKQ | wc -l
+```
+
+```bash
+zip -r archive_name.zip folder_name
+```

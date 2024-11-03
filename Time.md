@@ -1,3 +1,8 @@
+---
+tags:
+  - Resource
+---
+
 Thời gian bị lãng phí hoặc coi là lãng phí và có thể tối ưu được
 
 - Thời gian khởi động thiết bị
