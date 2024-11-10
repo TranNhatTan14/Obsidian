@@ -1,3 +1,8 @@
+---
+links:
+  - "[[Life]]"
+---
+
 You may be disappointed if you fail, but you are doomed if you don't try.
 
 “If you want to go fast, go alone. If you want to go far, go together.” – African Proverb
@@ -11,6 +16,8 @@ You may be disappointed if you fail, but you are doomed if you don't try.
 - Your spririt is your strongest ammor
 - One beam, no matter how big, cannot support an entire house on its own. Unity creates strength
 - Sometimes losing other people helps you find yourself
+
+If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle - Sun Tzu
 
 # Quote
 

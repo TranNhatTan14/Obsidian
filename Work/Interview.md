@@ -18,3 +18,11 @@ Write thank you letter after interview
 https://nodesk.co/remote-jobs/ai
 https://nodesk.co/remote-jobs/machine-learning
 https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
+
+# The STAR method
+
+The STAR method for interviews involves sharing
+- the context of the situation
+- the task you had to accomplish
+- the action you took
+- the end result

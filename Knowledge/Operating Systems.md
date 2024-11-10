@@ -10,7 +10,10 @@ touch <file-name>
 # Automatically respond yes to al
 <command> -y
 
+# Check folder size
 du -sh /home/user/*
+
+du -sh --exclude='*' /path/to/folder
 ```
 
 # wget

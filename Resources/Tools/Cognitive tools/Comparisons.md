@@ -1,3 +1,7 @@
+---
+tags:
+  - Tool
+---
 # To-do and Task
 
 The difference between "to-do" and "task" lies in their usage and context:

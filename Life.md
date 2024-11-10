@@ -1,3 +1,11 @@
+---
+links:
+  - "[[Superman]]"
+---
+# Definition
+
+The purpose and meaning of life
+
 - LIfe is not equal
 - Fucking Yes or No
 
@@ -36,26 +44,10 @@ In life, there are things we can’t control, just like the wind. But here’s t
 ### Advice
 
 - Đừng bao giờ hy sinh việc "học" của bạn vì một tình yêu chưa trưởng thành
+- Who ask a question is a fool for five minutes, who does not ask a question remain the fool forever. Seek knowledge boldly
 
-# Life Milestones
+Tận hưởng cuộc sống tươi đẹp
 
-### 2024/04
+- https://www.tiktok.com/@luvyour703_/photo/7260307280619425025
 
-- Đăng ký chương trình FPT Software AI Residency và mình đã nhận được mail reject vào ngày 2024/04/16
-- Sinh nhật bố
-
-### 2024/05
-
-- Hoàn thành chương trình đào tạo kĩ sư AI
-
-### 202406
-
-Nghe tin mẹ bị sỏi thận đau bụng phải đi viện, mình đã rất buồn và khóc
-
-### 202405
-
-- Kết thúc chương trình đào tạo kĩ sư AI, cảm xúc thay đổi lẫn lộn vì công ty GeneStory xử lý hợp đồng không chuyên nghiệp.
-
-### 202011
-
-- Vân tay mẹ không rõ nữa
+- [Mưa trước cầu Nhật Tân](https://www.tiktok.com/@quytngot99/video/7284911802138266886)

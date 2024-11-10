@@ -1,3 +1,8 @@
+---
+tags:
+  - Attention
+  - Language
+---
 # Pronunciation
 
 # Grammar

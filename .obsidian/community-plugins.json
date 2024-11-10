@@ -7,5 +7,6 @@
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-to-anki-plugin",
-  "obsidian-spaced-repetition"
+  "obsidian-spaced-repetition",
+  "contribution-graph"
 ]

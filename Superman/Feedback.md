@@ -1,3 +1,7 @@
+---
+links:
+  - "[[Superman]]"
+---
 - Mình gặp vấn đề với thư viện khá nhiều và không biết rõ cách khắc phục #Work 
 - Đô khi  thấy buồn ngủ khi bắt đầu làm việc buổi sáng
 - Thiếu kiến thức, cảm thấy mình chưa sẵn sàng cho công việc mới
@@ -12,4 +16,11 @@
 - Mua hoa quả và ăn hoa quả
 - Nếu uống nước lọc, cắt thêm vài lát chanh
 - Dạo này mình cười nhiều hơn, note lại xem những lúc như thế tại sao lại cười
-
+- Cần tăng cơ, giảm mỡ
+- Nâng cao kiến thức
+- Cảm giác muốn ngủ, không muốn dậy đi tập
+	- MTTA dậy sơm
+- Nên tập đúng giờ không thì nhiều thứ đảo lộn lắm, giống như note trong tin nhắn Messenger
+- Mình hay muốn check thông tin [[Cryptocurrency]] trong [[ONUS]]
+- Mình cảm thấy hơi đau lưng bên phải khi ngồi
+- Mình không phù hợp với audiobook

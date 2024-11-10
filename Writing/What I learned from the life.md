@@ -46,9 +46,7 @@ Cả "cố gắng hết sức" và "dốc hết sức" đều diễn tả ý n�
 - Duong Vu
 	- Tinh thần học tập
 
-### Ronaldo
-
-What I learned from Ronaldo
+### [[Ronaldo]]
 
 - Love family
 - World Cup and Euro

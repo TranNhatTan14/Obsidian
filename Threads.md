@@ -1,5 +1,0 @@
----
-tags:
-  - Meta
-  - Application
----

@@ -19,7 +19,6 @@ aliases:
 ### Examples of Analogies:
 
 1. **Analogy of the Brain and a Computer**:
-    
     - **Brain**: Processes thoughts, stores memories, and controls bodily functions.
     - **Computer**: Processes data, stores information, and runs programs.
     - This analogy helps explain how the brain functions by comparing it to something familiar, like a computer.
@@ -32,7 +31,6 @@ aliases:
     - **Pump**: Moves liquid from one place to another.
     - This analogy makes it easier to understand how the heart circulates blood by comparing it to a mechanical pump.
 4. **Learning a Skill Like Building Muscle**:
-    
     - **Learning**: Requires practice and repetition to improve.
     - **Building Muscle**: Requires consistent exercise and effort to grow stronger.
     - This analogy explains how mastering a new skill is similar to developing physical strength over time.

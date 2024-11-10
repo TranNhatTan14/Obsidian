@@ -177,25 +177,6 @@ I want to start my own business after I have experience about 1-2 year in indust
 - What experiences do you want to have?
 - How do you want to grow spiritually or intellectually?
 
-# [[Health]]
-
-How to reduce overthinking?
-
-1. Practice mindfulness meditation
-2. Challenge negative thoughts
-3. Set time limits for decisions
-4. Focus on solutions, not problems
-5. [[Exercise]] regularly
-6. Limit information intake
-7. Practice self-compassion
-8. Engage in distracting activities
-9. Seek professional help if needed
-
-What level of physical fitness do you aspire to?
-Are there health goals you want to achieve (e.g., running a marathon, maintaining a healthy weight)?
-How do you envision your mental health and well-being?
-What lifestyle changes do you want to make for better health?
-
 # Others
 
 DId the phone more heavier when full of battery or full of storage? (This is a fun question about energy and technical)
@@ -213,3 +194,23 @@ Is there a specific company or industry you want to be in?
 Do you want to start your own business?
 
 - AI phát triển nhanh quá, mình cần làm gì để theo kịp xu hướng
+
+### Determine what's most important in your life
+
+- Prioritize your well-being: Consider how different areas of your life contribute to your overall well-being and happiness.
+- Reflect on what you talk about: Consider what you talk about the most.
+- Think about your values: Write down your top values and compare them to each other to determine the correct order.
+- Consider your past: Recognize moments and experiences that form a pattern or direction that can bring meaning and purpose.
+- Consider your passions: Passions can give life purpose and make everything easier.
+- Consider your time: Look at how you spend your time.
+- Consider your qualities: Think about your qualities and what you're good at.
+- Consider your enjoyable activities: Identify what you enjoy doing most.
+- Consider your most important people: Consider the most important people in your life
+
+    
+- Mình muốn học nước nào #Master
+- Mình có muốn làm việc tại nước mình theo học sau Master không? #Master 
+
+
+- What is the difference between [[relationships and connections]]
+- [What is the most painful thing you've ever been told](https://www.tiktok.com/@hunterprosper/video/7096174664774438187) #Family #Love 

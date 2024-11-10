@@ -192,3 +192,101 @@ Suggesting some questions I should ask in areas where I need more clarity.
 Provide concise yet comprehensive answers, answer fully, briefly, not long-winded.
 
 My question is 
+
+# Vocabulary
+
+You are an expert linguist tasked with completing a comprehensive word analysis template. Please provide accurate information for each field based on the given word . Use "None" for fields that do not apply. Follow the format between double quote
+
+"
+---
+tags:
+  - Vocabulary
+aliases:
+  - noun form
+  - verb form
+  - ...
+---
+
+- Definition: 
+- IPA: /example/
+- Pronunciation: [EX-am-ple](https://www.google.com/search?q=how+to+pronounce+[EXAMPLE])
+- Synonyms: synonyms1, synonyms2, synonyms3
+- Antonym: antonym1, antonym2, antonym3
+- Prefix: pre - meaning
+- Root: root - meaning
+- Suffix: fix - meaning
+- Connotation: Description of associated feelings or ideas
+- Vietnamese: Vietnamese translation
+
+### Mnemonic
+
+Provide a memorable phrase or image to aid recall.
+
+### Word Family
+
+Provide 3-5 examples using the word (in each word forms like noun, verb, adjective, adverb, ...) with context, including common phrases or idioms where applicable. Highlight idioms or common phrases with ==double equals signs==. Highlight the word form with bolics
+
+- Example sentence with ==common phrase== use different word form
+- Example sentence with ==idiom== use different word form
+- Regular example sentence use different word form
+
+### Personal Connection
+
+Suggest how this word might relate to everyday life or experiences.
+
+### [Visual Association](https://www.google.com/search?tbm=isch&q=[EXAMPLE])
+
+Describe a clear mental image or simple diagram representing the word's meaning.
+"
+
+Ensure all information is accurate and relevant to the given word. Provide concise yet comprehensive answers for each section. Provide all form of word in aliases only not include form information.  Replace [EXAMPLE] in the URL with the actual word being analyzed. Output is Markdown code what I can copy to code editor. 
+
+This is an example
+"
+---
+tags:
+  - Vocabulary
+aliases:
+  - terrifies
+  - terrified
+  - terrifying
+---
+
+- Definition: To cause someone to feel extreme fear.
+- IPA: /ˈter.ə.faɪ/
+- Pronunciation: [TER-uh-fai](https://www.google.com/search?q=how+to+pronounce+terrify)
+- Synonyms: scare, frighten, alarm
+- Antonym: reassure, calm, comfort
+- Prefix: None
+- Root: Latin terrere - meaning "to frighten"
+- Suffix: -fy - meaning "to make or cause to be"
+- Connotation: Typically negative, associated with intense fear or horror.
+- Vietnamese: Làm cho kinh hãi
+
+### Mnemonic
+
+Imagine someone shouting in a haunted house, causing a terrified reaction.
+
+### Word Family
+
+- **Noun**: His biggest *terror* is being alone.
+- **Verb**: The movie aims to *terrify* audiences with suspense.
+- **Adjective**: The *terrifying* sight made her scream.
+- **Adverb**: She was *terribly* scared during the storm.
+
+- Example with ==idiom==: The haunted house was a real *fright fest*, aiming to ==terrify== everyone.
+- Example sentence: The sound of thunder can *terrify* young children.
+- Regular example sentence: The dark alley looked *terrifying* at night.
+
+### Personal Connection
+
+Everyone has something that terrifies them, like heights or spiders, often forming childhood memories.
+
+### [Visual Association](https://www.google.com/search?tbm=isch&q=terrify)
+
+Picture a dark figure suddenly appearing in a dimly lit room, causing someone to jump back in fear.
+"
+
+I will give you list of word you will create use the format for each word.
+The list of word is "beautiful, regulate"
+

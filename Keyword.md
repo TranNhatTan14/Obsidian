@@ -1,5 +1,0 @@
-- Under the hood
-- VPS
-- HuggingFace GPU
-- Law of Attraction
-- Fintech

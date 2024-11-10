@@ -67,7 +67,6 @@ Vấn đề của mình đang là gì
 - Giờ kiếm việc rất khó
 - Nhận chính thức cũng rất khó 
 - Khó khăn cũng có thể là cơ hội 
-- Backup trường hợp quay về Earable làm 
 
 - Định nghĩ well-being 
 
@@ -95,10 +94,6 @@ what another people ha ve that I don't have
 - Trí nhớ khi ở trong đầu và khi mình viết ra như thế này thì có điểm gì khác biệt
 - Tâm sinh tướng
 
-### Purpose
-
-Having a purpose is a fundamental component of living a fulfilling life.
-
 
 **Others**
 
@@ -118,7 +113,6 @@ Learn from mistakes > doing > theory
 - Education. Having a good education will help you progress in life
 - Gratitude
 - Can increase happiness, quality of life, and optimism, and strengthen relationships.
-- Purpose
 - Helps people live authentic lives by finding their unique contribution to the world.
 - Happiness
 - A key to a fulfilling and meaningful life.
@@ -126,18 +120,6 @@ Learn from mistakes > doing > theory
 - A resource that can't be regained, so it's important to use it wisely and live life to the fullest.
 - Communication
 - An essential aspect of human life that allows activity to take place.
-
-Here are some ways to determine what's most important in your life:
-
-- Prioritize your well-being: Consider how different areas of your life contribute to your overall well-being and happiness.
-- Reflect on what you talk about: Consider what you talk about the most.
-- Think about your values: Write down your top values and compare them to each other to determine the correct order.
-- Consider your past: Recognize moments and experiences that form a pattern or direction that can bring meaning and purpose.
-- Consider your passions: Passions can give life purpose and make everything easier.
-- Consider your time: Look at how you spend your time.
-- Consider your qualities: Think about your qualities and what you're good at.
-- Consider your enjoyable activities: Identify what you enjoy doing most.
-- Consider your most important people: Consider the most important people in your life
 
 ### Rank the meaningful areas of your life
 
@@ -234,68 +216,22 @@ Cổ phiếu Doulingo sau khi OpenAI demo live translation
 
 https://www.zotero.org #Research 
 
-Applying this question practically in your life can be a transformative process. Here's a step-by-step approach you might consider:
-
-1. Regular reflection: Set aside time periodically (weekly, monthly, or quarterly) to ask yourself this question. You could make it part of a journaling practice or a personal retreat.
-2. Values clarification: Start by identifying your core values. You could:
-    - List things that are most important to you
-    - Reflect on times when you felt most fulfilled or proud
-    - Consider what you'd want to be remembered for
-
 What are the most important things to me?
 
 When I need to answer some questions but I don't have enough data of myself, so I need to write journal more
 
-20240801
 
-- Mình vẫn cố gắng duy trì chuỗi học tập, tuy nhiên mình thấy có nhiều thứ mình học được nhưng chưa được note lại hiệu quả
-- Công việc có tiến triển tốt hơn so với ngày hôm qua, mình có trao đổi với anh Hoàn và chị Trang
-- Cảm giác đứng trên bảng xếp hạng như trong [[Brilliant]] và Zindi
-- Mình cảm thấy không thoải mái đối với một số mối quan hệ
-- Công việc thì hôm nay mình học được cách chạy fine-tune LLM với Flair
-- Cảm giác stuck khi mình có kiến thức cần nạp thêm vào nhưng chưa biết xử lý như thế nào?
-- Mọi người đang cố gắng, vì mục tiêu, hãy cố gắng
-
-You should know your next move (nhu trong bóng đá hay đánh cờ yess đánh cờ)
-
-Tận dụng tối đa nguồn lực mình có thể nhận được
-
-- Embrace AI to learn, work, and elevate life, AI as mentor
+==Ứng dụng kiến thức AI cho lĩnh vực cụ thể thay vì làm vào lĩnh vực cụ thể, công cụ cụ thể giúp hỗ trợ kết quả==
 
 
+## Vision
 
-# Others
+- Vai trò của lập trình viên từ người viết code trở thành người review code
 
-- Da mình đang có màu hơi vàng, làm mình nghĩ đến anh Mạnh ngày trước
-- Da trắng theo cách của Triệu Lộ Tư
-- Ngày xưa mắt mình nhìn đẹp, phục hồi thôi
+- Learn [[English]], thi IELTS, bổ sung kiến thức cần thiết dựa trên yêu cầu công việc, làm việc với [[Glocalization]]
+- Sức khỏe của bố yếu hơn trước rồi
+- Xem là các vị trí như DS, AIE, DE tương tác với nhau như thế nào, ai làm phần nào
 
-
-Dành thời gian làm việc mình thích làm, kiếm tiền từ nó: Hack app, đóng gói thành IPA rồi đưa lên TestFlight bán, với mã liên quan đến UIID
-- Kiếm được nhiều tiền
-- High risk, high return
-- Don’t put all your eggs in one basket (in finance and apply to other area)
-- Luôn có cơ hội, quan trọng là mình có nắm bắt được cơ hội không, khi có cơ hội mình có sẵn sàng không
-
-### [Tracking Progress in Natural Language Processing](https://nlpprogress.com)
-
-AI-generating new Linkedln picture with Remini #Linkedln #Photo #AI
-
-Khiến xung đột ngày càng gay gắt là cách giải quyết xung đột
-Chó đi vệ sinh ra cầu thang, ghi giấy không được, ghi theo giọng điều của chủ con chó tạo xung đột
-
-Biến chuyện riêng thành chuyện chung
-Tư duy ngược
-
-Ứng biến nhanh #Speaking 
-
-- Good - Better - Best
-- Bad - Worse - Worst
-- Past - Present - Future
-- One - Two - Three
-- Pros - Cons
-
-Claude + V0 + Cursor
-
-
-Listening to audio book is not a good way because we need to more focus and limit by speed, don't know what going on #Habit
+- Learn from work, like how to work with data, to get insight, know the trend
+- Transfer Learning from what you work to future work like from NSAID
+- Help people aroud the world with knowledge

@@ -7,3 +7,15 @@
 - Đừng có ngại, chả mất gì, cùng lắm là xấu hổ chút xíu (mà có ai thèm nhớ chuyện xấu hổ của mình như mình đâu)
 - Nhìn lên là tốt, nhưng nhìn hoài sẽ áp lực lâu lâu nhìn xuống để trân trọng những gì mình đang có
 	- Còn đầy đủ gia đình cũng là một sự hạnh phúc
+- Every challenge is an opportunity to grow
+
+- [[Learning]]
+- Save money
+- [[Family]] is important
+- [[Health]]
+- [[Relationships and Connections]]
+- [[Personal Experience]]
+
+- Đọc nhiều, học nhiều, cười nhiều
+- Tiết kiệm sức khỏe và lời hứa
+- Trân trọng [[family]] và [[present]]

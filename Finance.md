@@ -1,3 +1,8 @@
+---
+tags:
+  - Important
+  - Attention
+---
 # Invest
 
 Threshold: bao nhiêu là đủ

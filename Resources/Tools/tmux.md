@@ -26,3 +26,5 @@ exit
 ```
 
 `Ctrl + B + Page Up` to scroll and `q` to Quit
+
+`Ctrl + B + Shift + "` to scro

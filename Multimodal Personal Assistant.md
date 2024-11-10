@@ -5,9 +5,7 @@
 - [ ] Learn how to create chatbot use ChatGPT API
 - [ ] Use custom model with chatbot
 - [ ] Make people can work with chatbot
-- [ ] How to connect it with Obsidian, Anki
 
-- Note của mình từ Obsidian được đưa lại đến với mình có thể bằng Anki (sử dụng phương pháp SRS), qua đó mình sẽ xác định được răng điều đó có thật sự quan trọng với mình không, mình có thể dùng bốn mức độ của Anki để biến điều đó thành điều quan trọng hoặc không quan trọng
 > [!important]
 > Mục đích của Chatbot này vừa là để cho như công việc của mình bên GeneStory về xây dựng Chatbot, học thêm kiến thức cần thiết, và cũng là để xây dựng công cụ giúp bản thân mình
 
@@ -731,10 +729,6 @@ https://eugeneyan.com/writing/obsidian-copilot
 	- Sử dụng API thì pay as you go và có thể sử dụng nhiều mô hình
 
 # Finance
-
-- Create Anki flashcard automation with addtional information (text, audio, image)
-
-https://www.facebook.com/groups/389845498441780/?multi_permalinks=1719200195506297&hoisted_section_header_type=recently_seen&__cft__[0]=AZVS7QApbU77FwDx4v3hENl46jZdzcsw3ZyjvHfX6uzNHw3ZPWK1pquhb7LaquTNqJpNfxojA9nU_CmlLcqqwfNXMv8C1UhaX7harMdp2O6N41Q8zILt7rIiBlmueaJi7TwqbePqURhfZg-vU-tOMA8a-Y6PXk7Vsvq7Lfz_r_M5N1VFTtiqcL1IDruFxXh95Vh-J7diJYzS1-OZIy6Hy4V38S1d4zumLd2VmMrICEKhmA&__tn__=%2CO%2CP-R
 
 https://learnen.io
 

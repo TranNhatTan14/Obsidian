@@ -1,7 +1,9 @@
 ---
 URL: https://www.overleaf.com/project/662216c1aaa7879b26c4e7af
 ---
-
+1. Recommendation system for user use Earable band
+2. [[Secure Offline RAG System]]
+3. [[Plasmid]]
 # Advice
 
 3. **Talk about people.** My Google manager always reminded me that he offered me a role ==because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.==
@@ -72,17 +74,3 @@ Can you discuss your approach to analyzing EEG/EMG/EOG signals and predicting us
     - To predict user states like focus or stress, I analyzed the power spectral density of different EEG frequency bands, as alterations in these bands are indicative of changes in focus and stress levels.
     - Điều khiển thông minh dựa trên chuyển động của mắt, khi ở trạng thái thư giãn thì xe sẽ đi thẳng, khi nhìn sang trái hoăc sang phải thì xe sẽ đi theo hướng
     - Làm sao để xác định xung (dưa trên tín hiệu như thế nào)
-###### [Masked Face Detection with Illumination Awarenes](https://eprints.uet.vnu.edu.vn/eprints/id/eprint/4775/1/2022_ISMICT_arxiv%20version.pdf)
-
-1. Real world dataset
-2. [Low-Illumination Image Enhancement (LIIE)](https://sci-hub.se/downloads/2021-05-28/243e/wang2020.pdf)
-3. SSD MobileNetV2 FPNLite
-4. Jetson Nano
-
-###### [Emotion classification of individuals in image based on facial expression and context](https://ujm.hal.science/ujm-04194014v1/document)
-
-1. Most recent research: person detection, sequentially, real world application
-2. EMOTIC and CAER-S datasets: public, context, random data transformation
-3. Bottom-up Emotions Network: DETECT all the subjects and PRODUCE E discrete emotion maps directly from the raw image to ESTIMATE their emotion
-4. Shared High-Resolution Network-W32 backbone with Spatial and Channel Attention Modules: emphasize discriminate regions and adaptive select more important channel of feature maps
-5. Face detection: facial landmark

@@ -1,0 +1,6 @@
+---
+tags:
+  - Application
+  - Apple
+  - Work
+---

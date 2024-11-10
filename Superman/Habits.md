@@ -4,6 +4,8 @@ links:
 ---
 What is high quality habits
 
+Healthy habits are built through consistency.
+
 Phần lớn thói quen của bạn là thói quen tốt, điều này giúp bạn có thể thực hiện công việc một cách hiệu quả, một cách tự động và không tốn quá nhiều năng lượng. Giúp bạn có thể dành năng lượng cho những việc quan trọng hơn
 
 Tools help me to manage habits, [[Habitify]], Focus, Smartphone.

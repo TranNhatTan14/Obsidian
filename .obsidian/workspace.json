@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bf76db237cd1dcaf",
+        "id": "9d3c79ef78f5c403",
         "type": "tabs",
         "children": [
           {
-            "id": "a6958e6a593d13a2",
+            "id": "bcd74471466fb0da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Research/AMR.md",
+                "file": "Prompt.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "511cc15e89082c38",
+            "id": "6a565d985a47d2f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/PlasmidEC and gplas2.md",
+                "file": "Resources/Applications/ChatGPT.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Valor",
+                "query": "tag:#Attention",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,11 +80,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 382.5
   },
   "right": {
     "id": "685661460335a225",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers/PlasmidEC and gplas2.md"
+                "file": "Resources/Applications/ChatGPT.md"
               }
             }
           },
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/PlasmidEC and gplas2.md",
+                "file": "Resources/Applications/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/PlasmidEC and gplas2.md",
+                "file": "Resources/Applications/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,13 +165,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 414.5,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,54 +183,54 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "511cc15e89082c38",
+  "active": "6a565d985a47d2f9",
   "lastOpenFiles": [
-    "Work/Research/AMR.md",
-    "Applications/Arena of Valor.md",
-    "Resources/Tools/Google/Google Chrome.md",
-    "Rules.md",
-    "Habit Tracker.md",
-    "Things.md",
-    "Knowledge/Cryptocurrency.md",
-    "Emotions/Loving life.md",
-    "Family.md",
-    "Resources/Tools/Git.md",
-    "Snakemake.md",
-    "Work/Track/Associate AI Engineer for Data Scientists.md",
-    "Papers/PlasmidEC and gplas2.md",
-    "Gplas.md",
-    "Quotes.md",
-    "Seminar/mtDMA Matching.md",
-    "Papers/UnitigBIN.md",
-    "Pandas.md",
-    "Applications/TikTok.md",
-    "Love.md",
-    "People/Toni Kroos.md",
-    "Routine.md",
-    "People.md",
-    "Mom.md",
-    "Children.md",
-    "Emotions/Peaceful.md",
+    "Prompt.md",
+    "Resources/Tools/Visual Studio Code.md",
+    "adapt.md",
+    "conscience.md",
+    "clean.md",
+    "criticize.md",
+    "Knowledge/Language/Vocabulary/accelerate.md",
+    "explain.md",
+    "honor.md",
+    "Knowledge/Language/Vocabulary/accumulation.md",
+    "Knowledge/Language/Vocabulary/aura.md",
+    "Knowledge/Language/Vocabulary/lethargy.md",
+    "Knowledge/Language/Vocabulary/mortician.md",
+    "Knowledge/Language/Vocabulary/peccant.md",
+    "Knowledge/Language/Vocabulary/rejuvenation.md",
+    "Knowledge/Language/Vocabulary/solitary.md",
+    "spacious.md",
+    "Knowledge/Language/Vocabulary/connotation.md",
+    "Knowledge/Language/Vocabulary/celerity.md",
+    "Knowledge/Language/Vocabulary/consideration.md",
+    "Knowledge/Language/Vocabulary/construct.md",
+    "Knowledge/Language/Vocabulary/endure.md",
+    "Knowledge/Language/Vocabulary/eager.md",
+    "Knowledge/Language/Vocabulary/Energy.md",
+    "Knowledge/Language/Vocabulary/especially.md",
+    "Knowledge/Language/Vocabulary/infuse.md",
+    "Resources/Files/Pasted image 20241109205347.png",
+    "Resources/Files/Pasted image 20241109205336.png",
+    "Resources/Files/Pasted image 20241109205328.png",
+    "Resources/Files/Pasted image 20241109165707.png",
+    "Resources/Files/Pasted image 20241109165611.png",
+    "Resources/Files/Pasted image 20241109165600.png",
+    "Resources/Files/Pasted image 20241109165242.png",
+    "Superman/Routines",
+    "Goals",
+    "Relationships and Connections/Family",
+    "Relationships and Connections",
+    "Resources/Podcasts/Andrew Huberman",
+    "World",
+    "Resources/Films",
+    "Talks",
+    "Superman/a",
     "Emotions",
-    "People",
-    "Podcasts",
     "Resources/Files/Pasted image 20241028153824.png",
     "Resources/Files/Pasted image 20241028154414.png",
     "Resources/Files/Pasted image 20241028154303.png",
-    "Resources/Files/Pasted image 20241028154129.png",
-    "Resources/Files/Pasted image 20241028153951.png",
-    "Resources/Files/Pasted image 20241028153840.png",
-    "Resources/Files/Pasted image 20241028153838.png",
-    "Journals",
-    "Principle",
-    "Extensions",
-    "Locations",
-    "Resources",
-    "Resources/Tools/Google",
-    "Knowledge/Artificial Intelligence/Graph",
-    "Resources/Files/Pasted image 20241023104429.png",
-    "Resources/Files/Pasted image 20241020130922.png",
-    "Resources/Files/Pasted image 20241020130626.png",
     "Untitled.canvas"
   ]
 }

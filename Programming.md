@@ -1,8 +1,7 @@
 ---
 tags:
   - Skill
-links:
-  - "[[Work]]"
+  - Work
 ---
 ## Python
 

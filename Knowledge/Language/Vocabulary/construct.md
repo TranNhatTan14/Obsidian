@@ -1,10 +1,13 @@
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-construct
-Back: 
+---
+tags:
+  - Vocabulary
+aliases:
+  - construction
+  - constructed
+sr-due: 2024-11-13
+sr-interval: 4
+sr-ease: 270
+---
 - Definition: To build or form something by putting parts together.
 - IPA: /kənˈstrʌkt/
 - Pronunciation: [kuhn-STRUHKT](https://www.google.com/search?q=how+to+pronounce+construct)

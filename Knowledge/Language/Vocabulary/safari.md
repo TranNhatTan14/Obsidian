@@ -1,14 +1,10 @@
 ---
 tags:
   - Vocabulary
+sr-due: 2024-11-13
+sr-interval: 4
+sr-ease: 270
 ---
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-safari
-Back:
 - Definition: An expedition to observe or hunt animals in their natural habitat, especially in Africa.
 - IPA: /səˈfɑː.ri/
 - Pronunciation: [suh-FAH-ree](https://www.google.com/search?q=how+to+pronounce=safari)
@@ -22,6 +18,7 @@ Back:
 - Chinese: 野生动物园
 
 ### Mnemonic
+
 "A safari is like stepping into a wild adventure full of wonders."
 
 ### Word Family
@@ -40,5 +37,3 @@ Picture a jeep driving through a savanna filled with wild animals, symbolizing t
 Back To Africa? What To Expect On A Luxury Safari
 
 ![](https://imageio.forbes.com/specials-images/imageserve/61a11bdb7afd3d7797865eb5/8-Giraffes-Credit-Micato-Safaris/960x0.jpg?format=jpg&width=960)
-ID: 1727604241209
-END

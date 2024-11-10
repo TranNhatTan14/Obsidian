@@ -24,5 +24,37 @@
       ],
       "key": "B"
     }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-hard": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-open-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-easy": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-good": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
   ]
 }

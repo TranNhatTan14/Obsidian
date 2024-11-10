@@ -1,3 +1,0 @@
-- The Fable of Cryptonia
-- Cryptographic Signatures
-- Decentralizing 

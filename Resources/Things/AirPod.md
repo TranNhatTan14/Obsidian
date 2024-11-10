@@ -2,6 +2,7 @@
 tags:
   - Audio
   - Apple
+  - Attention
 links: 
 aliases:
   - AirPod Pro 2

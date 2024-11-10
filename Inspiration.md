@@ -1,0 +1,10 @@
+- https://www.tiktok.com/@dodaytrungquoc
+	- https://www.tiktok.com/@dodaytrungquoc/video/7371068210528996625
+	- https://www.tiktok.com/@dodaytrungquoc/video/7365500679529565456
+- https://www.tiktok.com/@jintae2005 #Education 
+- [She said](https://www.tiktok.com/@1m5.222/video/7093491705835457819)
+- https://www.tiktok.com/@minhngoc.6333 #Language 
+- https://www.tiktok.com/@teu_2010 #Language 
+- https://www.tiktok.com/@sinestrea_rika_xx/video/7342736856682892545 #Exercise #Beautiful 
+- [MIT](https://www.tiktok.com/@_xiaoxi07/video/7313416623422065922)
+- 

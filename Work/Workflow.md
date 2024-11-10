@@ -1,3 +1,11 @@
+### Learning
+
+- What you want to learn
+- Does someone success
+	- What you can learn from them
+	- Apply what you learn
+- What technique, resources you can use
+
 ### Summary YouTube video
 
 1. Get the YouTube's video transcript

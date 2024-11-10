@@ -1,3 +1,9 @@
+---
+tags:
+  - Learning
+description: Not only learn vocabulary but also learn new knowledge and culture
+---
+
 # Words
 
 - secretive
@@ -81,6 +87,7 @@ The one notorious con artist is now straight as an arrow after spending years in
 - Is the apartment on the right yours
 - The iconic Eiffel Tower is made of wrought iron 8,046 tons of it, to be exact
 - Frogs can change tack mid-jump to catch their prey
+- After a fight, the couple decided to hit the brake (a device use to stop something) on their relationship rather than break (destroy or separate) up altogether
 - 
 # Agility
 
@@ -133,102 +140,6 @@ rich = wealthy = luscious = extravagant
 - cónider - ponder - weigh - meditate (to consider or reflect on)
 - cause - make - activate - prompt
 
----
-# accelerate
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-accelerate
-Back: 
-- Definition: To increase the speed of something; to cause something to happen faster or earlier than expected.
-- IPA: /əkˈsɛləˌreɪt/
-- Pronunciation: [uhk-SEL-uh-reyt](https://www.google.com/search?q=how+to+pronounce+accelerate)
-- Synonyms: hasten, quicken, expedite
-- Antonyms: decelerate, delay, slow
-- Homophones: None
-- Prefix: ac - meaning: toward
-- Root: celer - meaning: swift
-- Suffix: -ate - meaning: to make or do
-- Connotation: Generally positive, suggesting speed, progress, or urgency.
-- Vietnamese: tăng tốc
-- Chinese: 加速 (simplified characters)
-
-![](http://loremflickr.com/320/240/accelerate)
-
-![](https://unsplash.it/640/425?random)
-
-![Cat image](https://source.unsplash.com/640x425/?cat)
-
-### Mnemonic
-
-Think of a car accelerating on a highway, quickly gaining speed as it moves forward.
-
-### Word Family
-
-- The car's *acceleration* impressed everyone on the road.
-- She *accelerated* her learning process by studying every day.
-- An *accelerator* is the pedal used to speed up a vehicle.
-- The *accelerated* program allowed students to graduate in three years instead of four.
-- Technology advances at an *accelerating* pace.
-
-### Personal Connection
-
-You might relate to this word when driving or trying to meet a deadline where you need to "speed up" your actions.
-
-### Visual Association
-
-Picture a sports car starting from a complete stop, its wheels spinning as it quickly gains speed and zooms ahead.
-ID: 1727600105034
-END
-
-# accumulation
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-accumulation
-Back: 
-- Definition: The process of gradually gathering or acquiring more of something; the result of this process.
-- IPA: /əˌkjuːmjʊˈleɪʃ(ə)n/
-- Pronunciation: [uh-KYOO-myoo-LAY-shuhn](https://www.google.com/search?q=how+to+pronounce+accumulation)
-- Synonyms: gathering, collection, amassing
-- Antonyms: dispersion, reduction, dissipation
-- Homophones: None
-- Prefix: ac - meaning: toward
-- Root: cumul - meaning: heap, pile
-- Suffix: -ation - meaning: action or process
-- Connotation: Neutral; it can imply a positive, negative, or neutral outcome depending on context.
-- Vietnamese: sự tích lũy
-- Chinese: 积累 (simplified characters)
-
-### Mnemonic
-
-Imagine snow *accumulating* on the ground, forming a large pile over time.
-
-### Word Family
-
-- The *accumulation* of dust in the room made it hard to breathe.
-- Over the years, they *accumulated* a lot of old books and furniture.
-- His *accumulative* efforts finally paid off when he received a promotion.
-- An *accumulator* collects and stores resources or data.
-- The process of savings can be seen as a slow but steady *accumulating* of wealth.
-
-### Personal Connection
-
-You might think of *accumulation* in your everyday life when saving money or seeing things pile up over time, like snow, paperwork, or even digital files.
-
-### Visual Association
-
-Imagine a snowball growing larger as it rolls downhill, symbolizing the gradual build-up or collection of something over time.
-ID: 1727600105040
-END
-
-
 # acquiesce
 
 TARGET DECK: Obsidian
@@ -272,49 +183,6 @@ Picture someone sighing and shrugging, agreeing to something without speaking up
 ID: 1727602296290
 END
 
-# appreciate
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-appreciate
-Back: 
-- Definition: To recognize the full worth of something or someone; to be grateful for something.
-- IPA: /əˈpriːʃieɪt/
-- Pronunciation: [uh-PREE-shee-eyt](https://www.google.com/search?q=how+to+pronounce+appreciate)
-- Synonyms: value, respect, acknowledge
-- Antonyms: disregard, criticize, underestimate
-- Homophones: None
-- Prefix: ap - meaning: toward
-- Root: preci - meaning: price or value
-- Suffix: -ate - meaning: to make or do
-- Connotation: Positive, suggesting gratitude or understanding of worth.
-- Vietnamese: trân trọng
-- Chinese: 感激 (simplified characters)
-
-### Mnemonic
-
-Think of giving someone flowers to show that you *appreciate* their kindness.
-
-### Word Family
-
-- I truly *appreciate* your help with the project.
-- Her *appreciation* for art grew as she studied more paintings.
-- The *appreciative* audience gave the performers a standing ovation.
-- Over time, the value of the house has *appreciated* significantly.
-- They spoke *appreciatively* about the support they received from friends.
-
-### Personal Connection
-
-You might use *appreciate* when thanking someone for a favor, or recognizing the value of something in life, like a beautiful sunset or a good friend.
-
-### Visual Association
-
-Imagine someone receiving a gift and smiling warmly, clearly showing their gratitude and appreciation.
-ID: 1727602296296
-END
 
 # astronomy
 
@@ -530,48 +398,6 @@ Picture a bright yellow caution sign on a wet floor, symbolizing the need to be 
 ID: 1727602296319
 END
 
-# celerity
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-celerity
-Back: 
-- Definition: Swiftness of movement; speed or rapidity.
-- IPA: /sɪˈlɛrɪti/
-- Pronunciation: [suh-LER-ih-tee](https://www.google.com/search?q=how+to+pronounce+celerity)
-- Synonyms: speed, swiftness, quickness
-- Antonyms: slowness, delay, lethargy
-- Homophones: None
-- Prefix: None
-- Root: celer - meaning: swift
-- Suffix: -ity - meaning: state or condition
-- Connotation: Neutral to positive, suggesting efficiency or agility.
-- Vietnamese: sự nhanh nhẹn
-- Chinese: 迅速 (simplified characters)
-
-### Mnemonic
-
-Think of a sprinter moving with *celerity* across the finish line, quick and agile.
-
-### Word Family
-
-- The emergency response team acted with great *celerity* to contain the fire.
-- His *celerity* in completing tasks made him stand out at work.
-- She moved through the crowded room with surprising *celerity*, making it to the exit in no time.
-
-### Personal Connection
-
-You might think of *celerity* when you're rushing to meet a deadline or when observing someone who completes tasks swiftly.
-
-### Visual Association
-
-Picture a cheetah sprinting at top speed, symbolizing extreme quickness and efficiency in motion.
-ID: 1727602296324
-END
-
 # circumvent
 
 TARGET DECK: Obsidian
@@ -614,91 +440,6 @@ Picture a maze where someone skillfully navigates around walls to reach the exit
 ID: 1727602296329
 END
 
-# connotation
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-connotation
-Back: 
-- Definition: An idea or feeling that a word invokes in addition to its literal or primary meaning.
-- IPA: /ˌkɒnəˈteɪʃən/
-- Pronunciation: [kon-uh-TAY-shuhn](https://www.google.com/search?q=how+to+pronounce+connotation)
-- Synonyms: implication, association, nuance
-- Antonyms: denotation, literal meaning, none
-- Homophones: None
-- Prefix: con - meaning: together
-- Root: notare - meaning: to mark
-- Suffix: -tion - meaning: the act or process of
-- Connotation: Neutral; can be positive, negative, or neutral based on context.
-- Vietnamese: ý nghĩa biểu thị
-- Chinese: 含义 (simplified characters)
-
-### Mnemonic
-
-Think of a cloud shaped like a heart, representing the emotional meanings that words can carry beyond their definitions.
-
-### Word Family
-
-- The word "home" has a positive *connotation* of warmth and safety.
-- Understanding the *connotations* of words is essential for effective communication.
-- His choice of words often carries negative *connotative* meanings, even if he doesn't intend them.
-- She analyzed the *connotative* meanings of the poem's imagery.
-
-### Personal Connection
-
-You might consider *connotation* when choosing words carefully in writing or speaking, especially when you want to convey specific emotions or attitudes.
-
-### Visual Association
-
-Imagine a word cloud where different words radiate feelings, demonstrating how a single word can invoke various emotions and ideas beyond its direct meaning.
-ID: 1727602296333
-END
-
-# consideration
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-consideration
-Back: 
-- Definition: Careful thought, typically over a period of time; the process of considering or being considered.
-- IPA: /kənˌsɪdəˈreɪʃən/
-- Pronunciation: [kuhn-si-der-AY-shuhn](https://www.google.com/search?q=how+to+pronounce+consideration)
-- Synonyms: deliberation, reflection, thoughtfulness
-- Antonyms: disregard, neglect, indifference
-- Homophones: None
-- Prefix: con - meaning: together
-- Root: siderare - meaning: to ponder or consider
-- Suffix: -tion - meaning: the act or process of
-- Connotation: Neutral to positive, suggesting thoughtfulness and care.
-- Vietnamese: sự xem xét
-- Chinese: 考虑 (simplified characters)
-
-### Mnemonic
-
-Imagine a person holding a scale, weighing their options thoughtfully before making a decision.
-
-### Word Family
-
-- After much *consideration*, they decided to go ahead with the project.
-- She showed great *considerateness* by remembering everyone’s preferences.
-- Taking all factors into *consideration* is crucial for making informed decisions.
-- He was *considerate* of her feelings when discussing the issue.
-
-### Personal Connection
-
-You might think of *consideration* when making important decisions, weighing options, or showing thoughtfulness towards others in conversations.
-
-### Visual Association
-
-Picture someone sitting at a desk with various documents spread out, thoughtfully pondering the best course of action before proceeding.
-ID: 1727602296338
-END
 
 # contradiction
 
@@ -1275,45 +1016,6 @@ Durable relates to products we choose for their longevity and reliability, impac
 ### Visual Association
 Imagine a strong bridge standing firm against strong winds, representing durability and strength.
 ID: 1727604240954
-END
-
-# endure
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-endure
-Back:
-- Definition: To suffer something painful or difficult patiently; to last or continue in existence.
-- IPA: /ɪnˈdʒʊr/
-- Pronunciation: [in-DYOOR](https://www.google.com/search?q=how+to+pronounce=endure)
-- Synonyms: withstand, tolerate, persevere
-- Antonym: quit, abandon, give up
-- Prefix: en - meaning "to cause to"
-- Root: dure - meaning "to last" (from Latin "durare")
-- Suffix: None
-- Connotation: Generally positive; implies resilience and strength.
-- Vietnamese: chịu đựng
-- Chinese: 忍受
-
-### Mnemonic
-"Endure is like a strong tree weathering a storm."
-
-### Word Family
-- She had to **endure** a long wait at the airport.
-- Their **endurance** during the marathon was commendable.
-- He is known for his **enduring** spirit in difficult times.
-- The **endurable** conditions made the trip easier.
-- They had an **endurance** test to measure their limits.
-
-### Personal Connection
-Endure relates to personal challenges we face, like difficult times in relationships or work, reminding us of our inner strength.
-
-### Visual Association
-Imagine a mountain climber reaching the summit after a tough journey, representing the spirit of endurance.
-ID: 1727604240958
 END
 
 ---
@@ -2208,47 +1910,6 @@ Picture two people talking, with a speech bubble showing different interpretatio
 ID: 1727604241073
 END
 
-# monologue
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-monologue
-Back:
-- Definition: A long speech by one actor in a play or movie, or by a person in a conversation.
-- IPA: /ˈmɒn.ə.lɒɡ/
-- Pronunciation: [MON-uh-log](https://www.google.com/search?q=how+to+pronounce=monologue)
-- Synonyms: soliloquy, speech, discourse
-- Antonym: dialogue, conversation, exchange
-- Prefix: mono - meaning "one"
-- Root: logue - meaning "speech" or "discourse" (from Greek "logos")
-- Suffix: None
-- Connotation: Neutral; can imply deep reflection or self-expression.
-- Vietnamese: độc thoại
-- Chinese: 独白
-
-### Mnemonic
-"A monologue is like having a solo concert where one voice takes the stage."
-
-### Word Family
-- His **monologuing** style captivated the audience.
-- The play featured a poignant **monologue** about loss.
-- She delivered a powerful **monologue** during the audition.
-- The actor is known for his **monologic** performances.
-- A **monologist** often captivates through solo performances.
-
-### Personal Connection
-Monologue can remind us of moments when we reflect deeply or express ourselves fully, highlighting the importance of self-expression in communication.
-
-### Visual Association
-Imagine a spotlight shining on a single actor on stage, delivering an emotional speech to an audience.
-ID: 1727604241077
-END
-
----
-
 # monotony
 
 TARGET DECK: Obsidian
@@ -2331,44 +1992,6 @@ END
 
 ---
 
-# mortician
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-mortician
-Back:
-- Definition: A funeral director or undertaker; a person who prepares the deceased for burial or cremation.
-- IPA: /mɔːrˈtɪʃ.ən/
-- Pronunciation: [mor-TISH-uhn](https://www.google.com/search?q=how+to+pronounce=mortician)
-- Synonyms: funeral director, undertaker, embalmer
-- Antonym: none
-- Prefix: mort - meaning "death" (from Latin "mors")
-- Root: cian - meaning "one who practices"
-- Suffix: None
-- Connotation: Generally neutral; implies professionalism in a sensitive field.
-- Vietnamese: người lo tang lễ
-- Chinese: 殡仪员
-
-### Mnemonic
-"A mortician is like a guide through the final journey, preparing the way."
-
-### Word Family
-- The **mortuary** was busy preparing for the services.
-- She worked as a **mortician** for many years.
-- His work as a **mortician** required great compassion.
-- They discussed **mortuary** practices during the seminar.
-- **Morticians** often provide support to grieving families.
-
-### Personal Connection
-Mortician can remind us of the importance of honoring those who have passed, as well as the role of compassion in dealing with grief and loss.
-
-### Visual Association
-Imagine a serene setting with flowers and candles, symbolizing a respectful farewell for the departed.
-ID: 1727604241090
-END
 
 # mortify
 
@@ -2733,49 +2356,6 @@ Imagine a small, colorful dot on a clean white canvas, symbolizing a minor flaw 
 ID: 1727604241133
 END
 
----
-
-# peccant
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-peccant
-Back:
-- Definition: Involving sin; guilty of a moral offense; sinful.
-- IPA: /ˈpɛk.ənt/
-- Pronunciation: [PEK-uhnt](https://www.google.com/search?q=how+to+pronounce=peccant)
-- Synonyms: sinful, guilty, wrongdoing
-- Antonym: virtuous, innocent, pure
-- Prefix: None
-- Root: peccare - meaning "to sin" (from Latin)
-- Suffix: ant - forming adjectives
-- Connotation: Generally negative; implies moral wrongdoing.
-- Vietnamese: tội lỗi
-- Chinese: 有罪的
-
-### Mnemonic
-"Peccant is like a shadow that lingers, reminding us of our wrongs."
-
-### Word Family
-- The **peccant** nature of his actions weighed heavily on his conscience.
-- She felt **peccantly** for her past decisions.
-- His **peccancy** was evident in his attitude towards rules.
-- They sought to address their **peccant** behaviors.
-- The **peccant** deeds were brought to light during the trial.
-
-### Personal Connection
-Peccant can remind us of moments when we've strayed from our values, highlighting the importance of self-reflection and growth.
-
-### Visual Association
-Imagine a dark cloud hovering over a bright landscape, symbolizing the weight of wrongdoing.
-ID: 1727604241138
-END
-
----
-
 # perjury
 
 TARGET DECK: Obsidian
@@ -2834,7 +2414,7 @@ Back:
 - Prefix: None
 - Root: polit - meaning "city" or "citizen" (from Greek "politikos")
 - Suffix: al - forming adjectives
-- Connotation: Neutral; can imply involvement in governance or public issues.
+	- Connotation: Neutral; can imply involvement in governance or public issues.
 - Vietnamese: chính trị
 - Chinese: 政治的
 
@@ -3056,50 +2636,6 @@ Prevention can relate to daily practices, such as wearing seatbelts or getting v
 Imagine a strong shield blocking arrows, representing protective measures against potential dangers.
 ID: 1727604241173
 END
-
----
-
-# psychologist
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-psychologist
-Back:
-- Definition: A professional who studies mental processes and human behavior; often provides therapy and counseling.
-- IPA: /saɪˈkɒl.ə.dʒɪst/
-- Pronunciation: [sigh-KOL-uh-jist](https://www.google.com/search?q=how+to+pronounce=psychologist)
-- Synonyms: therapist, counselor, mental health professional
-- Antonym: patient, client, non-specialist
-- Prefix: psycho - meaning "mind"
-- Root: logy - meaning "study of" (from Greek "logia")
-- Suffix: None
-- Connotation: Generally positive; implies support and mental well-being.
-- Vietnamese: nhà tâm lý học
-- Chinese: 心理学家
-
-### Mnemonic
-"A psychologist helps untangle the knots in your mind, guiding you toward clarity."
-
-### Word Family
-- He sought help from a **psychologist** for his anxiety.
-- The **psychological** effects of stress can be profound.
-- They conducted a **psychology** study on group behavior.
-- She specializes in **psychotherapy** to aid her clients.
-- The **psychologist** recommended various coping strategies.
-
-### Personal Connection
-Psychologist can relate to anyone who has sought help for mental health, emphasizing the importance of understanding and improving our emotional well-being.
-
-### Visual Association
-Imagine a person sitting on a couch, talking to a compassionate listener, symbolizing the therapeutic process.
-ID: 1727604241178
-END
-
----
-
 # rededicate
 
 TARGET DECK: Obsidian
@@ -3178,45 +2714,6 @@ Rehearsal can remind us of the importance of preparation in various aspects of l
 ### Visual Association
 Imagine a stage with actors practicing their lines under bright lights, symbolizing the process of rehearsal.
 ID: 1727604241188
-END
-
-# rejuvenation
-
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-rejuvenation
-Back:
-- Definition: The process of making someone or something look or feel younger, fresher, or more lively.
-- IPA: /rɪˌdʒuː.vəˈneɪ.ʃən/
-- Pronunciation: [ree-JOO-vuh-NAY-shuhn](https://www.google.com/search?q=how+to+pronounce=rejuvenation)
-- Synonyms: restoration, revitalization, renewal
-- Antonym: deterioration, decline, aging
-- Prefix: re - meaning "again"
-- Root: juven - meaning "young" (from Latin "juvenis")
-- Suffix: ation - indicating an action or process
-- Connotation: Generally positive; implies freshness and renewal.
-- Vietnamese: trẻ hóa
-- Chinese: 复兴
-
-### Mnemonic
-"Rejuvenation is like hitting the reset button to feel young again."
-
-### Word Family
-- A good night's sleep offers **rejuvenating** effects.
-- The **rejuvenated** garden brought joy to the neighborhood.
-- Their efforts in **rejuvenation** transformed the community park.
-- The spa offered **rejuvenation** treatments for relaxation.
-- She felt a sense of **rejuvenation** after the vacation.
-
-### Personal Connection
-Rejuvenation can remind us of activities that make us feel refreshed, such as vacations, spa days, or hobbies.
-
-### Visual Association
-Imagine a wilting flower blooming again, symbolizing the process of rejuvenation.
-ID: 1727604241194
 END
 
 ---
@@ -4398,47 +3895,6 @@ Astonished can remind us of moments when we experienced unexpected joy or wonder
 Imagine a person standing with wide eyes and an open mouth, representing surprise and wonder.
 END
 
-# lethargy
-
-START
-Basic
-Front:
-lethargy
-Back:
-- Definition: A state of sluggishness, inactivity, and apathy.
-- IPA: /ˈlɛθərdʒi/
-- Pronunciation: [LETH-er-jee](https://www.google.com/search?q=how+to+pronounce=lethargy)
-- Synonyms: sluggishness, drowsiness, torpidity
-- Antonym: energy, vitality, alertness
-- Prefix: None
-- Root: letharg - from the Greek "lethe," meaning "forgetfulness"
-- Suffix: y - indicating a state or condition
-- Connotation: Generally negative; implies a lack of motivation or awareness.
-- Vietnamese: lờ đờ, sự uể oải
-- Chinese: 昏睡状态
-
-### Mnemonic
-"Lethargy is like a heavy blanket that makes it hard to get up and move."
-
-### Word Family
-- He felt a sense of **lethargy** after staying up too late.
-- The **lethargic** response of the team disappointed the coach.
-- Her **lethargy** was noticeable during the meeting.
-- After a long day, he experienced a sudden **lethargy**.
-- They worked through the **lethargy** of a hot summer day.
-
-### Personal Connection
-Lethargy can remind us of days when we felt tired and unmotivated, perhaps due to a lack of sleep or energy.
-
-Lờ đờ uể oải sau giờ trưa, hãy uống Wake Up 247
-
-### Visual Association
-Imagine a person lounging on a couch, looking sleepy and unmotivated, symbolizing inactivity and sluggishness.
-ID: 1727611699057
-END
-
----
-
 # derisive
 
 START
@@ -4702,46 +4158,6 @@ Eavesdrop can remind us of situations where we might have accidentally overheard
 
 ### Visual Association
 Imagine a person crouched behind a wall, straining to hear a conversation, symbolizing secrecy and curiosity.
-END
-
----
-
-# aura
-
-START
-Basic
-Front:
-aura
-Back:
-- Definition: A distinctive atmosphere or quality that seems to surround and be generated by a person, thing, or place.
-- IPA: /ˈɔːrə/
-- Pronunciation: [OR-uh](https://www.google.com/search?q=how+to+pronounce=aura)
-- Synonyms: atmosphere, vibe, ambience
-- Antonym: dullness, blandness
-- Prefix: None
-- Root: None
-- Suffix: None
-- Connotation: Generally positive; evokes a sense of presence and energy.
-- Vietnamese: hào quang
-- Chinese: 气场
-
-### Mnemonic
-"Aura is like a glowing halo around a person, representing their energy and presence."
-
-### Word Family
-- She had a calming **aura** that put everyone at ease.
-- The room was filled with a creative **aura**.
-- He radiated a positive **aura** wherever he went.
-- Many believe that colors can represent one's **aura**.
-- The **aura** of mystery surrounded the old mansion.
-- I can’t forget the aura she had when I first meet her
-
-### Personal Connection
-Aura can remind us of people who give off positive energy or places that feel particularly inviting.
-
-### Visual Association
-Imagine a colorful halo surrounding a person, representing their unique energy and atmosphere.
-ID: 1727611699083
 END
 
 ---
@@ -5168,45 +4584,6 @@ Imagine rows of bookshelves filled with colorful books, representing a wealth of
 ID: 1727625258604
 END
 
----
-
-# lack
-
-START
-Basic
-Front:
-lack
-Back:
-- Definition: The state of being without or not having enough of something.
-- IPA: /læk/
-- Pronunciation: [LAK](https://www.google.com/search?q=how+to+pronounce=lack)
-- Synonyms: absence, shortage, deficiency
-- Antonym: abundance, sufficiency, plenty
-- Prefix: None
-- Root: Old Norse "lakr," meaning "deficient"
-- Suffix: None
-- Connotation: Negative; implies insufficiency or need.
-- Vietnamese: thiếu
-- Chinese: 缺乏
-
-### Mnemonic
-"Lack is like an empty cup—you want to fill it, but there’s nothing there."
-
-### Word Family
-- The **lack** of rain caused a drought.
-- He suffered from a **lack** of confidence during the meeting.
-- They complained about the **lack** of resources in the office.
-- The project failed due to **lacking** funding.
-- A **lack** of sleep made him feel sluggish.
-
-### Personal Connection
-Lack can remind us of times when we didn’t have enough of something we needed, like time, resources, or energy.
-
-### Visual Association
-Imagine an empty glass or a barren field, symbolizing the absence or shortage of something important.
-ID: 1727625258609
-END
-
 # thrifty
 
 START
@@ -5244,44 +4621,6 @@ Imagine a person comparing prices or holding a coin tightly, symbolizing careful
 ID: 1727625258612
 END
 
----
-
-# solitary
-
-START
-Basic
-Front:
-solitary
-Back:
-- Definition: Done or existing alone; being the only one.
-- IPA: /ˈsɒlɪtəri/
-- Pronunciation: [SOL-i-tair-ee](https://www.google.com/search?q=how+to+pronounce=solitary)
-- Synonyms: alone, isolated, lonely
-- Antonym: social, accompanied, companionship
-- Prefix: None
-- Root: Latin "solitarius," meaning "alone"
-- Suffix: -ary, indicating belonging to or connected with
-- Connotation: Neutral to negative; implies aloneness, which can be either peaceful or lonely.
-- Vietnamese: cô độc
-- Chinese: 孤独
-
-### Mnemonic
-"Solitary is like being a single tree in a vast, empty field—standing alone."
-
-### Word Family
-- He enjoyed **solitary** walks in the forest.
-- The prisoner was kept in **solitary** confinement for weeks.
-- She preferred a **solitary** lifestyle, away from the bustle of the city.
-- The bird perched on a **solitary** branch, away from the flock.
-- His **solitariness** allowed him to focus on his art without distractions.
-
-### Personal Connection
-Solitary can remind us of moments when we’ve been alone, whether for peace and reflection or because of isolation.
-
-### Visual Association
-Imagine a single tree standing in an empty field, symbolizing solitude and isolation.
-ID: 1727625258617
-END
 
 # practical
 
@@ -5432,80 +4771,6 @@ Microscopic can remind us of the unseen world around us, like germs, particles, 
 
 ### Visual Association
 Imagine peering into a microscope and seeing tiny cells or bacteria, symbolizing things that are invisible to the naked eye.
-END
-
----
-
-# psychologist
-
-START
-Basic
-Front:
-psychologist
-Back:
-- Definition: A person trained in the study of the mind and behavior.
-- IPA: /saɪˈkɒlədʒɪst/
-- Pronunciation: [sai-KOL-uh-jist](https://www.google.com/search?q=how+to+pronounce=psychologist)
-- Synonyms: therapist, counselor, behaviorist
-- Antonym: None
-- Prefix: psycho- meaning "mind"
-- Root: Greek "logos," meaning "study"
-- Suffix: -ist, indicating a person skilled in a specific field
-- Connotation: Neutral to positive; describes a professional in mental health and behavior.
-- Vietnamese: nhà tâm lý học
-- Chinese: 心理学家
-
-### Mnemonic
-"A psychologist is like a mind detective, studying thoughts and behaviors to understand what makes us tick."
-
-### Word Family
-- She saw a **psychologist** to help her cope with anxiety.
-- The **psychologist** conducted research on memory and learning.
-- He became a **psychologist** after studying human behavior for years.
-- The **psychological** effects of stress were discussed in the session.
-- They pursued **psychology** to better understand how the mind works.
-
-### Personal Connection
-Psychologist can remind us of times when we or others have sought help to better understand our thoughts or emotions, or when we’ve been curious about human behavior.
-
-### Visual Association
-Imagine a person with a notepad, listening carefully and asking thoughtful questions, symbolizing a psychologist's work to understand the mind.
-END
-
-# rejuvenation
-
-START
-Basic
-Front:
-rejuvenation
-Back:
-- Definition: The act or process of making someone or something look or feel younger, fresher, or more energetic.
-- IPA: /rɪˌdʒuːvəˈneɪʃən/
-- Pronunciation: [ri-joo-vuh-NAY-shun](https://www.google.com/search?q=how+to+pronounce=rejuvenation)
-- Synonyms: revitalization, renewal, refreshment
-- Antonym: deterioration, aging, decline
-- Prefix: re- meaning "again"
-- Root: Latin "juvenis," meaning "young"
-- Suffix: -ation, indicating an action or process
-- Connotation: Positive; implies renewal, restoration, and vitality.
-- Vietnamese: sự trẻ hóa
-- Chinese: 复兴
-
-### Mnemonic
-"Rejuvenation is like a breath of fresh air—reviving energy and making everything feel young again."
-
-### Word Family
-- The spa treatment offered complete **rejuvenation** of mind and body.
-- After a long vacation, she felt a sense of **rejuvenation** and was ready to work.
-- The city underwent **rejuvenation**, with new parks and renovated buildings.
-- His exercise routine focused on physical **rejuvenation**.
-- The forest showed signs of **rejuvenation** after the recent rainfall.
-
-### Personal Connection
-Rejuvenation can remind us of moments when we’ve felt refreshed, like after a vacation, a good night’s sleep, or a new start.
-
-### Visual Association
-Imagine a wilted flower coming back to life with bright colors after being watered, symbolizing the process of rejuvenation.
 END
 
 # dependable
@@ -5697,136 +4962,4 @@ Humble can remind us of times when we chose to stay modest, even after achieving
 ### Visual Association
 Imagine a small, beautiful flower growing low to the ground, symbolizing humility and modesty.
 ID: 1727625258655
-END
-
----
-
-# eager
-
-START
-Basic
-Front:
-eager
-Back:
-- Definition: Having a strong desire or enthusiasm for something.
-- IPA: /ˈiːɡər/
-- Pronunciation: [EE-ger](https://www.google.com/search?q=how+to+pronounce=eager)
-- Synonyms: enthusiastic, keen, excited
-- Antonym: apathetic, uninterested, indifferent
-- Prefix: None
-- Root: Latin "acer," meaning "sharp"
-- Suffix: None
-- Connotation: Positive; suggests enthusiasm and anticipation.
-- Vietnamese: háo hức
-- Chinese: 渴望的
-
-### Mnemonic
-"Eager is like a racehorse at the starting line, full of energy and ready to go."
-
-### Word Family
-- The children were **eager** to open their presents on Christmas morning.
-- She felt an **eager** anticipation for the upcoming trip.
-- They waited **eagerly** for the announcement of the winners.
-- His **eagerness** to learn made him a favorite among his teachers.
-- The team was **eager** to start the project.
-
-### Personal Connection
-Eager can remind us of moments when we were excited and couldn’t wait for something to happen, like the start of a vacation or a new project.
-
-### Visual Association
-Imagine a child standing at the edge of a playground, ready to run in and start playing, full of eagerness and excitement.
-ID: 1727625258659
-END
-
----
-
-# energize
-
-START
-Basic
-Front:
-energize
-Back:
-- Definition: To give energy or vitality to someone or something.
-- IPA: /ˈɛnərˌdʒaɪz/
-- Pronunciation: [EN-er-jahyz](https://www.google.com/search?q=how+to+pronounce=energize)
-- Synonyms: invigorate, revitalize, stimulate
-- Antonym: drain, exhaust, deplete
-- Prefix: None
-- Root: Greek "energein," meaning "to be active"
-- Suffix: -ize, forming a verb meaning to cause
-- Connotation: Positive; suggests renewal of energy or enthusiasm.
-- Vietnamese: tiếp thêm năng lượng
-- Chinese: 激励
-
-### Mnemonic
-"Energize is like charging a battery—giving new power and life to what was once low."
-
-### Word Family
-- The coach gave a speech to **energize** the team before the game.
-- The new plan **energized** the company, bringing in fresh ideas and enthusiasm.
-- After a good night’s sleep, she felt **energized** and ready for the day.
-- Exercise and healthy eating are ways to maintain **energy** levels throughout the day.
-- His passion for the project was **energizing** to everyone around him.
-
-### Personal Connection
-Energize can remind us of moments when something gave us a boost—whether it was a motivational speech, exercise, or a good meal.
-
-### Visual Association
-Imagine plugging in a phone that’s nearly dead and watching it quickly charge back up, symbolizing a surge of energy.
-ID: 1727625258663
-END
-
----
-
-# especially
-
-START
-Basic
-Front:
-especially
-Back:
-- Definition: To a greater extent than usual; particularly.
-- IPA: /ɪˈspɛʃəli/
-- Pronunciation: [e-SPESH-uh-lee](https://www.google.com/search?q=how+to+pronounce=especially)
-- Synonyms: particularly, notably, specifically
-- Antonym: generally, commonly, broadly
-- Prefix: e- meaning "out" or "from"
-- Root: Latin "specialis," meaning "particular"
-- Suffix: -ly, forming an adverb
-- Connotation: Neutral; highlights something as notable or distinctive.
-- Vietnamese: đặc biệt là
-- Chinese: 尤其
-
-### Mnemonic
-"Especially is like putting a spotlight on something that stands out as extra important."
-
-### Word Family
-- She enjoys cooking, **especially** when trying out new recipes.
-- The movie was good, but I **especially** liked the soundtrack.
-- He felt tired after the trip, **especially** after the long flight.
-- The weather was warm, **especially** for this time of year.
-- **Special** attention was given to the details of the project.
-
-### Personal Connection
-Especially can remind us of times when we’ve singled out something that stood out as more important or noticeable than the rest.
-
-### Visual Association
-Imagine shining a bright spotlight on one object in a dark room, making it stand out from everything else, symbolizing the emphasis of "especially."
-ID: 1727625258668
-END
-
----
-# brilliant
-
-START
-Basic
-Front:
-brilliant
-Back:
-- Definition: To a greater extent than usual; particularly.
-- IPA: /ɪˈspɛʃəli/
-- Pronunciation: [e-SPESH-uh-lee](https://www.google.com/search?q=how+to+pronounce=especially)
-- Synonyms: scholarly, booklish, bright
-- Antonym: dull, ordinary
 END

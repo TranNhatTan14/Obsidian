@@ -1,0 +1,1 @@
+- Mọi người chuyển tiền cho Mặt trận tổ quốc vào các ngày lễ

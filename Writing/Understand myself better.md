@@ -3,10 +3,17 @@ tags:
   - Writing
   - Self
 ---
+Use [[ChatGPT]]'s memory to learn more about myself
+
+Interest and Consideration
+
+- Real Madrid
+- Animal world
+
 Mình hạnh phúc vì điều gì?
 
 - Hôm trước mình đi tìm nhà, trời mưa nhưng mình thấy đây là một trải nghiệm thú vị. Mình đã cười rất nhiều và cảm thấy thoải mái vào lúc đó
-- Trần Nhật Tân thích cảm giác on top như bảng xếp hạng học tập
+- [[Superman|Trần Nhật Tân]] thích cảm giác on top như bảng xếp hạng học tập
     
 Mình "Negative" vì điều gì
 
@@ -34,19 +41,3 @@ Things I like to do
 It's okaaay to
 
 - Switch jobs
-
-### Kỷ luật với bản thân mình
-
-Ăn uống đầy đủ giàu protein, cut sugar, giảm chất béo
-
-Hiểu hơn về cảm xúc của mình
-
-Cải thiện thị lực, có thể quan sát mọi thứ một cách tự nhiên
-
-Làm một công việc ý nghĩa với mức thu nhập tốt, không chiếm hết thời gian của mình.
-
-Mình muốn trở nên giàu có, đó là cách thực tế để đạt được nhiều điều khác
-
-Mình muốn khám phá thế giới và công nghệ có thể giúp mình
-
-- Mình hơi OCD với số không được tròn, thay đổi mindset theo hướng 80%

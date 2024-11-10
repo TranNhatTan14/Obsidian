@@ -14,10 +14,6 @@
 - [ ] Keyboard (switch key, price, custom)
 - [ ] Giá để được iPad hoặc Laptop
 
-# Life
-
-### Relationship and Connection
-
 ### Group
 
 - [Google Developer Group](https://gdg.community.dev)
@@ -37,14 +33,9 @@ https://www.tiktok.com/@techiestory.net
 
 https://www.tiktok.com/@drkhonghanhnguyen: Chăm sóc da
 
-### Clothing
+### 
 
 https://www.tiktok.com/@huyyybe
-
-### Cooking
-
-https://www.tiktok.com/@chef_hugo_hieu
-https://www.tiktok.com/@halseyskitchen
 
 # Writing
 
@@ -84,8 +75,6 @@ https://www.tiktok.com/@chiuhenh1996
 
 **Cognitive tools** are mental strategies or techniques that aid in thinking, understanding, learning, and problem-solving. They help people process and organize information more efficiently and creatively, making it easier to grasp complex concepts or make decisions.
 
-### Analogy
-
 ### Mind map
 
 Visual diagrams that organize information around a central idea, helping to structure thoughts and make connections between concepts.
@@ -94,19 +83,18 @@ Visual diagrams that organize information around a central idea, helping to stru
 
 Mental shortcuts or rules of thumb used to make decisions quickly (e.g., "if something is expensive, it must be good").
 
-### Metaphors
-
-Comparisons used to explain or describe something by referring to it as something else.
-
 ### Checklists
 
 Simple, structured lists to ensure that key steps in a process are not overlooked, often used to enhance focus and reduce errors.
-    
-### Visualization 
-
-Creating mental images or diagrams to represent complex information, improving comprehension and recall.
 
 # Shortcut
 
-- Apple Shortcut
 - Keyboard shortcut
+
+### Relationship and Connection
+
+A connection generally denotes a more casual or temporary association, while a relationship implies a deeper, more meaningful and enduring bond between individuals or entities.
+
+### Synthetic data
+
+Synthetic data is fake data created by computers to look and act like real data. It’s used for testing and training without using actual private or sensitive information.

@@ -1,4 +1,7 @@
 ---
+tags:
+  - Attention
+  - Important
 links:
   - "[[Eye]]"
 ---

@@ -5,14 +5,10 @@ aliases:
   - ingesting
   - ingestive
   - ingested
+sr-due: 2024-11-13
+sr-interval: 4
+sr-ease: 270
 ---
-TARGET DECK: Obsidian
-
-START
-Basic
-Front:
-ingestion
-Back:
 - Definition: The process of taking food or other substances into the body through the mouth.
 - IPA: /ɪnˈdʒɛs.tʃən/
 - Pronunciation: [in-JES-chuhn](https://www.google.com/search?q=how+to+pronounce=ingestion)
@@ -26,9 +22,11 @@ Back:
 - Chinese: 摄取
 
 ### Mnemonic
+
 "Ingestion is like pouring a drink into a glass, filling it up."
 
 ### Word Family
+
 - The **ingestive** behavior of the animal is fascinating.
 - After **ingesting** the food, the body begins digestion.
 - **Ingested** substances vary greatly from person to person.
@@ -39,6 +37,5 @@ Back:
 Ingestion relates to our daily eating habits, reminding us of the importance of nutrition and health in our lives.
 
 ### Visual Association
+
 Imagine a person happily eating a delicious meal, symbolizing the process of ingestion.
-ID: 1727604241018
-END
