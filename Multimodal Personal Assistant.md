@@ -635,8 +635,6 @@ Build a personal assistant to enhance various aspects of your life. A well-desig
 
 3. Personal Development:
 
-- ==Track your goals and habits==
-- Provide daily motivational content or affirmations - [[Motivation]] application in App Store
 - Suggest personalized self-improvement activities
 - Monitor your progress on various skills or objectives
 

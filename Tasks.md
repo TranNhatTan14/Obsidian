@@ -2,6 +2,13 @@
 
 ## Work
 
+Hoàn thành 2 UC
+
+- [ ] Trả kết quả B52
+- [ ] Kiểm tra xem mình sẽ làm gì với thông tin HLA của NSAID
+- [ ] Học về sử dụng GPU
+- [ ] Tiếp tục cho AMR
+
 - [ ] Build [[Multimodal Personal Assistant]]
 	- [ ] Help me to more productivity, learning english
 	- [ ] Learn new knowledge, good for work, I can show it for future work

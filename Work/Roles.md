@@ -42,8 +42,6 @@ Understanding Machine Learning Operations (MLOps) is essential for any data scie
 
 ### Data Engineer
 
-https://www.deeplearning.ai/courses/data-engineering
-
 - Extract raw data from different sources and store in a centrailized place
 - Design and maintain data pipelines to ensure efficient data flow and accessibility for analysis.
 - Make sure that incoming data is validated according to data quality requirements.

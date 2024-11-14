@@ -21,6 +21,21 @@ A dataset of 240 complete E. Coli genomes from eight different phylogroups and 1
 
 # Discussion
 
+- Accurately recontructing E. Coli plasmids from IIlumina reads has proven to be a challenge, especially in the context of ARG-plasmid.
+- Develop a high-throughput method to recontruct E. Coli plasmids de novo from short-read sequencing data.
+- Method relies on an accurate identification of plasmid-derived nodes in the asssembly graph, followed by the binning of these notes using sequencing and node connectivity information.
+- To improve the identification of plasmid-derived contigs, we build plasmidEC, an ensemble classifier that combines predictions from three individual binary classifier and implement a majority voting system.
+
+
+
+
+
+
+
+
+
+
+
 Gplas, which enables the bining and a detailed analysis workflow of binary classified plasmid into discrete plasmid units by relying on the structure of the assembly graph, k-mer information and ==partitioning of a pruned plasmidone network.==
 
 - Limitation

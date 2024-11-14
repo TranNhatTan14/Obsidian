@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d3c79ef78f5c403",
+        "id": "fc3dc2bcefddfc57",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd74471466fb0da",
+            "id": "9760b35d38f138ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompt.md",
+                "file": "LLM Engineer's Handbook.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "6a565d985a47d2f9",
+            "id": "aa016e089955c61f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Applications/ChatGPT.md",
+                "file": "AMOVA.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "51984011c3dc5664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKR.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Attention",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "right": {
     "id": "685661460335a225",
@@ -95,6 +109,45 @@
         "id": "e70f57567e99048a",
         "type": "tabs",
         "children": [
+          {
+            "id": "e0dbe7a7aeef20fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AMOVA.md"
+              }
+            }
+          },
+          {
+            "id": "661e85bfa5a3caf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AMOVA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1bddd6c72b2b75db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AMOVA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
           {
             "id": "95c54f3434d7d575",
             "type": "leaf",
@@ -107,54 +160,7 @@
             }
           },
           {
-            "id": "e0dbe7a7aeef20fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Resources/Applications/ChatGPT.md"
-              }
-            }
-          },
-          {
-            "id": "661e85bfa5a3caf8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Resources/Applications/ChatGPT.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "b72fbcf33fe271c1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Resources/Applications/ChatGPT.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "2a10605b2b795bda",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "99f6221aa3a7a346",
+            "id": "7f7d0332531c9b0e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -164,12 +170,22 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "b2697d496421855a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 443.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,45 +195,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6a565d985a47d2f9",
+  "active": "aa016e089955c61f",
   "lastOpenFiles": [
-    "Prompt.md",
-    "Resources/Tools/Visual Studio Code.md",
-    "adapt.md",
-    "conscience.md",
-    "clean.md",
-    "criticize.md",
-    "Knowledge/Language/Vocabulary/accelerate.md",
-    "explain.md",
-    "honor.md",
-    "Knowledge/Language/Vocabulary/accumulation.md",
-    "Knowledge/Language/Vocabulary/aura.md",
-    "Knowledge/Language/Vocabulary/lethargy.md",
-    "Knowledge/Language/Vocabulary/mortician.md",
-    "Knowledge/Language/Vocabulary/peccant.md",
-    "Knowledge/Language/Vocabulary/rejuvenation.md",
-    "Knowledge/Language/Vocabulary/solitary.md",
-    "spacious.md",
-    "Knowledge/Language/Vocabulary/connotation.md",
-    "Knowledge/Language/Vocabulary/celerity.md",
-    "Knowledge/Language/Vocabulary/consideration.md",
-    "Knowledge/Language/Vocabulary/construct.md",
-    "Knowledge/Language/Vocabulary/endure.md",
-    "Knowledge/Language/Vocabulary/eager.md",
-    "Knowledge/Language/Vocabulary/Energy.md",
-    "Knowledge/Language/Vocabulary/especially.md",
-    "Knowledge/Language/Vocabulary/infuse.md",
+    "OKR.md",
+    "Resources/Files/Pasted image 20241114154823.png",
+    "Resources/Files/Pasted image 20241114154117.png",
+    "AMOVA.md",
+    "GitHub Student Developer Pack.md",
+    "Resources/Files/Pasted image 20241114152223.png",
+    "Resources/Files/Pasted image 20241114151811.png",
+    "Resources/Files/Pasted image 20241114151558.png",
+    "Resources/Files/Pasted image 20241114151424.png",
+    "Resources/Files/Pasted image 20241114151159.png",
+    "Resources/Files/Pasted image 20241114151025.png",
+    "LLM Engineer's Handbook.md",
+    "MongoDB.md",
+    "Resources/Applications/Balance.md",
+    "relief.md",
+    "Superman/Relationships and Connections.md",
+    "Groups.md",
+    "Python.md",
+    "Poetry.md",
+    "intuition.md",
+    "Resources/Applications/TikTok.md",
+    "Engineering.md",
+    "Prompts.md",
+    "Knowledge/Language.md",
+    "portfolio.md",
+    "partition.md",
+    "Data.md",
+    "Life/Competitions/Location Mention Recognition.md",
+    "AI Engineer.md",
+    "Dream Work.md",
+    "Work/Roles.md",
+    "Work/Career.md",
+    "Goals/Master Program.md",
     "Resources/Files/Pasted image 20241109205347.png",
     "Resources/Files/Pasted image 20241109205336.png",
-    "Resources/Files/Pasted image 20241109205328.png",
-    "Resources/Files/Pasted image 20241109165707.png",
-    "Resources/Files/Pasted image 20241109165611.png",
-    "Resources/Files/Pasted image 20241109165600.png",
-    "Resources/Files/Pasted image 20241109165242.png",
     "Superman/Routines",
     "Goals",
     "Relationships and Connections/Family",
@@ -228,9 +245,6 @@
     "Talks",
     "Superman/a",
     "Emotions",
-    "Resources/Files/Pasted image 20241028153824.png",
-    "Resources/Files/Pasted image 20241028154414.png",
-    "Resources/Files/Pasted image 20241028154303.png",
     "Untitled.canvas"
   ]
 }

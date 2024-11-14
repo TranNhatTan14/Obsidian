@@ -17,51 +17,6 @@ DNA assembly to short read to unitig to contig and unitig assembly graph and con
 - No need to train specific model for each specie like PLASMe
 - Can handle short contig (contig between 100 - 1000 bp)
 
-# Workflow
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Tasks
-
-## Data
-
-- Dữ liệu đầu vào để có thể phổ biến nhất thì là 2 file FASTQ short-read sequences
-- Quanlity control
-- Create unitig or assembly graph file
-
 ## Alignment and Binning
 
 ## Modeling
@@ -136,9 +91,10 @@ Hybrid
 
 # Method
 
-- Assembly genome to use workflow in PlasmidEC
-- Input data is assembly graph
-- Expected fna file as input
+- Download complete genome and short-read data
+- The data for testing
+
+## Data preparaion
 
 ## Quality Control
 
@@ -146,6 +102,22 @@ Hybrid
 2. Alignment with chromosome database to exclude high predict chromosome, markers, ... to get information about gene (both plasmid and chromosome)
 3. Use SPdes, Unicycle, SKESA to create assembly graph for bacterial genomes
 4. Extract information from assembly graph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Kết hợp theo 3 hướng
 
@@ -232,10 +204,6 @@ PC-based token achieved the best precision, recall and F1-score
 - Manual curation of high-confidence predictions
 - Experimental validation of novel plasmid predictions
 
-### Assembly graph
-
-Created from short read FASTA file
-
 ## Features
 
 - Mapping the known plasmids of your organism against the de novo assembly. 
@@ -269,14 +237,99 @@ Created from short read FASTA file
 - hai contig noi voi nhau va can kiem tra thong tin lien quan den coverage because of randon fragmentrtion
 - One key feature of plasmids is that many are circular. In an assembly graph, if you observe that certain contigs form a **small circular structure**, that’s a strong indication of a plasmid. Tools that detect circularity, such as SPAdes or Unicycler, can identify these loops in the graph and suggest plasmid contigs.
 
+# Plan
+
+- Download s==hort-reads== from SRA and complete genome from NCBI for ==3 species==
+- Handle hybrid assemblies if using multiple sequencing technologies
+
 # Data
 
+- Use Illumina sequencing technology for generating the raw reads
+- Which assembler will you use to generate the assembly graphs (SPAdes, Unicycler, metaSPAdes)?
+- Do you have a specific bacterial species/genus in focus, or is this meant to be a general-purpose tool?
+	- E. Coli
+	- K.
+	- S. 
+- How will you handle hybrid assemblies if using multiple sequencing technologies?
+
+- How will you define ground truth for training [[PlasmidEC and gplas2]]
+	- Will you use known plasmid sequences from databases like PlasmidDB
+	- How will you handle novel plasmid (it mean we can't align to database)
+- What specific plasmid characteristics are you planning to leverage
+	- Circular nature of plasmids
+	- Presence of plasmid-specific genes (rep genes, mob genes)
+	- Size distributions
+
+# Features
+
+## Node features
+
+- Coverage depth
+- Sequencing composition
+	- GC content [[plASgraph2]] for relative idea
+	- k-mer frequencies [[UnitigBIN]]
+	- Length of contigs
+	- Node connectivity patterns
+## Edge features
+
+# Binning
+
+- Check database in this step
+
+# Classification
+
+- Use data features and information from Binning step
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ==Change SAMN05729957 to SAMN31007786==
-# Evaluation
+
+- Dữ liệu đầu vào
+	- để có thể phổ biến nhất thì là 2 file FASTQ short-read sequences
+	- Assembly graph file
+- Quanlity control
+- Create unitig or assembly graph file
+# Evaluation and Validation
 
 - Compare with alignment, machine learning, hybrid
 - Compare with different length include short contig
 - Test in novel contig
+
+- What metrics you use to evaluate performance?
+	- Precision/Recall for plasmid identification
+	- Accuracy of plasmid boundary determination
+	- Robustness to different assembly qualities
+- How will you compare your method to existing tools
+	- PlasmidSPAdes
+	- PlasFlow
+	- Other machine learning-based approaches
 
 
 
@@ -311,9 +364,8 @@ However PC-clustering tokenization also help some limiatation as it is more pron
 
 ## Embedding
 
-[Why There Are No Essential Genes on Plasmids](https://academic.oup.com/mbe/article/32/12/3079/2579220) #Gene #Embedding
-
-[https://research.google/blog/exphormer-scaling-transformers-for-graph-structured-data/](https://research.google/blog/exphormer-scaling-transformers-for-graph-structured-data/)
+- [Why There Are No Essential Genes on Plasmids](https://academic.oup.com/mbe/article/32/12/3079/2579220) #Gene #Embedding
+- [Exphormer: Scaling transformers for graph-structured data](https://research.google/blog/exphormer-scaling-transformers-for-graph-structured-data/)
 
 - [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699)
 - [Self-Supervised Graph Transformer on Large-Scale Molecular Data](https://proceedings.neurips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
@@ -343,11 +395,11 @@ Rely on read coverage and cyclic topology for plasmid assembly, which is best us
 
 # Q&A
 
-## Should we identify only plasmid or both plasmid, chromosome, ambiguous
+==Should we identify only plasmid or both plasmid, chromosome, ambiguous==
 
 - Benefit of ambiguous can see in plASgraph2
 
-## Differences between Plasmids and Chromosomes
+==Differences between Plasmids and Chromosomes==
 
 Plasmids
 
@@ -369,11 +421,9 @@ Chromosomes
 - k-mers
 	- 3-5 k-mers can help capture specific motifs or sequence patterns that are more frequent in plasmid (antibiotic resistance genes) or chromosome (essential genes)
 
-## What features we can extract from sequence related to plasmid and chromosome
+==What features we can extract from sequence related to plasmid and chromosome==
 
-## Others
-
-Trong cùng một bộ gene thì có khoảng bao nhiêu plasmid và sequence của plasmid có giống nhau không
+==Trong cùng một bộ gene thì có khoảng bao nhiêu plasmid và sequence của plasmid có giống nhau không==
 
 Higher coverage depth usually indicates plasmid contigs, while more consistent coverage suggests chromosome contigs.
 Plasmids may have different GC content compared to the chromosome.

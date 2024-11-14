@@ -1,3 +1,4 @@
+Nhiều lức mình tự suy diễn vấn dề theo hướng tiêu cực
 Nghe audio book không phù hợp với mình lắm
 Mình thích không khí lạnh hơn là không khí nóng 
 Thiền lúc trưa thì sao habbit

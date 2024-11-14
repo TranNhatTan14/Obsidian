@@ -10,11 +10,6 @@ sr-due: 2024-11-13
 sr-interval: 4
 sr-ease: 270
 ---
-START
-Basic
-Front:
-energize
-Back:
 - Definition: To give energy or vitality to someone or something.
 - IPA: /ˈɛnərˌdʒaɪz/
 - Pronunciation: [EN-er-jahyz](https://www.google.com/search?q=how+to+pronounce=energize)
@@ -45,5 +40,3 @@ Energize can remind us of moments when something gave us a boost—whether it wa
 
 ### Visual Association
 Imagine plugging in a phone that’s nearly dead and watching it quickly charge back up, symbolizing a surge of energy.
-
-END

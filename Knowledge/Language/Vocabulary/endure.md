@@ -5,8 +5,8 @@ aliases:
   - endurance
   - enduring
   - endurable
-sr-due: 2024-11-12
-sr-interval: 3
+sr-due: 2024-11-20
+sr-interval: 8
 sr-ease: 250
 ---
 - Definition: To suffer something painful or difficult patiently; to last or continue in existence.
@@ -19,7 +19,6 @@ sr-ease: 250
 - Suffix: None
 - Connotation: Generally positive; implies resilience and strength.
 - Vietnamese: chịu đựng
-- Chinese: 忍受
 
 ### Mnemonic
 "Endure is like a strong tree weathering a storm."
@@ -36,5 +35,3 @@ Endure relates to personal challenges we face, like difficult times in relations
 
 ### Visual Association
 Imagine a mountain climber reaching the summit after a tough journey, representing the spirit of endurance.
-ID: 1727604240958
-END

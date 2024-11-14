@@ -29,7 +29,7 @@ What Artificial Intelligence can do
 
 - [[Large Language Model]]
 - [[Generative AI]]
-- [[Prompt]]
+- [[Prompts]]
 
 ### Knowledge distillation
 ### Model Prune

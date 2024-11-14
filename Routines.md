@@ -35,6 +35,7 @@ aliases:
 - Lên kế hoạch
 - [[Reading]] and log process with [[Habitify]]
 - Reflect on your days in the evening
+- Optimization
 - [[Meditation]] with [[Balance]]
 - [[Stretch]]
 - [[Sleep]]

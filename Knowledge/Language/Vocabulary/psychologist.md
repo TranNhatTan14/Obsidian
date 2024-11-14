@@ -5,17 +5,12 @@ aliases:
   - psychological
   - psychology
   - psychotherapy
-sr-due: 2024-11-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-22
+sr-interval: 10
+sr-ease: 270
 ---
 TARGET DECK: Obsidian
 
-START
-Basic
-Front:
-psychologist
-Back:
 - Definition: A professional who studies mental processes and human behavior; often provides therapy and counseling.
 - IPA: /saɪˈkɒl.ə.dʒɪst/
 - Pronunciation: [sigh-KOL-uh-jist](https://www.google.com/search?q=how+to+pronounce=psychologist)
@@ -26,7 +21,6 @@ Back:
 - Suffix: None
 - Connotation: Generally positive; implies support and mental well-being.
 - Vietnamese: nhà tâm lý học
-- Chinese: 心理学家
 
 ### Mnemonic
 "A psychologist helps untangle the knots in your mind, guiding you toward clarity."
@@ -44,5 +38,3 @@ Psychologist can relate to anyone who has sought help for mental health, emphasi
 
 ### Visual Association
 Imagine a person sitting on a couch, talking to a compassionate listener, symbolizing the therapeutic process.
-ID: 1727604241178
-END

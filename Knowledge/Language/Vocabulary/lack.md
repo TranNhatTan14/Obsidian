@@ -2,9 +2,9 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2024-11-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-24
+sr-interval: 12
+sr-ease: 270
 ---
 - Definition: The state of being without or not having enough of something.
 - IPA: /læk/
@@ -16,9 +16,9 @@ sr-ease: 250
 - Suffix: None
 - Connotation: Negative; implies insufficiency or need.
 - Vietnamese: thiếu
-- Chinese: 缺乏
 
 ### Mnemonic
+
 "Lack is like an empty cup—you want to fill it, but there’s nothing there."
 
 ### Word Family

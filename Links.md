@@ -1,4 +1,4 @@
-- Data- Information - Knowledge - Insight - Wisdom ![](https://mltfwbciccuo.i.optimole.com/cb:n4OZ.4d52/w:auto/h:auto/q:mauto/f:best/https://www.evalueserve.com/wp-content/uploads/2021/08/Insights-to-wisdom-infographic.png)
-- Fixed Mindset and Growth Mindset ![](https://media.licdn.com/dms/image/v2/D4E22AQGCjWZ8ipyXpQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1694072998065?e=1733961600&v=beta&t=GSGzTSslC4YVh1aXQMoi6nLoRYDGBGwHINGnpSQzcEc)
-- Learning - Doing - Improving to Success ![[Pasted image 20241109165707.png]]
+- Data - [[Information]] - [[Knowledge]] - Insight - Wisdom ![](https://mltfwbciccuo.i.optimole.com/cb:n4OZ.4d52/w:auto/h:auto/q:mauto/f:best/https://www.evalueserve.com/wp-content/uploads/2021/08/Insights-to-wisdom-infographic.png)
+- Fixed [[Mindset]] and Growth [[Mindset]] ![](https://media.licdn.com/dms/image/v2/D4E22AQGCjWZ8ipyXpQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1694072998065?e=1733961600&v=beta&t=GSGzTSslC4YVh1aXQMoi6nLoRYDGBGwHINGnpSQzcEc)
+- [[Learning]] - Doing - Improving to Success ![[Pasted image 20241109165707.png]]
 - Song related to memory

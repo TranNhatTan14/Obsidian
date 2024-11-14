@@ -3,9 +3,9 @@ tags:
   - Vocabulary
 aliases:
   - lethargic
-sr-due: 2024-11-11
-sr-interval: 1
-sr-ease: 210
+sr-due: 2024-11-17
+sr-interval: 5
+sr-ease: 230
 ---
 - Definition: A state of sluggishness, inactivity, and apathy.
 - IPA: /ˈlɛθərdʒi/

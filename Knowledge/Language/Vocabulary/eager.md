@@ -2,8 +2,8 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2024-11-12
-sr-interval: 3
+sr-due: 2024-11-21
+sr-interval: 9
 sr-ease: 250
 ---
 - Definition: Having a strong desire or enthusiasm for something.

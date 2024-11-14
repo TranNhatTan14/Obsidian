@@ -4,8 +4,8 @@ tags:
 aliases:
   - solitarily
   - solitariness
-sr-due: 2024-11-12
-sr-interval: 2
+sr-due: 2024-11-16
+sr-interval: 4
 sr-ease: 230
 ---
 
@@ -29,10 +29,6 @@ Picture a single tree standing alone in the middle of a vast desert.
 - **Noun**: The feeling of *solitude* is common in quiet places.
 - **Adjective**: He enjoyed his *solitary* walks in the forest.
 - **Adverb**: She worked *solitarily*, focusing without distractions.
-  
-- Example with ==idiom==: The prisoner was placed in ==solitary confinement==.
-- Example sentence: She preferred a *solitary* lifestyle away from the noise of the city.
-- Regular example sentence: A *solitary* figure stood alone on the beach.
 
 ### Personal Connection
 
@@ -40,4 +36,4 @@ Solitary moments can provide time for reflection and personal growth, but too mu
 
 ### [Visual Association](https://www.google.com/search?tbm=isch&q=solitary)
 
-Picture a lone person sitting by a lake, surrounded by nature, symbolizing solitude and peacefulness.
+![](https://i0.wp.com/leaglesamiksha.com/wp-content/uploads/2022/08/0224_solitary-1000x750-1.jpg?fit=800%2C600&ssl=1)

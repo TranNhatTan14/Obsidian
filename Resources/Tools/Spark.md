@@ -1041,7 +1041,7 @@ pipeline = pipeline.fit(train)
 
 # Others
 
-### Apache [Spark](Spark.md), Hadoop, Kafka
+### Apache [Spark](Resources/Tools/Spark.md), Hadoop, Kafka
 
 https://www.logicmonitor.com/blog/kafka-vs-spark-vs-hadoop
 

@@ -5,9 +5,9 @@ aliases:
   - monologuing
   - monologic
   - monologist
-sr-due: 2024-11-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-14
+sr-interval: 2
+sr-ease: 230
 ---
 - Definition: A long speech by one actor in a play or movie, or by a person in a conversation.
 - IPA: /ˈmɒn.ə.lɒɡ/

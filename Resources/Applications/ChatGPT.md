@@ -11,7 +11,6 @@ URL: https://chatgpt.com
 ---
 # Prompt
 
-[Prompt for vocabulary](https://chatgpt.com/c/672f8bfe-0b98-800a-96d8-3a14d9a73c2e)
 # Advanced voice mode
 
 - Natural conversations: Senses and responds to interruptions, humor

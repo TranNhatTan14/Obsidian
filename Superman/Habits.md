@@ -55,7 +55,6 @@ Use screen time to reduce screen time
 - Đọc bài trên Troll Bóng Đá, Ghiền Bóng Đá
 - Watch MU, Man City, Al Nasar's match highlight
 - Đọc thông tin chuyển nhượng của [Real Madrid](Real%20Madrid.md) 
-- ELSA Speak or The Coach for 20 minutes
 - Sống với cảm xúc vỡ òa
 - Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
 - Continute to learn new things on a dauly basis

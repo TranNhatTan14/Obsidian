@@ -5,9 +5,9 @@ aliases:
   - regulation
   - regulated
   - regulatory
-sr-due: 2024-11-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-23
+sr-interval: 11
+sr-ease: 270
 ---
 - Definition: To control, direct, or adjust something according to a specific rule, system, or principle.
 - IPA: /ˈrɛɡjʊleɪt/

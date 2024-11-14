@@ -171,8 +171,6 @@ The difference is the set of defaut parameters. Train is usually used for featur
 
 ### [Automatic Mixed Precision](https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html)
 
-### [Mini-batch](https://stackoverflow.com/questions/58269460/what-is-the-meaning-of-a-mini-batch-in-deep-learning)
-
 Check if Florence in train has label as LOC
 Check in test
 
@@ -194,6 +192,22 @@ https://github.com/uhuohuy/DLRGeoTweet
 [DLRGeoTweet: A comprehensive social media geocoding corpus featuring fine-grained places](https://doi.org/10.1016/j.ipm.2024.103742)
 https://crisisnlp.qcri.org/humaid_dataset.html
 
-### Gazette
+---
 
-[Automatic gazette creation for named entity recognition and application to resume processing](https://www.researchgate.net/publication/262369926_Automatic_gazette_creation_for_named_entity_recognition_and_application_to_resume_processing)
+Fine-tunning open source models
+
+open source framework called UnslothAI 
+
+Simple LLM fine-tuning solution with H2O LLM Studio
+
+According to the latest rules only the provided train CSV was used for model training. The dataset had quite a few missing values with empty tweets and locations. All records with missing values were dropped. For train-validation split 80-20% random sample was used.
+
+Initially I started with Small Language Models H2O Danube2-1.8B and H2O Danube3-4B. With H2O Danube3-4B it was possible to reach 0.132 on the Public Leaderboard.
+
+Utilizing larger models (e.g. meta-llama/Meta-Llama-3-8B) resulted in slight improvements both on my validation set and the public leaderboard, achieving WER between 0.118 and 0.121.
+
+You can find all the details at: https://github.com/gaborfodor/zindi-location-recognition
+
+- Great opportunity to apply and benchmark fine-tuning large language models.
+- The initial design of the competition, the selected Word Error Rate (WER) evaluation metric and focusing on the Location Mention Recognition sub-task all favored traditional token classification approaches with postprocessing techniques.
+- Fortunately, I was curious to build a straightforward LLM fine-tuning solution. Throughout the competition, the training dataset had several changes, and I believe the most recent rule updates now prevent the use of token-level labels from the original JSON files.

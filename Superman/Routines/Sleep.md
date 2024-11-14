@@ -1,4 +1,7 @@
 ---
+tags:
+  - Important
+  - Attention
 links:
   - "[[Health]]"
 aliases:
@@ -20,6 +23,7 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - Try taking a melatonin, a natural hormone that can help you fall asleep.
 - Exercise daily to improve the duration and quality of your sleep.
 - Wake up and go to bed at the same time each day to regulate your body's clock.
+- Avoid eating a large meal right before bed, which can disrupt your hormones
 
 # No
 

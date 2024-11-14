@@ -31,7 +31,7 @@ Elevate help practice Writing, Speaking, Reading, Math, Memory skills
 
 ### Inversion
 
-- Master new words and expand vocabulary #Vocabulary 
+- Master new words and expand vocabulary 
 - Learn to make effective contrasts in writing
 
 ### Punctuation
@@ -75,7 +75,7 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 ### Eloquence
 
 - Choose the best words to communicate your tone and meaning
-- Master new words and expand vocabulary #Vocabulary 
+- Master new words and expand vocabulary
 - Find the right word when speaking in proffessional settings
 
 ### Precision
@@ -94,11 +94,11 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 
 - Retrieve words from memory more rapidly
 - Eliminate tip-of-the-tougue moment while speaking
-- Master new words and expand vocabulary #Vocabulary 
+- Master new words and expand vocabulary
 
 ### Synonyms
 
-- Learn new adjectives and expand vocabulary #Vocabulary 
+- Learn new adjectives and expand vocabulary 
 - Vary your language to avoid souding repetitive
 
 ### Transitions

@@ -2,9 +2,9 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2024-11-12
-sr-interval: 3
-sr-ease: 250
+sr-due: 2024-11-25
+sr-interval: 13
+sr-ease: 270
 ---
 - Definition: Swiftness of movement; speed or rapidity.
 - IPA: /sɪˈlɛrɪti/

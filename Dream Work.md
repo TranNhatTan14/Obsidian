@@ -3,7 +3,7 @@ tags:
   - Goal
   - Short-term
 links: 
-description: Công việc tốt, phù hợp với định hướng của bản thân, ý nghĩa, thu nhập tốt, IKIGAI.
+description: Work Internationally Career in AI for Healthcare align with IKIGAI
 ---
 - Specific: Secure a Data Scientist position in a global healthcare/tech company with hybrid/remote options
 - Measurable: Achieve a position with compensation above market average (benchmark against local standards)

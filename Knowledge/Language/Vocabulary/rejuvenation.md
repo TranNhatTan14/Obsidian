@@ -5,9 +5,9 @@ aliases:
   - rejuvenates
   - rejuvenated
   - rejuvenating
-sr-due: 2024-11-12
-sr-interval: 2
-sr-ease: 230
+sr-due: 2024-11-19
+sr-interval: 7
+sr-ease: 250
 ---
 
 - Definition: The process of making something look or feel younger, fresher, or more lively.
