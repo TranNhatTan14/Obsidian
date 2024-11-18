@@ -35,10 +35,6 @@ DNA assembly to short read to unitig to contig and unitig assembly graph and con
 
 - Testing result with and without alignment
 
-
-- [ ] Thêm thông tin liên quan đến protein trên chromosome xem kết quả có cải thiện không
-- [ ] Kết hợp thuật toán từ [[plASgraph2]] và [[UnitigBIN]] để xây dựng thuật toán (chưa sử dụng đến Transformer)
-
 # Problems
 
 - Vấn đề đang gặp phải là số lượng mẫu có thể alignment được với database không nhiều

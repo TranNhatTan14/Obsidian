@@ -1,4 +1,8 @@
-
+---
+tags:
+  - Location
+  - Vingroup
+---
 - Học kiến thức liên quan
 - Khó khăn có phải thời điểm tốt để học và làm thêm vì khi kinh tế tốt sẽ phân Vân giữa làm và đi học 
 - Không sử dụng điện thoại 

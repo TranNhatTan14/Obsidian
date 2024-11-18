@@ -5,15 +5,16 @@ tags:
 ---
 # Link
 
-	[[Obsidian]] and link with before
-
 # Spaced Repetition
 
 https://github.com/st3v3nmw/obsidian-spaced-repetition
 
+# Hotkeys
+
+- Random note Alt R
+
 # Highlight
 
-- [ ] Get list of highlight as for new word
 # Link and Tag
 
 ## Tag
@@ -29,8 +30,6 @@ I don’t use tags myself, however I do know you can put tags in YAML Frontmatte
 1. Add image with path
 2. Add image with URL
 3. Add image with clipboard
-
-<div style="color: red;">This is blue text.</div>
 
 # Links
 
@@ -64,23 +63,6 @@ AND file.name != this.file.name
     AND file.name != "Inbox"
     AND file.name != "TODOs"
 SORT file.mtime DESC 
-```
-
-```dataview
-TABLE 
-file.mtime AS "Last Modified"
-frontmatter.status as "Status"
-FROM "content/Zettelkasten/Books"
-SORT file.mtime DESC
-```
-
-```dataview
-TASK
-FROM "content"
-```
-
-```query
-tag:#todo
 ```
 
 ```dataview

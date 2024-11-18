@@ -1,4 +1,7 @@
 ---
+tags:
+  - Course
+  - DLAI
 aliases:
   - "Retrieval Optimization: From Tokenization to Vector Quantization"
 ---

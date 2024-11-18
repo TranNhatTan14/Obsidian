@@ -1,8 +1,9 @@
-# A
-
-Genotyping
-
-
+---
+tags:
+  - Knowledge
+links:
+  - "[[Bioinformatics]]"
+---
 # Genotyping
 
 Icelandic DNA tells a story of Viking colonization and plunder across the Northern Atlantic.
@@ -17,9 +18,3 @@ The appearance of SNPs can be treated as a random process which occur at a certa
 In the last 20 years, we begun to map the set of the SNPs in millions of people from populations around the world.
 
 Capturing one individual's set of SNPs compared to a reference genome is called **genotyping**.
-
----
-
-Considering only these eight C amino acids, how many possible arrangements of four bridges can appear in this enzyme?
-
-We can enumerate all the different arrangements of C amino acids by thinking through how to construct one random arrangement.

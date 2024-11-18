@@ -1,0 +1,18 @@
+---
+tags:
+  - Vocabulary
+---
+ - Across the board, my friends have all benn there for me throughout my file
+ - I'm sorry I forgot about your birthday. I'll ==make up for it (apologize with actions)== by treating you to dinner next week
+ - ==return the favor== mean to do something good for someone who has done something good for you
+ - too much to ask (an unreasonable request)
+ - I asked my neighbor to ==help out (joun someone doin a task)== with fixing my fence
+ - While you're in the Virgin Islands, you ==might as well== (suggest doing something when there's nothing better) snorkel or surf near Hull Bay
+- The counselor gave the student ==advice== (a noun that means guidance) about her choice of major. ==Advise== is a verb meaning to offer suggestions.
+- The double rainbow on my birthday was ==the icing on the cake== (something extra that make a good thing better)
+	- In the world of finance, it's a ==dog-eat-dog== (fighting runthlessly for one's own success) environment where only the toughest survive.
+- She took an internship to get her ==foot in the door== (to get an early oppoturnity) at the company she admired.
+- He needs to get off his ==high horse== (have an arrogant attitude) and realize that everyone makes mistakes.
+- When it comes to design, sometimes ==less is more==.
+- After the conference, the team went out to ==let their hair down== (to be informal or relaxed) and relax.
+- I didn’t ask for his ==two cents== (an idiom meaning an unsolicited opinion), but he gave it anyway.

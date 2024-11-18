@@ -2,11 +2,6 @@
 tags:
   - Health
 ---
-
-- [ ] Danh sách bài tập mắt [priority:: highest]
-- [ ] Mua thực phẩm chức năng cho mắt
-- [ ] Chống ánh sáng xanh
-
 Lutein nên dùng từ 10-25 mg kèm Zeaxanthin (1-5 mg) càng tốt, dùng ngay sau khi ăn sáng hoặc ăn trưa
 Khuyến khích nên dùng kết hợp Lutein và dầu cá
 
@@ -31,6 +26,7 @@ Lutein của Puritan's pride
 - Dùng điện thoại quá gần
 - Lack of [[Sleep]], too much caffeine, or stress not good for eye
 - UV can damage your eye
+- Ortho K
 
 [Eye Doctor Answers Eye Questions From Twitter](https://www.youtube.com/watch?v=LwO086rYjEQ)
 

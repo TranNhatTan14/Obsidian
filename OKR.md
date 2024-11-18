@@ -1,3 +1,10 @@
+---
+tags:
+  - Seminar
+  - GeneStory
+---
+
+
 ![[Pasted image 20241114151025.png]]
 
 # Objective

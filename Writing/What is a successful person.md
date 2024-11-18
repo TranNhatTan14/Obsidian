@@ -1,3 +1,8 @@
+---
+tags:
+  - Writing
+---
+
 You need to understand how the world work, có chiến thuật cụ thể cho mình như là chơi một trò chơi.
 
 Một số hướng tiếp cận giúp bạn thành công hơn

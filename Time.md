@@ -3,6 +3,10 @@ tags:
   - Resource
   - Important
 ---
+# Definition
+
+
+
 Thời gian bị lãng phí hoặc coi là lãng phí và có thể tối ưu được
 
 - Thời gian khởi động thiết bị
@@ -11,4 +15,5 @@ Thời gian bị lãng phí hoặc coi là lãng phí và có thể tối ưu đ
 - Thời gian mở lại (Google Translate chẳng hạn)
 
 - Dành nhiều thời gian cho việc học
-- 
+
+[[Apple#Screen Time]]

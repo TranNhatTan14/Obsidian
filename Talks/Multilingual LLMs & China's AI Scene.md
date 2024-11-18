@@ -3,7 +3,6 @@ tags:
   - Talk
 URL: https://www.youtube.com/watch?v=z9TGT820nXI
 ---
-
 - Resource to support doing research
 - AGI
 - Intrucstion tuning

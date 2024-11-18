@@ -5,4 +5,4 @@ tags:
   - Evening
 description: After exercise
 ---
-Wukong and Hooyeon
+Stretch with Wukong and Hooyeon in [[Paradise Island]]

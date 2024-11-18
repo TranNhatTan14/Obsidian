@@ -1,6 +1,8 @@
 ---
 tags:
   - Apple
-  - Application
   - Photo
+  - Application
+  - Attention
+  - Memory
 ---

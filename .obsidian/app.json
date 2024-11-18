@@ -4,7 +4,7 @@
   "spellcheck": false,
   "readableLineLength": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "/",
+  "newFileFolderPath": "Data",
   "attachmentFolderPath": "Resources/Files",
   "showIndentGuide": false,
   "livePreview": true,

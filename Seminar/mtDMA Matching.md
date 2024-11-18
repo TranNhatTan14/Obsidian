@@ -1,6 +1,7 @@
 ---
 tags:
   - GeneStory
+  - Seminar
 ---
 Matching and Variant base
 High Copy Number:

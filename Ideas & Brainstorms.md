@@ -1,9 +1,21 @@
-### Health
+- Xin hãy chú ý nhiều hơn khi khám bệnh và kết hôn #Gene
+- Cuộc sống sẽ trở nên tốt đẹp nếu bạn tàn nhẫn loại bỏ những điều nhỏ nhặt trong cuộc sống, để tập trung vào công việc của mình
+- Summary research paper - AI - Transfer Learning
+Muốn hiểu bản thân mình thì mình cần có dữ liệu về mình
+Giống như việc các tập đoàn lớn đang phân tích về chúng ta
 
-- Không được lãng phí đồ ăn mẹ nấu và chuẩn bị cho, lên danh sách những đồ ăn mình có
-- Mình gặp thầy Hiệp vào buổi liên hoan team nghiên cứu, thầy bảo mình tăng cân
-- Việc đánh lại thộng tin hiểu quả trong một số trường hợp, mình có thể sử dụng công cụ để tổng hợp lại thông tin
-- Mình chưa đánh giá được mức độ quan trọng của công việc và thời gian cần thiết để thực hiện công việc
+
+I think the best way to learn is first know about this, know the application and how dive into how does it work under the hood
+There are many things I have to learn
+Sometimes I feel like I run out of energy, but I know I can do it
+
+- Kiến thức về graph và ma trận, goal to build model is how to translate into a matrix multiplication
+- Best in specific area
+- Apply science knowledge to daily life
+- Worrying does not take away tomorrow's troubles, it takes away today's peace
+Link to the person, create connection with people know (best in this field) have information, exchange thing (money for knowledge)
+
+"Nhân vô thập toàn" is a concept in Eastern philosophy that means no one is perfect; everyone has strengths and weaknesses. This phrase emphasizes the idea that all individuals are flawed and have faults.
 
 Vấn đề của mình đang là gì
 
@@ -57,15 +69,9 @@ Vấn đề của mình đang là gì
 - Mình thích gì?
 - Năng suất không cao 
 - Năng suất và phát triển kinh tế 
-- Chán
 
 
-- Tư duy và tái tư duy
-- Tiếp thu quan điểm và kiến thức mới
-- Cách đặt câu hỏi
 - Biết cách kiểm tra đầu ra
-- Giờ kiếm việc rất khó
-- Nhận chính thức cũng rất khó 
 - Khó khăn cũng có thể là cơ hội 
 
 - Định nghĩ well-being 
@@ -92,7 +98,6 @@ what another people ha ve that I don't have
 - Mình nghĩ suy nghĩ tại thời điểm sau khi nhìn lại sẽ chính xác hơn
 - Đây có thể là một cách hiệu quả để quản lý cảm xúc
 - Trí nhớ khi ở trong đầu và khi mình viết ra như thế này thì có điểm gì khác biệt
-- Tâm sinh tướng
 
 
 **Others**
@@ -214,23 +219,6 @@ Kỷ luật định nghĩa thành công
 Một sự kiện AI ra mắt có thể ảnh hưởng đến nhiều thứ #Finance 
 Cổ phiếu Doulingo sau khi OpenAI demo live translation
 
-https://www.zotero.org #Research 
-
-What are the most important things to me?
-
-When I need to answer some questions but I don't have enough data of myself, so I need to write journal more
-
-
-==Ứng dụng kiến thức AI cho lĩnh vực cụ thể thay vì làm vào lĩnh vực cụ thể, công cụ cụ thể giúp hỗ trợ kết quả==
-
-
-## Vision
-
-- Vai trò của lập trình viên từ người viết code trở thành người review code
-
-- Learn [[English]], thi IELTS, bổ sung kiến thức cần thiết dựa trên yêu cầu công việc, làm việc với [[Glocalization]]
-- Sức khỏe của bố yếu hơn trước rồi
-- Xem là các vị trí như DS, AIE, DE tương tác với nhau như thế nào, ai làm phần nào
 
 - Learn from work, like how to work with data, to get insight, know the trend
 - Transfer Learning from what you work to future work like from NSAID

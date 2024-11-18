@@ -1,6 +1,7 @@
 ---
 tags:
   - Technique
+  - Thinking
 ---
 Reverse thinking or inversion is a powerful lateral thinking technique that can help you generate novel solutions or avoid potential pitfalls. It involves **imagining the opposite of what you want to achieve or what you expect to happen, and then working backwards to identify the causes, consequences, and alternatives**
 

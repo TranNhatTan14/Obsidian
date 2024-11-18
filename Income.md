@@ -1,8 +1,6 @@
 ---
 tags:
   - Finance
-links:
-  - "[[Work]]"
 ---
 > [!tip] Passive income will chiếm 80%, thời gian là có hạn, công sức là có hạn, hãy để tiền đẻ ra tiền
 

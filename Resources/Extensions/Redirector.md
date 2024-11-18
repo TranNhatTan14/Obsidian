@@ -12,7 +12,7 @@ description: Redirect website
 - [[Messenger]]
 - [[Instagram]]
 - [[Threads]]
-- [[TikTok]]
+- [[TokTik]]
 - YouTube
 - Adult content in Toonily and Manga For Free
 

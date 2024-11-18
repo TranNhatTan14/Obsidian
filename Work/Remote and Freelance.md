@@ -2,3 +2,5 @@
 tags:
   - Work
 ---
+- Upwork
+- Deel

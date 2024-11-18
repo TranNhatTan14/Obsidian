@@ -3,10 +3,9 @@ tags:
   - Application
   - Attention
   - Chatbot
-description: Generative AI chatbot and language model act as assistant
 links:
-  - "[[Claude]]"
   - "[[iPhone]]"
+  - "[[Laptop]]"
 URL: https://chatgpt.com
 ---
 # Prompt

@@ -1,7 +1,6 @@
 ---
 tags:
-  - Important
-  - Attention
+  - Routine
 links:
   - "[[Health]]"
 aliases:
@@ -33,3 +32,7 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - Use the bed just for sleeping to help your brain associate it only with rest
 
 ### Sleep and mental health
+
+# Information
+
+- Sleep spindles

@@ -1,3 +1,8 @@
+---
+tags:
+  - Data
+  - Tool
+---
 Learn to implement distributed data management and machine learning in Spark using the PySpark package.
 
 # What is Spark

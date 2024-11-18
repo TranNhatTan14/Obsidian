@@ -1,10 +1,11 @@
+---
+tags:
+  - Important
+aliases:
+  - Second Brain
+---
 # Process RAW data with TEMPLATE (created with prompt)
 
-- [ ] Prompt for vocabulary
-
-- [ ] Learn how to create chatbot use ChatGPT API
-- [ ] Use custom model with chatbot
-- [ ] Make people can work with chatbot
 
 > [!important]
 > Mục đích của Chatbot này vừa là để cho như công việc của mình bên GeneStory về xây dựng Chatbot, học thêm kiến thức cần thiết, và cũng là để xây dựng công cụ giúp bản thân mình
@@ -509,10 +510,6 @@ Build a RAG pipeline
 
 Implement an agentic version of RAG
 
-### Summary the PDF
-
-The agent can help me to summary the PDF research paper like [Typeset](Tools.md#Typeset) and summary the research news like [Emergent Mind](https://www.emergentmind.com)
-
 ### List of agents
 
 - [AI Agentic Design Patterns with Autogen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/): Autogen is an agentic framework that specializes in agentic tasks. This course provides multiple project examples: Customer Onboarding, Blog-post writing, Tool Use (important for a research agent), Financial Analysis, and Report generation.
@@ -732,6 +729,5 @@ https://learnen.io
 
 
 https://eugeneyan.com/writing/llm-ux
-https://eugeneyan.com/writing/obsidian-copilot
 
 - Giúp mình take note hiệu quả hơn, có thể kiếm tiền từ đây, vừa có kiến thức cũng như dự án #Finance #Knowledge #Work 

@@ -3,8 +3,9 @@ tags:
   - Important
 aliases:
   - Trần Nhật Tân
-  - Self
 ---
+# Information about me from ChatGPT
+
 - You have experience with genetic research, AI, and translating English to Vietnamese.
 - You work as an AI engineer in a genetics company and have a bachelor's degree in Mechatronics.
 - You’re pursuing learning related to mitochondrial DNA regions HV1, HV2, and HV3, and you have done GWAS for NSAIDs.

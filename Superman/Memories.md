@@ -1,2 +1,7 @@
+---
+links:
+  - "[[Superman]]"
+---
+
 - HoLa 205 D3
 - Nhờ lại lúc mình về sớm trong đám cưới Việt Giang rồi mình đi qua đám lần nũa

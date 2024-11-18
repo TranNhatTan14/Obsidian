@@ -3,6 +3,6 @@ tags:
   - Application
   - Chatbot
   - Attention
-description: Generative AI chatbot and language model act as assistant
+  - AI
 URL: https://claude.ai
 ---

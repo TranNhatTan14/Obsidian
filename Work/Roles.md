@@ -5,16 +5,6 @@ tags:
 Xác định rõ được công việc mình muốn thực hiện giúp hạn chế lan man
 
 # Yes
-## Machine Learning Operations
-
-- Manages the deployment, monitoring, and optimization of AI/ML models in production environments.
-## Machine Learning Engineer
-
-The machine learning engineer is responsible for deploying the model. Having clear roles and responsibilities leaves no confusion as to who does what, which can greatly speed up the lifecycle.
-
-Focuses specifically on machine learning frameworks, libraries (e.g., TensorFlow, PyTorch), and algorithms. Their expertise lies in tuning models, feature engineering, and optimization.
-
-Designs and implements machine learning systems and algorithms.
 
 ## Data Scientist
 
@@ -41,7 +31,3 @@ Understanding Machine Learning Operations (MLOps) is essential for any data scie
 # Not
 
 ### Data Engineer
-
-- Extract raw data from different sources and store in a centrailized place
-- Design and maintain data pipelines to ensure efficient data flow and accessibility for analysis.
-- Make sure that incoming data is validated according to data quality requirements.

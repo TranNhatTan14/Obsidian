@@ -1,8 +1,11 @@
+---
+tags:
+  - Course
+  - ML
+---
 # Machine Learning Systems
 
 ## Cloud ML
-
-![[Pasted image 20241011144435.png]]
 
 Cloud Machine Learning (Cloud ML) is a subfield of machine learning that leverages the power and scalability of cloud computing infrastructure to develop, train, and deploy machine learning models. By utilizing the vast computational resources available in the cloud, Cloud ML enables the efficient handling of large-scale datasets and complex machine learning algorithms.
 
@@ -51,8 +54,6 @@ Edge Machine Learning (Edge ML) runs machine learning algorithms directly on end
 ### Characteristics
 
 ## Tiny ML
-
-![[Pasted image 20241011143725.png]]
 
 # Workflow
 

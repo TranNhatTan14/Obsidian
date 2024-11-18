@@ -5,11 +5,11 @@ aliases:
   - modifies
   - modified
   - modifying
+  - modification
 sr-due: 2024-11-14
 sr-interval: 4
 sr-ease: 270
 ---
-
 - Definition: To change something, usually to improve it or make it more suitable.
 - IPA: /ˈmɒd.ɪ.faɪ/
 - Pronunciation: [MOD-uh-fai](https://www.google.com/search?q=how+to+pronounce+modify)
@@ -17,9 +17,7 @@ sr-ease: 270
 - Antonym: retain, preserve, maintain
 - Prefix: None
 - Root: Latin modificare - meaning "to limit or regulate"
-- Suffix: -fy - meaning "to make or cause"
-- Connotation: Neutral or positive; often used in contexts where improvement or change is needed.
-- Vietnamese: Điều chỉnh, sửa đổi
+- Suffix: -fy - meaning "to make or cause
 
 ### Mnemonic
 

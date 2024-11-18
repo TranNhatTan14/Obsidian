@@ -2,8 +2,6 @@
 tags:
   - Attention
   - Work
-links:
-  - "[[Work]]"
 description: Nghiên cứu theo hướng ứng dụng, thay vì tạo ra nghiên cứu mới (Multidisciplinary)
 ---
 # Research directions

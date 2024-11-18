@@ -1,0 +1,6 @@
+---
+tags:
+  - Vocabulary
+aliases:
+  - beliefs
+---

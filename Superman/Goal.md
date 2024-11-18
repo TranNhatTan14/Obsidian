@@ -52,11 +52,6 @@ links:
 
 - Chuẩn bị trước, không được lười, nếu không có thể ảnh hưởng đến thời gian và tài chính (sạc máy tính và thẻ công ty)
 
-- [ ] Trắng da với việc uống nước chanh hàng ngày
-- [ ] Giảm cân và cải thiện thể hình
-- [ ] Tập mắt với bài tập thái dương công và hạn chế thời gian sử dụng thiết bị điện tử
-- [ ] Tạo nguồn thu nhập thụ động
-
 # Short-term goals (in a week, month, year)
 
 

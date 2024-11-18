@@ -2,7 +2,7 @@
 tags:
   - Application
   - GeneStory
-  - Attention
+  - Ignore
 links:
   - "[[iPhone]]"
 ---
@@ -16,4 +16,3 @@ links:
 
 - Nakroth
 - Yan
-- 

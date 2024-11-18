@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3dc2bcefddfc57",
+        "id": "10069527267ac9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "9760b35d38f138ad",
+            "id": "f022a8748b06afd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM Engineer's Handbook.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa016e089955c61f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AMOVA.md",
+                "file": "Journals/20241118.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,20 +21,28 @@
             }
           },
           {
-            "id": "51984011c3dc5664",
+            "id": "7578548ea62e7a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OKR.md",
+                "file": "Pandas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "27c6f6b124fc32c8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +75,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -98,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 382.5
   },
   "right": {
     "id": "685661460335a225",
@@ -115,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMOVA.md"
+                "file": "Journals/20241118.md"
               }
             }
           },
@@ -125,8 +119,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AMOVA.md",
-                "linksCollapsed": false,
+                "file": "Journals/20241118.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -137,14 +131,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AMOVA.md",
+                "file": "Journals/20241118.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -179,13 +173,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 443.5,
-    "collapsed": true
+    "width": 443.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,46 +187,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "aa016e089955c61f",
+  "active": "27c6f6b124fc32c8",
   "lastOpenFiles": [
-    "OKR.md",
-    "Resources/Files/Pasted image 20241114154823.png",
-    "Resources/Files/Pasted image 20241114154117.png",
-    "AMOVA.md",
-    "GitHub Student Developer Pack.md",
-    "Resources/Files/Pasted image 20241114152223.png",
-    "Resources/Files/Pasted image 20241114151811.png",
-    "Resources/Files/Pasted image 20241114151558.png",
-    "Resources/Files/Pasted image 20241114151424.png",
-    "Resources/Files/Pasted image 20241114151159.png",
-    "Resources/Files/Pasted image 20241114151025.png",
-    "LLM Engineer's Handbook.md",
-    "MongoDB.md",
+    "Pandas.md",
+    "Journals/20241118.md",
+    "STRUCTURE.md",
+    "Data/Untitled.md",
+    "Work/AMOVA.md",
+    "Eye.md",
+    "Emotions and Feeling and Moods.md",
+    "Data/sufficient.md",
+    "Resources/Books/LLM Engineer's Handbook.md",
+    "Resources/Applications/Elevate.md",
+    "Resources/Tools/Visual Studio Code.md",
+    "Superman/Routines/Reading.md",
+    "Life.md",
+    "Thinking.md",
+    "Reflection.md",
+    "Information.md",
+    "Superman/Mindset.md",
+    "Resources/Files/Pasted image 20241117184516.png",
+    "Resources/Files/Pasted image 20241117184034.png",
+    "Resources/Files/Pasted image 20241117183953.png",
+    "Energy.md",
+    "Routines.md",
+    "Stress.md",
+    "Family.md",
     "Resources/Applications/Balance.md",
-    "relief.md",
-    "Superman/Relationships and Connections.md",
-    "Groups.md",
-    "Python.md",
-    "Poetry.md",
-    "intuition.md",
-    "Resources/Applications/TikTok.md",
-    "Engineering.md",
-    "Prompts.md",
-    "Knowledge/Language.md",
-    "portfolio.md",
-    "partition.md",
-    "Data.md",
-    "Life/Competitions/Location Mention Recognition.md",
-    "AI Engineer.md",
-    "Dream Work.md",
-    "Work/Roles.md",
-    "Work/Career.md",
-    "Goals/Master Program.md",
-    "Resources/Files/Pasted image 20241109205347.png",
-    "Resources/Files/Pasted image 20241109205336.png",
+    "Resources/Things/iPad.md",
+    "fascinate.md",
+    "Superman/Health/Mindfulness.md",
+    "Meditation.md",
+    "Data",
+    "Resources/Files/Pasted image 20240810145627.png",
+    "Resources/Files/Pasted image 20240825172544.png",
+    "Resources/Files/Pasted image 20240821124734.png",
+    "Resources/Files/Pasted image 20240811153956.png",
+    "Resources/Files/Pasted image 20241028153951.png",
+    "Resources/Files/Pasted image 20240810183352.png",
+    "Resources/Files/Pasted image 20240810150044.png",
+    "Untitled.canvas",
+    "Knowledge/Technology",
     "Superman/Routines",
     "Goals",
     "Relationships and Connections/Family",
@@ -242,9 +239,6 @@
     "Resources/Podcasts/Andrew Huberman",
     "World",
     "Resources/Films",
-    "Talks",
-    "Superman/a",
-    "Emotions",
-    "Untitled.canvas"
+    "Talks"
   ]
 }

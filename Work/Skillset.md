@@ -1,6 +1,8 @@
 ---
+tags:
+  - Work
 links:
-  - "[[Work]]"
+  - "[[Knowledge]]"
 ---
 # Soft Skills
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - Routine
+links:
+  - "[[Exercise]]"
+---
+
 Đứng là dùng hông chứ không phải eo để bù lực
 Ngồi xổm với hông uốn cong, không phải đầu gối
 Tư thế đứng thẳng dựa vào core, không dựa vào valgus của xương sườn

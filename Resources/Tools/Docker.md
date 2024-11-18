@@ -1,4 +1,6 @@
 ---
+tags:
+  - Tool
 URL: https://app.datacamp.com/learn/courses/intermediate-docker
 ---
 ```bash

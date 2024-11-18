@@ -1,6 +1,0 @@
----
-tags:
-  - Goal
-links: 
-description:
----

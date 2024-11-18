@@ -278,4 +278,4 @@ Picture a dark figure suddenly appearing in a dimly lit room, causing someone to
 "
 
 Ensure all information is accurate and relevant to the given word. Provide concise yet comprehensive answers for each section. Provide all form of word in aliases only not include form information.  Replace [EXAMPLE] in the URL with the actual word being analyzed. Output is Markdown code what I can copy to code editor for each word. I will give you list of word you will create use the format for each word.
-The list of word is "beautiful, regulate".
+The list of word is "consolidate, perceive".

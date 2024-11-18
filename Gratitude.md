@@ -8,7 +8,6 @@ sr-due: 2024-11-16
 sr-interval: 4
 sr-ease: 270
 ---
-
 - Definition: The quality of being thankful; readiness to show appreciation and return kindness.
 - IPA: /ˈɡræt.ɪ.tuːd/
 - Pronunciation: [GRAT-i-tood](https://www.google.com/search?q=how+to+pronounce+gratitude)

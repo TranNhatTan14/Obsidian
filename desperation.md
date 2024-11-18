@@ -34,6 +34,8 @@ Imagine someone gripping the edge of a cliff in *desperation*, trying to hold on
 
 We often experience small moments of desperation in life, like trying to meet a deadline or make a difficult choice.
 
+https://www.youtube.com/watch?v=fQUeDdaVoWo
+
 ### [Visual Association](https://www.google.com/search?tbm=isch&q=desperation)
 
 Imagine someone trapped in a storm, clinging to shelter as a symbol of desperation.

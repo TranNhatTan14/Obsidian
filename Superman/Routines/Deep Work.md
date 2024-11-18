@@ -26,3 +26,8 @@ Work effectively with Forest. Don't watch YouTube at work
 - Write the summary to the Obsidian
 
 Use Forest to focus and manage screentime
+
+Nghe Podcast
+
+https://www.youtube.com/@CEOLABVN/videos
+

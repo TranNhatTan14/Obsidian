@@ -7,6 +7,7 @@ tags:
 Meditation is a formal practice designed to cultivate [[mindfulness]], among other mental states like concentration or compassion.
 Meditation is more structured, typically involing specific techniques such as focusing on your breath or repeating a mantra to achieve a state of calm or clarity (like what we do with [[Balance]] app)
 
+Meditation is rewardin but it can also feel challenging at first
 # [[Purpose]]
 
 - Meditation can change the structure of your brain.

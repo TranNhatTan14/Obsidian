@@ -1,1 +1,5 @@
-I usually use [Sancoba](https://www.pharmacity.vn/dung-dich-nho-mat-cai-thien-chuc-nang-dieu-tiet-sancoba-eye-drops-5ml.html)
+---
+tags:
+  - Thing
+description: I usually use Sancoba
+---

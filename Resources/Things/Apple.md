@@ -29,3 +29,21 @@ TrollDecrypt
 # Features
 
 ## Screen Time
+
+## Appication and Website Activity
+
+Get insights about your screen time and set limits for what you want to manage
+
+- Weekly reports
+	- Get a weekly report with insights, about you screen [[time]]
+- Downtime
+	- Set a schedule for [[time]] away from the screen
+- App limits
+	- Set daily [[time]] limits for app categories you want to manage
+
+## Notification Summary
+
+Bundle non-urgent notifications and receive them in a summary at convenient times.
+
+- Schedule Delivery
+- Get What's Important

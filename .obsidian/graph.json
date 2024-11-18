@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 10755519
       }
+    },
+    {
+      "query": "[\"links\":Attention",
+      "color": {
+        "a": 1,
+        "rgb": 47349
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 2.00130208333333,
+  "lineSizeMultiplier": 0.954947916666667,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.6497343665623043,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.497395833333333,
+  "linkDistance": 30,
+  "scale": 0.010952991388875791,
+  "close": true
 }

@@ -5,6 +5,7 @@ tags:
 date: 1966-08-18
 aliases:
   - Nguyễn Thị Dung
+  - Mẹ
 ---
 - Never skip mommy's call
 - [Còn mẹ là còn tất cả](https://www.tiktok.com/@trdhuog222/video/7353239696362818823)

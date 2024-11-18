@@ -1,6 +1,7 @@
 ---
-links:
-  - "[[Knowledge]]"
+tags:
+  - Knowledge
+  - Area
 ---
 ### Alleles
 

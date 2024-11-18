@@ -56,5 +56,13 @@
       ],
       "key": "2"
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
   ]
 }

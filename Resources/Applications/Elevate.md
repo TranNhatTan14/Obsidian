@@ -3,7 +3,6 @@ tags:
   - Application
   - Attention
   - Routine
-  - Morning
 links:
   - "[[iPhone]]"
   - "[[iPad]]"
@@ -112,7 +111,7 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 - Stop missing up commonly confused words
 - Eliminate distracting errors in speaking
 
-## Reading
+## [[Reading]]
 
 ### Aligity
 
@@ -122,13 +121,19 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 
 ### Connotation
 
+When trying to figure out if a word has positive or negative connotation, look at individual word parts for signal
+
+[[Elevate#Word Parts]]
+
 ### Context
+
+Helps you use context clues to expand your [[vocabulary]]
 
 ### Extraction
 
 ### Processing
 
-### Visualization
+### [[Visualization]]
 
 ### Word Parts
 
@@ -172,7 +177,7 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 
 # Study Materials
 
-Flashcards, tips and more to deepen your skills
+[[Flashcards]], tips and more to deepen your skills
 
 ## Public Speaking
 
@@ -183,20 +188,20 @@ Flashcards, tips and more to deepen your skills
 - Manage speaking anxiety
 - Use vocal emphasis to shape meaning
 
-## Speed Reading
+## Speed [[Reading]]
 
-- Establish your baseline reading speed and learn how to increase it
+- Establish your baseline [[reading]] speed and learn how to increase it
 - Reduce subvocalization to increase your comprehension
 - Put the strategies you learn into action by challenging yourself to read faster
-- Expand your vocabulary to increase your reading comprehension
-- Get expert tips on how to increase your reading speed
+- Expand your [[vocabulary]] to increase your [[reading]] comprehension
+- Get expert tips on how to increase your [[reading]] speed
 
-## Mathematics
+## [[Mathematics]]
 
-## Vocabulary Building
+## [[Vocabulary]] Building
 
-- Master unfamiliar words by learning roots, prefixes, and suffixes
-- Learn strategies to improve your vocabulary
+- Master unfamiliar words by [[learning]] roots, prefixes, and suffixes
+- Learn strategies to improve your [[vocabulary]]
 - Identify unfamiliar words based on context
 - Use words with greater precision
-- Employ vocabulary essential for professional and personal settings
+- Employ [[vocabulary]] essential for professional and personal settings

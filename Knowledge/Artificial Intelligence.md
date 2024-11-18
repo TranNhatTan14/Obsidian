@@ -1,6 +1,6 @@
 ---
-links:
-  - "[[Knowledge]]"
+tags:
+  - Knowledge
 ---
 What Artificial Intelligence can do
 

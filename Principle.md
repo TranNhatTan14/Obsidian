@@ -1,3 +1,7 @@
+---
+tags:
+  - Life
+---
 This can be called a decision-making principle or a rule of thumb for making choices when indecisive.
 
 - You shouldn't place too much expectation and trust in one person.

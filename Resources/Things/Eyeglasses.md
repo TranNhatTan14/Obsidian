@@ -1,7 +1,6 @@
 ---
 tags:
-  - Attention
-  - Important
+  - Thing
 links:
   - "[[Eye]]"
 ---

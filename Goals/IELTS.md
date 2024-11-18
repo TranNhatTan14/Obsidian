@@ -4,19 +4,11 @@ tags:
   - Goal
   - Attention
   - Important
-aliases:
-  - Academic IELTS
-links: 
-description: Achieve a desired IELTS score to meet academic or immigration requirements.
+  - Certification
 ---
-# To do
-
-1. Learn [[Knowledge/Language/Vocabulary|vocabulary]]
-- Danh sách dạng bài cho từng phần
-
-- Reading and Listening: 8.5
-- Writing and Speaking: 7.5
-- Ôn tập và chuẩn bị thi IELTS trong tháng 1 năm 2025 với mục tiêu đạt 8.0
+- Overall: 7.0
+	- Reading and Listening: 8
+	- Writing and Speaking: 6.5
 
 - Specific: Achieve IELTS overall band score of 7.0+ with focus on Speaking and Writing
 - Measurable: Improve Speaking and Writing from current level to target 6.5
@@ -34,14 +26,8 @@ Next steps:
 
 **Speaking Practice**: Use ChatGPT to simulate IELTS Speaking Part 2, where you speak continuously for two minutes on a given topic. Focus on organizing your ideas clearly.
 
-
 - Thường xuyên nói chuyện với người nước ngoài để tăng khả năng giao tiếp
 - Thường xuyên nói chuyện bằng tiếng Anh hàng ngày khi đi tắm, hoặc khi đi trên đường, tự nói chuyện với bản thân về các chủ đề như thời tiết và giao thông
-- Nghe nhạc, đọc truyện bằng tiếng Anh để hiểu rõ hơn về cách nói chuyện của người bản xử
-
-- Hơn nữa, em cũng hiểu rõ bài thi IELTS là bài thi kiểm tra khả năng giao tiếp bằng ngôn ngữ thông qua 4 kỹ năng, không phải bài kiểm tra khả năng ghi nhớ từ vựng hay cấu trúc câu siêu khủng. Vì vậy các bài viết, bài nói của em mặc dù có ngôn ngữ đơn giản nhưng luôn duy trì được tính tự nhiên và trôi chảy”, Đức kể.
-
-- Có nhiều người bạn nước ngoài, Trang thường luyện phát âm thông qua việc trò chuyện. Bên cạnh đó, nữ sinh thường ghi âm câu trả lời cho Task 2, mỗi câu nói trong hơn 1 phút. Trước khi ghi âm, nữ sinh thường viết nhanh ý tưởng ra giấy kèm một số từ vựng liên quan muốn sử dụng trong bài nói.
 
 - Để nói được cần có = Vocabulary + Grammar + Ideas
 
@@ -51,19 +37,8 @@ Next steps:
 
 - Thi trên máy tính tại IDP và speaking với người thật, thi trên máy tính có kết quả nhanh
 
-# Reading
+# [[Reading]]
 
-- Reading research paper #Work #Education
-- Focus on how they write academic research, how they explain graph, table which will benefit in Writing 1
-- Use research papers as reading practice #Research
-	- Time yourself reading a paper then summarize it
-		- First we can use [[SciSpace]] to help with summary paper
-	- Create IELTS-style questions based on the paper you read.
-	- Focus on understanding graphs, charts, and tables in these papers, as these are common in IELTS Academic Reading
-
-- Time the task is being explained for highlight and read question
-- Không phải lật lật
-- Đeo bịt lỗ tai
 ## Question types
 
 ### General
@@ -91,7 +66,7 @@ Next steps:
 - Flow-chart Completion
 - Diagram Label Completion
 
-# Listening
+# [[Listening]]
 
 - 40 questions
 - 4 parts with 10 question for each part
@@ -109,7 +84,7 @@ Next steps:
 - Sentence Completion
 - Short Answer Questions
 
-# Writing
+# [[Writing]]
 
 - Practice summarizing research papers in 150-200 words (Ideal for IELTS Writing Task 1)
 - Write critical analysis of papers (250-300 words) discussing methods, results, and implication (good practice for Task 2)
@@ -143,8 +118,6 @@ Các dạng câu hỏi trong bài thi Viết (học thuật) của hình thức 
     - Advantage and Disadvantages
     - 2-Part Question
 
-## Writing
-
 - Thườngg Writing sẽ là khó nhất
 
 Khó khăn
@@ -153,7 +126,7 @@ Khó khăn
 
 - một cấu trúc viết cho Task 2 em cảm thấy hữu dụng là kiểu viết OREO l(Opinion Reasoning Example Opinion)., lối viết mạch lạc, logic. Em không dùng nhiều tài liệu, đa phần chỉ tìm kiếm trên Internet hoặc tìm trong cuốn Expert IELTS”.
 
-# Speaking
+# [[Speaking]]
 
 - Paraphase
 
@@ -174,6 +147,29 @@ Khó khăn
 - Chiều luyện nói
 
 ## [[Standing on the Shoulders of Giants]]
+
+https://www.threads.net/@lelinh.dayy #IELTS #Speaking 
+
+The Forum Center #IELTS 
+
+Đầu tiên, mình vẫn phải khẳng định lại, mình không đi từ con số 0 về Phát Âm mà về cơ bản phát âm của mình từ đầu đã được đánh giá là khá tốt, chỉ là chưa đạt đến mức hoàn chỉnh (tức là ở khoảng band điểm 7.0) và mình cũng CHƯA TỪNG ĐI DU HỌC hay SỐNG Ở NƯỚC NÓI TIẾNG ANH. Nhưng mình mong những chia sẻ dưới đây vẫn sẽ giúp được nhiều bạn ở nhiều level khác nhau nhé!
+
+[[Shadowing]]
+- chưa thể nghe được hết các "tinh hoa" của các cách phát âm
+- dạy cho người khác
+- các âm dài và âm ngắn, khẩu hình miệng
+- các âm đuôi cần đầy đủ và chính xác, nối âm
+- ed and s, bản chất âm vô thanh và hữu thanh
+- [[Learn English With TV Series]]
+- Nhấn nhá đúng chỗ
+	- Stress của word, nhấn mạnh vào từ cụm từ muốn truyền tải [[Elevate]]
+- Enunciate [[Elevate]]
+	- cần đọc rõ ràng và rành mạch
+	- Ghi âm lại
+-  Mình luôn coi bài thi như một cuộc trò chuyện với bạn, tất nhiên sẽ không suồng sã quá 😆: ngôn ngữ không cần formal như văn Viết mà dùng nhiều phrasal verbs, collocations, không nhét idiom vô lý,.. (tiếp)
+- - Xen một chút sense of humor, chút thật thà vào, miễn ngôn ngữ không bị quá chớn (Ví dụ gk hỏi cái mình không có kiến thức, mình nói luôn: Mình chưa bao giờ quan tâm vấn đề này nhưng nếu mà phải đoán thì chắc là...) - luôn nhớ bài test kiểm tra cách mình xử lí vấn đề trong tiếng Anh, không phải thi ĐLĐ Olympia
+- Watch the IELTS Speaking Mock
+
 
 - https://www.youtube.com/@theforumcenter
 - https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing 
@@ -222,12 +218,9 @@ Vì sao lại sai
 
 # Tips and Tricks
 
-- Quản lý thời gian
-- L:Q40:T30:10 phút chuyển đáp án
-- R:40 câu 60 ohuts cả thởi gian chuyển đáp án
-- Skimming
+- [[Time Management]]
+- Skimming and Scaning
 - Underlining: gạch chân từ khóa
-- Scaning
 - Nắm được các dạng bài
 - KHÔNG ĐỌC KỸ ĐỀ BÀI CẦN GÌ
 - điền hết tất cả 40 câu
@@ -238,7 +231,6 @@ Vì sao lại sai
 - Làm sao để không cần hiểu hết mà vẫn có thể làm đúng hết?
 - Đề Forecast theo quý
 - Academic English Help
-    - Hãy sử dụng Shadowing (SHADOWING SAO CHO ĐÚNG CÁCH VÀ HIỆU QUẢ)
     
 - Đừng quá để bản thân bị áp lực bởi thành tích và điểm số
     
@@ -262,41 +254,15 @@ Vì sao lại sai
 - We can highlight and take notes
 - Chuyển linh hoạt giữa các phần trong một kỹ năng để tối ưu thời gian
 
-- IELTS FACE-OFF
-- Prep For IELTS: Luyện phòng thi ảo: [https://www.facebook.com/hocieltscungprepvn](https://www.facebook.com/hocieltscungprepvn)
-- Tuy nhiên, để đạt thành tích cao trong kỳ thi IELTS, thầy giáo 9x khẳng định, điều quan trọng nhất là không quan tâm và không áp lực bởi điểm số. Nếu quá quan tâm đến yếu tố này, người học sẽ phân tâm và tự tạo áp lực rất lớn.
-- "Hãy tập trung vào bài thi và khai thác hết khả năng của mình. Quá trình học và kiến thức mới là thứ đi cùng bạn trên con đường sau này", anh nhấn mạnh.
+
+
 - Anh chia sẻ bản thân không theo chủ nghĩa hoàn hảo
-- IELTS Face-off & Đồng dẫn chuyên mục IELTS On-The-Go VTV7
-- Khánh Vy, Nguyễn Lâm Thảo Tâm và MC duyên dáng Phoebe Trần.
+- Không áp lực đến điểm số
+- THI THỬ
+- IOC Check 2024 Hoàn
+-  học và làm bài, luôn phải có một sự tập trung cao độ.
 
-[IELTS FACE-OFF](https://www.youtube.com/@ieltsfaceoffvtv7)
 
-THI THỬ
-
-[Đăng ký xét duyệt học bổng S-Global giai đoạn 2](https://www.hocbongsglobal2.com/xet-duyet-hoc-bong-sglobal-2)
-
-IOC Check 2024 Hoàn
-
-- Write research paper for
-
-cho hay đầu tiên trong suốt quá trình học và làm bài, luôn phải có một sự tập trung cao độ.
-
-“Chỉ khi tập trung như vậy, nghĩ đến bài thi, mình mới có suy nghĩ cẩn thận hơn. Bởi nếu xao lãng, không chỉ khiến mình mất thời gian còn dễ mắc phải những lỗi sai đáng tiếc. Trước khi làm bài thi cần có nhiều sự luyện tập làm quen với dạng thức bài sẽ gặp trong đề và cả phương tiện để làm bài, bởi thi IELTS có 2 cách thức thi: thi trên giấy hoặc trên máy tính
-
-Với kỹ năng **Speaking**, Khánh luôn chủ động sử dụng tiếng Anh để giao tiếp với bạn bè và thầy cô trong giờ tiếng Anh, cố gắng sao cho thật tự nhiên, trôi chảy nhất. “Kết hợp với việc nghe các bài nói chuyện hay các bài nói mẫu, em sẽ hiểu rõ hơn về nội dung và cách thức trình bày bài nói của mình sao cho ấn tượng nhất với giám khảo. Chúng ta cần cẩn thận, bình tĩnh khi tiếp cận đề và thể hiện tự tin khi trả lời”, Khánh chia sẻ.
-
-Kỹ năng **Writing**, theo Khánh là khó nhất. Bởi vậy ngoài việc luyện đề thật thường xuyên, theo em, việc có sự tư vấn của thầy cô hay bạn học là rất hữu ích. Khi viết, cần chú ý phân bố thời gian viết các phần sao cho hợp lý nhất, nên lập dàn ý trước để tránh bị lạc đề, tránh mắc các lỗi dùng từ hay ngữ pháp đáng tiếc…
-
-Nam sinh cũng cho rằng, để học tốt Tiếng Anh không cách nào hơn là cố gắng tiếp xúc thật nhiều.
-
-Khánh cũng chủ động trong cách học của mình. “Những từ mới chưa biết, em sẽ chủ động tra cứu, sử dụng phần mềm dịch. Những câu nào chưa hiểu, em đi hỏi những người bạn để cùng nhau trao đổi. Với những từ hay kiến thức mới, em cố gắng ghi chép lại một cách khoa học và hợp lý nhất với bản thân, để sau này có thể dễ đọc lại, tiếp thu; từ đó thêm hiểu hơn những từ đó”.
-
-Khánh cho hay em không học thuộc lòng mà cố gắng sử dụng các từ ngữ trong cuộc sống hằng ngày.
-
-“Khi chúng ta sử dụng nhiều, tự nhiên Ngoại ngữ sẽ trở nên gần gũi, thậm chí thành bản năng”, Khánh nói.
-
-==Yếu tố quan trọng nhất trong học ngôn ngữ là từ vựng==
 
 # Roadmap
 
@@ -328,46 +294,9 @@ Based on context, xem chõ đố là điền từ loại gì
 
 We need topic knowledge and how to orgranization and insight
 
-Learning IELTS in TikTok is not the good idea
-Dany Thụy IELTS 9.0
-
-- Current IELTS band score
-- Target band score 7
-	- For each skill
-- Which specific areas of the IELTS exam do you find the most challenging
-- 4. How much time do you have to prepare for the IELTS exam?
-
-As a highly proficient English language expert, I'm here to guide you towards achieving excellence in IELTS. To provide the most effective assistance, I'll need to understand your current level of English and your specific goals. Let's begin with a few key questions:
-
-1. What is your current IELTS band score, or if you haven't taken the test yet, how would you assess your English proficiency?
-2. Which specific areas of the IELTS exam (Listening, Reading, Writing, or Speaking) do you find most challenging?
-
-Thank you for providing that detailed information. It's clear you have ambitious goals, and with your current score of 6.0, achieving a 7.5 or 8.0 in 6 months is challenging but possible with dedicated effort. Let's outline a strategy to improve your skills, focusing particularly on Writing and Speaking for the Academic IELTS.
-
-Given your timeframe and targets, here's a structured approach:
-
-1. Diagnostic Assessment:
-   First, we should conduct a thorough analysis of your current abilities in all four skills. Can you share a recent IELTS-style essay you've written and your scores for each section of your last IELTS test?
-
-2. Skill-specific Focus:
-   - Writing: We'll need to work on task achievement, coherence and cohesion, lexical resource, and grammatical range and accuracy. What types of academic writing are you most familiar with?
-   
-   - Speaking: We'll focus on fluency and coherence, lexical resource, grammatical range and accuracy, and pronunciation. How often do you currently practice speaking English?
-
-3. Reading and Listening:
-   While these are your stronger areas, we'll still need to refine them. How do you currently practice these skills?
-
-4. Study Plan:
-   Based on your 6-month timeline, we should create a weekly study schedule. How many hours per week can you dedicate to IELTS preparation?
-
-5. Academic Focus:
-   Since you're aiming for a Master's program and research, we'll need to incorporate academic vocabulary and concepts. What field of study are you planning to pursue?
 
 # Resources
 
-- https://www.youtube.com/@LearnEnglishWithTVSeries #Speaking #Listening
-- https://dailydictation.com #Listening #Writing #Learning 
-
-- [IELTS Mock (Practice) Exams with teacher feedback](https://www.youtube.com/playlist?list=PLT4o5xHgvqv9XN57ZaI9HOqwzKg46w0H_) #Speaking 
+- Dany Thụy IELTS 9.0
 - [https://www.youtube.com/@butfirst_English](https://www.youtube.com/@butfirst_English)
 - https://ieltsonlinetests.com

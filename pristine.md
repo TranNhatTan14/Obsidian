@@ -1,0 +1,5 @@
+---
+tags:
+  - Vocabulary
+---
+new, nascent

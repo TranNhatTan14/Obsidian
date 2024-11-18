@@ -1,4 +1,6 @@
 ---
+tags:
+  - Important
 aliases:
-  - Kiến thức
+  - High-quality knowledge
 ---

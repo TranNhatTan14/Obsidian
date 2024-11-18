@@ -54,7 +54,7 @@ https://www.protocols.io/view/genotype-imputation-workflow-v3-0-e6nvw78dlmkj/v2
 https://github.com/Orion1618/Odyssey
 https://github.com/adrianodemarino/Imputation_beagle_tutorial
 
-### [[PCA]]
+### [[Principal Component Analysis]]
 
 - It is now standard practice to include top principal components (usually computed by  as covariates in any association analysis, to correct for population stratification. See [Price AL, Patterson NJ, Plenge RM, Weinblatt ME, Shadick NA, Reich D (2006) Principal components analysis corrects for stratification in genome-wide association studies](https://www.nature.com/articles/ng1847) for discussion.
 

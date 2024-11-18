@@ -15,6 +15,11 @@ links:
 4. Niềng răng
 5. Tập cười thật tự tin
 
+- Không được lãng phí đồ ăn mẹ nấu và chuẩn bị cho, lên danh sách những đồ ăn mình có
+- Mình gặp thầy Hiệp vào buổi liên hoan team nghiên cứu, thầy bảo mình tăng cân
+- Việc đánh lại thộng tin hiểu quả trong một số trường hợp, mình có thể sử dụng công cụ để tổng hợp lại thông tin
+- Mình chưa đánh giá được mức độ quan trọng của công việc và thời gian cần thiết để thực hiện công việc
+
 Cause
 
 - It’s considered to be a combination of genetic and environmental factors
@@ -55,18 +60,12 @@ Tâng cơ, giảm mỡ
 
 https://doi.org/10.1210/jc.2016-2891
 
-- [ ] Cải thiện vóc dáng, nghiên cứu về các yếu tố ảnh hưởng, dinh dưỡng bài tập
-- [ ] Mua nano Canxi
-
 # Nutrition
 
 - Chuyển sang uống sữa hạt
-
 - Calcium D3
 - Care about side effect
 - Pure daun kelor
 - Vitamin D3. K2
 - Series Phan Nữ Uyên Nhi series 2021
 - After kelor - Bột chùm ngây
-
-# Memory
