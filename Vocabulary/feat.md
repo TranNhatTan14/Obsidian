@@ -1,0 +1,1 @@
+https://brilliant.org/courses/how-computers-work/hardware-2/how-ram-works/1/?from_llp=technology#:~:text=is%20an%20amazing-,feat,-%2C%20but%20computation%20alone

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - dictators
 sr-due: 2024-12-31

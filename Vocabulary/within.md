@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - inside
 sr-due: 2024-11-29

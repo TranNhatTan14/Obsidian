@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - fascinates
   - fascinated

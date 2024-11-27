@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - done
   - doing

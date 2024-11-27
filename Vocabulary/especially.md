@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
 sr-due: 2025-01-14
 sr-interval: 52

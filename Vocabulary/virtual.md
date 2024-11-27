@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - virtually
 sr-due: 2025-01-07

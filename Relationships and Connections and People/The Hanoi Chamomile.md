@@ -1,0 +1,11 @@
+---
+tags:
+  - People
+  - Podcast
+  - Learning
+  - Minimalism
+---
+- Viết nhật ký bằng lời nói kết hợp với luyện nói tiếng
+- Tái diện lại kiến thức bằng ngôn ngữ đang học
+- Luyện nói tiếng Anh ở bất cứ đâu, tạo thói quen giao tiếp
+- Cần có sự phản hồi 

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - formidably
 sr-due: 2024-12-11

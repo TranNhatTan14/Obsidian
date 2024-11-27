@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - florists
 sr-due: 2025-01-08

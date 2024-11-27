@@ -50,6 +50,8 @@ https://github.com/st3v3nmw/obsidian-spaced-repetition
 
 ## Tag
 
+The concept of dynamic folder, "not" folder
+
 Tag is like clustering
 
 **Tags are keywords or topics that help you quickly find the notes you want.** **A link is a relationship between two files and a mechanism that allows you to open the linked file**. A link can be a backlink, an outgoing link, a link to an external file or site and even a link to a non-existing note

@@ -1,5 +1,4 @@
 ---
 tags:
   - People
-  - Memory
 ---

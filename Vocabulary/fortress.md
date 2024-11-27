@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - fortresses
 sr-due: 2024-12-13

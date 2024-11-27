@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - flawlessly
   - flawlessness

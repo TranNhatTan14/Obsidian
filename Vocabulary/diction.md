@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - dictation
 sr-due: 2025-01-07

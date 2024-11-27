@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - gradients
 sr-due: 2025-01-12

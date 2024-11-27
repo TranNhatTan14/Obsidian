@@ -1,3 +1,9 @@
+---
+tags:
+  - Routine
+description: Journal is like short-term memory, it needs to be processed later
+---
+
 %% Begin Waypoint %%
 - [[20010401]]
 - [[20240331]]
@@ -14,6 +20,7 @@
 - [[20241116]]
 - [[20241118]]
 - [[20241121]]
+- [[20241122]]
 - [[20241123]]
 - [[20241124]]
 - [[20241125]]

@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - evidence
 sr-due: 2025-01-08

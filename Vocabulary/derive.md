@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - derived
 sr-due: 2024-12-14

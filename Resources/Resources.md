@@ -1,5 +1,39 @@
 %% Begin Waypoint %%
-- **[[Applications]]**
+- **Applications**
+	- [[Apple Calendar]]
+	- [[Apple Camera]]
+	- [[Apple Clock]]
+	- [[Apple Health]]
+	- [[Apple Mail]]
+	- [[Apple Notes]]
+	- [[Apple Photos]]
+	- [[Apple Podcasts]]
+	- [[Apple Reminder]]
+	- [[Apple Shortcut]]
+	- [[Arena of Valor]]
+	- [[Balance]]
+	- [[Brilliant]]
+	- **Chatbot**
+		- [[ChatGPT]]
+		- [[Claude]]
+		- [[Perpelexity]]
+	- [[Codespaces]]
+	- [[Duolingo]]
+	- [[Elevate]]
+	- [[Facebook]]
+	- [[Forest]]
+	- [[Habitify]]
+	- [[Instagram]]
+	- [[Messenger]]
+	- [[Obsidian]]
+	- [[ONUS]]
+	- [[SciSpace]]
+	- [[Scribd]]
+	- [[Surge 5]]
+	- [[Threads]]
+	- [[TokTik]]
+	- [[YouTube Music]]
+	- [[Zalo]]
 - **Articles**
 	- [[How Will You Measure Your Life]]
 	- [[Manage Your Energy, Not Your Time]]
@@ -19,16 +53,16 @@
 	- [[Arcane]]
 	- [[Klaus]]
 	- [[The Wild Robot]]
-- **Papers**
+- **Podcasts**
+	- [[Amateur Psychology]]
+	- **Andrew Huberman**
+		- [[Optimal Protocols for Studying & Learning]]
+- **[[Research papers]]**
 	- [[Gplas]]
 	- [[plASgraph2]]
 	- [[PLASMe]]
 	- [[PlasmidEC and gplas2]]
 	- [[UnitigBIN]]
-- **Podcasts**
-	- [[Amateur Psychology]]
-	- **Andrew Huberman**
-		- [[Optimal Protocols for Studying & Learning]]
 - **Things**
 	- [[AirPod]]
 	- [[Apple]]
@@ -40,6 +74,28 @@
 	- [[iPhone]]
 	- [[Laptop]]
 	- [[Mouse]]
-- **[[Tools]]**
+- **Tools**
+	- [[BCFtools]]
+	- **Cognitive tools**
+		- [[Analogy]]
+		- [[Comparisons]]
+		- [[Metaphor]]
+	- [[Conda]]
+	- [[Docker]]
+	- [[Git]]
+	- [[Github]]
+	- **Google**
+		- [[Google Chrome]]
+		- [[Google Colaboratory]]
+	- [[MLflow]]
+	- [[Nextflow]]
+	- [[Polars]]
+	- [[Priority Matrix]]
+	- [[SFTP]]
+	- [[Shell]]
+	- [[Spark]]
+	- [[Standing on the Shoulders of Giants]]
+	- [[tmux]]
+	- [[Visual Studio Code]]
 
 %% End Waypoint %%

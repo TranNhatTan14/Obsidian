@@ -5,8 +5,7 @@ tags:
 links:
   - "[[Elevate]]"
   - "[[IELTS]]"
-  - "[[Knowledge/Language/Vocabulary]]"
-  - "[[Knowledge]]"
+  - "[[Vocabulary/Vocabulary|Vocabulary]]"
 aliases:
   - Reading book
 ---

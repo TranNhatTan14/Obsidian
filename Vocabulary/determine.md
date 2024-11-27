@@ -1,6 +1,4 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - determination
 sr-due: 2024-12-16

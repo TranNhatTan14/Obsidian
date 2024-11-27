@@ -1,0 +1,6 @@
+---
+tags:
+  - State
+  - Emotion
+---
+- https://www.tiktok.com/@tvyy767/video/7353611497198734608
