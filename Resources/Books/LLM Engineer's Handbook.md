@@ -5,9 +5,14 @@ URL: https://www.everand.com/read/781410317/LLM-Engineer-s-Handbook-Master-the-a
 ---
 https://static.packt-cdn.com/downloads/9781836200079_ColorImages.pdf
 
+# Purposes
+
+- Develop a comprehensive understanding of LLMs and gain practical skills applicable to real-world AI projects
+
 # Forewords
 
 - AI is becoming the default way of building techlonogy
+- Use FTI framework
 
 # Preface
 
@@ -120,6 +125,8 @@ Presents Python, MLOps, and cloud tools used to build real-world [[Large Languag
 
 ### [[MongoDB]]: No SQL database
 
+We use MongoDB as a NoSQL database to store the raw data we collect from the internet before processing it and pushing it into the vector database. As we work with unstructured text data, the flexibility of the NoSQL database fits like a charm.
+
 ### [[Qdrant]]: vector database
 
 ## [[AWS]]
@@ -140,9 +147,49 @@ Reviewed the core tools
 
 Shows the implementation of a data collection pipeline that scrapes multiple sites, such as [[Medium]], [[Github]], and [[Subtack]] and stores the raw data in a data warehouse. It emphasizes collecting raw data from dynamic sources over static datasets for real-world ML applications.
 
-## Designing the LLM Twin's data collection pipeline
+## Introduction
 
-## Implementing the LLM Twin's data collection pipeline
+- The importance of Data Engineering for LLMs
+- Overview of the ETL process
+- Specific challenges of data collection for LLM applications
+
+## Designing the data collection pipeline
+
+- Identifying data sources
+- Defining data categories and structures (Articles, Posts, Repositories)
+- Choosing an ETL framework
+- Architectural overview of the Data Collection pipeline
+
+## Implementing the data collection pipeline
+
+- Setting up the development environment and tools
+- Building the Crawler Infrastructure
+	- Implementing crawlers for different platforms
+	- Crawler dispatcher to route URLs to specific crawlers
+	- Handling Pagination and Dynamic Content Loading
+	- Error Handling and Logging
+- Data Transformation and Standardization
+	- Cleaning and Preprocessing Text Data
+	- Extracting Relevant Metadata (Author, Date, Source, etc.)
+	- Structuring Data for Storage
+- Gathering Raw Data into the Data Warehouse:
+	- Choosing a Data Warehouse Solution (e.g., NoSQL database like MongoDB)
+	- Designing Data Models and Schema
+	- Implementing a Data Layer for Database Interactions
+	- Loading Data into the Data Warehouse
+	- Validating Data Integrity and Consistency
+
+Implement a data layer on top of MongoDB to structure all our document and interact with the database.
+Run the data collection using ZenML and query the collected data from MongoDB
+
+
+An ETL pipeline involves three fundamental steps: 
+ 
+1. We extract data from various sources. We will crawl data from platforms like Medium, Substack, and GitHub to gather raw data. 
+2. We transform this data by cleaning and standardizing it into a consistent format suitable for storage and analysis. 
+3. We load the transformed data into a data warehouse or database.
+
+![[Pasted image 20241126224327.png]]
 
 ## ZenML pipeline and steps
 

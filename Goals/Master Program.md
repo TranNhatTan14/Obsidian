@@ -5,7 +5,7 @@ tags:
   - AI
   - Education
   - Healthcare
-description: Secure a fully-funded scholarship for a Master’s degree in AI (Healthcare)
+description: Secure a fully-funded scholarship for a Master’s degree in AI Healthcare
 ---
 # Approach
 
@@ -29,20 +29,18 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI (He
 - [[Computer Science]]
 - [[Artificial Intelligence]]
 - [[Data Science]] in Healthcare
-- Biomedical Engineering with AI specialization
 - Robotics and AI (Human Robot Interaction)
 - Mechatronics
 - [[Engineering]] with AIoT, Smart and Digital Health
 
-### Help
+# Degrees
 
-- Hoài Phạm
-- Hoa Đinh
-- [[Đỗ Mạnh Tuấn]]
+- Master of Science in Artificial Intelligence for Healthcare
+- Master of Data Science
+- Master of Engineering in Artificial Intelligence and Decision Making
+- Master of Science in Artificial Intelligence and Data Science in Healthcare
 
-**People have the same background**
-
-# University
+# Universities
 
 ## Australia
 
@@ -132,15 +130,15 @@ Vingroup Young Talent Scholarship
 
 [Call for PhD Applications and Research Assistants in Robotics and Mechatronics at VinUniversity and UIUC](https://smarthealth.vinuni.edu.vn/?careers=call-for-phd-applications-and-research-assistants-in-robotics-and-mechatronics-at-vinuniversity-and-university-of-illinois-at-urbana-champaign-uiuc)
 
-- [https://huyhieupham.github.io/](https://huyhieupham.github.io/)
-- [https://vinuni.edu.vn/people/thai-mai-thanh-phd-2/](https://vinuni.edu.vn/people/thai-mai-thanh-phd-2/)
+- https://huyhieupham.github.io
+- https://vinuni.edu.vn/people/thai-mai-thanh-phd-2
 
 ## United States
 
 - The University of Illinois Urbana-Champaign
-- [**Annie Nguyen PhD BioEngineering at Stanford**](https://www.linkedin.com/in/nghinguyen295/)
+- [Annie Nguyen PhD BioEngineering at Stanford](https://www.linkedin.com/in/nghinguyen295/)
 
-### Germany
+## Germany
 
 # Requirements
 
@@ -152,36 +150,6 @@ Vingroup Young Talent Scholarship
 - Good [[Scholarship essay]]
 - Diplomas and academic transcripts
 - STRONG Letter of Recommendation
-    - Two letters of recommendation/reference from the applicant’s professors/lecturers under whom the applicant has studied or pursued research related to his/her proposed field of study, or from supervisors, who have supervised the applicant’s work related to his/her proposed field of study
-- Letter of Motivation
-    - A letter of motivation written in English and does not exceed 1,500 words. The essay demonstrates the AACC (ability, aspiration, creativity, and commitment) to contributing to the development of science and technology in Vietnam
-- Curriculum vitae
-	    A curriculum vitae (CV) in English that outlines the educational background and research experience
-
-
-- Nếu có full scholarship thì các requirements khác chỉ cần đạt minimum, note trong tất cả email giao tiếp với giáo sư hoặc trường là mình có
-
-Chương trình Học bổng ưu tiên cấp học bổng cho các ứng viên thuộc các chuyên ngành KHCN trọng điểm có khả năng phát triển đột phá mà Việt Nam đang thiếu nguồn nhân lực chất lượng cao.
-
-Có lịch sử học tập/nghiên cứu đúng chuyên ngành hoặc các chuyên ngành liên quan đến chuyên ngành/lĩnh vực nộp Học bổng
-
-
-
-- Interview (prepare with Mock Interview)
-    
-    (Kinh nghiệm từ track 2): 2 professors (1 từ Vin Uni, 1 từ nước ngoài) hỏi goals, study plan, kiến thức cơ bản ngành định học, publications (quan trọng). Maybe some behavioral questions.
-    
-    - Thường quan tâm đến lĩnh vực nghiên cứu, lựa chọn ngành và trường
-    - Future plan
-    - Research plan
-    - Motivation
-    - Career aspiration
-    - Research papers
-    - Research Proposal
-        - Hướng nghiên cứu rõ ràng
-    - NCKH cấp trường
-    - Nơi bạn muốn học
-    - Giáo sư nào
 
 
 By March 2026, secure a fully-funded scholarship covering at least 80% of tuition and living expenses for a Master's degree in Artificial Intelligence with a Healthcare focus by researching and applying to a minimum of 5 relevant programs.
@@ -204,3 +172,6 @@ Next steps:
 - [[VietPhD]]
 - https://institute.vinbigdata.org/programs/application-driven-mathematics
 - https://www.facebook.com/VEF2.0
+- Hoài Phạm
+- Hoa Đinh
+- [[Đỗ Mạnh Tuấn]]

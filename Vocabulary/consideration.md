@@ -3,8 +3,8 @@ tags:
   - Vocabulary
 aliases:
   - considerate
-sr-due: 2024-11-13
-sr-interval: 4
+sr-due: 2024-12-17
+sr-interval: 24
 sr-ease: 270
 ---
 - Definition: Careful thought, typically over a period of time; the process of considering or being considered.
@@ -18,7 +18,6 @@ sr-ease: 270
 - Suffix: -tion - meaning: the act or process of
 - Connotation: Neutral to positive, suggesting thoughtfulness and care.
 - Vietnamese: sự xem xét
-- Chinese: 考虑 (simplified characters)
 
 ### Mnemonic
 

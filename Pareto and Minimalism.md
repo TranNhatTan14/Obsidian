@@ -2,5 +2,5 @@
 tags:
   - Link
 ---
-- [[Pareto]]: Identify the vital 20%
+- [[Pareto Principle]]: Identify the vital 20%
 - [[Minimalism]]: Eliminate the unnecessary

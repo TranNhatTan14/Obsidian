@@ -5,19 +5,15 @@ aliases:
   - cultivates
   - cultivated
   - cultivating
-sr-due: 2024-11-15
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-01-06
+sr-interval: 43
+sr-ease: 270
 ---
-
 - Definition: To prepare and use land for growing crops; also, to foster the growth or development of something.
 - IPA: /ˈkʌl.tɪ.veɪt/
 - Pronunciation: [KUHL-tuh-vayt](https://www.google.com/search?q=how+to+pronounce+cultivate)
 - Synonyms: nurture, grow, develop
 - Antonym: neglect, ignore, abandon
-- Prefix: None
-- Root: Latin cultivare - meaning "to till or prepare land"
-- Suffix: None
 - Connotation: Positive; associated with growth, care, and improvement.
 - Vietnamese: Trồng trọt, phát triển
 

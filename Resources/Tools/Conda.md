@@ -1,13 +1,18 @@
 ---
 tags:
   - Tool
+  - Bioinformatics
 ---
+# Command
+
 ```bash
 # Deactivate
 conda deactivate
 
 # Remove environment
 conda env remove --name env_name
+
+conda env create --name ICLR python=3.12
 
 # Use conda with Jupyter Notebook
 conda install -c anaconda ipykernel

@@ -8,7 +8,7 @@
 
 ### MacOS
 
-## [[iPhone]] 11 Pro Max
+## [[iPhone#iPhone 11 Pro Max]]
 
 Nhìn chung, sạc điện thoại khi pin còn khoảng 20-30% trở lên sẽ tốt hơn cho pin so với để pin xuống quá thấp mới sạc.
 ## iPhone Xs
@@ -47,3 +47,13 @@ Bundle non-urgent notifications and receive them in a summary at convenient time
 
 - Schedule Delivery
 - Get What's Important
+
+# Apple Intelligence
+
+Personal Intelligence system
+
+- Writing and summarization
+	- Summarize Notification
+- 
+
+Closing app on Apple devices is generally unnecessary and can be counterproductive.

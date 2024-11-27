@@ -4,9 +4,9 @@ tags:
 aliases:
   - construction
   - constructed
-sr-due: 2024-11-13
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-17
+sr-interval: 55
+sr-ease: 290
 ---
 - Definition: To build or form something by putting parts together.
 - IPA: /kənˈstrʌkt/
@@ -16,10 +16,8 @@ sr-ease: 270
 - Homophones: None
 - Prefix: con - meaning: together
 - Root: struere - meaning: to build
-- Suffix: None
 - Connotation: Neutral to positive, associated with building, creating, or forming something.
 - Vietnamese: xây dựng
-- Chinese: 建造 (simplified characters)
 
 ### Mnemonic
 
@@ -27,7 +25,6 @@ Think of a worker carefully putting together bricks to *construct* a house.
 
 ### Word Family
 
-- They plan to *construct* a new bridge over the river.
 - The complex was a massive *construction* project.
 - The architect carefully *constructed* the building's design.
 - His argument was well-*constructed*, logical, and convincing.

@@ -3,6 +3,10 @@ tags:
   - Knowledge
   - Area
 ---
+# Tools
+
+https://rrwick.github.io/Bandage/
+
 ### Alleles
 
 Different versions of the same variant are called alleles. For example, a SNP may have two alternative bases, or alleles, C and T4.
@@ -48,3 +52,8 @@ https://www.quora.com/What-are-reads-and-contigs-file-formats-bioinformatics#:~:
 
 - The read binning tools such as OBLR employ read overlap graphs that hold neighborhood information of overlapping reads.
 - The use of the read overlap graph has greatly increased the accuracy of binning yet requires effcient means to handle large overlap graphs with millions of reads.
+
+### Homozygosity
+
+### Relative Fluorescence Units (RFU)
+

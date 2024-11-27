@@ -1,6 +1,7 @@
 ---
 tags:
   - Tool
+  - Bioinformatics
 URL: https://app.datacamp.com/learn/courses/intermediate-docker
 ---
 ```bash
@@ -24,6 +25,10 @@ docker stop <container-id> or `<container-name>`
 
 # Remove stopped container
 docker container rm <container-id>
+
+docker rm $(docker ps -a -q)
+
+docker rmi $(docker images -f "dangling=true" -q)
 ```
 
 ### Logs

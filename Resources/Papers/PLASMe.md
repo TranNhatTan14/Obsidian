@@ -4,7 +4,7 @@ tags:
   - Paper
   - Hybrid
 links:
-  - "[[Plasmid]]"
+  - "[[Identify of bacterial plasmid with assembly graph using Graph Transformer]]"
 aliases:
   - "PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer"
 URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10450166/pdf/gkad578.pdf

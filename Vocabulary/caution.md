@@ -5,11 +5,10 @@ aliases:
   - cautions
   - cautioned
   - cautioning
-sr-due: 2024-11-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-10
+sr-interval: 47
+sr-ease: 290
 ---
-
 - Definition: Care taken to avoid danger or mistakes.
 - IPA: /ˈkɔː.ʃən/
 - Pronunciation: [KAW-shuhn](https://www.google.com/search?q=how+to+pronounce+caution)
@@ -19,11 +18,10 @@ sr-ease: 270
 - Root: Latin cautio - meaning "to be on guard"
 - Suffix: None
 - Connotation: Neutral to positive; implies carefulness and safety.
-- Vietnamese: Cẩn thận
 
-### Mnemonic
+### [Visual Association](https://www.google.com/search?tbm=isch&q=caution)
 
-Imagine a bright yellow caution sign, warning drivers to slow down and proceed carefully.
+![](https://as1.ftcdn.net/v2/jpg/04/52/82/90/1000_F_452829077_JU5RhSmKQHYSi4mPpMaPIZweDiuIessf.jpg)
 
 ### Word Family
 
@@ -38,7 +36,3 @@ Imagine a bright yellow caution sign, warning drivers to slow down and proceed c
 ### Personal Connection
 
 In unfamiliar or risky situations, a bit of *caution* can prevent accidents or misunderstandings.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=caution)
-
-Picture a yellow warning sign or a person walking slowly to avoid tripping.

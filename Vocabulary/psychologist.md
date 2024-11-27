@@ -5,9 +5,9 @@ aliases:
   - psychological
   - psychology
   - psychotherapy
-sr-due: 2024-11-22
-sr-interval: 10
-sr-ease: 270
+sr-due: 2025-01-10
+sr-interval: 47
+sr-ease: 290
 ---
 TARGET DECK: Obsidian
 
@@ -20,9 +20,9 @@ TARGET DECK: Obsidian
 - Root: logy - meaning "study of" (from Greek "logia")
 - Suffix: None
 - Connotation: Generally positive; implies support and mental well-being.
-- Vietnamese: nhà tâm lý học
 
 ### Mnemonic
+
 "A psychologist helps untangle the knots in your mind, guiding you toward clarity."
 
 ### Word Family

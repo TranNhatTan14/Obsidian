@@ -39,3 +39,7 @@ The best version of yourself is when you live authentically, stay true to your 
 - Phát triển chiều cao hết khả năng
 
 Regular exercise and healthy eating can help keep diseases away.
+
+- Hiểu hơn về cảm xúc của bản thân, hiểu về cơ thể của mình hơn
+- Chăm sóc sức khỏe thể chất và tinh thần
+- Phát huy điểm mạnh và khắc phục điểm yếu

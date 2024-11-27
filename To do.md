@@ -22,4 +22,4 @@
 - Review learning courses
 - Trekking with [[Ngô Thị Phương Duyên]] và [[Nguyễn Tuấn Hiệp]]
 - Reading courage and creativity from Thuan Nguyen Baber
-- 
+- Crawl all [[Google Chrome]] history to analyze as time tracking

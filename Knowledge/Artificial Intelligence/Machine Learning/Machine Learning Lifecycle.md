@@ -4,13 +4,13 @@
 
 ## System Design
 
-Đọc yêu cầu của khách hàng
-Xem tác vụ này có xử lý được bằng AI không
-Input là gì
-Output là gì
-Phân tích dữ liệu
-Bài toán thuộc dạng nào
-Tốc độ nhanh và độ chính xác cao
+- Đọc yêu cầu của khách hàng
+- Xem tác vụ này có xử lý được bằng AI không
+- Input là gì
+- Output là gì
+- Phân tích dữ liệu
+- Bài toán thuộc dạng nào
+- Tốc độ nhanh và độ chính xác cao
 
 # Data
 
@@ -21,7 +21,7 @@ Tốc độ nhanh và độ chính xác cao
 
 - Tools: Apache Airflow, Luigi, AWS Glue
 - Data lakes: Amazon S3, Azure Data Lake
-- Databases: PostgreSQL, MongoDB, Cassandra
+- Databases: PostgreSQL, [[MongoDB]], Cassandra
 
 ## Data Storage
 

@@ -1,3 +1,8 @@
+---
+aliases:
+  - Accomplishment
+  - Achievement
+---
 # Definition
 
 - **Accomplishment** is completing a task or goal, often after putting in effort. 

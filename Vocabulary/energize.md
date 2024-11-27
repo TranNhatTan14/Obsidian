@@ -4,9 +4,9 @@ tags:
 aliases:
   - energized
   - energizing
-sr-due: 2024-11-13
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-13
+sr-interval: 51
+sr-ease: 290
 ---
 - Definition: To give energy or vitality to someone or something.
 - IPA: /ˈɛnərˌdʒaɪz/
@@ -18,7 +18,6 @@ sr-ease: 270
 - Suffix: -ize, forming a verb meaning to cause
 - Connotation: Positive; suggests renewal of energy or enthusiasm.
 - Vietnamese: tiếp thêm năng lượng
-- Chinese: 激励
 
 ### Mnemonic
 
@@ -37,4 +36,5 @@ sr-ease: 270
 Energize can remind us of moments when something gave us a boost—whether it was a motivational speech, exercise, or a good meal.
 
 ### Visual Association
+
 Imagine plugging in a phone that’s nearly dead and watching it quickly charge back up, symbolizing a surge of energy.

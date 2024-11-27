@@ -5,10 +5,13 @@ tags:
   - Apple
   - Application
   - Attention
+links:
+  - "[[iPhone]]"
+  - "[[iPad]]"
 ---
 https://manual.nssurge.com/book/understanding-surge/en/
 https://kb.nssurge.com/surge-knowledge-base/
-https://manual.nssurge.com/
+https://manual.nssurge.com
 
 ### Use Surge for data
 

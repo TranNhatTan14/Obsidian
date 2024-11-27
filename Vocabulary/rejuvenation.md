@@ -5,11 +5,10 @@ aliases:
   - rejuvenates
   - rejuvenated
   - rejuvenating
-sr-due: 2024-11-19
-sr-interval: 7
-sr-ease: 250
+sr-due: 2025-01-01
+sr-interval: 38
+sr-ease: 270
 ---
-
 - Definition: The process of making something look or feel younger, fresher, or more lively.
 - IPA: /rɪˌdʒuː.vəˈneɪ.ʃən/
 - Pronunciation: [ri-JOO-vuh-NAY-shuhn](https://www.google.com/search?q=how+to+pronounce+rejuvenation)
@@ -19,7 +18,6 @@ sr-ease: 250
 - Root: Latin juvenis - meaning "young"
 - Suffix: -ation - meaning "the action or process of"
 - Connotation: Positive, associated with improvement or revitalization.
-- Vietnamese: Sự tái sinh, sự phục hồi
 
 ### Mnemonic
 

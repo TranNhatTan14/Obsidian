@@ -8,8 +8,6 @@
 ### Giá để điện thoại
 ### Nên mua sạc không dây cho iPhone và Airpod
 
-### Motivation
-
 # Certificates
 
 - https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect

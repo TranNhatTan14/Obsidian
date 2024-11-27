@@ -2,8 +2,8 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2024-11-25
-sr-interval: 13
+sr-due: 2024-12-28
+sr-interval: 33
 sr-ease: 270
 ---
 - Definition: Swiftness of movement; speed or rapidity.
@@ -17,7 +17,6 @@ sr-ease: 270
 - Suffix: -ity - meaning: state or condition
 - Connotation: Neutral to positive, suggesting efficiency or agility.
 - Vietnamese: sự nhanh nhẹn
-- Chinese: 迅速 (simplified characters)
 
 ### Mnemonic
 

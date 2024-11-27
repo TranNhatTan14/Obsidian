@@ -1,15 +1,12 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - argues
   - argued
   - arguing
-sr-due: 2024-11-14
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-19
+sr-interval: 56
+sr-ease: 290
 ---
-
 - Definition: To express disagreement or debate, often in a verbal exchange.
 - IPA: /ˈɑːɡjuː/
 - Pronunciation: [AHR-gyoo](https://www.google.com/search?q=how+to+pronounce+argue)
@@ -21,9 +18,9 @@ sr-ease: 270
 - Connotation: Neutral to negative; often associated with disagreement but can also be constructive debate.
 - Vietnamese: Tranh cãi, lý luận
 
-### Mnemonic
+### [Visual Association](https://www.google.com/search?tbm=isch&q=argue)
 
-Think of two people with opposite ideas, each trying to make their point clear, to remember "argue."
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC3h3yxDnj1Fv-gCOBJ3dviQ2LFgsoQEuBMw&s)
 
 ### Word Family
 
@@ -35,6 +32,4 @@ Think of two people with opposite ideas, each trying to make their point clear, 
 
 Arguments often arise in personal or professional life, and handling them respectfully can lead to better understanding.
 
-### [Visual Association](https://www.google.com/search?tbm=isch&q=argue)
 
-Imagine two people standing face-to-face, each speaking passionately, symbolizing an argument.

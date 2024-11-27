@@ -6,6 +6,19 @@ links:
 aliases:
   - Sleep early
 ---
+# Snooze
+
+To avoid hitting the snooze button, implement these strategies
+
+- Improve sleep hygiene
+- Place alarm out of reach
+- Sit up immediately
+- Use light
+- Set realistic wake-up time
+- Incorporate rewards: Have something enjoyable planned for the morning like favorite breakfast or activity, to motivate you to get out of bed
+- Limit [[Apple#Screen Time]] before bed
+- Use gradual alarm tones
+ 
 Muốn dậy được sớm thì phải ngủ sớm
 Sleep enough and sleep well
 Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến khoảng 11 giờ là mình buồn ngủ
@@ -23,6 +36,7 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - Exercise daily to improve the duration and quality of your sleep.
 - Wake up and go to bed at the same time each day to regulate your body's clock.
 - Avoid eating a large meal right before bed, which can disrupt your hormones
+- If your feet tend to run cold, put on socks before going to bed
 
 # No
 

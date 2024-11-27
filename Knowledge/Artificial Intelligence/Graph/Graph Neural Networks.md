@@ -2,7 +2,6 @@
 aliases:
   - GNNs
 ---
-
 # What types of problems have graph structured data
 
 Graph-level task

@@ -1,15 +1,12 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - associates
   - associated
   - associating
-sr-due: 2024-11-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-08
+sr-interval: 45
+sr-ease: 290
 ---
-
 - Definition: A connection or relationship between people, ideas, or things.
 - IPA: /əˌsoʊ.siˈeɪ.ʃən/
 - Pronunciation: [uh-soh-see-AY-shuhn](https://www.google.com/search?q=how+to+pronounce+association)

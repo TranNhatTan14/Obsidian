@@ -1,14 +1,12 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - acceleration
   - accelerated
   - accelerator
   - accelerating
-sr-due: 2024-11-14
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-20
+sr-interval: 57
+sr-ease: 290
 ---
 - Definition: To increase the speed of something; to cause something to happen faster or earlier than expected.
 - IPA: /əkˈsɛləˌreɪt/

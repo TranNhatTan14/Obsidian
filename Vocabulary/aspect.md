@@ -1,12 +1,9 @@
 ---
-tags:
-  - Vocabulary
 aliases: []
-sr-due: 2024-11-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-12
+sr-interval: 49
+sr-ease: 290
 ---
-
 - Definition: A particular part, feature, or quality of something.
 - IPA: /ˈæs.pekt/
 - Pronunciation: [AS-pekt](https://www.google.com/search?q=how+to+pronounce+aspect)

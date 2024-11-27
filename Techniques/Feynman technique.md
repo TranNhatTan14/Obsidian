@@ -1,6 +1,8 @@
 ---
 tags:
   - Technique
+  - Learning
+description: Trình bày những thứ phức tạp một cách dễ hiểu
 ---
 https://spiderum.com/bai-dang/Tu-phuc-tap-den-don-gian-Bi-quyet-hoc-tap-hieu-qua-tu-ky-thuat-Feynman-sGXZnonPbwxC
 
@@ -13,3 +15,5 @@ The Feynman Technique is a four-step process developed by Richard Feynman to lea
 How ChatGPT, Claude can help me to learn with Feynman technique
 
 Through these steps, ChatGPT or Claude become a feedback loop, helping you refine and deepen your understanding in alignment with the Feynman Technique.
+
+# [[Chatbot]] can help

@@ -1,12 +1,10 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - braveries
   - bravery
-sr-due: 2024-11-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-11
+sr-interval: 48
+sr-ease: 290
 ---
 
 - Definition: Courageous behavior or showing a willingness to face danger.

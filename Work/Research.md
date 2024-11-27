@@ -18,3 +18,7 @@ description: Nghiên cứu theo hướng ứng dụng, thay vì tạo ra nghiên
 Research about brain function and Brain-Computer Interfaces. Develop smart devices help increase human performance.
 
 ## AIoT
+
+# [[Artificial Intelligence]]
+
+- Use [[Illuminate]] and [[NotebookLM]] to reading research papers 

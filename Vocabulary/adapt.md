@@ -1,13 +1,12 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - adapts
   - adapted
   - adapting
-sr-due: 2024-11-14
-sr-interval: 4
-sr-ease: 270
+  - adaptability
+sr-due: 2025-01-16
+sr-interval: 53
+sr-ease: 290
 ---
 
 - Definition: To adjust or modify something to suit a new condition or purpose.
@@ -30,8 +29,7 @@ Imagine a chameleon changing its color to blend into different environments, sym
 - **Noun**: The *adaptation* of the book into a movie was a huge success.
 - **Verb**: He needed to *adapt* quickly to the new work environment.
 - **Adjective**: The *adaptive* nature of the species allowed it to survive.
-  
-- Example with ==common phrase==: She was able to ==adjust to the new culture== without difficulty.
+
 - Example sentence: It’s important to *adapt* your strategy as circumstances change.
 - Regular example sentence: The company must *adapt* to new technology to stay competitive.
 

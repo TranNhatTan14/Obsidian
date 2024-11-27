@@ -1,0 +1,45 @@
+%% Begin Waypoint %%
+- **[[Applications]]**
+- **Articles**
+	- [[How Will You Measure Your Life]]
+	- [[Manage Your Energy, Not Your Time]]
+- **Books**
+	- [[Courage and Creativity]]
+	- [[Hands-On Graph Neural NetworksUsing Python]]
+	- [[Harvard's 4 30 AM]]
+	- [[LLM Engineer's Handbook]]
+	- [[Sherlock Holmes]]
+	- [[Smart Thinking]]
+- **Extensions**
+	- [[Redirector]]
+- **Files**
+	- [[The 5-Minute Rule]]
+- **Films**
+	- [[Arcane 2]]
+	- [[Arcane]]
+	- [[Klaus]]
+	- [[The Wild Robot]]
+- **Papers**
+	- [[Gplas]]
+	- [[plASgraph2]]
+	- [[PLASMe]]
+	- [[PlasmidEC and gplas2]]
+	- [[UnitigBIN]]
+- **Podcasts**
+	- [[Amateur Psychology]]
+	- **Andrew Huberman**
+		- [[Optimal Protocols for Studying & Learning]]
+- **Things**
+	- [[AirPod]]
+	- [[Apple]]
+	- [[Bottle]]
+	- [[Eye drops]]
+	- [[Eyeglasses]]
+	- [[Headphone]]
+	- [[iPad]]
+	- [[iPhone]]
+	- [[Laptop]]
+	- [[Mouse]]
+- **[[Tools]]**
+
+%% End Waypoint %%

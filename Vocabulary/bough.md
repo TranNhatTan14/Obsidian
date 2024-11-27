@@ -2,19 +2,16 @@
 tags:
   - Vocabulary
 aliases: []
-sr-due: 2024-11-13
-sr-interval: 1
-sr-ease: 230
+sr-due: 2024-12-29
+sr-interval: 36
+sr-ease: 250
 ---
-
 - Definition: A large branch of a tree.
 - IPA: /baʊ/
 - Pronunciation: [BOW](https://www.google.com/search?q=how+to+pronounce+bough)
 - Synonyms: branch, limb, arm
 - Antonym: trunk, root
-- Prefix: None
 - Root: Old English boga - meaning "a bend" or "branch"
-- Suffix: None
 - Connotation: Neutral to positive, often evoking nature and growth.
 - Vietnamese: Cành cây lớn
 
@@ -25,9 +22,6 @@ Think of a large, sturdy branch swaying in the wind, symbolizing the strength an
 ### Word Family
 
 - **Noun**: The *bough* of the tree was heavy with fruit.
-  
-- Example with ==common phrase==: The bird perched on the ==highest bough== of the tree.
-- Example sentence: The storm broke the *bough* of the oak tree.
 - Regular example sentence: A squirrel scurried up the *bough* to reach its nest.
 
 ### Personal Connection
@@ -36,4 +30,4 @@ The image of a strong tree *bough* often connects to feelings of nature, stabili
 
 ### [Visual Association](https://www.google.com/search?tbm=isch&q=bough)
 
-Imagine a large tree branch reaching outward, covered with leaves, symbolizing strength and growth.
+![](https://i.sstatic.net/G5SXz.jpg)

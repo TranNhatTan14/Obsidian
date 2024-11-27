@@ -1,13 +1,11 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - abuses
   - abused
   - abusing
-sr-due: 2024-11-14
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-15
+sr-interval: 52
+sr-ease: 290
 ---
 
 - Definition: To treat someone or something with cruelty, disrespect, or harm; misuse.

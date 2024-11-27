@@ -4,9 +4,9 @@ tags:
 aliases:
   - capability
   - capably
-sr-due: 2024-11-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-12
+sr-interval: 49
+sr-ease: 290
 ---
 
 - Definition: Having the ability, skill, or power to do something.

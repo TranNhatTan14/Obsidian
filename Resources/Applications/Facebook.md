@@ -2,5 +2,7 @@
 tags:
   - Meta
   - Application
-  - Attention
+  - Archived
+links:
+  - "[[Laptop]]"
 ---

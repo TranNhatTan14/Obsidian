@@ -1,12 +1,10 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - accumulated
   - accumulative
   - accumulating
-sr-due: 2024-11-13
-sr-interval: 3
+sr-due: 2024-12-14
+sr-interval: 21
 sr-ease: 250
 ---
 - Definition: The process of gradually gathering or acquiring more of something; the result of this process.
@@ -20,7 +18,6 @@ sr-ease: 250
 - Suffix: -ation - meaning: action or process
 - Connotation: Neutral; it can imply a positive, negative, or neutral outcome depending on context.
 - Vietnamese: sự tích lũy
-- Chinese: 积累 (simplified characters)
 
 ### Mnemonic
 

@@ -5,10 +5,7 @@ tags:
 ---
 Use [[ChatGPT]]'s memory to learn more about myself
 
-Interest and Consideration
 
-- Real Madrid
-- Animal world
 
 Mình hạnh phúc vì điều gì?
 

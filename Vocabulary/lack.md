@@ -2,9 +2,9 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2024-11-24
-sr-interval: 12
-sr-ease: 270
+sr-due: 2025-01-11
+sr-interval: 48
+sr-ease: 290
 ---
 - Definition: The state of being without or not having enough of something.
 - IPA: /læk/
@@ -15,7 +15,6 @@ sr-ease: 270
 - Root: Old Norse "lakr," meaning "deficient"
 - Suffix: None
 - Connotation: Negative; implies insufficiency or need.
-- Vietnamese: thiếu
 
 ### Mnemonic
 

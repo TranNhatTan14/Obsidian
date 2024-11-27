@@ -2,11 +2,10 @@
 tags:
   - Vocabulary
 aliases: []
-sr-due: 2024-11-16
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-11
+sr-interval: 48
+sr-ease: 290
 ---
-
 - Definition: The state or quality of being conscious or cognizant of something.
 - IPA: /əˈwɛrnəs/
 - Pronunciation: [uh-WARE-ness](https://www.google.com/search?q=how+to+pronounce+awareness)

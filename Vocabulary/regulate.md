@@ -5,9 +5,9 @@ aliases:
   - regulation
   - regulated
   - regulatory
-sr-due: 2024-11-23
-sr-interval: 11
-sr-ease: 270
+sr-due: 2025-01-05
+sr-interval: 42
+sr-ease: 290
 ---
 - Definition: To control, direct, or adjust something according to a specific rule, system, or principle.
 - IPA: /ˈrɛɡjʊleɪt/
@@ -19,7 +19,6 @@ sr-ease: 270
 - Root: regula - meaning: rule, pattern
 - Suffix: -ate, which forms verbs
 - Connotation: Neutral, associated with maintaining control or order.
-- Vietnamese: điều chỉnh
 
 ### Mnemonic
 

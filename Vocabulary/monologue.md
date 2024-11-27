@@ -5,9 +5,9 @@ aliases:
   - monologuing
   - monologic
   - monologist
-sr-due: 2024-11-14
-sr-interval: 2
-sr-ease: 230
+sr-due: 2025-01-04
+sr-interval: 41
+sr-ease: 250
 ---
 - Definition: A long speech by one actor in a play or movie, or by a person in a conversation.
 - IPA: /ˈmɒn.ə.lɒɡ/
@@ -19,7 +19,6 @@ sr-ease: 230
 - Suffix: None
 - Connotation: Neutral; can imply deep reflection or self-expression.
 - Vietnamese: độc thoại
-- Chinese: 独白
 
 ### Mnemonic
 "A monologue is like having a solo concert where one voice takes the stage."
@@ -32,8 +31,5 @@ sr-ease: 230
 - A **monologist** often captivates through solo performances.
 
 ### Personal Connection
-Monologue can remind us of moments when we reflect deeply or express ourselves fully, highlighting the importance of self-expression in communication.
-- Sài Gòn Tếu
 
-### Visual Association
-Imagine a spotlight shining on a single actor on stage, delivering an emotional speech to an audience.
+- Sài Gòn Tếu

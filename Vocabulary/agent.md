@@ -1,14 +1,11 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - agency
   - agentic
-sr-due: 2024-11-15
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-01-04
+sr-interval: 41
+sr-ease: 270
 ---
-
 - Definition: Relating to agency or an individual’s capacity to act independently and make their own free choices.
 - IPA: /eɪˈdʒɛn.tɪk/
 - Pronunciation: [uh-JEN-tik](https://www.google.com/search?q=how+to+pronounce+agentic)

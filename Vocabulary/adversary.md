@@ -1,10 +1,8 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - adversaries
-sr-due: 2024-11-15
-sr-interval: 3
+sr-due: 2024-12-13
+sr-interval: 19
 sr-ease: 230
 ---
 

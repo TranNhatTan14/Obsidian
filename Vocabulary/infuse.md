@@ -3,19 +3,15 @@ tags:
   - Vocabulary
 aliases:
   - infusing
-sr-due: 2024-11-13
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-16
+sr-interval: 54
+sr-ease: 290
 ---
 - Definition: To fill or soak something with a substance, often referring to extracting flavors or qualities.
 - IPA: /ɪnˈfjuz/
 - Pronunciation: [in-FYOOZ](https://www.google.com/search?q=how+to+pronounce+infuse)
 - Synonyms: steep, imbue, instill
 - Antonyms: dilute, remove, take out
-- Homophones: None
-- Prefix: in - meaning: into
-- Root: fusus - meaning: to pour
-- Suffix: None
 - Connotation: Positive, often associated with enhancing or enriching flavors or qualities.
 - Vietnamese: ngâm
 
@@ -37,5 +33,4 @@ You might think of *infuse* when brewing tea, adding spices to a dish, or incorp
 ### Visual Association
 
 Imagine a teapot with a teabag steeping, where the vibrant colors and flavors of the tea are being *infused* into the water.
-ID: 1727602296344
 END

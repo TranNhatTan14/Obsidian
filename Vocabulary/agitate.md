@@ -1,15 +1,12 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - agitate
   - agitating
   - agitated
-sr-due: 2024-11-15
-sr-interval: 3
+sr-due: 2024-12-12
+sr-interval: 18
 sr-ease: 230
 ---
-
 - Definition: Feeling or showing nervousness, excitement, or worry; disturbed or excited.
 - IPA: /ˈædʒ.ɪ.teɪ.tɪd/
 - Pronunciation: [AJ-ih-tey-ted](https://www.google.com/search?q=how+to+pronounce+agitated)
@@ -20,9 +17,9 @@ sr-ease: 230
 - Connotation: Typically negative; associated with discomfort or stress.
 - Vietnamese: Bối rối, kích động
 
-### Mnemonic
+### [Visual Association](https://www.google.com/search?tbm=isch&q=agitated)
 
-Imagine someone pacing nervously, hands trembling, showing *agitation* before an important event.
+![](https://www.verywellhealth.com/thmb/UY_jKUbdi4q56AJlp4pjq8bi5Aw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-83894917-569002905f9b58eba48aef44.jpg)
 
 ### Word Family
 
@@ -33,7 +30,3 @@ Imagine someone pacing nervously, hands trembling, showing *agitation* before an
 ### Personal Connection
 
 Everyone has felt *agitated* at some point, whether from stress, excitement, or conflict, and it often leads to a heightened state of awareness.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=agitated)
-
-![](https://www.verywellhealth.com/thmb/UY_jKUbdi4q56AJlp4pjq8bi5Aw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-83894917-569002905f9b58eba48aef44.jpg)

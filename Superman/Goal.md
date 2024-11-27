@@ -3,13 +3,6 @@ links:
   - "[[Superman]]"
   - "[[S.M.A.R.T]]"
 ---
-
-
-
-
-
-
-
 - Cải thiện thể chất
 	- Cải thiện thị lực
 	- Cải thiện ngoại hình
@@ -18,24 +11,6 @@ links:
 - Mua đất
 - Mua nhà
 - Mua xe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 - ==Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)==
 - Chia nhỏ thành các bước
@@ -54,17 +29,6 @@ links:
 
 # Short-term goals (in a week, month, year)
 
-
-
-
 ## Find true love, beautiful wife, obedient children, happy family
 
-# Personal Development
-
-- Hiểu hơn về cảm xúc của bản thân, hiểu về cơ thể của mình hơn
-- Chăm sóc sức khỏe thể chất và tinh thần
-- Phát huy điểm mạnh và khắc phục điểm yếu
-
----
-
-Improve 
+# [[Personal Development]]

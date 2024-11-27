@@ -1,3 +1,4 @@
+- In many martial arts, students ==bow (to bend the body in a gesture of respect)== when entering and leaving the practice area
 - Người Trung Quốc nhập cảnh Việt Nam có tờ giấy riêng
 - Sông Kỳ cùng chảy ngược về Trung Quốc
 - Chi Ngao AUS

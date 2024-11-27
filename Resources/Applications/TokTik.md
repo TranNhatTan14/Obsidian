@@ -3,22 +3,13 @@ tags:
   - Application
   - Archived
   - Limit
+  - Hide
+links:
+  - "[[iPad]]"
 ---
 What I will watch on TikTok
 
 - Trang sách chữa lành
-
-
-
-
-
-
-
-
-
-
-
-
 
 Tại sao mình sử dụng TikTok
 
@@ -42,10 +33,6 @@ Hay xem nhưng không có cũng không sao
 
 https://www.tiktok.com/@miriammache: Yoga
 https://www.tiktok.com/@rinepompom
-
-### Motivation
-
-Tín hiệu tích cực
 
 # Archived
 

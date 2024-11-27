@@ -38,20 +38,6 @@ https://www.threads.net/@jeongjaemark #International #USA #Tip#Experience
 - Nadine Lee
 - Yoona
 
-### Artificial Intelligence
-
-- [Andrew Ng](https://www.andrewng.org)
-- [[Andrej Karpathy]]
-
-# Team
-
-## Mechatronics
-
-- Nguyễn Trọng Nhân #Mechatronics 
-- Nguyễn Vũ Quang #Mechatronics 
-- Ngô Tiến Sáng #Mechatronics 
-- Nguyễn Thế Sơn #Mechatronics 
-
 ### People have background in Mechatronics
 
 - Hiep Dinh Tran #Mechatronics 
@@ -66,12 +52,6 @@ https://www.threads.net/@jeongjaemark #International #USA #Tip#Experience
 - Minh Đỗ
 - [Huy Hieu Pham](https://huyhieupham.github.io)
 	- Call for Brain Informatics
-
-## GeneStory
-
-- Trịnh Thị Cúc
-- Nguyễn Xuân Trường
-
 # Friend
 
 - [[Love]]

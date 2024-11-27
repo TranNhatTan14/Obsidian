@@ -2,6 +2,20 @@
 aliases:
   - Version control and collaborative development
 ---
+# Commands
+
+```bash
+git branch
+git checkout branch-name
+
+# To create and switch to a new branch:
+git checkout -b new-branch-name
+
+git switch branch-name
+
+
+```
+
 This course introduces learners to version control using Git. You will discover the importance of version control when working on data science projects and explore how you can use Git to track files, compare differences, modify and save files, undo changes, and allow collaborative development through the use of branches. You will gain an introduction to the structure of a repository, how to create new repositories and clone existing ones, and show how Git stores data. By working through typical data science tasks, you will gain the skills to handle conflicting files.
 
 # Introduction to Git

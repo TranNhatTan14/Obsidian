@@ -39,6 +39,10 @@ Next steps:
 
 # [[Reading]]
 
+- Time the task is being explained for highlight and read question
+- Không phải lật lật
+- Đeo bịt lỗ tai
+
 ## Question types
 
 ### General

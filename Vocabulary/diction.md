@@ -3,11 +3,10 @@ tags:
   - Vocabulary
 aliases:
   - dictation
-sr-due: 2024-11-15
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-01-07
+sr-interval: 44
+sr-ease: 270
 ---
-
 - Definition: The choice and use of words and phrases in speech or writing.
 - IPA: /ˈdɪk.ʃən/
 - Pronunciation: [DIK-shun](https://www.google.com/search?q=how+to+pronounce+diction)
@@ -28,7 +27,6 @@ Imagine a speaker carefully choosing each word to clearly convey their message, 
 - **Noun**: Her *diction* was clear and precise, making her speech memorable.
 - **Noun**: *Dictation* exercises improve listening and spelling skills.
 
-- Example with ==idiom==: The teacher reminded her to use ==just the right words== to improve her *diction*.
 - Regular example sentence: Great speakers are often praised for their excellent *diction*.
 
 ### Personal Connection

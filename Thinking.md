@@ -5,6 +5,7 @@ tags:
 - Match between what is important and what you pay attention
 - Everything want to take my attention so I need to manage it
 
+Cảm giác không biết mình đang làm gì
 Nhiều lức mình tự suy diễn vấn dề theo hướng tiêu cực
 Nghe audio book không phù hợp với mình lắm
 Mình thích không khí lạnh hơn là không khí nóng 

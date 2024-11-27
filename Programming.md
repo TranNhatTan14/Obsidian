@@ -9,6 +9,8 @@ tags:
 
 https://stackoverflow.com/questions/12627118/get-a-function-arguments-default-value
 
+Follow the OOP and code standard
+
 ### Polar
 
 - Pandas/Polars for data manipulation and analysis

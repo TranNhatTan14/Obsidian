@@ -3,6 +3,37 @@ tags:
   - Tool
   - Application
 ---
+# Definition
+
+Obsidian is a powerful note-taking application that emphasizes the creation and management of a personal knowledge base through its unique features. Below are the key features that distinguish Obsidian from other note-taking apps:
+
+## Core Features
+
+- Markdown Support
+- Linking and Backlinking
+- Graph View
+- Canvas Feature
+- Plugins and Customization
+- Local Storage with Sync Options
+- Templates
+- Intuitive Interface
+- Search Functionality
+- Audio and Video Recording
+
+
+# Search
+
+- Can search with many features
+
+
+
+
+
+
+
+
+
+
 # Link
 
 # Spaced Repetition

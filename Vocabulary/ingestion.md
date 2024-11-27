@@ -2,39 +2,43 @@
 tags:
   - Vocabulary
 aliases:
-  - ingesting
-  - ingestive
+  - ingest
   - ingested
-sr-due: 2024-11-13
-sr-interval: 4
-sr-ease: 270
+  - ingesting
+sr-due: 2025-01-03
+sr-interval: 40
+sr-ease: 250
 ---
-- Definition: The process of taking food or other substances into the body through the mouth.
+
+- Definition: The process of taking in food, drink, or substances into the body.
 - IPA: /ɪnˈdʒɛs.tʃən/
-- Pronunciation: [in-JES-chuhn](https://www.google.com/search?q=how+to+pronounce=ingestion)
-- Synonyms: consumption, intake, absorption
-- Antonym: excretion, expulsion, elimination
-- Prefix: in - meaning "into"
-- Root: gest - meaning "to carry" (from Latin "gerere")
-- Suffix: ion - meaning "action or process"
-- Connotation: Generally neutral; describes a biological process.
-- Vietnamese: sự tiêu thụ
+- Pronunciation: [in-JES-chun](https://www.google.com/search?q=how+to+pronounce+ingestion)
+- Synonyms: consumption, intake, swallowing
+- Antonym: expulsion, excretion
+- Prefix: in- meaning "into"
+- Root: Latin ingestio - meaning "act of taking in"
+- Suffix: -ion - indicating "the action or process of"
+- Connotation: Neutral, commonly used in medical or biological contexts.
+- Vietnamese: Sự nuốt, sự ăn uống
 
 ### Mnemonic
 
-"Ingestion is like pouring a drink into a glass, filling it up."
+Imagine taking a big gulp of water, symbolizing the act of *ingestion*.
 
 ### Word Family
 
-- The **ingestive** behavior of the animal is fascinating.
-- After **ingesting** the food, the body begins digestion.
-- **Ingested** substances vary greatly from person to person.
-- The doctor discussed the **ingestion** of supplements.
-- Her **ingestion** of knowledge was evident in her studies.
+- **Noun**: The *ingestion* of water is essential for health.
+- **Verb**: The child accidentally *ingested* a small toy.
+  
+- Example with ==common phrase==: Excessive ==ingestion of sugar== can lead to health issues.
+- Example sentence: Proper *ingestion* of nutrients is important for energy.
+- Regular example sentence: *Ingestion* of foreign objects can be dangerous.
 
 ### Personal Connection
-Ingestion relates to our daily eating habits, reminding us of the importance of nutrition and health in our lives.
 
-### Visual Association
+Ingestion is a daily process we rely on, from eating meals to taking in fluids to stay hydrated.
 
-Imagine a person happily eating a delicious meal, symbolizing the process of ingestion.
+### [Visual Association](https://www.google.com/search?tbm=isch&q=ingestion)
+
+Imagine someone drinking a glass of water, symbolizing the process of taking in or ingesting.
+	

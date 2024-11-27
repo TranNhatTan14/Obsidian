@@ -2,7 +2,7 @@
 tags:
   - Meta
   - Application
-  - Attention
+  - Archived
 links:
   - "[[iPad]]"
 ---

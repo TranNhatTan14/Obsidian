@@ -14,5 +14,8 @@ links:
 
 # Champions
 
+- Slimz
+- Violet
+- Lindis
 - Nakroth
 - Yan

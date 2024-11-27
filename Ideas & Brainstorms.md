@@ -1,4 +1,6 @@
-- Xin hãy chú ý nhiều hơn khi khám bệnh và kết hôn #Gene
+- Create automation generate podcast, chia sẻ kiến thức trên Threads
+- Learn code we need 2 screen for better performance, we have iPad when don’t have screen #Productivity 
+- Xin hãy chú ý nhiều hơn khi khám bệnh và kết hôn #Genetics
 - Cuộc sống sẽ trở nên tốt đẹp nếu bạn tàn nhẫn loại bỏ những điều nhỏ nhặt trong cuộc sống, để tập trung vào công việc của mình
 - Summary research paper - AI - Transfer Learning
 Muốn hiểu bản thân mình thì mình cần có dữ liệu về mình

@@ -1,15 +1,12 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - appropriates
   - appropriated
   - appropriating
-sr-due: 2024-11-13
-sr-interval: 1
+sr-due: 2024-11-30
+sr-interval: 5
 sr-ease: 230
 ---
-
 - Definition: To take something for one's own use, typically without permission; suitable or fitting for a particular situation.
 - IPA: /əˈprəʊ.pri.eɪt/
 - Pronunciation: [uh-PROH-pree-ayt](https://www.google.com/search?q=how+to+pronounce+appropriate)
@@ -31,12 +28,7 @@ Think of someone *appropriating* a parking space, taking it for their own use wi
 - **Noun**: The *appropriation* of resources was controversial.
 - **Adjective**: The decision was *appropriate* for the situation.
 
-- Example with ==idiom==: His actions were considered ==out of line== and *inappropriate*.
 - Regular example sentence: The teacher gave the *appropriate* response to the student's question.
-
-### Personal Connection
-
-We often choose the *appropriate* clothing or behavior for specific situations, such as a formal meeting or a casual outing.
 
 ### [Visual Association](https://www.google.com/search?tbm=isch&q=appropriate)
 

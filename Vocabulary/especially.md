@@ -2,9 +2,9 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2024-11-13
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-01-14
+sr-interval: 52
+sr-ease: 290
 ---
 - Definition: To a greater extent than usual; particularly.
 - IPA: /ɪˈspɛʃəli/

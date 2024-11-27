@@ -1,12 +1,10 @@
 ---
-tags:
-  - Vocabulary
 aliases:
   - acquiesces
   - acquiesced
   - acquiescing
-sr-due: 2024-11-13
-sr-interval: 1
+sr-due: 2024-12-07
+sr-interval: 14
 sr-ease: 230
 ---
 
@@ -34,10 +32,4 @@ Imagine someone reluctantly nodding in agreement without verbally objecting, rep
 - Example with ==idiom==: He decided to go along with the plan, ==biting the bullet== and *acquiescing*.
 - Regular example sentence: She *acquiesced* to the decision, despite her reservations.
 
-### Personal Connection
-
-We sometimes *acquiesce* to others' suggestions out of politeness or to avoid conflict.
-
 ### [Visual Association](https://www.google.com/search?tbm=isch&q=acquiesce)
-
-Imagine someone quietly nodding or raising their hands in reluctant acceptance.

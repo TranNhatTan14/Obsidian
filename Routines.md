@@ -8,18 +8,19 @@ aliases:
 
 ## Morning
 
-- [[Wake up]]
+- [[Wake up]] and make your bed
+- Drink a glass of wate
 - [[Exercise]]
 - [[Stretch]]
 - [[Duolingo]]
-- [[Take a shower]]
-- [[Meditation]] with [[Balance]]
+- [[Take a shower]] and get dressed
+- [[Meditation]] with [[Balance]] for 10 minutes
 - [[Charging devices]]
 - [[Elevate]]
 - [[Cooking]]
-- Get dressed
 - [[Driving]]
-- [[Breakfast]]
+- Eat a healthy[[Breakfast]]
+- Review daily goals and tasks
 - [[Deep Work]]
 - Prepare for your days in the morning
 
@@ -36,6 +37,7 @@ aliases:
 - [[Learning]] [[English]] with [[Obsidian]]
 - Omega 3.6.9 and vitamin
 - Lên kế hoạch
+- Review accomplishments and plan for the next day 
 - [[Reading]] and log process with [[Habitify]]
 - Reflect on your days in the evening
 - Optimization
@@ -48,6 +50,6 @@ aliases:
 - Consolidate knowledge connections
 - Build wisdom
 - Clear
-	- Xóa video đã tim trên TikTok
-	- Remove image from [[Resources/Applications/Apple Photos]]
+- Xóa video đã tim trên TikTok
+- Remove image from [[Resources/Applications/Apple Photos]]
 - Check [[Reduce Screen Time|Screen Time]]

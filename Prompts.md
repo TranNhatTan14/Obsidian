@@ -1,4 +1,18 @@
-Tell me something that will break my heart so much that it'll make me word/study
+# Summarization
+
+Please summarize this research paper with these specifications:
+
+- Focus: key findings identify key points
+- Format: Bullet points
+- Target audience: graduate students in Artificial Intelligence 
+- Purpose: Learning
+- Include significant statistical findings
+- Note any limitations mentioned in the study
+
+Stay concise, maintain accuracy and be flexible
+
+Summarize the given text by covering all key points and main ideas clearly and concisely. Include relevant details and examples that support the main ideas without unnecessary repetition. Ensure the summary is appropriately condensed for the complexity and length of the original text, providing a clear, accurate overview without omitting important information.
+
 
 # Genetics and Bioinformatics
 
@@ -145,17 +159,9 @@ This goal transforms your desire to "get fit" into a concrete plan focused on ru
 
 Remember to always prioritize your safety and consult with a healthcare professional before starting any new exercise regimen.
 
-# Prompt
-
-You are prompt engineering, have expert experience how to write optimal prompt to make large language model understand the the prompt well.
-
 # Code
 
 Help optimize the code, add comprehensive comments, and format it according to Python standards (PEP 8). Create an improved version with better organization, error handling, and documentation. But keep the code logic
-
-# Summarization
-
-Summarize the given text by covering all key points and main ideas clearly and concisely. Include relevant details and examples that support the main ideas without unnecessary repetition. Ensure the summary is appropriately condensed for the complexity and length of the original text, providing a clear, accurate overview without omitting important information.
 
 # Feynman technique explain
 
@@ -192,90 +198,3 @@ Suggesting some questions I should ask in areas where I need more clarity.
 Provide concise yet comprehensive answers, answer fully, briefly, not long-winded.
 
 My question is 
-
-# Vocabulary
-
-You are an expert linguist tasked with completing a comprehensive word analysis template. Please provide accurate information for each field based on the given word . Use "None" for fields that do not apply. Follow the format between double quote
-
-"
----
-tags:
-  - Vocabulary
-aliases:
-  - noun form
-  - ...
-  - All form of words
----
-
-- Definition: 
-- IPA: /example/
-- Pronunciation: [EX-am-ple](https://www.google.com/search?q=how+to+pronounce+[EXAMPLE])
-- Synonyms: synonyms1, synonyms2, synonyms3
-- Antonym: antonym1, antonym2, antonym3
-- Prefix: pre - meaning
-- Root: root - meaning
-- Suffix: fix - meaning
-- Connotation: Description of associated feelings or ideas
-- Vietnamese: Vietnamese translation
-
-### Mnemonic
-
-Provide a memorable phrase or image to aid recall.
-
-### [Examples](https://www.google.com/search?q=[EXAMPLE]+in+a+sentence)
-
-Provide 3-5 examples using the word (in each word forms) with context, including common phrases or idioms where applicable. Highlight idioms or common phrase with Markdown highlight format.
-
-### Personal Connection
-
-Suggest how this word might relate to everyday life or experiences.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=[EXAMPLE])
-
-Describe a clear mental image or simple diagram representing the word's meaning.
-"
-
-This is an example
-"
----
-tags:
-  - Vocabulary
-aliases:
-  - terrifies
-  - terrified
-  - terrifying
----
-
-- Definition: To cause someone to feel extreme fear.
-- IPA: /ˈter.ə.faɪ/
-- Pronunciation: [TER-uh-fai](https://www.google.com/search?q=how+to+pronounce+terrify)
-- Synonyms: scare, frighten, alarm
-- Antonym: reassure, calm, comfort
-- Prefix: None
-- Root: Latin terrere - meaning "to frighten"
-- Suffix: -fy - meaning "to make or cause to be"
-- Connotation: Typically negative, associated with intense fear or horror.
-- Vietnamese: Làm cho kinh hãi
-
-### Mnemonic
-
-Imagine someone shouting in a haunted house, causing a terrified reaction.
-
-### [Examples](https://www.google.com/search?q=terrify+in+a+sentence)
-
-- **Noun**: His biggest *terror* is being alone.
-- **Verb**: The movie aims to *terrify* audiences with suspense.
-- **Adjective**: The *terrifying* sight made her scream.
-- **Adverb**: She was *terribly* scared during the storm.
-
-### Personal Connection
-
-Everyone has something that terrifies them, like heights or spiders, often forming childhood memories.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=terrify)
-
-Picture a dark figure suddenly appearing in a dimly lit room, causing someone to jump back in fear.
-"
-
-Ensure all information is accurate and relevant to the given word. Provide concise yet comprehensive answers for each section. Provide all form of word in aliases only not include form information.  Replace [EXAMPLE] in the URL with the actual word being analyzed. Output is Markdown code what I can copy to code editor for each word. I will give you list of word you will create use the format for each word.
-The list of word is "consolidate, perceive".

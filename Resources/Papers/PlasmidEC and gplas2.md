@@ -5,7 +5,7 @@ tags:
 aliases:
   - "PlasmidEC and gplas2: An optimized short-read approach to predict and reconstruct antibiotic resistance plasmids in E. coli"
 links:
-  - "[[Plasmid]]"
+  - "[[Identify of bacterial plasmid with assembly graph using Graph Transformer]]"
 URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10926690/pdf/mgen-10-1193.pdf
 ---
 A dataset of 240 complete E. Coli genomes from eight different phylogroups and 117 sequence types (STs), carrying plasmids, was selected as previously described in ...

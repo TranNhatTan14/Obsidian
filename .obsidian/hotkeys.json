@@ -25,36 +25,12 @@
       "key": "B"
     }
   ],
-  "obsidian-spaced-repetition:srs-note-review-hard": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "3"
-    }
-  ],
-  "obsidian-spaced-repetition:srs-note-review-open-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "W"
-    }
-  ],
   "obsidian-spaced-repetition:srs-note-review-easy": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
-      "key": "1"
-    }
-  ],
-  "obsidian-spaced-repetition:srs-note-review-good": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "2"
+      "key": "ArrowLeft"
     }
   ],
   "random-note": [
@@ -63,6 +39,52 @@
         "Alt"
       ],
       "key": "R"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-good": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-hard": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-spaced-repetition:srs-note-review-open-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }

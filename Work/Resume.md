@@ -3,7 +3,7 @@ URL: https://www.overleaf.com/project/662216c1aaa7879b26c4e7af
 ---
 1. Recommendation system for user use Earable band
 2. [[Secure Offline RAG System]]
-3. [[Plasmid]]
+3. [[Identify of bacterial plasmid with assembly graph using Graph Transformer]]
 # Advice
 
 3. **Talk about people.** My Google manager always reminded me that he offered me a role ==because of my experience working with product managers and UX designers. Mention your experience working with cross-functional teammates.==

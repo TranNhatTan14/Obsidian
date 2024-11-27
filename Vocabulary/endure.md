@@ -5,9 +5,9 @@ aliases:
   - endurance
   - enduring
   - endurable
-sr-due: 2024-11-20
-sr-interval: 8
-sr-ease: 250
+sr-due: 2025-01-03
+sr-interval: 40
+sr-ease: 270
 ---
 - Definition: To suffer something painful or difficult patiently; to last or continue in existence.
 - IPA: /ɪnˈdʒʊr/
@@ -18,9 +18,9 @@ sr-ease: 250
 - Root: dure - meaning "to last" (from Latin "durare")
 - Suffix: None
 - Connotation: Generally positive; implies resilience and strength.
-- Vietnamese: chịu đựng
 
 ### Mnemonic
+
 "Endure is like a strong tree weathering a storm."
 
 ### Word Family
