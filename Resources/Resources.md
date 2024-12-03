@@ -31,7 +31,6 @@
 	- [[Scribd]]
 	- [[Surge 5]]
 	- [[Threads]]
-	- [[TokTik]]
 	- [[YouTube Music]]
 	- [[Zalo]]
 - **Articles**
@@ -44,25 +43,38 @@
 	- [[LLM Engineer's Handbook]]
 	- [[Sherlock Holmes]]
 	- [[Smart Thinking]]
+- **Courses**
+	- **[[DLAI]]**
 - **Extensions**
 	- [[Redirector]]
 - **Files**
-	- [[The 5-Minute Rule]]
+
 - **Films**
+	- [[3 Body Problem]]
 	- [[Arcane 2]]
 	- [[Arcane]]
+	- [[Interstella]]
 	- [[Klaus]]
+	- [[Reply 1988]]
+	- [[The Platform 2]]
+	- [[The Platform]]
 	- [[The Wild Robot]]
 - **Podcasts**
 	- [[Amateur Psychology]]
 	- **Andrew Huberman**
 		- [[Optimal Protocols for Studying & Learning]]
+	- **Have A Sip**
+		- [[Khi thất bại cũng là một cự ly để dấn thân]]
 - **[[Research papers]]**
 	- [[Gplas]]
 	- [[plASgraph2]]
 	- [[PLASMe]]
 	- [[PlasmidEC and gplas2]]
 	- [[UnitigBIN]]
+- **Templates**
+	- [[Podcast]]
+	- [[Research paper]]
+	- [[Vocabulary template]]
 - **Things**
 	- [[AirPod]]
 	- [[Apple]]
@@ -81,10 +93,12 @@
 		- [[Comparisons]]
 		- [[Metaphor]]
 	- [[Conda]]
+	- [[Discord]]
 	- [[Docker]]
 	- [[Git]]
 	- [[Github]]
 	- **Google**
+		- **Google Chrome**
 		- [[Google Chrome]]
 		- [[Google Colaboratory]]
 	- [[MLflow]]
@@ -97,5 +111,17 @@
 	- [[Standing on the Shoulders of Giants]]
 	- [[tmux]]
 	- [[Visual Studio Code]]
+- **[[Vocabulary]]**
+- **Writing**
+	- [[How to reduce overthinking]]
+	- [[Life and Dead]]
+	- [[Sống 80 năm trên Trái Đất và điều mình nhận ra]]
+	- [[Understand myself better]]
+	- [[What am i grateful for]]
+	- [[What I've learned]]
+	- [[What is a successful person]]
+	- [[What is the definition of beautiful]]
+	- [[What makes me happy]]
+	- [[Why do we have to make an effort]]
 
 %% End Waypoint %%

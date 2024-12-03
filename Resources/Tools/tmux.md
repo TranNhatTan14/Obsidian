@@ -27,4 +27,4 @@ exit
 
 `Ctrl + B + Page Up` to scroll and `q` to Quit
 
-`Ctrl + B + Shift + "` to scroll
+`Ctrl + B + Shift + "` to divide to multiple tmux

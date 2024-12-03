@@ -8,17 +8,15 @@ tags:
 - Machine vs Free Weights
 - 8/5/15
 
-Lateral Raise
-
-Ronaldo workout
-
+- Lateral Raise
+- [[Ronaldo]] workout
 - Pamela and Chloe
 
 # Environment
 
 - **Location**: [MD Fitness](https://goo.gl/maps/meaB1ZjtBYJcRwzs9)
 - **Time**: 06:00
-- Listening to [[Podcast]]
+- Listening to [[Superman/Routines/Podcast]]
 - With [[Nguyễn Tuấn Hiệp]]
 
 # Bulk and Cut
@@ -98,3 +96,11 @@ Triceps
 - https://www.tiktok.com/@moingaykhoehon
 - https://www.tiktok.com/@shneor_sa/video/7270543479506242818 #Inspiration 
 - https://www.tiktok.com/@meo.coan/video/7408177035174104340
+
+![[Pasted image 20241201082805.png]]
+![[Pasted image 20241201082813.png]]
+![[Pasted image 20241201082824.png]]
+![[Pasted image 20241201082829.png]]
+![[Pasted image 20241201082838.png]]
+![[Pasted image 20241201082843.png]]
+![[Pasted image 20241201082848.png]]

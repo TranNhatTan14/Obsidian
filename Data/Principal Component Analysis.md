@@ -1,6 +1,7 @@
 ---
 tags:
   - Technique
+  - Math
 aliases:
   - PCA
 ---

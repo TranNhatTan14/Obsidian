@@ -35,11 +35,11 @@ TrollDecrypt
 Get insights about your screen time and set limits for what you want to manage
 
 - Weekly reports
-	- Get a weekly report with insights, about you screen [[time]]
+	- Get a weekly report with insights, about you screen [[Time]]
 - Downtime
-	- Set a schedule for [[time]] away from the screen
+	- Set a schedule for [[Time]] away from the screen
 - App limits
-	- Set daily [[time]] limits for app categories you want to manage
+	- Set daily [[Time]] limits for app categories you want to manage
 
 ## Notification Summary
 

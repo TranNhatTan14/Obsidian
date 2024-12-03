@@ -9,7 +9,7 @@ Healthy habits are built through consistency.
 Phần lớn thói quen của bạn là thói quen tốt, điều này giúp bạn có thể thực hiện công việc một cách hiệu quả, một cách tự động và không tốn quá nhiều năng lượng. Giúp bạn có thể dành năng lượng cho những việc quan trọng hơn
 
 Tools help me to manage habits, [[Habitify]], Focus, Smartphone.
-Break bad habits with [[Habitify]] for check and [Redirector](Google.md#Redirector). We need to have reminder and data, streak
+Break bad habits with [[Habitify]] for check and [Redirector](Data/Google.md#Redirector). We need to have reminder and data, streak
 Use people to trigger
 
 > [!tip] 
@@ -40,15 +40,6 @@ Use screen time to reduce screen time
 
 - Team Refund
 - Mình thường nhập “thông tin chuyển nhượng của Real Madrid” và đọc tin tức về Real Madrid
-
-### Self-care
-
-- Đánh răng bằng THAN HOẠT TÍNH THƯỜNG XUYÊN HƠN
-- Hôm nay tôi thấy biết ơn vì điều gì
-- Hạn chế sử dụng media platform
-- Mình có đang sử dụng điện thoại nhiều không
-- Không sử dụng thiết bị sau 10 giờ
-- Mình thương đang không biết làm gì khi vừa ngồi vào làm việc
 
 ### Not too bad, but should be removed
 

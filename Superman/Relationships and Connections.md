@@ -21,7 +21,6 @@ The most important part in my life
 - Hooyeon
 - Tung Pham
 - Ngô Lan Hương
-- Dương Vũ
 - Lâm Bảo Ngọc #Music
 
 https://www.tiktok.com/@chef_hugo_hieu #Cooking 
@@ -35,15 +34,8 @@ https://www.threads.net/@jeongjaemark #International #USA #Tip#Experience
 - https://www.tiktok.com/@hellheohere/video/7389677653952957713
 
 
-- Nadine Lee
-- Yoona
 
-### People have background in Mechatronics
-
-- Hiep Dinh Tran #Mechatronics 
-- Pham Manh Tuan #Mechatronics 
 - Do Manh Tuan #Mechatronics 
-- Long Thinh Le UTS #Mechatronics 
 
 ## Vingroup
 
@@ -58,7 +50,6 @@ https://www.threads.net/@jeongjaemark #International #USA #Tip#Experience
 
 # University
 
-https://www.linkedin.com/in/nganhaduong78
 
 K64M-CLC1
 
@@ -74,15 +65,10 @@ https://www.facebook.com/groups/aivietnamresearchgroup
 [Artificial Intelligence & Deep Learning](https://www.facebook.com/groups/DeepNetGroup)
 
 https://www.facebook.com/groups/ankivocabulary
-
 https://www.facebook.com/groups/j2team.community
-
 https://www.facebook.com/groups/obsidian.secondbrain
-
 https://www.facebook.com/groups/flexdenhoithocuoicung
-
 https://www.facebook.com/groups/awsstudygroupfcj
-
 https://www.facebook.com/groups/aiartworksvn
 
 

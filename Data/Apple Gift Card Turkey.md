@@ -1,6 +1,7 @@
 ---
 tags:
   - Apple
+  - Finance
 ---
 1. Tạo tài khoản [Eneba](https://www.eneba.com)
 2. Choose card with optimal exchange rate ([Apple Gift Card Turkey](https://www.eneba.com/vendor/ultimate-choice?drms[]=apple&page=1&regions[]=turkey))

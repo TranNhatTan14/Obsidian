@@ -1,6 +1,5 @@
 ---
 tags:
-  - Certificate
   - Goal
   - Attention
   - Important
@@ -21,6 +20,86 @@ Next steps:
 1. Take IELTS practice test to establish baseline
 2. Create weekly speaking practice schedule
 3. Use AI writing assistants for feedback
+
+# Strategy
+
+- Thi trên máy tính
+- Miễn học phí hoặc giảm học phí từ các tổ chức
+
+## Giờ gì làm việc nấy
+
+- Sáng làm đề
+- Chiều luyện nói
+
+## [[Standing on the Shoulders of Giants]]
+
+https://www.threads.net/@lelinh.dayy #IELTS #Speaking 
+
+The Forum Center #IELTS 
+
+Đầu tiên, mình vẫn phải khẳng định lại, mình không đi từ con số 0 về Phát Âm mà về cơ bản phát âm của mình từ đầu đã được đánh giá là khá tốt, chỉ là chưa đạt đến mức hoàn chỉnh (tức là ở khoảng band điểm 7.0) và mình cũng CHƯA TỪNG ĐI DU HỌC hay SỐNG Ở NƯỚC NÓI TIẾNG ANH. Nhưng mình mong những chia sẻ dưới đây vẫn sẽ giúp được nhiều bạn ở nhiều level khác nhau nhé!
+
+[[Shadowing]]
+- chưa thể nghe được hết các "tinh hoa" của các cách phát âm
+- dạy cho người khác
+- các âm dài và âm ngắn, khẩu hình miệng
+- các âm đuôi cần đầy đủ và chính xác, nối âm
+- ed and s, bản chất âm vô thanh và hữu thanh
+- [[Learn English With TV Series]]
+- Nhấn nhá đúng chỗ
+	- Stress của word, nhấn mạnh vào từ cụm từ muốn truyền tải [[Elevate]]
+- Enunciate [[Elevate]]
+	- cần đọc rõ ràng và rành mạch
+	- Ghi âm lại
+-  Mình luôn coi bài thi như một cuộc trò chuyện với bạn, tất nhiên sẽ không suồng sã quá 😆: ngôn ngữ không cần formal như văn Viết mà dùng nhiều phrasal verbs, collocations, không nhét idiom vô lý,.. (tiếp)
+- - Xen một chút sense of humor, chút thật thà vào, miễn ngôn ngữ không bị quá chớn (Ví dụ gk hỏi cái mình không có kiến thức, mình nói luôn: Mình chưa bao giờ quan tâm vấn đề này nhưng nếu mà phải đoán thì chắc là...) - luôn nhớ bài test kiểm tra cách mình xử lí vấn đề trong tiếng Anh, không phải thi ĐLĐ Olympia
+- Watch the IELTS Speaking Mock
+
+
+- https://www.youtube.com/@theforumcenter
+- https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing 
+- Dang Tran Tung 6 times IELTS 9.0
+    - The IELTS Workshop
+- Khánh Vy
+
+Những người được IELTS 9.0 ở Việt Nam
+
+2. Trần Hoài Giang
+3. Nguyễn Hàng Phương Dung
+4. Trương Hải Hà
+
+**Các học bá Trung Quốc**
+
+- Thi đi thi lại cho đến khi đạt target
+    
+Kiến thức được chuẩn bị từ những người đi trước (tài liệu)
+
+1. Xác định trình độ hiện tại của mình bằng cách làm đề
+2. Lên Taobao tìm người chấm, chữa đề
+3. Ôn tập
+1. Prep
+2. Tạo lập môi trường thi ngay tại nhà (thời gian thi, độ dài, môi trường, bấm giờ)
+- Learn IPA
+
+## 1 stone kill 2 birds
+
+## Học khó hơn thi
+
+Những kỹ năng mình có thể làm nhanh hơn (dành ít thời gian hơn) so với lúc thi là Reading and Writing. Còn 2 kĩ năng còn lại không thể làm nhanh hơn được
+
+- Tăng tốc độ lên 1.25 hoặc 1.5
+- Nghe chép chính tả
+- Shadowing
+- Mở file nghe, vừa nhìn script vừa shadowing theo băng
+
+Test on 80% time, but maybe speak and writing we will do 120% (sound great)
+- Thử thách trong thời gian giới hạn và ngắn
+
+## Mổ xẻ lỗi sai
+
+Vì sao lại sai
+
+## Live with the language
 
 # Introduction
 
@@ -143,83 +222,6 @@ Khó khăn
 
 ## Part 2
 
-# Strategy
-
-## Giờ gì làm việc nấy
-
-- Sáng làm đề
-- Chiều luyện nói
-
-## [[Standing on the Shoulders of Giants]]
-
-https://www.threads.net/@lelinh.dayy #IELTS #Speaking 
-
-The Forum Center #IELTS 
-
-Đầu tiên, mình vẫn phải khẳng định lại, mình không đi từ con số 0 về Phát Âm mà về cơ bản phát âm của mình từ đầu đã được đánh giá là khá tốt, chỉ là chưa đạt đến mức hoàn chỉnh (tức là ở khoảng band điểm 7.0) và mình cũng CHƯA TỪNG ĐI DU HỌC hay SỐNG Ở NƯỚC NÓI TIẾNG ANH. Nhưng mình mong những chia sẻ dưới đây vẫn sẽ giúp được nhiều bạn ở nhiều level khác nhau nhé!
-
-[[Shadowing]]
-- chưa thể nghe được hết các "tinh hoa" của các cách phát âm
-- dạy cho người khác
-- các âm dài và âm ngắn, khẩu hình miệng
-- các âm đuôi cần đầy đủ và chính xác, nối âm
-- ed and s, bản chất âm vô thanh và hữu thanh
-- [[Learn English With TV Series]]
-- Nhấn nhá đúng chỗ
-	- Stress của word, nhấn mạnh vào từ cụm từ muốn truyền tải [[Elevate]]
-- Enunciate [[Elevate]]
-	- cần đọc rõ ràng và rành mạch
-	- Ghi âm lại
--  Mình luôn coi bài thi như một cuộc trò chuyện với bạn, tất nhiên sẽ không suồng sã quá 😆: ngôn ngữ không cần formal như văn Viết mà dùng nhiều phrasal verbs, collocations, không nhét idiom vô lý,.. (tiếp)
-- - Xen một chút sense of humor, chút thật thà vào, miễn ngôn ngữ không bị quá chớn (Ví dụ gk hỏi cái mình không có kiến thức, mình nói luôn: Mình chưa bao giờ quan tâm vấn đề này nhưng nếu mà phải đoán thì chắc là...) - luôn nhớ bài test kiểm tra cách mình xử lí vấn đề trong tiếng Anh, không phải thi ĐLĐ Olympia
-- Watch the IELTS Speaking Mock
-
-
-- https://www.youtube.com/@theforumcenter
-- https://www.tiktok.com/@kienluyen  IELTS 9.0 (5 times) 9 Writing 
-- Dang Tran Tung 6 times IELTS 9.0
-    - The IELTS Workshop
-- Khánh Vy
-
-Những người được IELTS 9.0 ở Việt Nam
-
-2. Trần Hoài Giang
-3. Nguyễn Hàng Phương Dung
-4. Trương Hải Hà
-
-**Các học bá Trung Quốc**
-
-- Thi đi thi lại cho đến khi đạt target
-    
-Kiến thức được chuẩn bị từ những người đi trước (tài liệu)
-
-1. Xác định trình độ hiện tại của mình bằng cách làm đề
-2. Lên Taobao tìm người chấm, chữa đề
-3. Ôn tập
-1. Prep
-2. Tạo lập môi trường thi ngay tại nhà (thời gian thi, độ dài, môi trường, bấm giờ)
-- Learn IPA
-
-## 1 stone kill 2 birds
-
-## Học khó hơn thi
-
-Những kỹ năng mình có thể làm nhanh hơn (dành ít thời gian hơn) so với lúc thi là Reading and Writing. Còn 2 kĩ năng còn lại không thể làm nhanh hơn được
-
-- Tăng tốc độ lên 1.25 hoặc 1.5
-- Nghe chép chính tả
-- Shadowing
-- Mở file nghe, vừa nhìn script vừa shadowing theo băng
-
-Test on 80% time, but maybe speak and writing we will do 120% (sound great)
-- Thử thách trong thời gian giới hạn và ngắn
-
-## Mổ xẻ lỗi sai
-
-Vì sao lại sai
-
-## Live with the language
-
 # Tips and Tricks
 
 - [[Time Management]]
@@ -278,7 +280,7 @@ Với kỹ năng **Listening**, Khánh chủ động tìm nghe các video về 
 
 Với kỹ năng **Reading**, Khánh tìm tòi các trang thông tin, tạp chí khoa học… để đọc và học những từ ngữ mới. “Khi làm bài, cần đọc cẩn thận để đảm bảo không hiểu sai ý của tác giả bài viết hoặc bỏ lỡ thông tin trong các phương án trả lời. Em luôn cố gắng nối kết các từ khoá trong bài với các từ khoá trong câu hỏi nhằm dễ dàng nhận thấy đâu là câu trả lời đúng”, Khánh nói.
 
-# [[Vocabulary/Vocabulary|Vocabulary]]
+# [[Vocabulary|Vocabulary]]
 
 - Keep a journal of new academic vocabulary you encounter #Research 
 

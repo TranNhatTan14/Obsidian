@@ -1,7 +1,3 @@
----
-tags:
-  - Software
----
 # Linux
 
 ## nano
@@ -19,7 +15,12 @@ touch <file-name>
 # Check folder size
 du -sh /home/user/*
 
+du -sh * | sort -h
+
 du -sh --exclude='*' /path/to/folder
+
+# Check how many folder in folder
+find . -maxdepth 1 -type d | wc -l
 ```
 
 ## wget

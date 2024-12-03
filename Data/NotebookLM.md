@@ -12,7 +12,7 @@ URL: https://notebooklm.google.com
 - Interactive [[Q&A]]: Answers specific questions related to uploaded documents with references.  
 - Content-Based Creativity: Offers ideas and insights to support brainstorming and innovative thinking.  
 - Organized Information Formats: Structures content into FAQs, study guides, and timelines for easier retrieval.  
-- [[Podcast]]-Style Audio Overviews: Converts content into audio summaries with AI-generated voices.  
+- [[Resources/Templates/Podcast]]-Style Audio Overviews: Converts content into audio summaries with AI-generated voices.  
 - Document Upload & Interaction: Supports uploading PDFs, Google Docs, and text files (up to 50 files per user).  
 - Integration with Google Workspace: Provides seamless access and management through Google Docs and Drive.  
 - Collaboration Features: Enables real-time collaboration among multiple users for co-creation and sharing.  

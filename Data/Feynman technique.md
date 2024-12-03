@@ -4,6 +4,10 @@ tags:
   - Learning
 description: Trình bày những thứ phức tạp một cách dễ hiểu
 ---
+# Definition
+
+I couldn’t reduce it to the freshman level. That means we really don’t understand it.
+
 https://spiderum.com/bai-dang/Tu-phuc-tap-den-don-gian-Bi-quyet-hoc-tap-hieu-qua-tu-ky-thuat-Feynman-sGXZnonPbwxC
 
 The Feynman Technique is a four-step process developed by Richard Feynman to learn any subject—no matter how hard or complex it is. This technique rejects memorizing facts without understanding their meaning and favors true comprehension through selection, research, writing, explaining, and refining.

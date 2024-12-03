@@ -2,8 +2,6 @@
 tags:
   - Application
   - Attention
-links:
-  - "[[Attention]]"
 description: A meditation and sleep program that adapts to you
 ---
 # [[Purpose]]

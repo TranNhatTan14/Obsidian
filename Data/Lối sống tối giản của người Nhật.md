@@ -1,0 +1,6 @@
+---
+tags:
+  - Book
+  - Minimalism
+  - Lifestyle
+---

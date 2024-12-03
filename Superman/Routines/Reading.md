@@ -5,13 +5,13 @@ tags:
 links:
   - "[[Elevate]]"
   - "[[IELTS]]"
-  - "[[Vocabulary/Vocabulary|Vocabulary]]"
+  - "[[Vocabulary|Vocabulary]]"
 aliases:
   - Reading book
 ---
 # Purposes
 
-- Gain [[knowledge]]
+- Gain [[Knowledge]]
 - Understand new ideas
 - [[Information]] Gathering
 	- Learn facts and gain insights

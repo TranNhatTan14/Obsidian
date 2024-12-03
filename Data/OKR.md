@@ -1,9 +1,11 @@
 ---
 tags:
-  - Seminar
   - GeneStory
+  - Seminar
+aliases:
+  - Objectives and Key Results
+  - OKRs
 ---
-
 
 ![[Pasted image 20241114151025.png]]
 

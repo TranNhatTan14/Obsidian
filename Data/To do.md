@@ -23,3 +23,9 @@
 - Trekking with [[Ngô Thị Phương Duyên]] và [[Nguyễn Tuấn Hiệp]]
 - Reading courage and creativity from Thuan Nguyen Baber
 - Crawl all [[Google Chrome]] history to analyze as time tracking
+- Xem video của [[Huy Nguyen]] trên YouTube
+- Template cho [[Journals]]
+- Học cách chụp ảnh đẹp
+# Education
+
+- Write [[Scholarship essay]]

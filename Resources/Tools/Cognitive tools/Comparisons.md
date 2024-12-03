@@ -58,4 +58,17 @@ Cons:
 
 - **Passive consumption:** Less mentally stimulating; doesn't engage critical thinking as much.
 - **Limited imagination:** Visuals and interpretations are provided, reducing personal interpretation.
-- **Distractions:** Easier to lose focus or multitask, potentially missing key information.
+- **Distractions:** Easier to lose focus or multitask, potentially missing key information
+
+### Certification and certificate
+
+### Approach and Strategy:
+
+Layperson Explanation:
+
+Approach: The way or method you choose to start or handle a task.
+Strategy: A detailed plan that outlines specific actions to achieve a goal.
+Example:
+
+Approach: "I will try to explain a topic by simplifying it."
+Strategy: "I will first identify the key concepts, then break them into easy steps, and finally use analogies to teach."

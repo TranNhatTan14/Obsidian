@@ -1,0 +1,58 @@
+---
+aliases:
+  - People and Connections and Relationships
+---
+%% Begin Waypoint %%
+- **Connections**
+	- [[CTAI Vingroup]]
+	- [[Dinh Tran Hiep]]
+	- **Groups**
+		- [[12A1]]
+	- [[Mạc Thị Thu An]]
+	- [[Nguyễn Ngọc Tú]]
+	- [[Nguyễn Xuân Trường]]
+	- [[Trịnh Thị Cúc]]
+- **People**
+	- [[Andrej Karpathy]]
+	- [[Andrew Huberman]]
+	- [[Andrew Ng]]
+	- [[Benjamin Tran]]
+	- [[BIGBANG]]
+	- [[CheeseNguyen]]
+	- [[G-Dragon]]
+	- [[Huy Nguyen]]
+	- [[Lê Nguyễn Bảo Ngọc]]
+	- [[Nguyễn Minh Hải]]
+	- [[Nguyễn Thị Ánh Viên]]
+	- [[Rosé]]
+	- [[The Hanoi Chamomile]]
+	- [[Toni Kroos]]
+- **Relationships**
+	- [[Bùi Thị Ngọc Huyền]]
+	- [[Cao Duy Mạnh]]
+	- [[Đỗ Mạnh Tuấn]]
+	- **[[Family]]**
+		- [[Nguyễn Thị Dung]]
+		- [[Nguyễn Thị Nga]]
+		- [[Trần Minh Khang]]
+		- [[Trần Minh Quang]]
+		- [[Trần Văn Long]]
+	- [[Khổng Quang Linh]]
+	- [[Love]]
+	- [[Lý Minh Tú]]
+	- [[Ngô Tiến Sáng]]
+	- [[Nguyễn Đức Anh]]
+	- [[Nguyễn Kim Oanh]]
+	- [[Nguyễn Minh Chiến]]
+	- [[Nguyễn Minh Hiếu]]
+	- [[Nguyễn Minh Huyền]]
+	- [[Nguyễn Thế Sơn]]
+	- [[Nguyễn Trọng Nhân]]
+	- [[Nguyễn Trường Sơn]]
+	- [[Nguyễn Tuấn Hào]]
+	- [[Nguyễn Tuấn Hiệp]]
+	- [[Nguyễn Vũ Quang]]
+	- [[Tạ Dũng]]
+	- [[Tạ Thị Ngọc Diễm]]
+
+%% End Waypoint %%

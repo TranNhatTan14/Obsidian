@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "2f457e3e110d5d2e",
+        "id": "dfcf4f2909533b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "e09c01128645d6f3",
+            "id": "55ada6af761c4641",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Tools/Nextflow.md",
+                "file": "Data/Vietnam National University, Hanoi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f65b8ba32b05133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Research papers/PlasmidEC and gplas2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "346f900c63f56a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Vocabulary/Vocabulary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,14 +73,12 @@
             "id": "0f36613f77ecb3a4",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "markdown",
               "state": {
-                "query": "file:Scholar",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
+                "file": "Resources/Applications/Arena of Valor.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -65,12 +89,28 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "26e96d74047f81e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 353.5
   },
   "right": {
     "id": "685661460335a225",
@@ -86,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Tools/Nextflow.md"
+                "file": "Data/Vietnam National University, Hanoi.md"
               }
             }
           },
@@ -96,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Tools/Nextflow.md",
+                "file": "Data/Vietnam National University, Hanoi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -108,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Tools/Nextflow.md",
+                "file": "Data/Vietnam National University, Hanoi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +196,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Resources/Tools/Nextflow.md"
+                "file": "Data/Vietnam National University, Hanoi.md"
               }
             }
           }
@@ -173,60 +213,60 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templates:Insert template": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "random-note:Open random note": false
     }
   },
-  "active": "e09c01128645d6f3",
+  "active": "55ada6af761c4641",
   "lastOpenFiles": [
-    "Data/Most Important Tasks.md",
-    "Superman/Routines/Podcast.md",
-    "Data/Learning English Vocabulary.md",
-    "Templates/Podcast.md",
-    "Knowledge/Language/Vocabulary.md",
-    "Data/Template.md",
-    "Data/Automation.md",
-    "Data/Have A Sip.md",
-    "Resources/Podcasts/Amateur Psychology.md",
-    "Relationships and Connections and People/The Hanoi Chamomile.md",
-    "Data/3Blue1Brown.md",
-    "Data/Oddly Normal.md",
-    "Data/TED.md",
-    "Superman/Routines/Reading.md",
+    "Resources/Vocabulary/Vocabulary.md",
+    "Resources/Tools/Visual Studio Code.md",
+    "Data/Github Copilot.md",
+    "Resources/Applications/Codespaces.md",
+    "Data/Vietnam National University, Hanoi.md",
+    "Resources/Writing/What is the definition of beautiful.md",
+    "Resources/Research papers/PlasmidEC and gplas2.md",
+    "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md",
+    "Data/Important and Attention.md",
+    "Data/G-Dragon.md",
+    "Life/PCR/People/G-Dragon.md",
+    "Resources/Tools/Conda.md",
+    "Data/STRUCTURE.md",
+    "Data/OKR.md",
+    "Data/Short Tandem Repeat.md",
+    "Data/Cryptocurrency.md",
+    "Data/Distraction.md",
+    "Data/Warren Buffett.md",
+    "Data/Glossary.md",
     "Resources/Applications/Elevate.md",
-    "Data/IELTS.md",
+    "Data/Speaking.md",
+    "Data/Blockchain & Crypto 101 Guide for Beginners.md",
+    "Data/NSDR.md",
+    "Data/Speaking Strategies.md",
+    "Data/Expert tips.md",
+    "Journals/20240801.md",
+    "Resources/Files/Pasted image 20241201082848.png",
+    "Resources/Files/Pasted image 20241201082843.png",
+    "Resources/Files/Pasted image 20241201082838.png",
+    "Resources/Files/Pasted image 20241201082829.png",
+    "Resources/Files/Pasted image 20241201082824.png",
+    "Resources/Files/Pasted image 20241201082813.png",
+    "Resources/Files/Pasted image 20241201082805.png",
+    "Resources/Files/Pasted image 20241201082501.png",
+    "Resources/Files/Pasted image 20241201082449.png",
+    "Resources/Files/Pasted image 20241201082342.png",
+    "Goals",
+    "Writing",
+    "Resources/Podcasts/Have A Sip",
+    "Resources/Tools/Google/Google Chrome",
+    "Life/PCR/Relationships",
+    "Life/PCR/Connections",
+    "Life/PCR/People",
     "Knowledge/Language",
-    "Data/Pareto Principle.md",
-    "Superman/Routines/Deep Work.md",
-    "Data/Scholarships.md",
-    "Data/VPN.md",
-    "Data/The Vingroup Scholarship.md",
-    "Resources/Applications/Surge 5.md",
-    "Resources/Resources.md",
-    "Relationships and Connections and People/Relationships and Connections and People.md",
-    "Resources/Research papers/Research papers.md",
-    "Resources/Tools/Tools.md",
     "Education/Courses/Coursera",
     "Data/Dockerfile",
-    "Relationships and Connections and People/Groups",
-    "Resources/Applications/Chatbot",
-    "Resources/Files/Pasted image 20241126224327.png",
-    "Clippings",
-    "Resources/Files/Pasted image 20241125124032.png",
-    "Resources/Files/Pasted image 20241117184516.png",
-    "Resources/Files/Pasted image 20241117184034.png",
-    "Resources/Files/Pasted image 20241117183953.png",
-    "Data",
-    "Resources/Files/Pasted image 20240810145627.png",
-    "Resources/Files/Pasted image 20240825172544.png",
-    "Resources/Files/Pasted image 20240821124734.png",
-    "Resources/Files/Pasted image 20240811153956.png",
-    "Resources/Files/Pasted image 20241028153951.png",
-    "Untitled.canvas",
-    "Technology",
-    "Superman/Routines",
-    "Goals"
+    "Untitled.canvas"
   ]
 }

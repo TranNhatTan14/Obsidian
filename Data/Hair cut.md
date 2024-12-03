@@ -10,4 +10,6 @@ links:
 https://www.tiktok.com/@timbarbershop1ctrungliet
 https://www.facebook.com/profile.php?id=100068108794989
 
+https://www.messenger.com/t/101630672112403
+
 - Lần sau mình sẽ uốn tóc

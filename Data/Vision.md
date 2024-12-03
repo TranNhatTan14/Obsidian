@@ -2,4 +2,4 @@
 
 ### Personal Connection
 
-- Xe máy mình đang đi là xe Vision của [[Mom|mẹ]]
+- Xe máy mình đang đi là xe Vision của [[Nguyễn Thị Dung|mẹ]]

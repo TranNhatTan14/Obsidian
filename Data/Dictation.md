@@ -2,6 +2,8 @@
 tags:
   - Method
   - Language
+aliases:
+  - Diction
 ---
 # Definition
 

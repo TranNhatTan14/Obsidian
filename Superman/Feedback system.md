@@ -24,3 +24,5 @@ links:
 - Mình hay muốn check thông tin [[Cryptocurrency]] trong [[ONUS]]
 - Mình cảm thấy hơi đau lưng bên phải khi ngồi
 - Mình không phù hợp với audiobook
+- - Mọi người không quan tâm là mình ăn trưa như thế nào đâu #Work 
+- Cảm giác tập chưa đốt mỡ lắm [[Exercise]]

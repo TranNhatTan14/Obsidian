@@ -40,6 +40,7 @@ aliases:
 - Review accomplishments and plan for the next day 
 - [[Reading]] and log process with [[Habitify]]
 - Reflect on your days in the evening
+- Watch video in [[Motivation]]
 - Optimization
 - [[Stretch]]
 - [[Sleep]]

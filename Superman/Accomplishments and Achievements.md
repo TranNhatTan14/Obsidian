@@ -28,4 +28,3 @@ While the terms overlap, **accomplishment** is broader, encompassing both small 
 # No
 
 - Become Master in [[Arena of Valor]]
-	- Delete

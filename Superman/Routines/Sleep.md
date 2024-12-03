@@ -45,8 +45,6 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - Avoid watching late-night TV, which can stimulate rather than relax session
 - Use the bed just for sleeping to help your brain associate it only with rest
 
-### Sleep and mental health
-
 # Information
 
 - Sleep spindles

@@ -1,3 +1,5 @@
+
+
 - In many martial arts, students ==bow (to bend the body in a gesture of respect)== when entering and leaving the practice area
 - Người Trung Quốc nhập cảnh Việt Nam có tờ giấy riêng
 - Sông Kỳ cùng chảy ngược về Trung Quốc
@@ -11,8 +13,10 @@
 # Sources
 
 - Vocabulary from [[Elevate]]
-- Liked videos from [[TokTik]]
-
+- Liked videos from [[TikTok]] and [[Threads#Liked]] 
+- [[Threads#Saved]]
+- [[Apple Notes]]
+- [[Messenger]]
 # Phrases
 
 ### Idioms
@@ -47,14 +51,6 @@
 - The judges were ==appreciative== of the ==appreciable== differences between the works of art
 - American colonists dumped British tea into the sea in 1773 to protest taxation. ==In effect==, it led the countries to war
 
-# Keywords
+# World
 
-- Under the hood
-- VPS
-- HuggingFace GPU
-- Law of Attraction
-- Fintech
-- Open source
-- Manifest
-- AIoT
-- Llamafile
+- No Hurricane has ever crossed the equator

@@ -5,9 +5,8 @@ tags:
   - Software
   - Application
 URL: https://github.com/codespaces
-aliases:
-  - Go from code to commit faster on any project
+links:
+  - "[[iPad]]"
+  - "[[Github Copilot]]"
+description: Go from code to commit faster on any project
 ---
-# GitHub Codespaces + GitHub Copilot
-
-# Github Codespaces + [[iPad]]

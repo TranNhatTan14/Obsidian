@@ -3,19 +3,14 @@ tags:
   - Programming
   - Tool
   - Microsoft
+links:
+  - "[[Github Copilot]]"
 ---
 # Port
 
-### Forward port from server to local host
-
 ```bash
+# Forward port from server to local host
 ssh -L 5000:localhost:5000 tantn@10.124.64.139 -p 8022
-```
-
-# Run Docker to delete file
-
-```bash
-docker run -v /home/tantn/workspaces:/workspaces -it ubuntu /bin/bash
 ```
 
 # Command line
@@ -26,4 +21,7 @@ touch script.sh
 
 # Open file in Editor
 code script.sh
+
+# Run Docker to delete file
+docker run -v /home/tantn/workspaces:/workspaces -it ubuntu /bin/bash
 ```

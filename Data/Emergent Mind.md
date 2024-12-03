@@ -1,7 +1,7 @@
 ---
 tags:
-  - Trending
   - Research
   - Github
+  - Trend
 URL: https://www.emergentmind.com
 ---

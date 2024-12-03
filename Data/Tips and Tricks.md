@@ -21,7 +21,7 @@ Luôn sẵn sàng cho công việc trong mọi trường hợp
 - Không đọc thầm để có thể đọc nhanh hơn #Reading #Productivity
 - Hiểu được [[Language|ngoại ngữ]] sẽ rất tốt làm mình sẽ hiểu mọi thứ nhanh hơn #Productivity 
 - Giã đông thịt với dấm, phân tử đường, bỏ ra chậu cho vài hạt muối vào #Food 
-- To help yourself recall new information, try to link it to a [[personal experience]] or [[knowledge]] #Memory 
+- To help yourself recall new information, try to link it to a [[personal experience]] or [[Knowledge]] #Memory 
 - Repeat important information back to yourself in order to remember it more effectively 
 - Listen without judging or jumping to conclusion to better understand and remember what you hear
 - To help yourself remember information about people, plasces, or things, create a mental map and associate the items to differrent areas of it

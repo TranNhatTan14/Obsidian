@@ -20,25 +20,9 @@ Obsidian is a powerful note-taking application that emphasizes the creation and 
 - Search Functionality
 - Audio and Video Recording
 
-
 # Search
 
 - Can search with many features
-
-
-
-
-
-
-
-
-
-
-# Link
-
-# Spaced Repetition
-
-https://github.com/st3v3nmw/obsidian-spaced-repetition
 
 # Hotkeys
 
@@ -60,10 +44,6 @@ I don’t use tags myself, however I do know you can put tags in YAML Frontmatte
 
 ### Images
 
-1. Add image with path
-2. Add image with URL
-3. Add image with clipboard
-
 # Links
 
 [This is how you can link to a block in a note without create connection](Obsidian#Heading 3)
@@ -78,13 +58,24 @@ Tại sao minh sử dụng Obsidian thay vi Notion
 
 # Plugins
 
-- Tasks
+## Core plugins
 
-## Dataview
+### Templates
 
-https://github.com/blacksmithgu/obsidian-dataview
+### Quick switcher
 
-List all of the files in the `books` folder, sorted by the last time you modified the file:
+### Backlinks
+## Community plugins
+
+### Waypoint
+### Contextual Typography
+### Tasks
+
+### [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+
+### [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
+
+List all of the files in the folder, sorted by the last time you modified the file:
 
 ```dataview
 TABLE WITHOUT ID
@@ -93,8 +84,8 @@ TABLE WITHOUT ID
 FROM "/"
 WHERE file.mtime >= date(today) - dur(21 days)
 AND file.name != this.file.name
-    AND file.name != "Inbox"
-    AND file.name != "TODOs"
+AND file.folder != "Vocabulary"
+AND file.name != "TODOs"
 SORT file.mtime DESC 
 ```
 

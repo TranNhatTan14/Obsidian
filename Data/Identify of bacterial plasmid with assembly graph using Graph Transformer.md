@@ -8,6 +8,27 @@ links:
   - "[[Conda]]"
   - "[[Nextflow]]"
 ---
+**Objective: Advanced Bacterial Plasmid Identification using Graph Transformer**
+
+Key Results:
+1. Develop Graph Transformer model for plasmid assembly graph analysis
+- Target: Achieve >90% accuracy in plasmid identification
+- Metric: Precision, recall, and F1 score of plasmid detection
+
+2. Preprocessing and graph representation
+- Target: Create robust graph embedding method
+- Metric: Successful graph transformation and feature extraction
+
+3. Model performance validation
+- Target: Comparative analysis with existing plasmid identification methods
+- Metric: Benchmark against state-of-the-art tools (e.g., MOB-suite, PlasmidFinder)
+
+4. Generalizability and scalability
+- Target: Test model across diverse bacterial datasets
+- Metric: Consistent performance across different bacterial species and sequencing platforms
+
+**Success Criteria:** Innovative Graph Transformer approach for accurate and efficient bacterial plasmid identification.
+
 # Purpose and Motivation
 
 - https://www.youtube.com/watch?v=NsdUuXN2SVg

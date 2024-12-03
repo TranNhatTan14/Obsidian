@@ -3,8 +3,13 @@ tags:
   - Book
   - Course
   - Learning
+  - Visualization
 URL: https://www.coursera.org/learn/learning-how-to-learn
 ---
+# Definition
+
+- The [[goal]] of learning is turn data and [[information]] to knowledge and wisdom
+
 > [!tip] 
 > Top-down approach
 > We learn of what we Discuss < Experience < Teach Others

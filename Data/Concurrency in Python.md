@@ -1,5 +1,6 @@
 ---
 tags:
+  - GeneStory
   - Seminar
 links:
   - "[[Python]]"

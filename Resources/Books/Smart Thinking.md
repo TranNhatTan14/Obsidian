@@ -5,3 +5,4 @@ tags:
 links:
   - "[[Habits]]"
 ---
+High-Quality Knowledge

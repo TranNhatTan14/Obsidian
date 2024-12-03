@@ -3,6 +3,8 @@ tags:
   - GeneStory
   - Seminar
 ---
+[Application of mtDNA SNP analysis in forensic casework](https://www.sciencedirect.com/science/article/abs/pii/S1872497310000232)
+
 Vai trò của mtDNA trong nhận dạng cá thể
 Tóm tắt, gợi ý hướng dẫn
 
