@@ -7,10 +7,10 @@ links:
   - "[[Blockchain]]"
   - "[[Web3]]"
 ---
-Crypttocurrencies are a new way to exchange goods and services. They run on [[Blockchain]] - data structures are cryptographically secure.
+Crypttocurrencies are a new way to exchange goods and services.
+They run on [[Blockchain]] - data structures are cryptographically secure.
 
 # Crytocurrency AI
-
 
 - ==Use SL and TP. DO NOT LOSE ALL==
 - What we can learn from the 20241101: We can earn more, and what is problem

@@ -46,4 +46,3 @@ In life, there are things we can’t control, just like the wind. But here’s t
 Tận hưởng cuộc sống tươi đẹp
 
 - https://www.tiktok.com/@luvyour703_/photo/7260307280619425025
-- [Mưa trước cầu Nhật Tân](https://www.tiktok.com/@quytngot99/video/7284911802138266886)

@@ -8,6 +8,110 @@ links:
   - "[[Conda]]"
   - "[[Nextflow]]"
 ---
+
+
+
+
+
+
+Input data
+
+- Paired-end short reads
+
+We will simulate the assembly step to get
+
+- Assembly graph with node is unitig and edge is overlap
+- Contigs path
+
+After this we will get all the information we can get from data with alignment or what we can do 
+
+- The information can help to tell node is from plasmid or chromosome
+- The 
+
+Features
+
+Extracting features
+
+Node features
+
+- Sequence composition: GC content, k-mer frequencies
+- Coverage: Read depth
+- Graph topology: Node degree, centrality measures
+- Homology: Alignment score against known plasmid database (PLSDB)
+
+Model
+
+Model Training
+
+Train a Graph Transformer model on a labeled dataset of assembly graph
+
+Model Predicting
+
+Postprocessing: Refine the predictions using postprocessing steps
+
+- Filtering: Remove contigs with low prediction scores
+- Clustering: Group contigs predicted as plasmids based on their connectivity in the assembly graph and other feature (coverage similarity)
+- Validation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Objective: Advanced Bacterial Plasmid Identification using Graph Transformer**
 
 Key Results:
@@ -246,16 +350,19 @@ PC-based token achieved the best precision, recall and F1-score
 
 # Data
 
-- Download short-reads from SRA and complete genome from NCBI for ==3 species==
-- Handle hybrid assemblies if using multiple sequencing technologies
+- Input data: Illumina paired-end short reads
+	- Download from SRA
+	- Download complete genome from NCBI
+	- From 3 bacteria species
+		- E. Coli
+		- K. p
+		- S. a
+- Assembly
+	- We want unitig assembly graph so we use metaSPAdes 
 
-- Use Illumina sequencing technology for generating the raw reads
-- Which assembler will you use to generate the assembly graphs (SPAdes, Unicycler, metaSPAdes)?
-- Do you have a specific bacterial species/genus in focus, or is this meant to be a general-purpose tool?
-	- E. Coli
-	- K.
-	- S. 
-- How will you handle hybrid assemblies if using multiple sequencing technologies?
+
+
+
 
 - How will you define ground truth for training [[PlasmidEC and gplas2]]
 	- Will you use known plasmid sequences from databases like PlasmidDB

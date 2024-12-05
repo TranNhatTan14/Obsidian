@@ -29,5 +29,6 @@ description: Journal is like short-term memory, it needs to be processed later
 - [[20241128]]
 - [[20241129]]
 - [[20241130]]
+- [[20241205]]
 
 %% End Waypoint %%

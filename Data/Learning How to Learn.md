@@ -14,11 +14,10 @@ URL: https://www.coursera.org/learn/learning-how-to-learn
 > Top-down approach
 > We learn of what we Discuss < Experience < Teach Others
 
-### Algorithms
+- Know what you want to learn
+- Know what links and connection to exsit knowledge
+- Watch video or read or what
 
-[Algorithms](https://www.hello-algo.com/en/chapter_hello_algo)
-
-Practice with [LeetCode](https://leetcode.com) and help of [NeetCode](https://neetcode.io)
 
 ==Ask question==
 

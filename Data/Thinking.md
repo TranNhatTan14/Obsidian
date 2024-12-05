@@ -1,7 +1,10 @@
 ---
 tags:
   - Thinking
+links:
+  - "[[Hash]]"
 ---
+- How to optimal learn witout writing and giới hạn
 - Match between what is important and what you pay attention
 - Everything want to take my attention so I need to manage it
 

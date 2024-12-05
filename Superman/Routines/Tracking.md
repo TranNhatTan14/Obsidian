@@ -15,6 +15,8 @@ Làm sao để tỉnh dậy ngay khi tỉnh giấc
 - Ideas often come to us in the shower
 - Sometime modify code order manual
 - Use Google Translate is not the best choice and some time forget
+- Chơi game khi đi làm về
+- Search chữ để dịch xong lại quên
 
 # No
 

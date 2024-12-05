@@ -118,6 +118,7 @@
 	- [[Sống 80 năm trên Trái Đất và điều mình nhận ra]]
 	- [[Understand myself better]]
 	- [[What am i grateful for]]
+	- [[What I know about myself]]
 	- [[What I've learned]]
 	- [[What is a successful person]]
 	- [[What is the definition of beautiful]]
