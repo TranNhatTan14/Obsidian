@@ -32,4 +32,5 @@ aliases:
 - [ ] Mua sim mạng hoặc đăng ký gọi mạng trên [[iPhone]] để học [[Speaking]] với [[ChatGPT]] and [[Gemini]]
 - [ ] Tập mắt với bài tập thái dương công và hạn chế thời gian sử dụng thiết bị điện tử
 - [ ] Write [[Research Proposal]]
-- [ ] Write [[Letter of Motivation]]
+- [ ] Write [[Motivation Letter]]
+- [ ] Watch [[Vương quốc bảy bủm]]

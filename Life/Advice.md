@@ -9,7 +9,6 @@
 	- Còn đầy đủ gia đình cũng là một sự hạnh phúc
 - Every challenge is an opportunity to grow
 
-- [[Learning]]
 - Save money
 - [[Family]] is important
 - [[Health]]

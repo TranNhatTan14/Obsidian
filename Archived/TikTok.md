@@ -4,6 +4,7 @@ tags:
   - Application
   - Visualization
   - Music
+  - Archived
 links:
   - "[[iPad]]"
   - "`"

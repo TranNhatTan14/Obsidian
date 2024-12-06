@@ -111,6 +111,4 @@ Interpreting Results
 	- p-value indicating the significance of population differentiation
 	- ANOVA outputs a p-value to help decide if the differences are meaningful. If the p-value is below a certain threshold (like 0.05), it suggests that at least one group mean is different.
 
-![[Pasted image 20241115141651.png]]
-
 https://pmc.ncbi.nlm.nih.gov/articles/PMC1205020/pdf/ge1312479.pdf

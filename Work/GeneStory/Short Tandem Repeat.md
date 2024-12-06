@@ -3,8 +3,7 @@ tags:
   - Knowledge
   - Bioinformatics
   - Work
-aliases:
-  - STR
+aliases: []
 ---
 Forensic Science
 

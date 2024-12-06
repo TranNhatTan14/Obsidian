@@ -18,8 +18,6 @@ Luôn sẵn sàng cho công việc trong mọi trường hợp
 - Thêm chút nước sau đo cho them muối để bì nổ không bị bắn #Cooking 
 - Mua quần áo Coolmates khi sinh nhật sẽ có mã giảm giá khi livestream
 - Oxy già pha thêm Javen để tẩy quần áo trắng #Clothes
-- Không đọc thầm để có thể đọc nhanh hơn #Reading #Productivity
-- Hiểu được [[Language|ngoại ngữ]] sẽ rất tốt làm mình sẽ hiểu mọi thứ nhanh hơn #Productivity 
 - Giã đông thịt với dấm, phân tử đường, bỏ ra chậu cho vài hạt muối vào #Food 
 - To help yourself recall new information, try to link it to a [[personal experience]] or [[Knowledge]] #Memory 
 - Repeat important information back to yourself in order to remember it more effectively 

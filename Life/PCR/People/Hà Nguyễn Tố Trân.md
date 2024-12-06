@@ -2,6 +2,7 @@
 tags:
   - People
   - Connection
+  - Facebook
 links:
   - "[[Earable]]"
 ---

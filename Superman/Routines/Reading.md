@@ -17,6 +17,7 @@ aliases:
 	- Learn facts and gain insights
 - Learning new things and connect with other's thought
 	- Expand vocabulary and comprehension
+- Không đọc thầm để có thể đọc nhanh hơn
 
 - If can only read original book, know the meaning of author instead translate to another language
 

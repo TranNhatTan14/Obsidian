@@ -15,7 +15,6 @@ Spectrogram is of advantage to **express speech signal than other features in t
 
 In the datasets used in previous works, in the stage of the extraction of the fingerprint of each audio file, constant spectrogram parameters (**window length, overlap, FFT number**) are used in general while these files are recorded in the dataset.
 
-
 1. How to produce Kaggle’s spectrograms
 2. How to produce spectrograms from EEG waveform
 

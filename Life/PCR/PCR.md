@@ -11,7 +11,11 @@ aliases:
 	- [[Mạc Thị Thu An]]
 	- [[Nguyễn Ngọc Tú]]
 	- [[Nguyễn Xuân Trường]]
+	- [[Phạm Hoàng Tùng]]
+	- [[Quan Ha]]
 	- [[Trịnh Thị Cúc]]
+	- [[Vũ Thành Quang]]
+- [[Nguyễn Đình Quân]]
 - **People**
 	- [[Andrej Karpathy]]
 	- [[Andrew Huberman]]
@@ -20,6 +24,7 @@ aliases:
 	- [[BIGBANG]]
 	- [[CheeseNguyen]]
 	- [[G-Dragon]]
+	- [[Hà Nguyễn Tố Trân]]
 	- [[Huy Nguyen]]
 	- [[Lê Nguyễn Bảo Ngọc]]
 	- [[Nguyễn Minh Hải]]
@@ -27,6 +32,7 @@ aliases:
 	- [[Rosé]]
 	- [[The Hanoi Chamomile]]
 	- [[Toni Kroos]]
+	- [[Yoona]]
 - **Relationships**
 	- [[Bùi Thị Ngọc Huyền]]
 	- [[Cao Duy Mạnh]]

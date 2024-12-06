@@ -1,3 +1,4 @@
+- How can I summarize the new feed in Facebook, Instagram and ... like AI 
 - Create automation generate podcast, chia sẻ kiến thức trên Threads
 - Learn code we need 2 screen for better performance, we have iPad when don’t have screen #Productivity 
 - Xin hãy chú ý nhiều hơn khi khám bệnh và kết hôn #Genetics
@@ -15,6 +16,7 @@ Sometimes I feel like I run out of energy, but I know I can do it
 - Best in specific area
 - Apply science knowledge to daily life
 - Worrying does not take away tomorrow's troubles, it takes away today's peace
+
 Link to the person, create connection with people know (best in this field) have information, exchange thing (money for knowledge)
 
 "Nhân vô thập toàn" is a concept in Eastern philosophy that means no one is perfect; everyone has strengths and weaknesses. This phrase emphasizes the idea that all individuals are flawed and have faults.
@@ -80,9 +82,8 @@ Vấn đề của mình đang là gì
 
 - Bán ứng dụng, dịch vụ global
 - Chênh lệch
-- Biết ngoại ngữ 
 
-what another people ha ve that I don't have
+what another people have that I don't have
 
 - Nếu bạn cảm thấy khó khăn, mệt mỏi thì có thể bạn đang làm không đúng
 - Many things I can do but somehow I don’t dooo

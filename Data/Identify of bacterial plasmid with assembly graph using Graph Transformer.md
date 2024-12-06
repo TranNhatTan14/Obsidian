@@ -9,10 +9,8 @@ links:
   - "[[Nextflow]]"
 ---
 
-
-
-
-
+1. Assembly graph for neural network like plASgraph2
+2. Assembly graph
 
 Input data
 

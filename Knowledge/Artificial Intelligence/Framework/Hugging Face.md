@@ -1,3 +1,8 @@
+---
+tags:
+  - Framework
+---
+
 https://huggingface.co
 
 ###### [Hugging Face Chat](https://huggingface.co/chat)

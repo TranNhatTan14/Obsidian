@@ -1,8 +1,8 @@
 ---
 tags:
   - AI
-author:
-  - "[[Binance Academy]]"
+links:
+  - "[[Binance]]"
 URL: https://academy.binance.com/en/articles/what-are-ai-agents
 date: 2024-12-04T22:29:23+07:00
 ---

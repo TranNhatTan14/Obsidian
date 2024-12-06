@@ -165,7 +165,7 @@ rich = wealthy = luscious = extravagant
 - [[acquiesce]]
 - [[adapt]]
 - [[adversary]]
-- [[agent]]
+- [[Resources/Vocabulary/agent]]
 - [[agile]]
 - [[agitate]]
 - [[aircraft]]

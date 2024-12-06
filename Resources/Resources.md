@@ -51,25 +51,35 @@
 
 - **Films**
 	- [[3 Body Problem]]
+	- [[A Killer Paradox]]
 	- [[Arcane 2]]
 	- [[Arcane]]
 	- [[Interstella]]
 	- [[Klaus]]
+	- [[Our Beloved Summer]]
+	- [[Queen of Tears]]
 	- [[Reply 1988]]
+	- [[Soundtrack 1]]
+	- [[Spider-Man]]
+	- [[The 8 Show]]
+	- [[The K2]]
 	- [[The Platform 2]]
 	- [[The Platform]]
 	- [[The Wild Robot]]
+	- [[Zootopia]]
 - **Podcasts**
 	- [[Amateur Psychology]]
 	- **Andrew Huberman**
 		- [[Optimal Protocols for Studying & Learning]]
 	- **Have A Sip**
 		- [[Khi thất bại cũng là một cự ly để dấn thân]]
+	- [[Have A Sip]]
 - **[[Research papers]]**
 	- [[Gplas]]
 	- [[plASgraph2]]
 	- [[PLASMe]]
 	- [[PlasmidEC and gplas2]]
+	- [[UGMAGrefiner]]
 	- [[UnitigBIN]]
 - **Templates**
 	- [[Podcast]]
