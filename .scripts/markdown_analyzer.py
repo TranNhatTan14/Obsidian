@@ -92,10 +92,38 @@ class MarkdownVocabularyAnalyzer:
         print(f"Top 10 most frequent words:")
         print(df.head(10)[['word', 'frequency']].to_string())
 
+    def output_markdown_words(self, output_md_file: str, top_n: int = None):
+        """Output words to a markdown file in bullet point format."""
+        # Convert data to DataFrame and sort
+        rows = []
+        for word, data in self.word_data.items():
+            rows.append({
+                'word': word,
+                'frequency': data['frequency']
+            })
+        
+        df = pd.DataFrame(rows)
+        df = df[df['frequency'] > 10]  # Keep only words appearing more than 10 times
+        df = df.sort_values('frequency', ascending=False)
+        
+        # Determine how many words to output (all if top_n is None)
+        words_to_output = df if top_n is None else df.head(top_n)
+        
+        # Write to markdown file
+        with open(output_md_file, 'w', encoding='utf-8') as f:
+            f.write("# Vocabulary Analysis\n\n")
+            f.write("## Words Found\n\n")
+            
+            for _, row in words_to_output.iterrows():
+                f.write(f"- {row['word']} (frequency: {row['frequency']})\n")
+        
+        print(f"Markdown word list generated successfully: {output_md_file}")
+
 def main():
     # Get directory path from user
     directory = input("Enter the directory path to analyze: ")
-    output_file = "vocabulary_analysis.csv"
+    csv_output_file = "vocabulary_analysis.csv"
+    md_output_file = "vocabulary_wordlist.md"
     
     if not os.path.exists(directory):
         print(f"Error: Directory '{directory}' does not exist.")
@@ -104,7 +132,12 @@ def main():
     analyzer = MarkdownVocabularyAnalyzer()
     print(f"Analyzing markdown files in {directory}...")
     analyzer.scan_directory(directory)
-    analyzer.generate_report(output_file)
+    
+    # Generate CSV report
+    analyzer.generate_report(csv_output_file)
+    
+    # Output markdown word list (can specify top N words if desired)
+    analyzer.output_markdown_words(md_output_file)
 
 if __name__ == "__main__":
     main()
