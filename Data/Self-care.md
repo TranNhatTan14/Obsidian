@@ -1,7 +1,6 @@
 ---
 links:
   - "[[Superman]]"
-  - "[[Beautiful]]"
 ---
 Chăm sóc da mặt
 

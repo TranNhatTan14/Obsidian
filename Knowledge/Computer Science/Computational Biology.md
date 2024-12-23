@@ -18,3 +18,8 @@ The appearance of SNPs can be treated as a random process which occur at a certa
 In the last 20 years, we begun to map the set of the SNPs in millions of people from populations around the world.
 
 Capturing one individual's set of SNPs compared to a reference genome is called **genotyping**.
+
+# Information
+
+Bioinformatics: Creates tools and software to process biological data.
+Computational Biology: Uses these tools to answer biological questions.

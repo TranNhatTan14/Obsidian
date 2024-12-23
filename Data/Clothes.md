@@ -1,0 +1,2 @@
+- Mua quần áo Coolmates khi sinh nhật sẽ có mã giảm giá khi livestream
+- Oxy già pha thêm Javen để tẩy quần áo trắng

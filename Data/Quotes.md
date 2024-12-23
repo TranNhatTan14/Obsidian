@@ -16,9 +16,8 @@ You may be disappointed if you fail, but you are doomed if you don't try.
 - One beam, no matter how big, cannot support an entire house on its own. Unity creates strength
 - Sometimes losing other people helps you find yourself
 
-If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle - Sun Tzu
-
-# Quote
+> [!quote] Sun Tzu
+> If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle
 
 > [!quote] Sam Altman, Founder & CEO @ OpenAI
 > Có rất ít công ty đi xây foundation models cho riêng họ. Những cơ hội lớn nhất nằm ở chỗ biến những foundation models thành các sản phẩm ứng dụng khác nhau

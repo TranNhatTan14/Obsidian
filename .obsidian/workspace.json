@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "900d8c191e38d0f1",
+        "id": "004d01cfa86c94d6",
         "type": "tabs",
         "children": [
           {
-            "id": "f46c70213258b3c2",
+            "id": "6cdaa5b02e267239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/20241206.md",
+                "file": "Data/Energy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,33 +21,15 @@
             }
           },
           {
-            "id": "6113b1ec7a0b9225",
+            "id": "de0d66702b5476a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/CS224W.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80443ba549a55ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,19 +49,6 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "0f36613f77ecb3a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Applications/Arena of Valor.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           },
@@ -110,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 362.5
   },
   "right": {
     "id": "685661460335a225",
@@ -125,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +144,7 @@
             }
           },
           {
-            "id": "a8646abda28158a6",
+            "id": "7db0057a4cd9c9ae",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,23 +154,14 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "f4bf58e4a4846041",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 443.5
+    "width": 404.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,54 +175,54 @@
       "random-note:Open random note": false
     }
   },
-  "active": "80443ba549a55ab4",
+  "active": "de0d66702b5476a7",
   "lastOpenFiles": [
-    "Journals/20241206.md",
-    "Knowledge/Artificial Intelligence/Machine Learning/Large Language Model.md",
-    "Data/CS224W.md",
-    "Knowledge/Artificial Intelligence/Machine Learning/Deep Learning.md",
-    "Knowledge/Artificial Intelligence/Machine Learning.md",
-    "Knowledge/Artificial Intelligence/Framework/Modular.md",
-    "Knowledge/Artificial Intelligence/Framework/Hugging Face.md",
-    "Information/Information.md",
-    "Information/Phrases.md",
-    "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md",
-    "Data/LangChain.md",
-    "Data/Untitled.md",
-    "Data/Graph Transformer.md",
-    "Data/Pamir.md",
-    "Resources/Films/Our Beloved Summer.md",
-    "Life/PCR/Connections/Phạm Hoàng Tùng.md",
-    "Resources/Films/Queen of Tears.md",
-    "Archived/PUBG.md",
-    "Life/PCR/Connections/Quan Ha.md",
-    "Data/Robotic Process Automation.md",
-    "Archived/Rune Seeker.md",
+    "Data/University.md",
+    "Data/IELTS.md",
+    "Data/Submit Graph Transformer paper in ICLR.md",
+    "Data/Kaggle Master.md",
+    "Data/Improve Eyesight.md",
+    "Information/Keywords.md",
+    "Information/Ideas.md",
+    "Information/Brainstorm.md",
+    "Data/Energy.md",
+    "Data/Time.md",
+    "Data/How to reduce overthinking.md",
+    "Data/Google Chrome.md",
     "Data/Sci-Hub.md",
-    "Work/GeneStory/Short Tandem Repeat.md",
-    "Work/GeneStory",
-    "Work",
-    "Resources/Films/Soundtrack 1.md",
-    "Data/SPAdes.md",
-    "Data/Speaking Strategies.md",
-    "Archived",
-    "Resources/Files/Pasted image 20241115141651.png",
-    "Education",
-    "Wisdom",
-    "Information",
-    "Resources/Files/Pasted image 20241201082848.png",
-    "Resources/Files/Pasted image 20241201082843.png",
-    "Resources/Files/Pasted image 20241201082838.png",
-    "Resources/Files/Pasted image 20241201082829.png",
-    "Resources/Files/Pasted image 20241201082824.png",
-    "Resources/Files/Pasted image 20241201082813.png",
-    "Resources/Files/Pasted image 20241201082805.png",
-    "Resources/Files/Pasted image 20241201082501.png",
-    "Resources/Files/Pasted image 20241201082449.png",
-    "Goals",
-    "Resources/Writing",
-    "Resources/Podcasts/Have A Sip",
-    "Resources/Tools/Google/Google Chrome",
+    "Data/Analogy.md",
+    "Data/Bactopia.md",
+    "Data/AirPod.md",
+    "Data/Gplas.md",
+    "Data/UnitigBIN.md",
+    "Data/Amateur Psychology.md",
+    "Data/Optimal Protocols for Studying & Learning.md",
+    "Data/3 Body Problem.md",
+    "Data/DLAI.md",
+    "Data/Courage and Creativity.md",
+    "Data/How Will You Measure Your Life.md",
+    "Data/Manage Your Energy, Not Your Time.md",
+    "Data/Balance.md",
+    "Second Brain",
+    "Resources/Applications/Apple",
+    "Resources/Files/Pasted image 20240729143305.png",
+    "Skills/Programming/Python",
+    "Skills/Programming",
+    "Resources/Tools/Google/Extension",
+    "Resources/Tools/Google/Google Chrome/Folder/Scientific Research",
+    "Resources/Tools/Google/Google Chrome/Folder",
+    "Resources/Tools/Bioinformatics",
+    "Places",
+    "Resources/Tools/Obsidian",
+    "Resources/Files/Pasted image 20240819134703.png",
+    "Resources/Files/Pasted image 20240819141419.png",
+    "Resources/Files/Pasted image 20240819132715.png",
+    "Resources/Files/Pasted image 20240819132521.png",
+    "Resources/Files/Pasted image 20240819132447.png",
+    "Resources/Files/Pasted image 20240819094430.png",
+    "Resources/Files/Pasted image 20240922214055.png",
+    "Resources/Files/Pasted image 20240922214030.png",
+    "Resources/Files/Pasted image 20240922214015.png",
     "Untitled.canvas"
   ]
 }

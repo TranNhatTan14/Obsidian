@@ -2,7 +2,7 @@
 tags:
   - Work
 ---
-# [[Learning]]
+# [[Lifelong learning]]
 
 - What you want to learn
 - Does someone success

@@ -4,6 +4,19 @@ tags:
 links:
   - "[[Hash]]"
 ---
+- Luật Murphy
+	- Cái gì càng đáng sợ, thì càng dễ xảy ra
+- Quy tắc Gideon
+	- Ghi rõ vấn đề ra giấy 
+- Luật Gilbert
+	- Vấn đề lớn nhất trong công việc là không ai nói cách để làm
+- Luật Falkland
+	- Khi không cần phải quyết định thì đừng quyết định 
+
+- 99,99% mọi người không quan tâm bạn nghĩ gì đâu
+	- Chúng ta thường quan tâm người khác nghĩ gì về mình
+		- Bởi vì chúng ta là nhân vật chính trong cuộc đời chúng ta
+
 - How to optimal learn witout writing and giới hạn
 - Match between what is important and what you pay attention
 - Everything want to take my attention so I need to manage it

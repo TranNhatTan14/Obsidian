@@ -6,7 +6,6 @@ aliases:
   - portfolios
   - portfolioed
 ---
-
 - Definition: A collection of works, documents, or investments that represent a person's achievements, skills, or assets.
 - IPA: /ˌpɔːrˈtəʊ.li.əʊ/
 - Pronunciation: [PORTH-oh-lee-oh](https://www.google.com/search?q=how+to+pronounce+portfolio)

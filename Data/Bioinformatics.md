@@ -1,7 +1,6 @@
 ---
 tags:
   - Knowledge
-  - Area
 ---
 # Tools
 

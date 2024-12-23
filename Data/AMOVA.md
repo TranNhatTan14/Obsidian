@@ -2,7 +2,7 @@
 tags:
   - Work
 links:
-  - "[[Current Work]]"
+  - "[[GeneStory]]"
 description: Sử dụng phương pháp AMOVA để phân tích sự đồng nhất về kiểu gen
 ---
 Use AMOVA (Analysis of Molecular Variance) method to analyze genetic homogeneity with human STR or mtDNA data. Display the genetic homogeneity results in a table format.
@@ -62,22 +62,6 @@ Population Structure Information Types:
 - For mtDNA: Sequence differences or genetic distance (like Nei's or FST)
 
 # Output
-
-Source of          Degrees of    Sum of      Variance         Percentage of
-Variation          Freedom       Squares     Components       Variation
--------------------------------------------------------------------------
-Among Groups         2           245.85      0.85 Va            15.3%
-Among Populations    6           178.90      0.62 Vb            11.2%
-Within Populations   291         1186.75     4.08 Vc            73.5%
--------------------------------------------------------------------------
-Total               299         1611.50      5.55              100.0%
-
-Fixation Indices:
-FCT (Among groups): 0.153
-FSC (Among populations within groups): 0.132
-FST (Among all populations): 0.265
-
-
 
 # Methodology
 

@@ -1,6 +1,7 @@
 ---
 aliases:
   - GNNs
+  - GNN
 ---
 # What types of problems have graph structured data
 

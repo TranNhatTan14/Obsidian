@@ -1,7 +1,6 @@
 ---
 tags:
   - Goal
-  - Long-term
 description: Achieve financial freedom by building sustainable, diverse income streams that cover all living expenses and enable long-term wealth growth.
 ---
 3. Passive Income:

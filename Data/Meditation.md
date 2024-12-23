@@ -16,8 +16,8 @@ Meditation is rewardin but it can also feel challenging at first
 - Meditation can sharpen your memory
 - Meditation can significantly improve your working memory capacity
 - Your working memory is essential for problem-solving and executing complex cognitive tasks, but it is limited. 
-- [[Research]] has found that the brain of experienced meditators differ from the brains of those who don't meditate. The affected areas are those tied to attention control, emotion regulation and self-awareness.
-- [[Research]] shows that meditation can improve working-memory capacity, [[attention]] span, and academic performance [[Research]]
+- [[Scientific Research]] has found that the brain of experienced meditators differ from the brains of those who don't meditate. The affected areas are those tied to attention control, emotion regulation and self-awareness.
+- [[Scientific Research]] shows that meditation can improve working-memory capacity, [[Attention]] span, and academic performance [[Scientific Research]]
 - Meditation can shield brain from [[stress]]
 - Meditation affects the way your brain processes and responds to stress
 
@@ -25,7 +25,7 @@ The Salience Network is a network in the brain that coordinates your response to
 
 > [!tip] Pair your meditation with something you already do daily like brush teeth before sleep
 
-# Mindfulness Meditation
+# [[Mindfulness]] Meditation
 
 Chào bạn, tôi đây
 

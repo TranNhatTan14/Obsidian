@@ -1,6 +1,0 @@
----
-tags:
-  - People
-  - Mechatronics
-  - Australia
----

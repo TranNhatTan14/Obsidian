@@ -4,7 +4,6 @@ tags:
   - Evening
 links:
   - "[[Elevate]]"
-  - "[[IELTS]]"
   - "[[Vocabulary|Vocabulary]]"
 aliases:
   - Reading book

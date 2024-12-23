@@ -17,4 +17,4 @@
 
 - Đọc nhiều, học nhiều, cười nhiều
 - Tiết kiệm sức khỏe và lời hứa
-- Trân trọng [[Family]] và [[present]]
+- Trân trọng [[Family]] và present

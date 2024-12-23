@@ -1,0 +1,6 @@
+---
+tags:
+  - People
+  - Mechatronics
+  - Inspiration
+---

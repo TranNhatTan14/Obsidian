@@ -9,4 +9,3 @@ links:
 - Chơi game [[PUBG]] với [[Nguyễn Ngọc Tú|Tú Nguyễn]] và [[Nguyễn Minh Hải]] năm 2019
 - Dịch COVID và [[Nguyễn Hồng Giang]]
 - [U23 Vietnam Vinh Phuc](https://www.tiktok.com/@phanduy199x/video/7330645442604125447)
-- 

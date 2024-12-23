@@ -2,8 +2,6 @@
 tags:
   - Group
   - Meta
-  - Limit
-aliases:
-  - Bộ tộc MixiGaming
+  - Archived
 URL: https://www.facebook.com/groups/mixigaming
 ---

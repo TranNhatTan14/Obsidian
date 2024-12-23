@@ -1,6 +1,5 @@
 ---
 tags:
-  - English
   - Speaking
   - Listening
   - YouTube

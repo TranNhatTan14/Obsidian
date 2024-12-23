@@ -1,3 +1,2 @@
-- Fixed [[Mindset]] and Growth [[Mindset]] ![](https://media.licdn.com/dms/image/v2/D4E22AQGCjWZ8ipyXpQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1694072998065?e=1733961600&v=beta&t=GSGzTSslC4YVh1aXQMoi6nLoRYDGBGwHINGnpSQzcEc)
-- [[Learning]] - Doing - Improving to Success ![[Pasted image 20241109165707.png]]
-- Song related to memory
+- Fixed [[Mindset]] and Growth [[Mindset]]
+- [[Lifelong learning]] + Doing + Improving = Success ![[Pasted image 20241109165707.png]]

@@ -1,5 +1,7 @@
 ---
 tags:
   - YouTube
-  - Attention
+  - Learning
+  - Visualization
+URL: https://www.youtube.com/c/DrawYourBrain
 ---

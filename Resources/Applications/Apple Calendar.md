@@ -1,6 +1,0 @@
----
-tags:
-  - Apple
-  - Application
-  - Time
----

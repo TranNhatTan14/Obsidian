@@ -1,4 +1,8 @@
 ---
+tags:
+  - Work
+links:
+  - "[[GeneStory]]"
 aliases:
   - GWAS
 ---
@@ -243,3 +247,5 @@ TWAS is a method to identify significant expression-trait associations using exp
 - [Genome-wide versus transcriptome-wide association studies: Prospects and limitations](https://doi.org/10.1016/j.egg.2024.100221)
 
 **TWAS has a more powerful resolution in identifying a single gene for the studied trait**. Due to Linkage disequilibrium, identifying the causal variant became challenging after performing GWAS. The difficulties in interpreting these findings motivated the development of gene-prioritizing technique such as
+
+# GWAS and [[Machine Learning]]

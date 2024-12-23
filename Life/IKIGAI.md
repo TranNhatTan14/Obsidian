@@ -4,8 +4,6 @@ Ikigai (生き甲斐, lit. 'a reason for being') is a Japanese concept referring
 
 Ikigai, a Japanese concept, translates roughly to "a reason for being" or "a reason to get out of bed in the morning". It emphasizes the intersection of four key areas:
 
----
-
 - Mình muốn làm công việc như thế nào? Mình mong muốn một công việc như thế nào?
 - MÌnh muốn theo hướng Academia hay theo hướng Industry
 - Mình đã sẵn sàng để yêu ai đó chưa
@@ -16,7 +14,6 @@ Work
 Hybrid work
 Working with global company
 
----
 I want to build Artificial Intelligence tools can improve life
 
 What problem you are solving

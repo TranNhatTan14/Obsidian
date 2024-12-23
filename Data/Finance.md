@@ -10,12 +10,10 @@ Khi đủ rồi thì mình sẽ làm gì
 Mình cần đầu tư vào những khoản gì
 
 # Expense
-
+ 
 ## Credit
 
 CIC = 614
-
-- [Credit Check](https://checker.top)
 
 ### Credit card
 
@@ -26,16 +24,8 @@ Tìm hiểu về tín dụng, làm sao để tối đa hóa lợi ích từ th�
 ### Cashback and discount
 
 Credit card không dùng là lỗ vì chí phí tăng tại cửa hàng?
-
 Đúng hạn
-
 Hạn mức
-
-2 thẻ ngày chốt khác nhau
-
-Tận dụng ưu đãi 45-55 ngày miễn lãi
-
-Tech va VP hoan tien
 
 ### Subscriptions
 

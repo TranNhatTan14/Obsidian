@@ -1,3 +1,0 @@
-- Mình thấy vui khi thấy từ mới mà mình vừa học được như từ construct #Language 
-- Cảm thấy hào hứng khi làm đề tài plasmid vì có thể hướng của mình khả thi #Research 
-- Bố đi ăn cỗ về cho mình nho #Family

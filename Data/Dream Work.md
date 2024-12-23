@@ -1,7 +1,6 @@
 ---
 tags:
   - Goal
-  - Short-term
 description: Work internationally career in AI for Healthcare align with IKIGAI
 aliases:
   - Future Work

@@ -34,10 +34,6 @@ Picture a runner facing a tall hurdle on a track, symbolizing the challenges one
 4. She approached every **obstacle** with determination and creativity.  
 5. **Highlight**: "Turning challenges into opportunities is the key to overcoming **obstacles**."
 
-### IELTS-Specific Tips
-
-Use "obstacle" in essays about challenges, such as discussing barriers to education, progress, or innovation. This term demonstrates precise vocabulary to describe difficulties.
-
 ### Personal Connection
 
 In your career path and research on AI in healthcare, you might encounter **obstacles** such as limited datasets or ethical challenges. For example, addressing obstacles in securing a scholarship can align with your structured goal-setting approach.

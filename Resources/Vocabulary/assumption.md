@@ -34,10 +34,6 @@ Imagine a person looking at a partially covered map and assuming they know the f
 4. By **assuming** the data was correct, they overlooked critical errors.  
 5. Her argument failed because it rested on a flawed **assumption**.
 
-### IELTS-Specific Tips
-
-In writing tasks, use "assumption" to discuss flawed reasoning or planning. For instance: "The assumption that urbanization always leads to economic growth can be challenged."
-
 ### Personal Connection
 
 In AI and genetics, avoiding unwarranted **assumptions** is critical. For example, in GWAS analysis, you must validate correlations instead of assuming causation, ensuring reliable results in your research.

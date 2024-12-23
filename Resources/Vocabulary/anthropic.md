@@ -5,7 +5,6 @@ sr-due: 2024-12-13
 sr-interval: 20
 sr-ease: 250
 ---
-
 - Definition: Related to or concerning humans or mankind.
 - IPA: /ænˈθrɒpɪk/
 - Pronunciation: [an-THROP-ik](https://www.google.com/search?q=how+to+pronounce+anthropic)

@@ -2,26 +2,11 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#Attention  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#Important  ",
-      "color": {
-        "a": 1,
-        "rgb": 10755519
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -32,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 0.497395833333333,
   "linkDistance": 30,
-  "scale": 0.02152871930959315,
+  "scale": 0.015069599623832978,
   "close": true
 }

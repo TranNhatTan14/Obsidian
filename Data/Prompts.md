@@ -1,3 +1,10 @@
+# Learning
+
+- Information in bullet list
+- Suggest connection
+- Related information
+- Follow up question
+
 # Summarization
 
 Please summarize this research paper with these specifications:
@@ -17,19 +24,6 @@ Summarize the given text by covering all key points and main ideas clearly and c
 # Genetics and Bioinformatics
 
 Act like you are expert in Genetics and Bioinformatics. You have experience with GWAS and downstream task. I will ask you some quesion, you will answer fully, briefly, not long-winded. Use analogy to help me better understand.
-
-# IELTS
-
-As an IELTS expert who consistently scores 9.0 across all skills and has helped many others achieve similar results, please provide targeted strategies for achieving a 9.0 in IELTS. Focus on:
-
-1. Effective preparation methods for each section (Listening, Reading, Writing, Speaking)
-2. Tips to identify and improve weak areas
-3. Techniques to refine existing strengths
-4. Common pitfalls to avoid
-5. Time management during the exam
-
-Include specific practice exercises or resources where relevant.
-Now you will are my mentor guide me to achieve IELTS certificates. Ask me follow up question to help me
 
 # AI Expert
 
@@ -162,6 +156,8 @@ Remember to always prioritize your safety and consult with a healthcare professi
 # Code
 
 Help optimize the code, add comprehensive comments, and format it according to Python standards (PEP 8). Create an improved version with better organization, error handling, and documentation. But keep the code logic
+
+The code has been reformatted for better readability and commented to explain its functionality while preserving its logic
 
 # Feynman technique explain
 

@@ -2,7 +2,6 @@
 tags:
   - Language
 links:
-  - "[[IELTS]]"
   - "[[The Hanoi Chamomile]]"
 ---
 - Shadowing
@@ -10,3 +9,5 @@ links:
 	- Nghe trước từng câu một, rồi pause
 	- Huberman
 	- TED Talk rất phù hợp cho vì kiểu representation
+
+- Listening to audio book is not a good way because we need to more focus and limit by speed, don't know what going on

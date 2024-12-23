@@ -36,10 +36,6 @@ Imagine a network of connected dots or a Venn diagram showing relationships betw
 4. While we’re brainstorming, let’s focus on ideas **pertaining** to the main topic.  
 5. Laws that **pertain** to environmental protection are being strengthened.
 
-### IELTS-Specific Tips
-
-Using "pertain" in writing or speaking shows advanced vocabulary. Use it to describe connections or relevance, such as in Task 2 essays discussing relationships between policies and outcomes.
-
 ### Personal Connection
 
 In your field of AI and genetics, the word "pertain" can often describe

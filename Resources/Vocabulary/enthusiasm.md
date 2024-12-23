@@ -33,10 +33,6 @@ Picture a person jumping with joy at the start of a marathon, symbolizing boundl
 4. As an **enthusiast** of technology, she loves experimenting with new AI tools.  
 5. She spoke **enthusiastically** about her research at the conference.  
 
-### IELTS-Specific Tips
-
-Using "enthusiasm" in speaking tests demonstrates your ability to convey positive emotions. For example, in Part 2, describe a hobby or topic you are passionate about: "I pursue this with great enthusiasm."
-
 ### Personal Connection
 
 Your **enthusiasm** for combining AI with genetics shows in your structured learning plans and career goals. For example, your passion for advancing healthcare technologies can inspire others and sustain long-term dedication.

@@ -38,7 +38,6 @@ https://medium.com/@vndee.huynh/build-your-own-rag-and-run-it-locally-langchain-
 https://medium.com/@pankaj_pandey/building-a-local-rag-agent-with-llama3-and-langchain-6f041655eb83
 https://claude.ai/chat/83bf0885-3e37-4313-ab7f-20f0bb6a1eec
 
----
 # 1. Project Setup and Environment Preparation
 
 1. Create a new Python project directory

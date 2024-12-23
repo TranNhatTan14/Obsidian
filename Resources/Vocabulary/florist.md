@@ -24,9 +24,6 @@ sr-ease: 290
 - **Noun**: The *florist* crafted a beautiful arrangement for the wedding.
 - **Noun**: The *floristry* business is thriving around holidays.
 
-- Example with ==idiom==: She runs her flower shop ==in full bloom== as a skilled *florist*.
-- Regular example sentence: The *florist* recommended a colorful bouquet for the occasion.
-
 ### Personal Connection
 
 [[Soundtrack 1|Soundtrack #1]]

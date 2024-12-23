@@ -1,7 +1,6 @@
 ---
 tags:
   - Goal
-  - Long-term
   - AI
   - Education
   - Healthcare
@@ -35,10 +34,9 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 
 # Degrees
 
-- Master of Science in Artificial Intelligence for Healthcare
+- ==Master of Science in Artificial Intelligence for Healthcare==
 - Master of Data Science
-- Master of Engineering in Artificial Intelligence and Decision Making
-- Master of Science in Artificial Intelligence and Data Science in Healthcare
+- Master of Engineering in Artificial Intelligence
 
 # Universities
 
@@ -87,10 +85,6 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 ### Deakin University
     
 [Deakin University offers three fully-funded PhD positions in machine learning for neurological assessment, with a stipend, travel allowance, and no tuition fees](https://www.facebook.com/groups/vietphd/posts/10160350539127991/)
-
-### Griffith University
-
-- [Tran Tuan Sang](https://www.facebook.com/groups/14115377990/user/100003098084244/) #Mechatronics
 
 ## Singapore
 
@@ -144,13 +138,12 @@ Vingroup Young Talent Scholarship
 
 - GPA
 - Interview
-- Motivation Letter
-- IELTS >= 6.5
+- [[Motivation Letter]]
+- [[IELTS]]
 - Research papers
 - Good [[Scholarship essay]]
 - Diplomas and academic transcripts
 - STRONG Letter of Recommendation
-
 
 By March 2026, secure a fully-funded scholarship covering at least 80% of tuition and living expenses for a Master's degree in Artificial Intelligence with a Healthcare focus by researching and applying to a minimum of 5 relevant programs.
 

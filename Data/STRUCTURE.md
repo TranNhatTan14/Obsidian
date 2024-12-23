@@ -1,6 +1,8 @@
 ---
 tags:
   - Work
+links:
+  - "[[GeneStory]]"
 ---
 Sử dụng phương pháp STRUCTURE để xác định sự phân nhóm di truyền
 

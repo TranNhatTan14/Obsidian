@@ -14,6 +14,7 @@ The purpose and meaning of life
 
 - LIfe is not equal
 - Fucking Yes or No
+- Cuộc sống là một cuộc hành trình, không phải cuộc đua
 
 - [[Standing on the Shoulders of Giants]]
 

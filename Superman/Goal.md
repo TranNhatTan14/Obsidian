@@ -1,7 +1,6 @@
 ---
 links:
   - "[[Superman]]"
-  - "[[S.M.A.R.T]]"
 ---
 - Cải thiện thể chất
 	- Cải thiện thị lực

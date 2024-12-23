@@ -2,7 +2,6 @@
 tags:
   - Programming
 ---
-
 ```bash
 first_sample_dict = df.iloc[0].to_dict()
 first_sample_dict

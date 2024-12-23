@@ -7,6 +7,8 @@ links:
 ---
 # Physical Health
 
+Cần tăng cơ, giảm mỡ
+
 ## Teeth
 
 1. Vệ sinh răng miệng
@@ -40,7 +42,7 @@ Cause
     2. Tập trung vào hơi thở, jawline
     3. Vật lý trị liệu
 
-Tâng cơ, giảm mỡ
+### Tâng cơ, giảm mỡ
 
 ### States: Trạng thái hiện tại của mình như thế nào
 

@@ -1,6 +1,0 @@
----
-tags:
-  - Important
-links:
-  - "[[Superman]]"
----

@@ -19,6 +19,10 @@ tags:
 - Listening to [[Superman/Routines/Podcast]]
 - With [[Nguyễn Tuấn Hiệp]]
 
+# People
+
+- https://www.instagram.com/hironori_nakajima
+
 # Bulk and Cut
 
 https://www.tiktok.com/@zachhkeenee/video/7205650907109821739

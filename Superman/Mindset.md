@@ -1,19 +1,17 @@
 ---
 tags:
   - Important
-links:
-  - "[[Superman]]"
 ---
 # Definition
 
-- Mindset is the way you think about [[things]].
+- Mindset is the way you think about things.
 - Mindset is a collection of attitudes, beliefs, and assumptions that shape how an individual interprets and responds to different situation.
 
 # Applications
 
 ### [[Accomplishments and Achievements]]
 
-- Prioritizing meaningful accomplishments that accumulate over [[Time]] and have future value.
+- Prioritizing meaningful accomplishments that accumulate over time and have future value.
 - Minimizing [[Time]] spent on superficial or purely symbolic achievements.
 	- Will this matter in 5 years
 	- When you 30 or 80 did you proud of
@@ -29,20 +27,20 @@ links:
 
 # Main types of mindset
 
-- Fixed mindset, where [[people]] believe their abilities and intelligence are static traits.
+- Fixed mindset, where people believe their abilities and intelligence are static traits.
 - Growth mindset, where they believe abilities can be developed through dedication and effort
 
-Mindset can significantly affect [[motivation]], resilience, and overall success, influencing how one approaches challenges, [[learning]] and failures.
+Mindset can significantly affect [[motivation]], resilience, and overall success, influencing how one approaches challenges, [[Lifelong learning]] and failures.
 
 - Loving your present self
 - Every day is a [[Feedback system]] that allows you to develop and optimize yourself further
-- Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80% #PCA
+- Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta [[PCA|không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80%]]
 - Giỏi thì mới cạnh tranh và phát triển được
 - Am I alright No. Might will be okaaay Of course
 - Những thứ mình làm, mình đều học được [[Knowledge|kiến thức]] mới
 - Tận hưởng cuộc sống, mỗi ngày phát triển bản thân hơn, đón nhận những khó khăn khuyết điểm.
 - I will be better in next month
-- You can learn from everything, learn from [[people]] around you, learn good thing [[To do]] and learn not [[To do]] bad thing #[[Learning]] 
+- You can learn from everything, learn from [[people]] around you, learn good thing [[To do]] and learn not [[To do]] bad thing #[[Lifelong learning]] 
 - Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc #Work 
 - Nhìn thấy nhiều cơ hội hơn, sẵn sàng cho cơ hội mới
 - Hãy ở những nơi những người xung quanh có tư duy tốt, để cùng phát triển

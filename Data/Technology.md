@@ -1,0 +1,4 @@
+- https://github.com/cline/cline
+	- Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- https://github.com/astral-sh/uv
+	- An extremely fast Python package and project manager, written in Rust.

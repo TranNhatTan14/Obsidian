@@ -6,6 +6,15 @@ links:
 aliases:
   - Sleep early
 ---
+# Goal
+
+- Ngủ đúng giờ
+- Ngủ đủ giấc
+- Ngủ dậy sớm
+- Dậy đúng thời điểm                                              
+
+Như vậy thì sẽ không buồn ngủ khi đi làm buổi sáng và có thể đi tập
+
 # Snooze
 
 To avoid hitting the snooze button, implement these strategies
@@ -32,19 +41,14 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - Sleep enough
 - Để ngủ thật ngon, trước khi ngủ hãy nằm trong chăn và nhớ về những thời gian vui vẻ như khi có ai đó giúp đỡ bạn, hay khi bạn giúp đỡ người khác và cảm thấy tự hào. Rồi bạn sẽ ngủ một giấc thật ngon lành.
 - Practice yoga or tai chi before bed to slow your breathing and mind.
-- Try taking a melatonin, a natural hormone that can help you fall asleep.
 - Exercise daily to improve the duration and quality of your sleep.
 - Wake up and go to bed at the same time each day to regulate your body's clock.
 - Avoid eating a large meal right before bed, which can disrupt your hormones
 - If your feet tend to run cold, put on socks before going to bed
-
-# No
-
-- Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính
-- Limit midday naps to 30 minutes to avoid disrupted sleep at night
 - Avoid watching late-night TV, which can stimulate rather than relax session
 - Use the bed just for sleeping to help your brain associate it only with rest
 
 # Information
 
-- Sleep spindles
+- Early to rise and early to bed makes a man healthy but socially dead
+- Đặt báo thức cách nhau 5 phút có thể gây ra tình trạng mệt mỏi mãn tính

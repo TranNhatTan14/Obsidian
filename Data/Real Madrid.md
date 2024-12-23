@@ -1,5 +1,3 @@
 - Real Madrid 3 - 1 Manchester City
 	- https://www.tiktok.com/@trxvelworld/video/7334383321025137953
 	- https://www.tiktok.com/@mussabsaifaldeen/video/7334678520582507782
-- [Valverde and Rodrygo](https://www.tiktok.com/@laliga/video/7410417146716572960)
-- 

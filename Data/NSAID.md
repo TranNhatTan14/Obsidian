@@ -4,9 +4,10 @@ tags:
   - Research
   - GeneStory
   - Work
+  - Goal
 links:
   - "[[Genome-Wide Association Study|GWAS]]"
-description: Think of NSAID as transfer learning of Machine Learning
+description: Submit the NSAID research paper to a relevant journal or conference.
 ---
 # Stats
 

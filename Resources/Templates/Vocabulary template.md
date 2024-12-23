@@ -31,8 +31,6 @@ Provide a memorable phrase or image to aid recall.
 
 Provide 3-5 examples using the word (in each word forms) with context, including common phrases or idioms where applicable. Highlight idioms or common phrase with Markdown highlight format.
 
-### IELTS-Specific Tips
-
 ### Personal Connection
 
 Suggest how this word might relate to everyday life or experiences.

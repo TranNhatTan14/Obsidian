@@ -1,7 +1,6 @@
 ---
 tags:
-  - Habit
-  - Environment
+  - Routine
 links:
   - "[[AirPod]]"
   - "[[Most Important Tasks]]"
@@ -12,8 +11,9 @@ links:
 - Âm thanh thì mình có thể sử dụng âm thanh trong iPhone (nghe hơi giả)
 - Có thể sử dụng âm thanh trong ứng dụng Balance
 - Quan trọng là hãy trồng cây và tặng cây cho ai đó ý nghĩa
+- Create good environment
 
-# Forest
+# [[Forest]]
 
 - Chặn một số trang web hoặc chuyển hướng
 
