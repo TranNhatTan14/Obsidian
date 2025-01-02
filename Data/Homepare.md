@@ -1,15 +1,24 @@
+1. [[Superman]]
+2. [[What is the definition of beautiful]]
+	1. [[Improve Eyesight]]
+3. [[Tasks]]
+4. [[To do]]
+5. [[IELTS]]
+
+
+
+
 - [[Superman]]
+	- [[Values and Beliefs]]
 - [[Why do we have to make an effort]]
 - IELTS
 - Publication
-- Master Program and [[Scholarships]]
-
-- [[Values and Beliefs]]
+	- [[Submit Graph Transformer paper in ICLR]]
+- Master Program and Scholarships
 - [[Exercise]]
 - [[Improve Eyesight]]
 - [[IKIGAI]]
 - [[Kaggle Master]]
-- [[Submit Graph Transformer paper in ICLR]]
 - [[Life Milestones]]
 - [[Goal]]
 - [[Personal Knowledge Graph]]
@@ -30,9 +39,7 @@
 - [[Scholarship essay]]
 - [[Technology]]
 - [[Computational Biology]] and [[Bioinformatics]]
-
 - [[Hands-On Graph Neural Networks Using Python]]
-- [[Google Cloud Blog]]
 - [[Google Research]]
 - [[DLAI]]
 - https://www.youtube.com/@WIRED
@@ -59,23 +66,16 @@
 - [[Ownership]]
 - [[Stretch]]
 
-- [ ] Learn [[LLM Visualization]]
 - [ ] Complete [[Identify of bacterial plasmid with assembly graph using Graph Transformer]]
 - [ ] Write [[Motivation Letter]]
 - [ ] Complete [[NSAID]]
 
 
-- LocknLock Stainless Steel Water Bottle 750 ml
-
-1. Your potential
-2. Follow the trend
-
-- Most of [[Data/Routines]] and [[Most Important Tasks]] should be [[Automation]] to save [[Time]] and [[Energy]]
+- Most of [[Data/Routines]] and [[Tasks]] should be [[Automation]] to save [[Time]] and [[Energy]]
 	- 20% is for creative and insight
 
 ### Work
 
-- Mình có thể nhận mức lương thấp hơn nhưng mình muốn có cơ hội nghiên cứu nhiều hơn?
 - Nên có back-up công việc
 - Cảm giác mình thiếu kinh nghiệm, thiếu kiến thức, thiếu tự tin
 

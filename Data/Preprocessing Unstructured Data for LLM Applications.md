@@ -1,7 +1,6 @@
 ---
 tags:
   - Course
-  - DLAI
 ---
 ## What you'll learn
 

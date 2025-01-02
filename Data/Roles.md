@@ -2,6 +2,8 @@
 tags:
   - Work
 ---
+
+
 Xác định rõ được công việc mình muốn thực hiện giúp hạn chế lan man
 
 # Yes

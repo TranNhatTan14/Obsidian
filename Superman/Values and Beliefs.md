@@ -4,6 +4,8 @@ links:
 ---
 # Core Values
 
+### Authenticity
+
 ### Lifelong learning
 
 ### Honestly

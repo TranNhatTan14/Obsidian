@@ -25,6 +25,15 @@
 # [[Exercise]]
 
 - Danh sách bài tập
-# Education
 
-- Write [[Scholarship essay]]
+- [ ] Lên danh sách điều mình muốn làm trong đời
+- [ ] Comment video của [[Hà Minh Quân]]
+- [ ] Sửa máy rung thay ốc dài
+- [ ] Protocol to reading book with [[NotebookLM]]
+- [ ] Giặt áo mưa
+- [ ] Fix [[Headphone|Sony WH-1000XM4 Headphone]]: Failed hoặc kết nối với dây xem chất lượng âm thanh tốt hơn không?
+- [ ] Hey Siri record Voice Memos with shortcut
+- [ ] Mua tăm nước
+- [ ] Nhắn tin cho [[Đỗ Mạnh Tuấn]] về học bổng
+- [ ] Research về nanocanxi
+- [ ] How to make ChatGPT more personalize

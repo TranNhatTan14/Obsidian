@@ -3,7 +3,7 @@ tags:
   - Routine
 links:
   - "[[AirPod]]"
-  - "[[Most Important Tasks]]"
+  - "[[Tasks]]"
 ---
 - Cảm giác có người học cùng hoặc làm việc cùng sẽ giúp mình tập trung hơn không?
 	- Video của The Hanoi Chamomile trên YouTube

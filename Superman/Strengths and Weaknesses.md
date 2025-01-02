@@ -22,3 +22,4 @@ links:
 - Không có background tốt về IT or Software Engineer
 - Mắt cận
 - Chiều cao
+- Không giỏi chụp ảnh - Học chụp ảnh thật đẹp để mình có thể có nhiều thông tin về mình hơn và chụp ảnh cho [[Love]] [[Photography]]

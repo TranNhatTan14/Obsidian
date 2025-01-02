@@ -11,11 +11,6 @@ https://stackoverflow.com/questions/12627118/get-a-function-arguments-default-va
 
 Follow the OOP and code standard
 
-### Polar
-
-- Pandas/Polars for data manipulation and analysis
-- GPU with Polars, Daniel Warfield https://pola.rs/posts/gpu-engine-release
-
 ## CUDA
 ## C++
 

@@ -4,7 +4,7 @@ tags:
   - Meta
   - Social
 links:
-  - "[[iPhone]]"
+  - "[[iPad]]"
 ---
 # Unfollow
 

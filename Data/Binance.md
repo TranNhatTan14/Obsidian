@@ -5,7 +5,6 @@ tags:
   - Finance
 links:
   - "[[Cryptocurrency]]"
-  - "[[iPhone]]"
   - "[[Laptop]]"
 ---
 Trading and Investing

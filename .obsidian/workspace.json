@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "004d01cfa86c94d6",
+        "id": "b654eb2ca3206c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "6cdaa5b02e267239",
+            "id": "fdb231fa2c0381e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Energy.md",
+                "file": "Journals/20250102.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,15 +21,19 @@
             }
           },
           {
-            "id": "de0d66702b5476a7",
+            "id": "60160b88bc96d590",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journals/20250102.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Blog  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Journals/20250102.md"
+              }
             }
           },
           {
@@ -103,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journals/20250102.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,13 +122,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journals/20250102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -156,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,37 +181,41 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "de0d66702b5476a7",
+  "active": "fdb231fa2c0381e1",
   "lastOpenFiles": [
-    "Data/University.md",
-    "Data/IELTS.md",
-    "Data/Submit Graph Transformer paper in ICLR.md",
-    "Data/Kaggle Master.md",
-    "Data/Improve Eyesight.md",
-    "Information/Keywords.md",
-    "Information/Ideas.md",
-    "Information/Brainstorm.md",
-    "Data/Energy.md",
-    "Data/Time.md",
-    "Data/How to reduce overthinking.md",
-    "Data/Google Chrome.md",
-    "Data/Sci-Hub.md",
-    "Data/Analogy.md",
-    "Data/Bactopia.md",
-    "Data/AirPod.md",
-    "Data/Gplas.md",
-    "Data/UnitigBIN.md",
-    "Data/Amateur Psychology.md",
-    "Data/Optimal Protocols for Studying & Learning.md",
-    "Data/3 Body Problem.md",
-    "Data/DLAI.md",
-    "Data/Courage and Creativity.md",
-    "Data/How Will You Measure Your Life.md",
-    "Data/Manage Your Energy, Not Your Time.md",
-    "Data/Balance.md",
+    "Data/Google Blog.md",
+    "Data/Bioinformatics.md",
+    "Journals/20250102.md",
+    "Data/Roles.md",
+    "Data/Engineering.md",
+    "Data/AI Engineer.md",
+    "Data/Hacker.md",
+    "Data/Trader.md",
+    "Data/Engineer.md",
+    "Data/Autosomal.md",
+    "Resources/Vocabulary/Vocabulary.md",
+    "Resources/Vocabulary/credible.md",
+    "Data/iPhone.md",
+    "Data/Google Maps.md",
+    "Data/cat.md",
+    "cat.md",
+    "Data/school.md",
+    "Resources/Templates/Vocabulary template.md",
+    "Data/Binance.md",
+    "Data/ONUS.md",
+    "Data/Threads.md",
+    "Data/Instagram.md",
+    "Life/People and Connections and Relationships/Relationships/Love.md",
+    "Data/To do.md",
+    "Superman/Routines/Routines.md",
+    "Data/Homepare.md",
+    "Resources/Files/Pasted image 20241231110623.png",
+    "Resources/Files/Pasted image 20241231110604.png",
+    "Resources/Files/Pasted image 20240909034617.png",
     "Second Brain",
     "Resources/Applications/Apple",
     "Resources/Files/Pasted image 20240729143305.png",
@@ -220,9 +233,6 @@
     "Resources/Files/Pasted image 20240819132521.png",
     "Resources/Files/Pasted image 20240819132447.png",
     "Resources/Files/Pasted image 20240819094430.png",
-    "Resources/Files/Pasted image 20240922214055.png",
-    "Resources/Files/Pasted image 20240922214030.png",
-    "Resources/Files/Pasted image 20240922214015.png",
     "Untitled.canvas"
   ]
 }

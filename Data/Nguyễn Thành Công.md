@@ -1,0 +1,6 @@
+---
+tags:
+  - People
+  - Connection
+  - Vingroup
+---

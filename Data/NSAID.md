@@ -1,6 +1,5 @@
 ---
 tags:
-  - Project
   - Research
   - GeneStory
   - Work
@@ -14,19 +13,18 @@ description: Submit the NSAID research paper to a relevant journal or conference
 https://www.cog-genomics.org/plink/2.0/basic_stats
 https://www.cog-genomics.org/plink/2.0/ld
 
+# Data
+
+- 1KGP.KHV 98
+- 1KGP.KHV.WGS 127
+- 1KGP.KHV.WGS.genotyping 1213
+- NSAID 173
+
 # Quality Control
 
 ### Imputation quality
 
 https://www.cog-genomics.org/plink/2.0/filter
-
-# Resources
-
-- [Genome-wide association studies](https://www.nature.com/articles/s43586-021-00056-9)
-	- Genome-wide association studies (GWAS) aim to identify associations of genotypes with phenotypes by testing for differences in the allele frequency of genetic variants between individuals who are ancestrally similar but differ phenotypicall
-	- GWAS can consider copy-number variants or sequence variations in the human genome, although the most commonly studied genetic variants in GWAS are single-nucleotide polymorphisms (SNPs).
-
-- [Benefits and limitations of genome-wide association studies](https://www.nature.com/articles/s41576-019-0127-1)
 
 ## HLA
 
@@ -38,3 +36,11 @@ https://www.cog-genomics.org/plink/2.0/filter
 
 
 https://bioconductor.org/packages/release/bioc/html/HIBAG.html
+
+# Resources
+
+- [Genome-wide association studies](https://www.nature.com/articles/s43586-021-00056-9)
+	- Genome-wide association studies (GWAS) aim to identify associations of genotypes with phenotypes by testing for differences in the allele frequency of genetic variants between individuals who are ancestrally similar but differ phenotypicall
+	- GWAS can consider copy-number variants or sequence variations in the human genome, although the most commonly studied genetic variants in GWAS are single-nucleotide polymorphisms (SNPs).
+
+- [Benefits and limitations of genome-wide association studies](https://www.nature.com/articles/s41576-019-0127-1)

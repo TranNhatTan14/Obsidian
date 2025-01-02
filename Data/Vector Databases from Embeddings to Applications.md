@@ -1,7 +1,6 @@
 ---
 tags:
   - Course
-  - DLAI
 URL: https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications
 ---
 ## What you'll learn

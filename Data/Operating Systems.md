@@ -57,6 +57,35 @@ ls -1 /home/tantn/workspace/STR/web_crosscheck/result/20241022_HID49/20241022_HI
 zip -r archive_name.zip folder_name
 ```
 
+### tmux
+
+```bash
+# Install Tmux
+sudo apt install tmux
+
+# List of sessions
+tmux ls
+
+# Create new session with name
+tmux new -s [session_name]
+
+# Attach new session
+tmux attach -t [session_name]
+
+# Kill exist session
+tmux kill-session -t [session_name]
+
+# Kill all sessions
+tmux kill-server
+
+# Exit session
+exit
+```
+
+`Ctrl + B + Page Up` to scroll and `q` to Quit
+
+`Ctrl + B + Shift + "` to divide to multiple tmux
+
 # Windows
 
 # MacOS

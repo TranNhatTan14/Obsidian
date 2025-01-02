@@ -15,9 +15,13 @@ Thời gian bị lãng phí hoặc coi là lãng phí và có thể tối ưu đ
 
 - Dành nhiều thời gian cho việc học
 
-[[Apple#Screen Time]]
+### Time can be optimized
 
-# [[Time management]]
+- Thời gian đi làm và thời gian về
+
+# Tools
+
+- [[Apple#Screen Time]]
 
 The relationship between **time** and **money** can be summarized in the following ways:
 

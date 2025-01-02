@@ -1,7 +1,6 @@
 ---
 tags:
   - Competition
-  - Project
 links:
   - "[[Python]]"
   - "[[LangChain]]"

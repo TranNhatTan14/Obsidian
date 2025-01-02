@@ -4,6 +4,19 @@ tags:
   - Language
 description: Not only learn vocabulary but also learn new knowledge and culture
 ---
+- Deposit
+- Withdraw
+
+
+https://forum.obsidian.md/t/using-obsidian-to-learn-new-words-while-working-suggestions-welcome/82112
+
+- If you focus on results, you will never change. But if you focus on change, you will always get good result
+
+
+
+
+
+
 What word we should learn - most used word, words for specific area, word you want to know about it
 
 learn need to help context, sound and image link to film, show, knowledge

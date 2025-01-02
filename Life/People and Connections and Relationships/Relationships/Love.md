@@ -1,5 +1,6 @@
 ---
 tags:
+  - People
   - Relationship
 ---
 - Income
@@ -55,3 +56,5 @@ Thích em vì tích cách con người em, thích mindset của em, thích em ng
 # Type
 
 - Halsey Nguyen
+- phxthao
+- 

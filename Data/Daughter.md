@@ -1,7 +1,8 @@
 ---
 tags:
-  - Family
+  - People
   - Relationship
+  - Family
 aliases:
   - Trần Khả Nhi
 ---

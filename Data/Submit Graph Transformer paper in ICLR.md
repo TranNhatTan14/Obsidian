@@ -7,7 +7,7 @@ aliases:
   - Identify of bacterial plasmid with assembly graph using Graph Transformer
 URL: https://www.overleaf.com/7527286978jcpybvmjgdxt#db3c39
 ---
-**Objective: Advanced Bacterial Plasmid Identification using Graph Transformer**
+Objective: Advanced Bacterial Plasmid Identification using Graph Transformer
 
 Key Results:
 1. Develop Graph Transformer model for plasmid assembly graph analysis
@@ -306,3 +306,143 @@ The confidence of edges in assembly graphs can be evaluated through several fact
 - Length of overlap between contigs
 - Sequence similarity in the overlap region
 - Presence of repetitive elements
+
+Here’s a **step-by-step guide** to perform the **Advanced Bacterial Plasmid Identification using Graph Transformer** based on the provided information:
+
+---
+
+### **Step 1: Define the Problem and Objectives**
+1. **Objective**: Develop a Graph Transformer model to identify bacterial plasmids from short-read sequencing data with >90% accuracy.
+2. **Key Challenges**:
+   - High genetic diversity of plasmids.
+   - Shared genes between plasmids and chromosomes.
+   - Difficulty in identifying short contigs (<1000 bp).
+3. **Success Criteria**:
+   - Achieve high precision, recall, and F1 score for plasmid detection.
+   - Generalize across diverse bacterial species and sequencing platforms.
+
+---
+
+### **Step 2: Data Collection and Preparation**
+1. **Input Data**:
+   - Download Illumina paired-end short-read sequencing data from SRA (Sequence Read Archive).
+   - Download complete genomes of target bacteria (e.g., *E. coli*, *K. pneumoniae*, *S. aureus*) from NCBI.
+2. **Data Preparation**:
+   - Perform **assembly** using **metaSPAdes** to generate **unitig assembly graphs**.
+   - Extract **contigs** and **unitigs** from the assembly graph.
+3. **Ground Truth**:
+   - Use known plasmid sequences from databases like **PlasmidDB** or **PLSDB**.
+   - For novel plasmids, use tools like **PlasmidEC** or **gplas2** to infer plasmid sequences.
+
+---
+
+### **Step 3: Preprocessing and Graph Representation**
+1. **Graph Construction**:
+   - Represent the assembly graph as a **directed graph** where:
+     - **Nodes** = Contigs or unitigs.
+     - **Edges** = Overlaps between contigs/unitigs.
+2. **Node Features**:
+   - Extract features for each node:
+     - Coverage depth.
+     - GC content.
+     - k-mer frequencies.
+     - Length of contigs.
+     - Node connectivity (degree, centrality).
+3. **Edge Features**:
+   - Extract features for each edge:
+     - Overlap length.
+     - Confidence score of the overlap.
+     - Edge type (positive/negative relationship).
+4. **Graph-Level Features**:
+   - Compute global features like graph density, diameter, and average path length.
+
+---
+
+### **Step 4: Model Development**
+1. **Graph Transformer Architecture**:
+   - Use a **Graph Transformer** model to process the assembly graph.
+   - Input: Node features, edge features, and graph structure.
+   - Output: Probability of each contig/unitig being a plasmid.
+2. **Training**:
+   - Train the model using labeled data (plasmid vs. chromosome contigs).
+   - Use **cross-entropy loss** for binary classification.
+   - Optimize using **Adam optimizer** with learning rate scheduling.
+3. **Transfer Learning**:
+   - Pre-train the model on a large dataset of known plasmids and chromosomes.
+   - Fine-tune on the target bacterial species.
+
+---
+
+### **Step 5: Alignment-Based Approach (Hybrid)**
+1. **Alignment to Databases**:
+   - Align contigs to known plasmid databases (e.g., **PLSDB**, **PlasmidFinder**) and chromosome databases.
+   - Extract alignment features:
+     - Percentage of contig aligned.
+     - Number of hits.
+     - E-values of hits.
+     - Coverage of known plasmid genes.
+2. **Reverse Mapping**:
+   - Map de novo assembly against a reference genome containing only chromosomal DNA.
+   - Identify unmapped contigs with higher coverage and different GC content as potential plasmids.
+
+---
+
+### **Step 6: Ensemble Approach**
+1. **Combine Predictions**:
+   - Integrate predictions from the **Graph Transformer** and **alignment-based** approaches.
+   - Use a **weighted voting** or **meta-classifier** to combine results.
+2. **Post-Processing**:
+   - Filter out contigs with low prediction scores.
+   - Cluster contigs predicted as plasmids based on connectivity and coverage similarity.
+
+---
+
+### **Step 7: Evaluation and Validation**
+1. **Metrics**:
+   - Evaluate using **precision**, **recall**, **F1 score**, and **accuracy**.
+   - Assess robustness to different assembly qualities and contig lengths.
+2. **Benchmarking**:
+   - Compare performance against state-of-the-art tools like **MOB-suite**, **PlasmidFinder**, and **PlasFlow**.
+3. **Validation**:
+   - Perform **experimental validation** (e.g., PCR, Southern blotting) for high-confidence predictions.
+   - Test on novel plasmids to assess generalizability.
+
+---
+
+### **Step 8: Deployment and Future Work**
+1. **Deployment**:
+   - Package the model into a user-friendly tool for plasmid identification.
+   - Provide documentation and tutorials for researchers.
+2. **Future Work**:
+   - Extend the model to identify both plasmids and chromosomes.
+   - Incorporate long-read sequencing data for improved accuracy.
+   - Explore unsupervised or semi-supervised learning for novel plasmid discovery.
+
+---
+
+### **Tools and Resources**
+1. **Assembly**:
+   - **metaSPAdes**: For generating unitig assembly graphs.
+2. **Alignment**:
+   - **BLAST**: For aligning contigs to plasmid and chromosome databases.
+3. **Graph Analysis**:
+   - **NetworkX**: For graph manipulation and feature extraction.
+4. **Machine Learning**:
+   - **PyTorch Geometric**: For implementing Graph Transformers.
+5. **Evaluation**:
+   - **scikit-learn**: For computing precision, recall, and F1 score.
+
+---
+
+### **Example Workflow**
+1. **Input**: Illumina paired-end reads from *E. coli*.
+2. **Assembly**: Run metaSPAdes to generate unitig assembly graph.
+3. **Graph Representation**: Extract node and edge features from the graph.
+4. **Model Training**: Train Graph Transformer on labeled plasmid and chromosome contigs.
+5. **Prediction**: Predict plasmid contigs using the trained model.
+6. **Post-Processing**: Filter and cluster predicted plasmid contigs.
+7. **Validation**: Compare predictions with known plasmids and experimental results.
+
+---
+
+By following these steps, you can develop and validate a robust Graph Transformer model for advanced bacterial plasmid identification.

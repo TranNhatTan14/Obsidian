@@ -3,7 +3,7 @@ tags:
   - Information
   - Genetics
 ---
-- Bacteria are single-celled organisms that are found everywhere on Earth, from the soil to the air to inside our bodies.
+ - Bacteria are single-celled organisms that are found everywhere on Earth, from the soil to the air to inside our bodies.
 - They are prokaryotes,  which means they do not have a nucleus or other membrane-bound organelles
 
 Plasmid

@@ -18,7 +18,7 @@ links:
 - Emotional Intelligence
 - Creativity
 - Leadership
-- [[Time management]]
+- [[Time Management]]
 - Curiousity and Continuous Learning
 - **Adaptability:** Someone who is adaptable can be flexible and resilient in the face of constant change. 
 - **Communication:** Communication skills are the ability to express your thoughts and ideas effectively.

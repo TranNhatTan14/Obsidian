@@ -1,0 +1,4 @@
+- Deep Dive
+- FPT AI Factory Vietnam
+- Every challenge you face is an opportunity to grow
+- đừng cố gắng trở thành ai khác, ngoại trừ phiên bản tốt hơn của chính mình.

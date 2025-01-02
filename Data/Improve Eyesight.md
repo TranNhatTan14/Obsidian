@@ -7,14 +7,15 @@ description: Improve eyesight through regular eye exercises, proper nutrition, a
 ---
 - Nhìn màn hình với khoảng cách xa
 - Kiếm đủ tiền mổ mắt bằng phương pháp Phakic ICL
-
 - Hạn chế thời gian sử dụng thiết bị điện tử
 
 # Action
 
 - Prioritize using [[iPad]] instead of [[iPhone]]
 - Limit the [[Apple#Screen Time|Screen Time]]
-- Use [[Apple#Screen Distance]]
+- Use Screen Distance
+- Increased Outdoor Time
+- Reducing Near-Work Activities
 
 # [[Information]]
 

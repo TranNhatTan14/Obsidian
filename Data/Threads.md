@@ -8,9 +8,11 @@ links:
   - "[[iPad]]"
 URL: https://www.threads.net
 ---
-What Threads have
+# For you
 
-### Liked
+# Following
+
+# Liked
 
 https://www.threads.net/liked
 

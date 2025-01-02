@@ -45,7 +45,9 @@ https://www.quora.com/What-are-reads-and-contigs-file-formats-bioinformatics#:~:
 
 # Terminology
 
-### Consensus
+### Consensus Sequence
+
+The most likely nucleotide sequence derived from aligning multiple overlapping reads. It represents the most accurate representation of the genomic region.
 
 ### Composition
 
@@ -56,3 +58,19 @@ https://www.quora.com/What-are-reads-and-contigs-file-formats-bioinformatics#:~:
 
 ### Relative Fluorescence Units (RFU)
 
+## Chromosomes
+
+### Autosomal chromosomes
+
+- Autosomal chromosomes are the 22 pairs of non-sex chromosome present in humans.
+- They carry most of the genetic information, such as traits like eye color and height
+
+- Related information
+	- Other chromosomes include X and Y chromosomes and mitochondrial DNA
+	- Rarely, additional chromosomes like the pseudoautosomal regions (PARs) may also be excluded
+
+### Mitochondrial DNA
+
+- Found in mitochondria, involved in energy production
+
+### Trait

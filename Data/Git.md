@@ -1,4 +1,6 @@
 ---
+tags:
+  - Tool
 aliases:
   - Version control and collaborative development
 ---
@@ -40,8 +42,6 @@ Benefits of Git
 ### Staging and committing
 
 Putting files in the staging area is like placing a letter in an envelope, while making a commit is like putting the envelope in a mailbox. We can add more things to the envelope or take things out as often as we want, but once we put it in the mailbox we can't make further changes.
-
-![[Pasted image 20240909034617.png]]
 
 ## Git workflow
 

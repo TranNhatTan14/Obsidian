@@ -4,5 +4,6 @@
   "obsidian-tasks-plugin",
   "obsidian-spaced-repetition",
   "contribution-graph",
-  "waypoint"
+  "waypoint",
+  "templater-obsidian"
 ]

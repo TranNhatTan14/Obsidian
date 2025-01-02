@@ -20,7 +20,11 @@ aliases:
 - [[Cooking]] and listening to podcast
 - [[Driving]] and listening to podcast
 - Eat a healthy [[Breakfast]]
+
+### Work
+
 - Review daily goals and tasks
+- Read blog, news
 - [[Deep Work]]
 - Prepare for your days in the morning
 
@@ -54,4 +58,4 @@ aliases:
 - Clear
 - Xóa video đã tim trên TikTok
 - Remove image from [[Apple Photos]]
-- Check [[Reduce Screen Time|Screen Time]]
+- Check [[Screen Time|Screen Time]]

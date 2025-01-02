@@ -2,6 +2,7 @@
 tags:
   - People
   - Inspiration
+  - Instagram
 aliases:
   - Cristiano Ronaldo
 ---
