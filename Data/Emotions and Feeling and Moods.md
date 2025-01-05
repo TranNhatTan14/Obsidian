@@ -28,7 +28,15 @@ What's having the biggest impact on you
 
 Adding context to a moment can help you see patterns in the things that are having an effect on your mental wellbeing
 
-# The difference between emotion and mood
+# Mood
+
+- Accomplished
+- Grateful
+- Happy
+- Hopeful
+- Productive
+- Relaxed
+
 # Feelings
 
 ### Love Myself

@@ -1,10 +1,7 @@
 ---
-tags: 
-title: Chàng Trai Khắc Kỷ Sẽ Sống Như Thế Nào?
-author:
-  - "[[okaybabygirl]]"
+tags:
+  - Article
 URL: https://spiderum.com/bai-dang/Cuoi-nam-Chill-Guy-Vi-Toi-La-Chang-Trai-Khac-Ky-du1hUGmKxwsr
-date: 2024-12-31T13:51:37+07:00
 ---
 Chàng trai khắc kỷ sẽ sống như thế nào? mời bạn đọc lắng nghe câu chuyện được kể bên dưới:
 

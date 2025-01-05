@@ -134,6 +134,11 @@ Vingroup Young Talent Scholarship
 
 ## Germany
 
+## Belgium
+
+- Học phí rẻ
+- Trung tâm của Châu Âu
+
 # Requirements
 
 - GPA

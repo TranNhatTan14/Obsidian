@@ -2,7 +2,6 @@
 tags:
   - Family
   - Relationship
-date: 1966-08-18
 aliases:
   - Mẹ
   - Mom

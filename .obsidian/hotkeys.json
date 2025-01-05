@@ -33,14 +33,6 @@
       "key": "ArrowLeft"
     }
   ],
-  "random-note": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "R"
-    }
-  ],
   "file-explorer:move-file": [
     {
       "modifiers": [
@@ -85,6 +77,31 @@
         "Mod"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "templater-obsidian:Te": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:Templates/Test template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
     }
   ]
 }

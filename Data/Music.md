@@ -2,7 +2,7 @@
 tags:
   - Resource
 links:
-  - "[[Memories]]"
+  - "[[Memory]]"
 description: Music related to memory
 ---
 # Archived

@@ -47,6 +47,8 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - If your feet tend to run cold, put on socks before going to bed
 - Avoid watching late-night TV, which can stimulate rather than relax session
 - Use the bed just for sleeping to help your brain associate it only with rest
+- Take a warm bath or shower to help you relax and fall sleep faster
+- Try using a sleep mask to block out light
 
 # Information
 

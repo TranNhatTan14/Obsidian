@@ -7,18 +7,14 @@ aliases:
   - Bột ngọt
   - Suu
 ---
-# Superman in the future
-
-[[Vision Board]] of Superman in the next 5 years
-
 # Information
 
 - I work as an AI Engineer in a genetics company and have a bachelor's degree in Mechatronics
 - I am considering a Master's program in AI focused on healthcare
 
-# Interest and Consideration
+# Superman in the future
 
-- Pen spinning
-- Rubik
-- Real Madrid
-- Animal world
+- More beautiful
+- Longer and bigger D
+- [[Financial Freedom]]
+

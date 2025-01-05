@@ -21,6 +21,7 @@ Cần tăng cơ, giảm mỡ
 - Mình gặp thầy Hiệp vào buổi liên hoan team nghiên cứu, thầy bảo mình tăng cân
 - Việc đánh lại thộng tin hiểu quả trong một số trường hợp, mình có thể sử dụng công cụ để tổng hợp lại thông tin
 - Mình chưa đánh giá được mức độ quan trọng của công việc và thời gian cần thiết để thực hiện công việc
+- Recording your thoughts and feelings has medical benefits. For example, it can reduce stress and decrease blood pressure
 
 Cause
 

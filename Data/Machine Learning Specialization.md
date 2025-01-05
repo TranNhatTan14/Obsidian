@@ -1,7 +1,6 @@
 ---
 tags:
   - Course
-  - ML
   - Coursera
 ---
 ## What you'll learn

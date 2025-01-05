@@ -7,6 +7,8 @@ links:
   - "[[Cryptocurrency]]"
   - "[[Laptop]]"
 ---
+
+
 Trading and Investing
 
 Investors and traders perform analysis before risking their money

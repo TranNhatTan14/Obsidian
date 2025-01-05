@@ -13,7 +13,7 @@ Luôn sẵn sàng cho công việc trong mọi trường hợp
 - Nhóm lửa than bằng dầu ăn trong tờ giấy #Travel #Cooking 
 - Thêm chút nước sau đo cho them muối để bì nổ không bị bắn #Cooking 
 - Giã đông thịt với dấm, phân tử đường, bỏ ra chậu cho vài hạt muối vào #Food 
-- To help yourself recall new information, try to link it to a [[personal experience]] or [[Knowledge]] #Memory 
+
 - Repeat important information back to yourself in order to remember it more effectively 
 - Listen without judging or jumping to conclusion to better understand and remember what you hear
 - To help yourself remember information about people, plasces, or things, create a mental map and associate the items to differrent areas of it

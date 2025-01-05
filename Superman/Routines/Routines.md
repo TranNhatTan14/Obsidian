@@ -59,3 +59,12 @@ aliases:
 - Xóa video đã tim trên TikTok
 - Remove image from [[Apple Photos]]
 - Check [[Screen Time|Screen Time]]
+
+- Không xem video linh tinh vì xem nhiều sẽ bị brain rot
+- Uống đủ nước mỗi ngày
+- Tập thể dục
+- Có bữa sáng đầy đủ dinh dưỡng, bữa trưa vừa phải, bữa tối nhẹ nhàng
+- Deep Work time
+- Ăn nhiều trái cây và rau củ tự nhiên
+- Đi ngủ sớm
+- Đọc vài trang sách và nghe podcast mỗi ngày

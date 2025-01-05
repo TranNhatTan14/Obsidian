@@ -1,3 +1,5 @@
+The goals are save time and automation, and we can get more information, more insight from this
+
 1. [[Superman]]
 2. [[What is the definition of beautiful]]
 	1. [[Improve Eyesight]]
