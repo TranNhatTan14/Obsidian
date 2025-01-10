@@ -3,6 +3,27 @@ tags:
   - GeneStory
   - Seminar
 ---
+
+# Information
+
+- Manual check 1-2
+- Vẫn có 1 số điểm có thể tối ưu thêm
+- ==Khuyến nghị phân tích với dữ liệu manual từ chị Ngọc Nam==
+- Tách ra thành có và không poly C
+- Poly C của HV1
+- Poly C xuất hiện khi nào khi 16189 là C còn T thì pass
+- Khi có T thì xử lý vùng trình tự trước T --- không có Poly C
+- Khi là C thì sẽ là vùng Poly C dài nhất là 15C, xử lý đoạn trước
+- Poly C của HV3 bỏ đi, SWAGDAM chỉ dùng HV1, HV2
+- Vấn đề là sau kết quả poly C từ 8-12 thì kết quả sẽ không tốt
+- homo hete
+- AI Vision for 
+- Sequenher
+- Threshold 
+
+
+
+
 ==How to optime the pipeline==
 
 - Reduce checking time

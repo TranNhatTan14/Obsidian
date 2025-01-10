@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8a1b1e7ca9e9ce",
+        "id": "532c502ce6a537f7",
         "type": "tabs",
         "children": [
           {
-            "id": "773aab3d4ecd9d78",
+            "id": "a59b498fa1035d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/imply.md",
+                "file": "Journals/20250110.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -87,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/imply.md"
+                "file": "Journals/20250110.md"
               }
             }
           },
@@ -97,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/imply.md",
+                "file": "Journals/20250110.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/imply.md",
+                "file": "Journals/20250110.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,8 +152,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,34 +172,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "773aab3d4ecd9d78",
+  "active": "a59b498fa1035d66",
   "lastOpenFiles": [
-    "Vocabulary/impeccable.md",
-    "Vocabulary/luculent.md",
-    "Vocabulary/manner.md",
-    "Vocabulary/multimodal.md",
-    "Vocabulary/paradigm.md",
-    "Vocabulary/dependency.md",
-    "Vocabulary/pithy.md",
-    "Vocabulary/registry.md",
-    "Vocabulary/regression.md",
-    "Vocabulary/regulate.md",
-    "Vocabulary/rise and shine.md",
-    "Vocabulary/sleek.md",
-    "Vocabulary/so to speak.md",
-    "Vocabulary/spectrogram.md",
-    "Templates/Data Template.md",
-    "Templates/Vocabulary Template.md",
-    "Vocabulary/whether.md",
+    "Life/IKIGAI.md",
+    "Journals/20250110.md",
+    "Data/Affirmations.md",
+    "Data/Tic Tac Toe.md",
+    "Journals/20250109.md",
+    "Superman/Routines/Routines.md",
+    "Journals/20250108.md",
+    "Journals/20250107.md",
+    "Data/Apple Health.md",
+    "Data/Breakfast.md",
+    "Data/Trần Ngọc Dự.md",
+    "Data/Arcane.md",
+    "Vocabulary/derisive.md",
+    "Data/Shadowing.md",
+    "Data/Current Work.md",
+    "Data/mtDNA Matching.md",
     "Data/Decision Tree.md",
-    "Vocabulary/assistance.md",
-    "Vocabulary/amputate.md",
-    "Vocabulary/absence.md",
-    "Vocabulary/near.md",
-    "Vocabulary/famous.md",
-    "Vocabulary/strong.md",
-    "Vocabulary/fortunate.md",
-    "Vocabulary/fortune.md",
+    "Data/Mitochondrial DNA.md",
+    "Data/Do you really need to take 10,000 steps a day.md",
+    "Data/Pandas.md",
+    "Data/Submit Graph Transformer paper in ICLR.md",
+    "Data/roadmap.sh.md",
+    "Vocabulary/standardize.md",
+    "Data/Tense.md",
+    "Vocabulary/readability.md",
+    "Data/GAWMerge expands GWAS sample size and diversity by combining array-based genotyping and whole-genome sequencing.md",
     "vocabulary",
     "Resources/Files/Pasted image 20241231110623.png",
     "Resources/Files/Pasted image 20241231110604.png",
