@@ -2,6 +2,7 @@
 links:
   - "[[Superman]]"
 ---
+
 # Definition
 
 An intention is idea that you plan (or intend) to carry out. If you mean something, it's an intention. Your goal, purpose, or aim is your intention. It's something you mean to do, whether you pull it off or not.

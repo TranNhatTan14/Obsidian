@@ -14,7 +14,6 @@ aliases:
 # Why it matters
 
 - Knowledge graphs power many of the applications, we use daily, like [[Google]] Search.
-- When you search for something, [[Google]]'s knowledge graph helps deliver more relevant results by understanding the relationships between the [[things]] you are looking for.
 
 - Building a personal knowledge graph is like creating your own interconnected web of notes, [[ideas]], and [[resources]]. Instead of just passively consuming [[information]], you actively  link it together to deepen your understanding and make it easier to recall and apply.
 - Remember, the best PKG is the one you'll actually use. Don't worry about making it perfect from start. Focus on capturing your thoughts and connections, then refine it as you go. The process of building your PKG is as valuable as the end result.

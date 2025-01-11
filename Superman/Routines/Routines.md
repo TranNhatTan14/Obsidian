@@ -33,6 +33,9 @@ aliases:
 - [[Lunch]] and watch YouTube
 - [[Brilliant]]
 - [[Deep Work]]
+- Mang một hộp sữa uống khi về để duy trì năng lượng dồi dào, không cảm thấy tủi thân
+	- Mua sữa gì
+	- Uống lúc khoảng 17:00
 
 ## Evening
 
