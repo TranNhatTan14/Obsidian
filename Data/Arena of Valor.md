@@ -11,8 +11,12 @@ links:
 - Time limit to 30 minutes
 # Champions
 
-- Slimz
+- Fennick
+- Nakroth
 - Violet
 - Lindis
 - Valhein
 - Nakroth
+
+- Zill
+- Slimz

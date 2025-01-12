@@ -12,7 +12,6 @@ aliases:
 - Drink a glass of water
 - [[Exercise]]
 - [[Stretch]]
-- [[Duolingo]]
 - [[Take a shower]] and get dressed
 - [[Meditation]] with [[Balance]] for 10 minutes
 - [[Charging devices]]

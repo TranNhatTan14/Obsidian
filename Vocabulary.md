@@ -11,6 +11,8 @@ description: Not only learn vocabulary but also learn new knowledge and culture
 # Word form
 
 - ends with suffix -ful, meaning having the qualities of: hateful, wasteful, careful
+- might as well
+- down in the dump
 
 
 

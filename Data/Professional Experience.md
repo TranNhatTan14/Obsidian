@@ -61,5 +61,3 @@ AI in Finance
 # Reseach
 
 # Cloud
-
-- Work on Data and Analytics Tools in the Cloud

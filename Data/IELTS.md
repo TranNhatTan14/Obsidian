@@ -200,7 +200,7 @@ Khó khăn
 
 # [[Speaking]]
 
-- Paraphase
+- Paraphrase
 - Thời gian gấp rút nên hãy dùng ứng dụng đã có sẵn như ELSA Speak or The Coach and ChatGPT
 - ==Chủ đề speaking cố gắng hướng về điều mình biết nhiều, điểm mạnh của mình như là công nghệ==
 - Liên tưởng nội dung để có thể nói được nhiều chủ đề (Like Multi model in AI)

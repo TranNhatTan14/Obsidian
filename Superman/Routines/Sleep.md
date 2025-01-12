@@ -32,6 +32,8 @@ Muốn dậy được sớm thì phải ngủ sớm
 Sleep enough and sleep well
 Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến khoảng 11 giờ là mình buồn ngủ
 
+# Tips
+
 - Journal to release worries and set you mind up for restful sleep
 - Sleep 8 hours? Time to sleep? Làm sao để thức dậy hiệu quả giống như việc sử dụng Earable band?
 - Làm gì trước khi đi ngủ, ý là không phải lo nghĩ gì nhiều, vui vẻ với việc đặt lưng xuống ngủ
@@ -49,6 +51,7 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 - Use the bed just for sleeping to help your brain associate it only with rest
 - Take a warm bath or shower to help you relax and fall sleep faster
 - Try using a sleep mask to block out light
+- Avoid emailing late at night, which can trigger stress and anxiety
 
 # Information
 

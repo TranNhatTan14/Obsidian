@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "532c502ce6a537f7",
+        "id": "fa02cb75f22ea8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a59b498fa1035d66",
+            "id": "0ffc0c39589029bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary.md",
+                "file": "Superman/Superman.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,51 +21,12 @@
             }
           },
           {
-            "id": "88a0c556206dce0d",
+            "id": "26794ade3e0816a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Thinking.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47a5926e471a939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Superman/Feedback system.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45f1a7a3e310539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/Maxime Labonne Blog.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4661bce57834d0ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journals/20250111.md",
+                "file": "Data/Affirmations.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Blog  ",
+                "query": "tag:#Important  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/20250111.md"
+                "file": "Data/Affirmations.md"
               }
             }
           },
@@ -150,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/20250111.md",
+                "file": "Data/Affirmations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/20250111.md",
+                "file": "Data/Affirmations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,34 +185,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4661bce57834d0ec",
+  "active": "26794ade3e0816a1",
   "lastOpenFiles": [
     "Data/Gomoku.md",
-    "Journals/20250111.md",
-    "Data/To do.md",
-    "Superman/Routines/Routines.md",
-    "Data/Maxime Labonne Blog.md",
-    "Vocabulary/perplexity.md",
-    "Data/Hazy Research.md",
-    "Data/Pareto Principle.md",
-    "Vocabulary/credible.md",
-    "Data/Reverse Thinking.md",
-    "Data/Intention.md",
-    "Data/Information.md",
-    "Data/Knowledge.md",
-    "Data/Virtual Private Network.md",
-    "Data/Nguyễn Lê Quân.md",
-    "Vocabulary/consolidate.md",
-    "Data/Energy.md",
-    "Data/Scholarship Hunters.md",
-    "Data/mtDNA Matching.md",
-    "Journals/20241226.md",
-    "Superman/Feedback system.md",
-    "Vocabulary/linkage.md",
-    "Vocabulary/criticize.md",
-    "Data/Personal Knowledge Graph.md",
-    "Vocabulary/essence.md",
-    "Data/Thinking.md",
+    "Data/Affirmations.md",
+    "Vocabulary/desire.md",
+    "Vocabulary/deserve.md",
+    "Vocabulary/privilege.md",
+    "Data/IELTS.md",
+    "Data/Submit Graph Transformer paper in ICLR.md",
+    "Superman/Superman.md",
+    "Data/Opportunity Cost.md",
+    "Data/Time.md",
+    "Data/Compound Interest.md",
+    "Vocabulary/a whole other.md",
+    "Vocabulary/coldhearted.md",
+    "Vocabulary/in other words.md",
+    "Vocabulary/glass ceiling.md",
+    "Superman/Routines/Sleep.md",
+    "Vocabulary/might as well.md",
+    "Data/Phạm Minh Tiến.md",
+    "Vocabulary/roar.md",
+    "Vocabulary/down in the dumps.md",
+    "Vocabulary/behoove.md",
+    "Vocabulary/witness.md",
+    "Vocabulary/bystander.md",
+    "Vocabulary.md",
+    "Vocabulary/grief-stricken.md",
+    "Vocabulary/summit.md",
     "vocabulary",
     "Resources/Files/Pasted image 20241231110623.png",
     "Resources/Files/Pasted image 20241231110604.png",
