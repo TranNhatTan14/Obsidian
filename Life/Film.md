@@ -1,5 +1,0 @@
----
-tags:
-  - Information
----
-### Coco

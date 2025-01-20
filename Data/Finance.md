@@ -10,7 +10,9 @@ Khi đủ rồi thì mình sẽ làm gì
 Mình cần đầu tư vào những khoản gì
 
 # Expense
- 
+
+- Cái gì dùng nhiều thì nên mua mắc tiền một chút.
+
 ## Credit
 
 CIC = 614

@@ -2,9 +2,9 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
-sr-ease: 250
+sr-due: 2025-03-07
+sr-interval: 48
+sr-ease: 270
 ---
 ### Information
 
@@ -16,6 +16,9 @@ List the definition, CEFR level, pronunciation (include help to pronunciation li
     style="padding: 0; margin: 0;"
     src="https://www.perplexity.ai">
 </iframe>
+
+- To force a bone suddenly out of it correct position in a joint
+- He dislocated his shoulder in the accident
 
 ### Visual Association
 

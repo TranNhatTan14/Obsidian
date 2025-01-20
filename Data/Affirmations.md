@@ -27,6 +27,10 @@ modified date: 2025-01-09 09:26
 - I deserve endless love and happiness
 - I deserve to have an amzing life
 
+# Health
+
+- I can fully control how my body looks
+
 - Everything will be okay
 - I've survived this before, I'll survive now
 - I cannot control how others act, only how I choose to react
@@ -67,3 +71,4 @@ modified date: 2025-01-09 09:26
 - I cannot control how other act, only how I choose to react
 - I love myself. I believe in myself. I support myself
 - I am enough
+- My life is full of positive meanings

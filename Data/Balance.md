@@ -6,7 +6,7 @@ description: A meditation and sleep program that adapts to you
 ---
 # [[Purpose]]
 
-- Reduce [[stress]]
+- Reduce [[How to dealing with stress]]
 - Increase focus
 - Improve mood
 

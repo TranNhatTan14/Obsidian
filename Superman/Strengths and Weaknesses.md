@@ -9,7 +9,7 @@ links:
 
 # Mindset
 
-- Nhân vô thập toàn
+- [[Nhân vô thập toàn]]
 
 # Strengths
 

@@ -17,18 +17,13 @@ tags:
 	- When you 30 or 80 did you proud of
 	- If you achieve this does it make you proud
 
-# [[Stress]]
+# [[How to dealing with stress]]
 
 - How stressful is it? Now and after 1 year
 
 # Work
 
 ![[Pasted image 20241117184034.png]]
-
-# Main types of mindset
-
-- Fixed mindset, where people believe their abilities and intelligence are static traits.
-- Growth mindset, where they believe abilities can be developed through dedication and effort
 
 Mindset can significantly affect [[motivation]], resilience, and overall success, influencing how one approaches challenges, [[Lifelong learning]] and failures.
 
@@ -48,9 +43,3 @@ Mindset can significantly affect [[motivation]], resilience, and overall success
 - Celebrate small wins along the way to larger goals
 - Xuất phát điểm của tôi thấp hơn người khác, nếu không xuất phát thì sẽ già mất. Tôi không thể nào về già mới đăng ký các chuyến du lịch dành cho người cao tuổi, như vậy thì có lỗi với tuổi trẻ
 - Tuổi trẻ không du lịch đây đóm không phiêu lưu mạo hiểm, không cố giành học bổng, không trải nghiệm đa dạng cách sống, cả ngày lướt điện thoại. chơi game, chuyện mà 80 tuổi cũng làm được thì cần tuổi trẻ để làm gì 
-
-# Practical Mindset
-
-- Don't waste time to find the "best, perfect", just took the recommendation and start
-
-![](https://p16-va.lemon8cdn.com/tos-maliva-v-ac5634-us/oUEdIAgA2YwzB9ByZiCQfnsX8A16viAoElrFBm~tplv-tej9nj120t-origin.webp)

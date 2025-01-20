@@ -5,15 +5,11 @@ links:
 - Mình gặp vấn đề với thư viện khá nhiều và không biết rõ cách khắc phục #Work 
 - Thiếu kiến thức, cảm thấy mình chưa sẵn sàng cho công việc mới
 - Đôi lúc mình không biết nên làm gì #Time #Work 
-- Đau lưng
-- Chưa sử dụng iPad thật sự hiệu quả
+- Chưa sử dụng iPad thật sự hiệu quả [[Duong Vu]]
 - Tối mình thấy không nên dùng máy tính nữa, hạn chế. Thay vào đó dùng iPad hoặc đọc sách
 - Mua hoa quả và ăn hoa quả
 - Nếu uống nước lọc, cắt thêm vài lát chanh
 - Dạo này mình cười nhiều hơn, note lại xem những lúc như thế tại sao lại cười
-- Cảm giác muốn ngủ, không muốn dậy đi tập
-- Mình hay muốn check thông tin [[Cryptocurrency]] trong [[ONUS]]
-- Mình cảm thấy hơi đau lưng bên phải khi ngồi
 - Mình không phù hợp với audiobook
 - Mọi người không quan tâm là mình ăn trưa như thế nào đâu #Work 
 - Cảm giác tập chưa đốt mỡ lắm [[Exercise]]

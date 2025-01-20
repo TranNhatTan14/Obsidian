@@ -1,29 +1,35 @@
 ---
 tags:
   - Vocabulary
-aliases: []
-sr-due: 2025-01-23
-sr-interval: 19
-sr-ease: 230
+aliases:
+date: 2025-01-19 14:19
+modified date: 2025-01-19 14:19
 ---
-- Definition: Words that sound the same but have different meanings and often different spellings.
-- IPA: /ˈhoʊ.moʊ.foʊnz/
-- Pronunciation: [HOH-muh-fohnz](https://www.google.com/search?q=how+to+pronounce+homophones)
-- Synonyms: sound-alikes, phonetic twins
-- Antonym: heterophones
-- Prefix: homo- meaning "same"
-- Root: Greek phonē - meaning "sound"
-- Suffix: -s indicating plural
-- Connotation: Neutral, often used in language or phonetics.
+### Information
 
-### Word Family
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "homophone" in bullet list.
 
-- **Noun**: *Homophones* can be confusing in English, like "bare" and "bear."
-- **Adjective**: Understanding *homophonic* differences is key in language learning.
-  
-- Example sentence: Some *homophones* are challenging for language learners.
-- Regular example sentence: Words like "two" and "too" are *homophones*.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-### Personal Connection
+### Visual Association
 
-We encounter homophones daily, like when choosing the correct form of “there” or “their” in writing.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=homophone">
+</iframe>
+
+### Pronunciation
+
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+homophone&hl=en">
+</iframe>

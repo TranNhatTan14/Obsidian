@@ -2,27 +2,25 @@
 links:
   - "[[Superman]]"
 ---
-Chăm sóc da mặt
+# Chăm sóc sức khỏe thể chất và tinh thần
+
+### Chăm sóc da mặt
 
 https://www.tiktok.com/@drkhonghanhnguyen
 
-- Đánh răng bằng THAN HOẠT TÍNH THƯỜNG XUYÊN HƠN
-- Hôm nay tôi thấy biết ơn vì điều gì
 - Hạn chế sử dụng media platform
 - Mình có đang sử dụng điện thoại nhiều không
 - Không sử dụng thiết bị sau 10 giờ
 - Mình thương đang không biết làm gì khi vừa ngồi vào làm việc
 
-### Hair cut
+### Hair
 
+- Hair cut in [[Ice Man Hair Station]]
 - [Cải thiện hói đầu](https://www.tiktok.com/@timbarbershop1ctrungliet/video/7298263992609377544)
-- Xịt nước muối lên tóc để không hị xẹp khi đội mũ bảo hiểm
+- Xịt nước muối lên tóc để không bị xẹp khi đội mũ bảo hiểm
 
-# Locations
-
-https://www.tiktok.com/@timbarbershop1ctrungliet
-https://www.facebook.com/profile.php?id=100068108794989
-
-https://www.messenger.com/t/101630672112403
-
-- Lần sau mình sẽ uốn tóc
+- Điều trị rụng tóc trước rồi sau đó mới kích thích mọc tóc
+- DHT Block để cân bằng nội tiết tố
+- Biotin
+- Minoxidil, mấy ông hay nuôi râu dùng
+- Nhưng thấy chậm sau đấy đổi sang Mostal

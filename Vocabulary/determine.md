@@ -2,8 +2,8 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
+sr-due: 2025-02-03
+sr-interval: 16
 sr-ease: 240
 ---
 ### Information
@@ -16,6 +16,12 @@ List the definition, CEFR level, pronunciation (include help to pronunciation li
     style="padding: 0; margin: 0;"
     src="https://www.perplexity.ai">
 </iframe>
+
+- We need to determine the cause of the problem
+- Past Tense: She determined the best course of action yesterday
+- Present Participle: He is determining the outcome of the experiment
+- Noun: Her determination to succeed is inspiring
+- Adjective: The determinative factors in this case are complex
 
 ### Visual Association
 

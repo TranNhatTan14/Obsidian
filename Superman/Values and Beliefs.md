@@ -2,18 +2,20 @@
 links:
   - "[[Superman]]"
 ---
+
 # Core Values
 
 ### Authenticity
 
 ### Lifelong learning
 
+### Confident
+
 ### Honestly
 
 ### Kindness
 
 ### Delicate
-
 
 - Sắp xếp đồ dùng gọn gàng, sạch sẽ
 - Đi dạo thì đi bên ngoài
@@ -38,3 +40,7 @@ Tinh tế vì
 ### Humble
 
 ### Responsible
+
+### Perseverance
+
+### Effectiveness and Efficient

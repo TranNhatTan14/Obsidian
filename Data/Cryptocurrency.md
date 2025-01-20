@@ -4,9 +4,15 @@ tags:
   - Technology
   - Attention
 links:
-  - "[[Blockchain]]"
   - "[[Web3]]"
 ---
+# Information
+
+- Don't worry about the price down, need to check the price for many day (learn from mistake from PENDLE)
+	- If it up and down in 2-3 day it is down trend, buy
+	- if 1-2 day so it is side-way, we not enter this
+	- Else it is up trend
+
 Crypttocurrencies are a new way to exchange goods and services.
 They run on [[Blockchain]] - data structures are cryptographically secure.
 
@@ -26,9 +32,6 @@ Short after the price go hype, especially for coin not good
 
 ### Bitcoin and Altcoin
 
-- FILVNDC ANTcoin
-    - Chỉ báo MA10
-- Stop loss
 - Coin mới và coin cũ
     - Dưới 200 tr đô coin mới
     - Time in the market
@@ -41,22 +44,9 @@ Learn how cryptographic primitives power the blockchain and digital currencies.
 
 Đừng bỏ quên những coin liên quan đến công nghệ đặc biệt là AI
 
-Ryan Nguyễn - Nguyễn Bá Vượng
-
-Sử dụng đòn bẩy X3 X5
-https://vt.tiktok.com/ZSYTrRudC/
-
-kiếm được XXX khi thị trường downtrend dựa vào giao dịch Future
-
-### Guide
-
-[https://www.youtube.com/@duongalexdautu](https://www.youtube.com/@duongalexdautu)
 
 TradingView
 
-<aside> 💡 Sự kiện có thể xảy ra trong tương lai, như Trump thành tổng thống
-
-</aside>
 
 Đòn bẩy tài chính
 

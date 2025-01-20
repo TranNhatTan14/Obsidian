@@ -2,8 +2,8 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
+sr-due: 2025-02-04
+sr-interval: 17
 sr-ease: 250
 ---
 ### Information
@@ -16,6 +16,9 @@ List the definition, CEFR level, pronunciation (include help to pronunciation li
     style="padding: 0; margin: 0;"
     src="https://www.perplexity.ai">
 </iframe>
+
+- The economy is in a state of disequilibrium due to fluctuating demand
+- "Market disequilibrium" refers specifically to imbalances in economic markets
 
 ### Visual Association
 

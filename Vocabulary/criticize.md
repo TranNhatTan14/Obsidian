@@ -2,9 +2,9 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
-sr-ease: 240
+sr-due: 2025-03-15
+sr-interval: 54
+sr-ease: 260
 ---
 ### Information
 

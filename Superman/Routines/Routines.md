@@ -8,17 +8,18 @@ aliases:
 
 ## Morning
 
-- [[Wake up]] and make your bed
-- Drink a glass of water
-- [[Exercise]]
-- [[Stretch]]
-- [[Take a shower]] and get dressed
-- [[Meditation]] with [[Balance]] for 10 minutes
-- [[Charging devices]]
-- [[Elevate]]
-- [[Cooking]] and listening to podcast
-- [[Driving]] and listening to podcast
-- Eat a healthy [[Breakfast]]
+- [ ] [[Wake up early]] and make your bed
+- [ ] Drink a glass of water
+- [ ] [[Exercise]]
+- [ ] [[Stretch]]
+- [ ] [[Take a shower]] and get dressed
+	- [ ] Không sử dụng [[iPhone]] khi đi vệ sinh
+- [ ] [[Meditation]] with [[Balance]] for 10 minutes
+- [ ] [[Charging devices]]
+- [ ] [[Elevate]]
+- [ ] [[Cooking]] and listening to podcast
+- [ ] [[Driving]] and listening to podcast
+- [ ] Eat a healthy [[Breakfast]]
 
 ### Work
 
@@ -40,7 +41,7 @@ aliases:
 
 - [[Driving]]
 - Dinner
-- [[Lifelong learning]] [[English]] with [[Obsidian]]
+- Learning [[Vocabulary]] with [[Obsidian]]
 - [[Learning language]]
 - Omega 3.6.9 and vitamin
 - Lên kế hoạch

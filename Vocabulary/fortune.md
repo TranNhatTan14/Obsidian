@@ -2,11 +2,14 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
-sr-ease: 230
+sr-due: 2025-02-07
+sr-interval: 26
+sr-ease: 250
 ---
 ### Information
+
+- Fortune 500
+- During the fair, a mysterious woman approached me and offered to tell my fortune. She gazed into her crystal ball and began to reveal insights about my future, including my career and relationships
 
 List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "fortune" in bullet list.
 

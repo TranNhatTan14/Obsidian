@@ -2,40 +2,34 @@
 tags:
   - Vocabulary
 aliases:
-  - grasps
-  - grasped
-  - grasping
-sr-due: 2025-01-07
-sr-interval: 44
-sr-ease: 270
+date: 2025-01-19 14:18
+modified date: 2025-01-19 14:18
 ---
-- Definition: To seize or hold something firmly; to understand a concept.
-- IPA: /ɡræsp/
-- Pronunciation: [GRASP](https://www.google.com/search?q=how+to+pronounce+grasp)
-- Synonyms: hold, grip, understand
-- Antonym: release, let go, misunderstand
-- Prefix: None
-- Root: Old English græpsian - meaning "to seize"
-- Suffix: None
-- Connotation: Neutral; often implies effort or determination.
-- Vietnamese: Nắm chặt, hiểu
+### Information
 
-### Mnemonic
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "grasp" in bullet list.
 
-Picture a hand firmly *grasping* a rope, symbolizing holding onto something tightly.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-### Word Family
+### Visual Association
 
-- **Verb**: He tried to *grasp* the concept during the lecture.
-- **Noun**: The *grasp* of the material helped him succeed in the exam.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=grasp">
+</iframe>
 
-- Example with ==idiom==: When the concept clicked, it was like he was ==holding on tight== to the idea.
-- Regular example sentence: She struggled to *grasp* the main point of the discussion.
+### Pronunciation
 
-### Personal Connection
-
-We often grasp onto things both physically and mentally, whether it’s holding an object or understanding a new idea.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=grasp)
-
-Imagine a hand reaching out and firmly holding onto a rope, symbolizing effort to retain something.
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+grasp&hl=en">
+</iframe>

@@ -2,41 +2,34 @@
 tags:
   - Vocabulary
 aliases:
-  - flawlessly
-  - flawlessness
-sr-due: 2025-01-15
-sr-interval: 52
-sr-ease: 290
+date: 2025-01-19 14:19
+modified date: 2025-01-19 14:19
 ---
-- Definition: Without any imperfections or faults; perfect.
-- IPA: /ˈflɔː.ləs/
-- Pronunciation: [FLAW-lis](https://www.google.com/search?q=how+to+pronounce+flawless)
-- Synonyms: perfect, impeccable
-- Antonym: imperfect, faulty, flawed
-- Prefix: None
-- Root: Old English flaw - meaning "a defect or crack"
-- Suffix: -less - meaning "without"
-- Connotation: Positive; often associated with beauty, skill, or performance.
-- Vietnamese: Hoàn hảo, không tỳ vết
+### Information
 
-### Mnemonic
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "flawless" in bullet list.
 
-Think of a diamond, with no cracks or imperfections, symbolizing something *flawless*.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-### Word Family
+### Visual Association
 
-- **Adjective**: Her *flawless* performance in the competition impressed everyone.
-- **Adverb**: She sang *flawlessly* in the concert.
-- **Noun**: The dress had a certain *flawlessness* that made it unique.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=flawless">
+</iframe>
 
-- Example with ==idiom==: The singer’s voice was so *flawless*, it seemed like ==perfection itself==.
-- Regular example sentence: His *flawless* technique earned him high praise from critics.
+### Pronunciation
 
-### Personal Connection
-
-We often aim to do things perfectly, seeking a *flawless* outcome in our work or personal projects.
-Valorant
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=flawless)
-
-Picture a perfectly polished gemstone, with every edge and surface smooth and gleaming, symbolizing perfection.
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+flawless&hl=en">
+</iframe>

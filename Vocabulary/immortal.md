@@ -2,34 +2,41 @@
 tags:
   - Vocabulary
 aliases:
-  - immortality
-  - immortals
-sr-due: 2025-01-05
-sr-interval: 42
+date: 2025-01-12 18:36
+modified date: 2025-01-12 18:36
+sr-due: 2025-01-16
+sr-interval: 4
 sr-ease: 290
 ---
-- Definition: Living forever; never dying or decaying.
-- IPA: /ɪˈmɔːr.tl/
-- Pronunciation: [ih-MOR-tl](https://www.google.com/search?q=how+to+pronounce+immortal)
-- Synonyms: eternal, undying, everlasting
-- Antonym: mortal, finite, perishable
-- Prefix: im- - meaning "not"
-- Root: Latin mortalis - meaning "mortal, subject to death"
-- Suffix: -al - indicating a characteristic or pertaining to
-- Connotation: Positive, often associated with timelessness or invincibility.
-- Vietnamese: Bất tử
+### Information
 
-### Personal Connection
+- The immortal words of Shakespeare continue to inspire.
 
-Immortality often fascinates people, as it symbolizes a life that transcends time and limitations.
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "immortal" in bullet list.
+
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
+
+### Visual Association
+
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=immortal">
+</iframe>
 
 ![](https://i.ytimg.com/vi/D6THdv5FQaQ/maxresdefault.jpg)
 
-### Word Family
+### Pronunciation
 
-- **Noun**: The ancient gods were thought to possess *immortality*.
-- **Adjective**: The *immortal* stories of folklore live on.
-- **Adverb**: His name lives on *immortally* in history.
-
-- Example with ==idiom==: The legends were ==set in stone==, becoming *immortal* over generations.
-- Regular example sentence: Some people view fame as a way to achieve *immortality*.
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+immortal&hl=en">
+</iframe>

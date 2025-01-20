@@ -3,7 +3,7 @@ The goals are save time and automation, and we can get more information, more in
 1. [[Superman]]
 2. [[What is the definition of beautiful]]
 	1. [[Improve Eyesight]]
-3. [[Tasks]]
+3. [[Most Important Tasks]]
 4. [[To do]]
 5. [[IELTS]]
 
@@ -27,7 +27,7 @@ The goals are save time and automation, and we can get more information, more in
 - Information
 - Journal
 - Knowledge
-- [[Life/Gratitude|Gratitude]]
+- [[Data/Gratitude|Gratitude]]
 - Life
 - [[Apple Podcasts]]
 	- [[Amateur Psychology]]
@@ -73,7 +73,7 @@ The goals are save time and automation, and we can get more information, more in
 - [ ] Complete [[NSAID]]
 
 
-- Most of [[Data/Routines]] and [[Tasks]] should be [[Automation]] to save [[Time]] and [[Energy]]
+- Most of [[Data/Routines]] and [[Most Important Tasks]] should be [[Automation]] to save [[Time]] and [[Energy]]
 	- 20% is for creative and insight
 
 ### Work

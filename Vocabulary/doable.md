@@ -2,13 +2,16 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
-sr-ease: 250
+sr-due: 2025-03-08
+sr-interval: 49
+sr-ease: 270
 ---
 ### Information
 
 List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "doable" in bullet list.
+
+- The project is doable
+- The doability of the project is in question
 
 <iframe
     height="800"

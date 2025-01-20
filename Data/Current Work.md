@@ -28,7 +28,3 @@ GST và SISC và TFS sẽ tìm nguồn để tài trợ khoảng 1000-2000 mẫu
 Mục đích cuối cùng là tạo ra được dòng thuần gốc F0 cho đàn heo ở BAF nói riêng và VN nói chung. 
 
 Công nghệ chọn giống dùng microarray
-
-# Overview of Microarray Technology in Breeding
-
-Microarray technology is a powerful tool in breeding programs, particularly in agriculture and aquaculture, enabling high-throughput genotyping and gene expression analysis. This technology allows researchers to analyze thousands to millions of genetic variants simultaneously, which is crucial for improving crop yields and animal performance.

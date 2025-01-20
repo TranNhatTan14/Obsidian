@@ -5,15 +5,10 @@ links:
 - Cải thiện thể chất
 	- Cải thiện thị lực
 	- Cải thiện ngoại hình
-- Lấy vợ
-- Sinh con
-- Mua đất
-- Mua nhà
-- Mua xe
+
 
 - ==Đặt mục tiêu hiệu quả hơn với S.M.A.R.T (Specific, Measurable, Achievable, Relevant, and Time-bound)==
 - Chia nhỏ thành các bước
-	- Remember to regularly review and adjust these goals as circumstances change or as you achieve milestones. Good luck with your ambitious and well-defined goals!
 - Tangible goals are materialistic and measurable  (earning a degree or buying a house)
 - Intangible goals are personal growth, values, and relationship
 
@@ -23,7 +18,6 @@ links:
 - Have meaningful time for [[Superman|myself]] and with important relationship
 - Sử dụng tài nguyên và công cụ, đừng để công cụ sử dụng mình
 - Xác định mục đích sử dụng của từng đồ dùng
-
 - Chuẩn bị trước, không được lười, nếu không có thể ảnh hưởng đến thời gian và tài chính (sạc máy tính và thẻ công ty)
 
 # Short-term goals (in a week, month, year)

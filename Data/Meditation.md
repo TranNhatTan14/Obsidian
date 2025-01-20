@@ -18,7 +18,7 @@ Meditation is rewardin but it can also feel challenging at first
 - Your working memory is essential for problem-solving and executing complex cognitive tasks, but it is limited. 
 - [[Scientific Research]] has found that the brain of experienced meditators differ from the brains of those who don't meditate. The affected areas are those tied to attention control, emotion regulation and self-awareness.
 - [[Scientific Research]] shows that meditation can improve working-memory capacity, [[Attention]] span, and academic performance [[Scientific Research]]
-- Meditation can shield brain from [[stress]]
+- Meditation can shield brain from [[How to dealing with stress]]
 - Meditation affects the way your brain processes and responds to stress
 
 The Salience Network is a network in the brain that coordinates your response to stress, among other stimuli. Studies have found that meditation can improve how and when the Salience Network is activated, reducing the negative effect stress can help your brain and body while improving your ability to recover after stressful events.

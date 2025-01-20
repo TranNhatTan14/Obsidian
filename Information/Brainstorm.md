@@ -3,16 +3,22 @@ tags:
   - Thinking
   - Information
 ---
+- Deep Dive
+- FPT AI Factory Vietnam
+- Every challenge you face is an opportunity to grow
+- đừng cố gắng trở thành ai khác, ngoại trừ phiên bản tốt hơn của chính mình.
+- Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth
+- A man who lacks of purpose will distract himself with pleasure
+
 - What kill my finance is leverage
 - Việc sắp xếp vào folder đôi khi thật tốn thời gian
 - If you don't know where to start, think about attention, goals, and time
 - Ta đi kiếm bạc, kiếm vàng nhưng đâu hay biết. Bạc trên tóc mẹ, nắng vàng trên vai ba.
 - Một con chim đậu trên cành cây, không bao giờ sợ cành cây gãy. Bởi vì niềm tin của con chim đặt ở đôi cánh. Vì vậy dù trong hoàn cảnh nào hãy luôn tin tưởng bản thân mình có thể làm được
 - Mọi người chuyển tiền cho Mặt trận tổ quốc vào các ngày lễ
-- In many martial arts, students ==bow (to bend the body in a gesture of respect)== when entering and leaving the practice area
+
 - Người Trung Quốc nhập cảnh Việt Nam có tờ giấy riêng
 - Sông Kỳ cùng chảy ngược về Trung Quốc
-- Chi Ngao AUS
 - [What yoga does to your body and brain](https://www.youtube.com/watch?v=_8kV4FHSdNA)
 - Ghen tị thì tập trung vào cuộc sống của bản thân, đừng so sánh và mong cầu sự chú ý từ bên ngoài
 - Trống rỗng thì hãy dành thời gian cho bản thân nhiều hơn, cảm giác trống rỗng sẽ biến mất khi bạn ngừng theo đuổi điều không cần thiết
@@ -21,8 +27,6 @@ tags:
 - I learn why it matters from Google Learn About
 
 Sướng hay khổ trong tương lai, phụ thuộc vào sự cố gắng hiện tại của bạn
-
-Chăm chỉ + giữ sức khoẻ tốt
 
 Biết rộng, chuyên sâu về 1 thứ. Xã hội cần một người chuyên xử lý vấn đề, chứ không phải một người "nói" nhiều về mọi thứ. (full-stack giàu cũng có, mà đại đa số lượng 8-10 triệu. Trong khi có quen cu em luyện webpack với vue mới có 22 tuổi mà lương đã 20m)
 
@@ -42,7 +46,7 @@ Không biết điều gì đó..hãy hỏi Google, không có đáp án, thì h�
 Lại nữa rồi, tuổi trẻ không sai không lớn được. Ai khuyên gì bình tĩnh mà nghe nhặt mọi thứ với tâm thế nhặt 1 hạt cát thôi. Người lông bông cần học kỉ luật, người lo sợ cần học bình tâm. Quan trọng là hiểu mình hiểu người
 Hãy học cách để trở thành người quản lý giỏi càng sớm càng tốt. Dù có thể chưa giỏi nhưng ít ra là có trách nhiệm với bản thân, biết rõ mục tiêu phải làm (chuyên môn, kỹ năng, kiến thức, mối quan hệ...) và hành xử chuyên nghiệp. Đó là nền tảng cho bất cứ sự thành công nào sau này.
 
-yêu thì yêu đứa nào hào phóng có điều kiện mà yêu, hãy đón nhận những gì mà ny cho, mình ko tiêu thì ì con khác tiêu hộ :>> chia sẻ từ người bị cao thêm
+
 
 Học k cần nhiều nhưng mà phải kĩ. Phải tìm cho bản thân 1 thú vui lành mạnh vào theo đuổi nó nghiêm túc.
 
@@ -62,36 +66,19 @@ Xã hội thông minh là tương lai, trí tuệ nhân tạo 30-50 năm nữa d
 
 Hãy tìm hiểu về Ikigai, và trong lần đổi việc kế tiếp, không bắt buộc phải chính xác. Nhưng hãy tiến gần hơn đến Ikigai của bạn
 
-Bằng mọi giá hay yêu bản thân, miễn là nó không ảnh hưởng tới người khác.
 
-Ngành hot bạn đang định học, sau khi ra trường chưa chắc đã còn hot. Chọn ngành phù hợp với bản thân, không chọn ngành vì ngành hot.
 
-Nhiều lời khuyên đc ko? Vì mình từng là 1 thằng ngu và ko muốn ai gặp nhiều chuyện oái ăm như mình:
 
-1. Không ai yêu mình, hiểu mình, thương mình bằng chính bản thân mình.
-2. Giấc ngủ rất quan trọng, hãy ngủ đủ.
-3. Đừng đuổi đi những ai thật sự yêu thương mình.
-5. Nên tập trung vào 1 mảng nào đó cho thật tốt, các job ngon cần một nhân lực giỏi chứ ko phải người có một tấm bằng tốt nghiệp ĐH.
-6. Bớt quan tâm người khác nghĩ gì về mình, và cũng đừng nên quan tâm quá nhiều đến cuộc sống của người ta. Việc ai người nấy làm ko sân si.
-7. Hãy tập thể dục thể thao.
-8. Gia đình là số một.
-9. Nghĩ kĩ trước khi làm việc gì đó, nhất là khi mua sắm nếu tài chính còn eo hẹp, xem nó có thiết thực ko.
-10. Hãy làm 1 người tốt.
+- Chiến thắng trước người khác ko có gì đáng tự hào, thất bại trước người khác không có gì đáng xấu hổ. Cứ chấp nhận sự thật và tìm cách sửa chữa, cải thiện ở lần kế tiếp
+- Không nên đặt quá nhiều kì vọng và sự tin tưởng vào 1 người nào đó.
+- Chăm sóc sức khoẻ bản thân nhiều lên.
+- Hãy luôn luôn bình tĩnh trước mọi vấn đề xảy ra.
+- Đừng để cảm xúc chiếm quyền kiểm soát của bạn.
+- Mọi người luôn luôn "uy tín" cho đến khi họ scam
+- Khi mình xem một video, điều duy nhất mình biết là tiêu đề và nội dung mình định xem
 
-Cái gì dùng nhiều thì nên mua mắc tiền một chút.
-Giữ gìn và chăm chút sức khỏe là cách đầu tư không bao giờ lỗ
-Chiến thắng trước người khác ko có gì đáng tự hào, thất bại trước người khác không có gì đáng xấu hổ. Cứ chấp nhận sự thật và tìm cách sửa chữa, cải thiện ở lần kế tiếp
-Chăm sóc sức khỏe bản thân thật là tốt, có sức khỏe có tất cả
-Nếu có thời gian, khi một người muốn chia sẻ gì đó với bạn, hãy đáp lại bằng ánh mắt học hỏi. Có thể họ nói những thứ bạn biết rồi, không sao, ôn lại cũng có mất gì đâu. Nếu ngắt quãng người ta chỉ vì "tôi biết rồi", bạn không biết mình đã bỏ lỡ điều gì ở nửa sau đâu.
+- Give you a chance to do more challenging work, so you can find out if you have motivation to work on it
 
-Không nên đặt quá nhiều kì vọng và sự tin tưởng vào 1 người nào đó.
+# Information
 
-Chăm sóc sức khoẻ bản thân nhiều lên.
-
-Hãy luôn luôn bình tĩnh trước mọi vấn đề xảy ra.
-Đừng để cảm xúc chiếm quyền kiểm soát của bạn.
-Mọi người luôn luôn "uy tín" cho đến khi họ scam
-Khi mình xem một video, điều duy nhất mình biết là tiêu đề và nội dung mình định xem
-Mình nên xem qua outline hoặc summary
-
-Give you a chance to do more challenging work, so you can find out if you have motivation to work on it
+- One Mount do [[Vingroup]] và TCB thành lập nhận nhiệm vụ đầu từ 300M USD làm [[Blockchain]] Layer 1

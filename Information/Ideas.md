@@ -166,11 +166,11 @@ While most people think of calories as a property of food, they're actually foun
 
 ### Vision
 	
-Quan sát nhiều hơn nghĩ có thể làm giảm [[Overthinking]] và [[Stress]]
+Quan sát nhiều hơn nghĩ có thể làm giảm [[Overthinking]] và [[How to dealing with stress]]
 
 ### Breathe
 
-Thở bằng mũi vầ căng bụng ra có thể làm giảm [[Stress]]
+Thở bằng mũi vầ căng bụng ra có thể làm giảm [[How to dealing with stress]]
 
 We can learn from machine and machine can learn from human.
 - Vui vẻ và hạnh phúc vì điều mình sẽ thực hiện

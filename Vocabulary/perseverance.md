@@ -1,0 +1,35 @@
+---
+tags:
+  - Vocabulary
+aliases:
+date: 2025-01-18 15:32
+modified date: 2025-01-18 15:32
+---
+### Information
+
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "perseverance" in bullet list.
+
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
+
+### Visual Association
+
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=perseverance">
+</iframe>
+
+### Pronunciation
+
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+perseverance&hl=en">
+</iframe>

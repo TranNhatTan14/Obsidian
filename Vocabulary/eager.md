@@ -2,13 +2,16 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
-sr-ease: 240
+sr-due: 2025-01-20
+sr-interval: 2
+sr-ease: 220
 ---
 ### Information
 
 List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "eager" in bullet list.
+
+- Eager refers to a strong desire or enthusiasm to do or have something, particularly something enjoyable or interesting
+- She was eager to start her new job
 
 <iframe
     height="800"

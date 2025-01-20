@@ -57,7 +57,6 @@ aliases:
 	- [[Artificial Intelligence]] tools
 
 
-
 ## Reading process
 
 - Preview the book
@@ -73,4 +72,3 @@ aliases:
 	- Use symbols "?" for questions
 	- Use symbols "!" for insights
 	- Draw connections between different parts of the text
-- 

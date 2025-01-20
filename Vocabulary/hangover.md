@@ -1,38 +1,35 @@
 ---
 tags:
   - Vocabulary
-aliases: []
-sr-due: 2025-01-26
-sr-interval: 22
-sr-ease: 270
+aliases:
+date: 2025-01-19 14:19
+modified date: 2025-01-19 14:19
 ---
-- Definition: The unpleasant physical effects following the consumption of excessive alcohol.
-- IPA: /ˈhæŋˌoʊvər/
-- Pronunciation: [HANG-oh-vur](https://www.google.com/search?q=how+to+pronounce+hangover)
-- Synonyms: aftereffects, headache, nausea
-- Antonym: none
-- Prefix: None
-- Root: Middle English hang over - referring to the lingering effects of alcohol consumption
-- Suffix: None
-- Connotation: Negative, associated with discomfort and regret.
-- Vietnamese: Say rượu
+### Information
 
-### Mnemonic
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "hangover" in bullet list.
 
-Imagine waking up with a heavy head and headache after a night of drinking, symbolizing the effects of a *hangover*.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-### Word Family
+### Visual Association
 
-- **Noun**: I had a terrible *hangover* after the party last night.
-  
-- Example with ==common phrase==: He spent the whole day recovering from his ==hangover==.
-- Example sentence: A cold shower helped ease the effects of the *hangover*.
-- Regular example sentence: The *hangover* lasted all morning.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=hangover">
+</iframe>
 
-### Personal Connection
+### Pronunciation
 
-We’ve all experienced a *hangover* at some point after overindulging, leaving us with a sense of regret or discomfort the next day.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=hangover)
-
-Imagine a person with a headache, sitting with a glass of water and aspirin, representing the discomfort of a *hangover*.
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+hangover&hl=en">
+</iframe>

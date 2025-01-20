@@ -6,7 +6,7 @@ links: []
 # Summary
 
 - [[Andrew Huberman]] delves into the science of effective learning, presenting strategies like self-testing, and focused study habits to boost memory retention and neuroplasticity.
-- He also examines the roles of [[stress]] and emotion in enhancing memory, providing insight into managing PTSD through understanding these dynamic.
+- He also examines the roles of [[How to dealing with stress]] and emotion in enhancing memory, providing insight into managing PTSD through understanding these dynamic.
 
 # Highlights
 

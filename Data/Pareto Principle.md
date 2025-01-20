@@ -12,7 +12,7 @@ aliases:
 
 A concept that suggests a disproportionate relationship between inputs and outputs, causes and effects, or effort and results in various situations.
 
-- Find the [[Tasks]] for 80% results
+- Find the [[Most Important Tasks]] for 80% results
 - You only need to learn English, [[Chinese]] to connect with 80% people (or 99% with technology help)
 
 # Applications

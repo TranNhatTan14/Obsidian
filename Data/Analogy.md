@@ -35,4 +35,5 @@ aliases:
     - **Building Muscle**: Requires consistent exercise and effort to grow stronger.
     - This analogy explains how mastering a new skill is similar to developing physical strength over time.
 
-These analogies clarify complex concepts by relating them to everyday objects or experiences.
+- Leo núi và thử thách trong cuộc sống
+	- Leo núi giống như khi mình leo núi Lùng Cúng cần balo nhẹ, hoặc là những người xung quanh có gì?

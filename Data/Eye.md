@@ -35,3 +35,13 @@ Uống 3 tháng rồi nghỉ xong lại uống
 
 - Make sure you-re watching over your closed eyelids
 - Eating well, and stay healthy
+
+- It’s considered to be a combination of genetic and environmental factors
+
+[https://www.youtube.com/watch?v=TrTzBzETdls](https://www.youtube.com/watch?v=TrTzBzETdls)
+
+- Những lúc không đeo kính có ảnh hưởng thế nào
+- Không để moment cuộc sống tiếp tục đẩy bạn
+- Khôi phục thị lực bằng các bài tập như thế nào
+- Nguyên nhân của bị cận là gì
+- Viêm tuyến lệ

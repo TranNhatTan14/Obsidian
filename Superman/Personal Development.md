@@ -3,7 +3,6 @@ links:
   - "[[Superman]]"
 ---
 - People also ask in Google Search and ask more questions
-- Chăm sóc sức khoẻ. kiếm thêm thu nhập
 
 # Learning
 
@@ -34,12 +33,9 @@ Yourself mean unique
 
 The best version of yourself is when you live authentically, stay true to your values, and do things that bring you happiness, purpose, and meaning. It also means living according to your own values and goals, rather than those of other people
 
-#### Health
 
-- Phát triển chiều cao hết khả năng
 
 Regular exercise and healthy eating can help keep diseases away.
 
 - Hiểu hơn về cảm xúc của bản thân, hiểu về cơ thể của mình hơn
-- Chăm sóc sức khỏe thể chất và tinh thần
 - Phát huy điểm mạnh và khắc phục điểm yếu

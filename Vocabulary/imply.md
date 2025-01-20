@@ -8,6 +8,9 @@ aliases:
   - implied
 sr-interval: 2
 sr-ease: 240
+sr-due: 2025-01-27
+sr-interval: 15
+sr-ease: 240
 ---
 List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "imply" in bullet list.
 

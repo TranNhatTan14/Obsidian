@@ -2,43 +2,34 @@
 tags:
   - Vocabulary
 aliases:
-  - eavesdrops
-  - eavesdropped
-  - eavesdropping
-sr-due: 2025-01-11
-sr-interval: 48
-sr-ease: 270
+date: 2025-01-19 14:18
+modified date: 2025-01-19 14:18
 ---
-- Definition: To secretly listen to the conversation of others.
-- IPA: /ˈiːvzˌdrɒp/
-- Pronunciation: [EEVZ-drop](https://www.google.com/search?q=how+to+pronounce+eavesdrop)
-- Synonyms: overhear, listen in, spy
-- Antonym: ignore, disregard, overlook
-- Prefix: None
-- Root: Middle English "evesdrop" - meaning "to stand within the drip from the eaves" of a house to listen secretly
-- Suffix: None
-- Connotation: Negative; associated with intrusion and lack of privacy.
-- Vietnamese: Nghe lén, nghe trộm
+### Information
 
-### Mnemonic
+List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "eavesdrop" in bullet list.
 
-Picture someone standing around the corner, straining to hear what others are saying without being noticed.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-### Word Family
+### Visual Association
 
-- **Verb**: She *eavesdropped* on their private conversation.
-- **Noun**: The habit of *eavesdropping* was frowned upon.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=eavesdrop">
+</iframe>
 
-- Example with ==idiom==: He decided to ==keep an ear to the ground== and *eavesdrop* on their plans.
-- Example sentence: He couldn’t help but *eavesdrop* on the secretive whispers nearby.
-- Regular example sentence: She was caught *eavesdropping* on her colleagues.
+### Pronunciation
 
-### Personal Connection
-
-We’ve all experienced the urge to eavesdrop on an interesting conversation, though it’s generally frowned upon.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=eavesdrop)
-
-Imagine someone hiding behind a door, cupping their ear to listen secretly, representing eavesdropping.
-
-![](https://www.wikihow.com/images/thumb/b/b1/Eavesdrop-Step-3-Version-2.jpg/v4-460px-Eavesdrop-Step-3-Version-2.jpg.webp)
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+eavesdrop&hl=en">
+</iframe>

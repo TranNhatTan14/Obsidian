@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa02cb75f22ea8d2",
+        "id": "383fde8d8fba47db",
         "type": "tabs",
         "children": [
           {
-            "id": "0ffc0c39589029bd",
+            "id": "bef568fa4329d6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Superman/Superman.md",
+                "file": "Vocabulary/concur.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "26794ade3e0816a1",
+            "id": "796f645808eba4a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Affirmations.md",
+                "file": "Journals/20250120.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Important  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/Affirmations.md"
+                "file": "Journals/20250120.md"
               }
             }
           },
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/Affirmations.md",
+                "file": "Journals/20250120.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/Affirmations.md",
+                "file": "Journals/20250120.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,11 +164,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 404.5,
+    "width": 488.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,34 +185,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "26794ade3e0816a1",
+  "active": "796f645808eba4a2",
   "lastOpenFiles": [
-    "Data/Gomoku.md",
-    "Data/Affirmations.md",
-    "Vocabulary/desire.md",
-    "Vocabulary/deserve.md",
-    "Vocabulary/privilege.md",
-    "Data/IELTS.md",
-    "Data/Submit Graph Transformer paper in ICLR.md",
-    "Superman/Superman.md",
-    "Data/Opportunity Cost.md",
-    "Data/Time.md",
-    "Data/Compound Interest.md",
-    "Vocabulary/a whole other.md",
-    "Vocabulary/coldhearted.md",
-    "Vocabulary/in other words.md",
-    "Vocabulary/glass ceiling.md",
-    "Superman/Routines/Sleep.md",
-    "Vocabulary/might as well.md",
-    "Data/Phạm Minh Tiến.md",
-    "Vocabulary/roar.md",
-    "Vocabulary/down in the dumps.md",
-    "Vocabulary/behoove.md",
-    "Vocabulary/witness.md",
-    "Vocabulary/bystander.md",
-    "Vocabulary.md",
-    "Vocabulary/grief-stricken.md",
-    "Vocabulary/summit.md",
+    "Vocabulary/concur.md",
+    "Vocabulary/conduct.md",
+    "Vocabulary/construct.md",
+    "Vocabulary/criticize.md",
+    "Vocabulary/cultivate.md",
+    "Vocabulary/debatable.md",
+    "Vocabulary/deceleration.md",
+    "Vocabulary/decryption.md",
+    "Journals/20250120.md",
+    "Data/Identify of bacterial plasmid with assembly graph using Graph Transformer.md",
+    "Data/Roles.md",
+    "Data/PlasmidEC and gplas2.md",
+    "Vocabulary/demographic.md",
+    "Vocabulary/derisive.md",
+    "Vocabulary/dependable.md",
+    "Data/How to dealing with stress.md",
+    "Superman/Goal.md",
+    "Superman/Values and Beliefs.md",
+    "Data/Purpose.md",
+    "Data/marzuz.md",
+    "Data/Vocabulary.md",
+    "Data/What is the definition of beautiful.md",
+    "Superman/Personal Experience.md",
+    "Information/Brainstorm.md",
+    "Journals/20241104.md",
+    "Vocabulary/ingestion.md",
+    "Role",
+    "Superman/Health",
+    "Resources/Files/Pasted image 20250118171944.png",
+    "Mindset",
+    "Resources/Files/Pasted image 20241109205347.png",
+    "Resources/Files/Pasted image 20241109205336.png",
+    "Resources/Files/Pasted image 20241109205328.png",
     "vocabulary",
     "Resources/Files/Pasted image 20241231110623.png",
     "Resources/Files/Pasted image 20241231110604.png",
@@ -224,15 +231,8 @@
     "Skills/Programming",
     "Resources/Tools/Google/Extension",
     "Resources/Tools/Google/Google Chrome/Folder/Scientific Research",
-    "Resources/Tools/Google/Google Chrome/Folder",
-    "Resources/Tools/Bioinformatics",
-    "Places",
     "Resources/Files/Pasted image 20240819134703.png",
     "Resources/Files/Pasted image 20240819141419.png",
-    "Resources/Files/Pasted image 20240819132715.png",
-    "Resources/Files/Pasted image 20240819132521.png",
-    "Resources/Files/Pasted image 20240819132447.png",
-    "Resources/Files/Pasted image 20240819094430.png",
     "Untitled.canvas"
   ]
 }

@@ -50,11 +50,6 @@ Use screen time to reduce screen time
 - Cần biết mình sẽ làm gì khi mở máy tính, để không rơi vào trường hợp không biết làm gì và mở YouTube, Facebook
 - Continute to learn new things on a dauly basis
 
-### Sit up straight
-
-Thấy các bạn nữ là ngồi thẳng lưng lên #Trigger
-
-
 - Uống sinh tô hoa quả
 - Chỉ xem video trong [[YouTube ]] Watch Later vào buổi tối
 - Sau này mình sẽ review lại 1 tháng qua mình đã viết những gì

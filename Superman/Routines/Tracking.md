@@ -8,7 +8,6 @@ Làm sao để tỉnh dậy ngay khi tỉnh giấc
 - Khi đi làm về mình thường lôi điện thoại ra và không biết làm gì - Hãy học [[Duolingo]] đi
 - Đăng nhập [[Facebook]] ở [[Messenger]]
 - Khoanh chân khi ngồi làm việc
-- I usually use Google Translate to translate from [[English]] to [[Vietnamese]] and vice versa.
 - Mình hay vắt chéo chân hoặc gồng ngón chân
 - Foundation [[meditation]] should be in the morning
 - Learn new word from what I used
@@ -17,6 +16,7 @@ Làm sao để tỉnh dậy ngay khi tỉnh giấc
 - Use Google Translate is not the best choice and some time forget
 - Chơi game khi đi làm về
 - Search chữ để dịch xong lại quên
+- Khi cảm thấy không xong việc mình có thức cố xong dậy muộn
 
 # No
 

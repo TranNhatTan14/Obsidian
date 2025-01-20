@@ -39,3 +39,4 @@ Stay on top in Brilliant
 	- Some challegence can use as project
 - ==Mình đã từng cảm thấy fresh, khi mình không nối quá nhiều thứ==
 - Hãy nhìn với góc nhìn khách quan [[Observer]], chưa rõ vấn đề đừng đặt ra những suy nghĩ tiêu cực
+- Cảm thấy uncomf khi mn nhắc về lương thưởng

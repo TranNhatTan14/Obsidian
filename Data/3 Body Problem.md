@@ -1,5 +1,0 @@
----
-tags:
-  - Film
-  - Netflix
----

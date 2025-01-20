@@ -86,7 +86,7 @@ We'll cover the following topics
 
 #### Graph datasets
 
-The Cora dataset represents a networks of 2,708 publications, where each connection is a reference. Each publication is described as a binary vector of 1,433 unique words, where 0 and 1 indicate the absence or presence of the corresponding word, respectively. This representation is also called a binary bag of words in [[natural language processing]]. Our goal is to classify each node into one of senven categories
+The Cora dataset represents a networks of 2,708 publications, where each connection is a reference. Each publication is described as a binary vector of 1,433 unique words, where 0 and 1 indicate the absence or presence of the corresponding word, respectively. This representation is also called a binary bag of words in [[Natural Language Processing]]. Our goal is to classify each node into one of senven categories
 
 ### Classifying nodes with vanilla graph neural networks
 

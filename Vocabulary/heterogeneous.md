@@ -2,11 +2,15 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
+sr-due: 2025-01-13
 sr-interval: 1
-sr-ease: 230
+sr-ease: 210
 ---
 ### Information
+
+- The class was heterogeneous, with students from various backgrounds.
+- Không đồng nhất
+- homogeneous
 
 List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "heterogeneous" in bullet list.
 

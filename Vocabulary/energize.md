@@ -2,13 +2,16 @@
 tags:
   - Vocabulary
 aliases:
-sr-due: 2025-01-05
-sr-interval: 1
+sr-due: 2025-01-30
+sr-interval: 16
 sr-ease: 250
 ---
 ### Information
 
 List the definition, CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "energize" in bullet list.
+
+- To energize someone means to give them enthusiasm and determination to do something, or to invigorate or activate energy levels in someone or something
+- A refreshing drink like Monster can energize you
 
 <iframe
     height="800"
