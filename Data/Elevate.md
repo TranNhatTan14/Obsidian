@@ -1,7 +1,6 @@
 ---
 tags:
   - Application
-  - Attention
   - Routine
 links:
   - "[[iPhone]]"
@@ -114,7 +113,7 @@ Help improve your use of apostrophes, colons, commas, hyphens, periodsm and more
 - Stop missing up commonly confused words
 - Eliminate distracting errors in speaking
 
-## [[Reading]]
+## [[Reading book]]
 
 ### Aligity
 
@@ -245,13 +244,13 @@ Learn how to develop a stronger speaking voice
 - Manage speaking anxiety
 - Use vocal emphasis to shape meaning
 
-## Speed [[Reading]]
+## Speed [[Reading book]]
 
-- Establish your baseline [[reading]] speed and learn how to increase it
+- Establish your baseline [[Reading book]] speed and learn how to increase it
 - Reduce subvocalization to increase your comprehension
 - Put the strategies you learn into action by challenging yourself to read faster
-- Expand your [[Vocabulary|Vocabulary]] to increase your [[reading]] comprehension
-- Get expert tips on how to increase your [[reading]] speed
+- Expand your [[Vocabulary|Vocabulary]] to increase your [[Reading book]] comprehension
+- Get expert tips on how to increase your [[Reading book]] speed
 
 ## [[Mathematics]]
 

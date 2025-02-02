@@ -1,5 +1,0 @@
----
-tags:
-  - Archived
-  - Interest
----

@@ -1,8 +1,6 @@
 ---
 tags:
   - Thinking
-links:
-  - "[[Hash]]"
 ---
 - Luật Murphy
 	- Cái gì càng đáng sợ, thì càng dễ xảy ra

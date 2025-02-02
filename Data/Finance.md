@@ -33,3 +33,9 @@ Hạn mức
 
 - [Google One](https://one.google.com)
 - [Brilliant Premium](https://brilliant.org/payment/subscription_settings)
+
+# Personal Experience
+
+- Mình mua PENDLE khi giảm giá từ 5.0 xuống 4.5
+	- Nhưng thực tế sau đó giá còn giảm sâu xuống 3.3
+	- Giá trung bình mình mua là 4.6, mình có thể làm gì để tình hình tốt hơn

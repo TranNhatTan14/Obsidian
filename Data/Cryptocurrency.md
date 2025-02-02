@@ -3,8 +3,6 @@ tags:
   - Finance
   - Technology
   - Attention
-links:
-  - "[[Web3]]"
 ---
 # Information
 

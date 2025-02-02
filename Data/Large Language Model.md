@@ -1,6 +1,4 @@
 ---
-links:
-  - "[[Artificial Intelligence]]"
 aliases:
   - LLM
 ---

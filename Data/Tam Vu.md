@@ -2,6 +2,7 @@
 tags:
   - People
   - Research
+  - Neuroscience
 links:
   - "[[Earable]]"
 description: Founder & CEO @ Earable Neuroscience

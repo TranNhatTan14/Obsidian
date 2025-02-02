@@ -1,6 +1,5 @@
 ---
 tags:
-  - Tool
   - Apple
   - Application
 links:
@@ -12,8 +11,6 @@ https://kb.nssurge.com/surge-knowledge-base/
 https://manual.nssurge.com
 
 ### Use Surge for data
-
-Keyword: 4G, v2ray
 
 Drawback: Chai pin
 

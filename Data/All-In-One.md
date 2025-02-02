@@ -27,9 +27,8 @@ aliases:
 ### Area
 
 - Technology
-- [[Artificial Intelligence]]
-	- [[Machine Learning]]
+- Artificial Intelligence
 	- Generative AI
 - [[Healthcare]]
-- [[Health]]
+- Health
 - [[Finance]]

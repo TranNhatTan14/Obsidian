@@ -20,8 +20,6 @@ What problem you are solving
 
 # 1. What do you love
 
-[[Passion]]
-
 Activities you enjoy and find inherently fullfiling.
 - Mình thích việc có thể giúp đỡ được cho nhiều người, những công việc ý nghĩa
 

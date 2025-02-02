@@ -20,4 +20,4 @@ How ChatGPT, Claude can help me to learn with Feynman technique
 
 Through these steps, ChatGPT or Claude become a feedback loop, helping you refine and deepen your understanding in alignment with the Feynman Technique.
 
-# [[Chatbot]] can help
+# Chatbot can help

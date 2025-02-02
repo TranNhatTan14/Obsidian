@@ -1,6 +1,0 @@
----
-tags:
-  - Work
----
-- Upwork
-- Deel

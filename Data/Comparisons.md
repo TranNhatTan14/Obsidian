@@ -1,6 +1,6 @@
 ---
 tags:
-  - Tool
+  - Technique
 ---
 # To-do and Task
 

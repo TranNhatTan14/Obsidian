@@ -1,6 +1,5 @@
 ---
 tags:
-  - Tool
   - Productivity
 ---
 ### Do: Important, Urgent - Tasks with deadlines or consequences

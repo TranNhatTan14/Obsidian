@@ -2,7 +2,7 @@
 tags:
   - Paper
 links:
-  - "[[Identify of bacterial plasmid with assembly graph using Graph Transformer]]"
+  - "[[Submit Graph Transformer paper in ICLR]]"
 URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC7320608/pdf/btaa233.pdf
 aliases:
   - gplas a comprehensive tool for plasmid analysis usingshort-read graphs

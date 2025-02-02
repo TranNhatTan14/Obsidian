@@ -1,7 +1,6 @@
 ---
 tags:
   - Application
-  - Attention
   - Chatbot
 links:
   - "[[iPhone]]"

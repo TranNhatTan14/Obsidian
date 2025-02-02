@@ -1,7 +1,6 @@
 ---
 tags:
   - "#Apple"
-  - Attention
 ---
 # iPhone Xs
 

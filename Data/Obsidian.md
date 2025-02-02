@@ -1,6 +1,5 @@
 ---
 tags:
-  - Tool
   - Application
 ---
 # Definition
@@ -83,27 +82,3 @@ Tại sao minh sử dụng Obsidian thay vi Notion
 ### Tasks
 
 ### [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
-
-### [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
-
-List all of the files in the folder, sorted by the last time you modified the file:
-
-```dataview
-TABLE WITHOUT ID
-    link(file.path, file.folder + " / " + file.name) AS "Note",
-    file.mtime AS "Last modified"
-FROM "/"
-WHERE file.mtime >= date(today) - dur(21 days)
-AND file.name != this.file.name
-AND file.folder != "Vocabulary"
-AND file.name != "TODOs"
-SORT file.mtime DESC 
-```
-
-```dataview
-TASK 
-FROM "Notes" OR "People"
-WHERE file.name != this.file.name
-	AND file.name != "Obsidian"
-SORT file.mtime DESC 
-```

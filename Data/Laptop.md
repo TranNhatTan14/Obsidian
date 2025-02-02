@@ -1,6 +1,6 @@
 ---
 tags:
-  - Attention
+  - Thing
 aliases:
   - Laptop MSI GF63 9RCX
 ---

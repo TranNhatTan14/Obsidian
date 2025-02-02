@@ -10,7 +10,6 @@ aliases:
 # Information
 
 - I work as an AI Engineer in a genetics company and have a bachelor's degree in Mechatronics
-- I am considering a Master's program in AI focused on healthcare
 
-# [[Superman in the future]]
+### [[Superman in the future]]
 

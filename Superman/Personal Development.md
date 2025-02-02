@@ -33,8 +33,6 @@ Yourself mean unique
 
 The best version of yourself is when you live authentically, stay true to your values, and do things that bring you happiness, purpose, and meaning. It also means living according to your own values and goals, rather than those of other people
 
-
-
 Regular exercise and healthy eating can help keep diseases away.
 
 - Hiểu hơn về cảm xúc của bản thân, hiểu về cơ thể của mình hơn

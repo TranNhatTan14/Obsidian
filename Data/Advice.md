@@ -11,8 +11,7 @@
 
 - Save money
 - [[Family]] is important
-- [[Health]]
-- [[Relationships and Connections]]
+- Health
 - [[Personal Experience]]
 
 - Đọc nhiều, học nhiều, cười nhiều

@@ -24,7 +24,7 @@ Uống 3 tháng rồi nghỉ xong lại uống
 - Use 01 hour
 - Mình thấy mắt hơi mỏi khi vừa ngủ dậy
 - Dùng điện thoại quá gần
-- Lack of [[Sleep]], too much caffeine, or stress not good for eye
+- Lack of [[Sleep early]], too much caffeine, or stress not good for eye
 - UV can damage your eye
 - Ortho K
 

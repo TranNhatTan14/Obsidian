@@ -1,26 +1,18 @@
 The goals are save time and automation, and we can get more information, more insight from this
 
 1. [[Superman]]
-2. [[What is the definition of beautiful]]
 	1. [[Improve Eyesight]]
 3. [[Most Important Tasks]]
 4. [[To do]]
-5. [[IELTS]]
-
-
-
 
 - [[Superman]]
 	- [[Values and Beliefs]]
 - [[Why do we have to make an effort]]
-- IELTS
 - Publication
 	- [[Submit Graph Transformer paper in ICLR]]
-- Master Program and Scholarships
 - [[Exercise]]
 - [[Improve Eyesight]]
 - [[IKIGAI]]
-- [[Kaggle Master]]
 - [[Life Milestones]]
 - [[Goal]]
 - [[Personal Knowledge Graph]]
@@ -32,7 +24,7 @@ The goals are save time and automation, and we can get more information, more in
 - [[Apple Podcasts]]
 	- [[Amateur Psychology]]
 - [[Apple Shortcut]]
-- [[Brilliant]]
+- [[Data/Brilliant]]
 - [[Google Chrome]]
 - [[GitHub Student Developer Pack]]
 - [[Google Colaboratory]]
@@ -58,22 +50,18 @@ The goals are save time and automation, and we can get more information, more in
 
 - [[Mindset]]
 - Biến background Mechatronics thành lợi thế 
-- Mình sẽ học Master Program in Healthcare
 - Learning language: English and Chinese
 - [[Energy]]
 - [[Yoga]]
-- [[WIRED]]
 - [[Scientific Research]]
 - [[Real Madrid]]
-- [[Ownership]]
 - [[Stretch]]
 
-- [ ] Complete [[Identify of bacterial plasmid with assembly graph using Graph Transformer]]
+- [ ] Complete [[Submit Graph Transformer paper in ICLR]]
 - [ ] Write [[Motivation Letter]]
-- [ ] Complete [[NSAID]]
 
 
-- Most of [[Data/Routines]] and [[Most Important Tasks]] should be [[Automation]] to save [[Time]] and [[Energy]]
+- Most of daily routines and [[Most Important Tasks]] should be Automation to save [[Time]] and [[Energy]]
 	- 20% is for creative and insight
 
 ### Work
@@ -83,6 +71,6 @@ The goals are save time and automation, and we can get more information, more in
 
 ### Human and Machine
 
-- Machine are faster than human in almost tasks: [[Reading]], ...
+- Machine are faster than human in almost tasks: [[Reading book]], ...
 	- How to work with machine effective
 		- Prompt for all tasks, prompt is like language 

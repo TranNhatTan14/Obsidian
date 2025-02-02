@@ -1,7 +1,6 @@
 ---
 tags:
   - Skill
-  - Work
 ---
 ## Python
 

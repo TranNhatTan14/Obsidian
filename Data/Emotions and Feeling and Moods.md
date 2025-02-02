@@ -7,15 +7,12 @@ tags:
 ### Happy
 
 - Mình thấy vui khi thấy từ mới mà mình vừa học được như từ construct #Language 
-- Cảm thấy hào hứng khi làm đề tài plasmid vì có thể hướng của mình khả thi #Research 
-- Bố đi ăn cỗ về cho mình nho #Family
+- Cảm thấy hào hứng khi làm đề tài plasmid vì có thể hướng của mình khả thi
+- [[Trần Văn Long|Bố]] đi ăn cỗ về cho mình nho
 
 ### Loving life
 
 - Khó khăn thì cứ chu mỏ lên 
-
-- https://www.tiktok.com/@ltsntuyn/video/7350243304526613761 #Animal
-- https://www.tiktok.com/@user5897484915/video/7348394443063495937 #Live #Photo 
 - https://www.tiktok.com/@hoop.bnk48official/video/7343665792170380545 
 
 ## Emotional Intelligence
@@ -50,3 +47,9 @@ Adding context to a moment can help you see patterns in the things that are havi
 - Chênh vênh
 	- Chênh vênh thì học tập, đừng xem phim.
 	- Cảm giác chênh vênh sẽ được khắc phục bằng cảm giác tiến bộ
+
+# Motivation
+
+https://www.tiktok.com/@themotivationmentor777
+https://www.tiktok.com/@mdmotivator
+https://www.tiktok.com/@hunterprosper

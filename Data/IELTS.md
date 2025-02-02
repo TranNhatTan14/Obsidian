@@ -52,9 +52,8 @@ Kiến thức được chuẩn bị từ những người đi trước (tài li�
 3. Ôn tập
 1. Prep
 2. Tạo lập môi trường thi ngay tại nhà (thời gian thi, độ dài, môi trường, bấm giờ)
-- Learn IPA
 
-[[Shadowing]]
+Shadowing
 
 - chưa thể nghe được hết các "tinh hoa" của các cách phát âm
 - dạy cho người khác
@@ -103,7 +102,7 @@ Vì sao lại sai
 
 - Để nói được cần có = Vocabulary + Grammar + Ideas
 
-# [[Reading]]
+# [[Reading book]]
 
 - Time the task is being explained for highlight and read question
 - Không phải lật lật
@@ -136,7 +135,7 @@ Vì sao lại sai
 - Flow-chart Completion
 - Diagram Label Completion
 
-# [[Listening]]
+# [[Active Listening]]
 
 - 40 questions
 - 4 parts with 10 question for each part
@@ -154,7 +153,7 @@ Vì sao lại sai
 - Sentence Completion
 - Short Answer Questions
 
-# [[Writing]]
+# Writing
 
 - Practice summarizing research papers in 150-200 words (Ideal for IELTS Writing Task 1)
 - Write critical analysis of papers (250-300 words) discussing methods, results, and implication (good practice for Task 2)
@@ -198,7 +197,7 @@ Khó khăn
 
 - một cấu trúc viết cho Task 2 em cảm thấy hữu dụng là kiểu viết OREO l(Opinion Reasoning Example Opinion)., lối viết mạch lạc, logic. Em không dùng nhiều tài liệu, đa phần chỉ tìm kiếm trên Internet hoặc tìm trong cuốn Expert IELTS”.
 
-# [[Speaking]]
+# [[Public Speaking]]
 
 - Paraphrase
 - Thời gian gấp rút nên hãy dùng ứng dụng đã có sẵn như ELSA Speak or The Coach and ChatGPT

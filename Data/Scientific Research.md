@@ -7,7 +7,7 @@ description: Research focused on application rather than creating new research (
 # Research directions
 
 ## AI for Healthcare
-### [[Artificial Intelligence]] and Genetics
+### Artificial Intelligence and Genetics
 
 - Phát triển Human Intelligence from Artificial Intelligence
 - Research in AI and application in Healthcare. Now I working on Bioinformatics, research about genetics

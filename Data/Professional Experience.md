@@ -2,7 +2,7 @@
 tags:
   - Work
 ---
-# [[Machine Learning Lifecycle]]
+# Machine Learning Lifecycle
 
 Understand the theory behind algorithms like decision trees, support vector machines, and clustering methods. Practice implementing machine learning models and fine-tuning them for better accuracy and performance.
 

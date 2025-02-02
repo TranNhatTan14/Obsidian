@@ -18,6 +18,8 @@ Time management helps you organize your day to get things done efficiently. It�
 	- Avoid multitasking; focus on one task at a time.  
 	- Use reminders and alarms to stick to schedules.  
 
+- Đôi lúc mình không biết nên làm gì 
+
 # Tools
 
 - [[Apple Calendar]]

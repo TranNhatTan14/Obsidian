@@ -1,6 +1,6 @@
 ---
 tags:
   - Group
-  - Facebook
+  - Meta
 URL: https://www.facebook.com/aivietnam.edu.vn
 ---

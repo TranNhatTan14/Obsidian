@@ -7,5 +7,6 @@
     "media"
   ],
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

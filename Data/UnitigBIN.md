@@ -3,7 +3,7 @@ tags:
   - Paper
   - Research
 links:
-  - "[[Identify of bacterial plasmid with assembly graph using Graph Transformer]]"
+  - "[[Submit Graph Transformer paper in ICLR]]"
 aliases:
   - Encoding Unitig-level Assembly Graphs with Heterophilous Constraints for Metagenomic Contigs Binning
 URL: https://openreview.net/pdf?id=vBw8JGBJWj

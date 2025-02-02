@@ -1,6 +1,0 @@
----
-tags:
-  - People
-  - Relationship
-  - Friend
----

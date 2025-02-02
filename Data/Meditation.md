@@ -1,6 +1,6 @@
 ---
 tags:
-  - Habit
+  - Routine
 ---
 # Definition
 
@@ -8,7 +8,7 @@ Meditation is a formal practice designed to cultivate [[mindfulness]], among oth
 Meditation is more structured, typically involing specific techniques such as focusing on your breath or repeating a mantra to achieve a state of calm or clarity (like what we do with [[Balance]] app)
 
 Meditation is rewardin but it can also feel challenging at first
-# [[Purpose]]
+# [[What is my purpose]]
 
 - Meditation can change the structure of your brain.
 - Meditation affects the structure of brain
@@ -24,6 +24,8 @@ Meditation is rewardin but it can also feel challenging at first
 The Salience Network is a network in the brain that coordinates your response to stress, among other stimuli. Studies have found that meditation can improve how and when the Salience Network is activated, reducing the negative effect stress can help your brain and body while improving your ability to recover after stressful events.
 
 > [!tip] Pair your meditation with something you already do daily like brush teeth before sleep
+
+- To form a daily habit, meditate at the same time each day
 
 # [[Mindfulness]] Meditation
 

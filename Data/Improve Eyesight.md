@@ -17,7 +17,5 @@ description: Improve eyesight through regular eye exercises, proper nutrition, a
 - Increased Outdoor Time
 - Reducing Near-Work Activities
 
-# [[Information]]
-
 - Nếu đúng như bây giờ mình không được gọi khám NVQS thì hãy cải thiện thị lực đi
 - Ngắm mặt trời, ăn nhiều cà chua, ăn hạt vừng chứa nhiều kẽm nữa là mắt sáng, hạn chế bấm điện thoại

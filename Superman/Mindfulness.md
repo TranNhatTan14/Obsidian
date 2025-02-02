@@ -8,6 +8,6 @@ tags:
 - Mindfulness is a quality or practice of maintaining awareness of the present moment without judgement.
 - Like paying [[Attention]] to your breathing or the food you're eating.
 
-- Instead of letting your [[life]] pass you, mindfulness means living in the moment, and awakening to experience.
+- Instead of letting your life pass you, mindfulness means living in the moment, and awakening to experience.
 - It can be practiced anytime throughout the day, whether you're walking, eating, or working.
 - It can be incorporated into daily activities.

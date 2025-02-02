@@ -1,7 +1,6 @@
 ---
 tags:
   - Routine
-  - Afternoon
 ---
 What we should what wheneating? Only watch video in [[YouTube]] Watch Later
 
@@ -16,4 +15,3 @@ What we should what wheneating? Only watch video in [[YouTube]] Watch Later
 - https://www.youtube.com/@WIRED
 - https://www.youtube.com/@escaping.ordinary
 	- Visual Summaries of the Best Books and Ideas
-- 

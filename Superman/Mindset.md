@@ -25,17 +25,17 @@ tags:
 
 ![[Pasted image 20241117184034.png]]
 
-Mindset can significantly affect [[motivation]], resilience, and overall success, influencing how one approaches challenges, [[Lifelong learning]] and failures.
+Mindset can significantly affect motivation, resilience, and overall success, influencing how one approaches challenges, [[Lifelong learning]] and failures.
 
 - Loving your present self
 - Every day is a [[Feedback system]] that allows you to develop and optimize yourself further
-- Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta [[PCA|không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80%]]
+- Nhìn sự vật, sự việc từ nhiều chiều, mặc dù chúng ta không thể thấy được hết các khía cạnh nhưng ta có thể hiểu được 80%
 - Giỏi thì mới cạnh tranh và phát triển được
 - Am I alright No. Might will be okaaay Of course
-- Những thứ mình làm, mình đều học được [[Knowledge|kiến thức]] mới
+- Những thứ mình làm, mình đều học được kiến thức mới
 - Tận hưởng cuộc sống, mỗi ngày phát triển bản thân hơn, đón nhận những khó khăn khuyết điểm.
 - I will be better in next month
-- You can learn from everything, learn from [[people]] around you, learn good thing [[To do]] and learn not [[To do]] bad thing #[[Lifelong learning]] 
+- You can learn from everything, learn from people around you, learn good thing To do and learn not [[To do]] bad thing #[[Lifelong learning]] 
 - Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc #Work 
 - Nhìn thấy nhiều cơ hội hơn, sẵn sàng cho cơ hội mới
 - Hãy ở những nơi những người xung quanh có tư duy tốt, để cùng phát triển

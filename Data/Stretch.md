@@ -1,6 +1,5 @@
 ---
 tags:
-  - Habit
   - Routine
   - Evening
 ---

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Tool
   - Technique
 aliases:
   - Analogy help relate unfamiliar concepts to familiar ones by highlighting similarities

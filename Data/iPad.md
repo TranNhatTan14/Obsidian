@@ -1,6 +1,4 @@
 ---
-tags:
-  - Afternoon
 links:
   - "[[Apple]]"
 aliases:

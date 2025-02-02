@@ -26,10 +26,10 @@ aliases:
 - VinUni đang mở rộng rất nhanh về sức khỏe thông mình và môi trường thông minh
 - Sức khỏe thông minh
 - Tạo ra các hệ thống y tê số y tế thông mình, y tế chính xác
-- Tiếp cận dịch vụ với VinMec
 - Tạo ra công nghệ tiên tiến, giá rẻ để mọi người có thể tiếp cận
 - Biomedical sensing - Track các điều kiện sống
 - Telehealth
+
 - 10 dự án
 - Các cơ hội thực tập và trở thành nghiên cứu sinh của các dự án
 - Bắt đầu tuyển sinh từ năm 2022

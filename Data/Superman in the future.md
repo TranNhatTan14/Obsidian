@@ -12,8 +12,12 @@ Chăm sóc sức khoẻ. kiếm thêm thu nhập
 
 [[Financial Freedom]]
 
+- Mình phải giàu có
+
 - Lấy vợ
 - Sinh con
 - Mua đất
 - Mua nhà
 - Mua xe
+
+### [[Vision Board]]

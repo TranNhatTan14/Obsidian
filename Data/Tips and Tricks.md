@@ -9,10 +9,6 @@
 Luôn sẵn sàng cho công việc trong mọi trường hợp
 
 - Take a deep breath before listening to something to reduce stress, increase focus, and boost retention.
-- Cho chanh chấm muối vào bia #Food
-- Nhóm lửa than bằng dầu ăn trong tờ giấy #Travel #Cooking 
-- Thêm chút nước sau đo cho them muối để bì nổ không bị bắn #Cooking 
-- Giã đông thịt với dấm, phân tử đường, bỏ ra chậu cho vài hạt muối vào #Food 
 
 - Repeat important information back to yourself in order to remember it more effectively 
 - Listen without judging or jumping to conclusion to better understand and remember what you hear

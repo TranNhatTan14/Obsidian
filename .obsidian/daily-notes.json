@@ -1,6 +1,6 @@
 {
   "format": "YYYYMMDD",
   "folder": "Journals",
-  "template": "20010401",
+  "template": "Resources/Templates/Journaling Template",
   "autorun": true
 }

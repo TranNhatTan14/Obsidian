@@ -1,6 +1,5 @@
 ---
 tags:
-  - Education
   - Scholarship
   - Group
   - Meta

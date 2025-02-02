@@ -5,7 +5,7 @@ tags:
 ---
 - Income
 - Quan tâm đến em và mối quan hệ xung quanh em
-- Lo nghĩ cho tương lao
+- Lo nghĩ cho tương lai
 - Cổ vũ tinh thân học tập, phát triển
 - Mindset
 
@@ -58,4 +58,6 @@ Thích em vì tích cách con người em, thích mindset của em, thích em ng
 
 - Halsey Nguyen
 - phxthao
-- 
+- [[Dasha Taran]]: Russia, White, Yellow hair
+- likyasb
+- halseyskitchenn

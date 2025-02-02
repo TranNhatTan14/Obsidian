@@ -20,7 +20,6 @@ tags:
 
 https://www.youtube.com/@LearnEnglishWithTVSeries
 
-
 # Word types
 
 ## Adjective

@@ -1,8 +1,7 @@
 ---
 tags:
   - People
-links:
-  - "[[GeneStory]]"
+  - GeneStory
 description: CEO & Co-Founder at GeneStory
 ---
 https://www.youtube.com/watch?v=syXVyLT06-Y

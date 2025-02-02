@@ -2,5 +2,4 @@
 tags:
   - People
   - Mechatronics
-  - Inspiration
 ---

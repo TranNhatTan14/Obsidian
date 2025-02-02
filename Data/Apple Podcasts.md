@@ -1,10 +1,9 @@
 ---
 tags:
-  - Tool
   - Application
   - Apple
   - Offline
 links:
-  - "[[AirPod]]"
+  - "[[AirPod Pro 2]]"
   - "[[iPhone]]"
 ---

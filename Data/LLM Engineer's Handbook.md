@@ -20,9 +20,9 @@ https://static.packt-cdn.com/downloads/9781836200079_ColorImages.pdf
 
 # What this book covers
 
-# Understanding the [[Large Language Model|LLM]] Twin Concept and Architecture
+# Understanding the Large Language Model Twin Concept and Architecture
 
-==Introduces the [[Large Language Model|LLM]] Twin project, which is used throughout the book as an end-to-end example of a production-level [[Large Language Model|LLM]] application, and defines the FTI architecture for building scalable ML systems and applies it to the [[Large Language Model|LLM]] Twin use case.==
+==Introduces the Large Language Model Twin project, which is used throughout the book as an end-to-end example of a production-level Large Language Model application, and defines the FTI architecture for building scalable ML systems and applies it to the Large Language Model Twin use case.==
 
 When starting to implement a new product, from an engineering point of view, there are three planning steps we must go through before we start building
 
@@ -97,7 +97,7 @@ As an engineer (or any other professional career), building a personal brand is 
 
 # Tooling and Installation
 
-Presents Python, MLOps, and cloud tools used to build real-world [[Large Language Model|LLM]] applications, such as orchestrator, experiment tracker, prompt monitoring and [[Large Language Model|LLM]] evaluation tool. It shows how to use and install them locally for testing and development.
+Presents Python, MLOps, and cloud tools used to build real-world Large Language Model applications, such as orchestrator, experiment tracker, prompt monitoring and Large Language Model evaluation tool. It shows how to use and install them locally for testing and development.
 
 ## Python ecosystem and project installation
 
@@ -123,17 +123,17 @@ Presents Python, MLOps, and cloud tools used to build real-world [[Large Languag
 
 ## Databases for storing unstructured and vector data
 
-### [[MongoDB]]: No SQL database
+### MongoDB: No SQL database
 
 We use MongoDB as a NoSQL database to store the raw data we collect from the internet before processing it and pushing it into the vector database. As we work with unstructured text data, the flexibility of the NoSQL database fits like a charm.
 
-### [[Qdrant]]: vector database
+### Qdrant: vector database
 
-## [[AWS]]
+## AWS
 
-### Preparing for [[AWS]]
+### Preparing for AWS
 
-## [[SageMaker]]: training and inference compute
+## SageMaker: training and inference compute
 
 ## Summary
 
@@ -145,7 +145,7 @@ Reviewed the core tools
 
 # Data Engineering
 
-Shows the implementation of a data collection pipeline that scrapes multiple sites, such as [[Medium]], [[Github]], and [[Subtack]] and stores the raw data in a data warehouse. It emphasizes collecting raw data from dynamic sources over static datasets for real-world ML applications.
+Shows the implementation of a data collection pipeline that scrapes multiple sites, such as Medium, Github, and Subtack and stores the raw data in a data warehouse. It emphasizes collecting raw data from dynamic sources over static datasets for real-world ML applications.
 
 ## Introduction
 
@@ -214,7 +214,7 @@ An ETL pipeline involves three fundamental steps:
 
 # RAG Feature Pipeline
 
-Introduces RAG fundamental concepts, such as embeddings, the vanilla RAG framework, vector databases, and how to optimize RAG applications. It applies the RAG theory by architecting and implementing [[Large Language Model|LLM]] Twin's RAG feature pipeline using software best practices.
+Introduces RAG fundamental concepts, such as embeddings, the vanilla RAG framework, vector databases, and how to optimize RAG applications. It applies the RAG theory by architecting and implementing Large Language Model Twin's RAG feature pipeline using software best practices.
 
 Understanding RAG
 
@@ -324,11 +324,11 @@ Data
 
 # Fine-tunning with Preference Alignment
 
-Introduces techiniques for aligning language models with human preferences, focusing on Direct Preference Optimization (DPO). It covers creating custom preference datasets, implementing DPO, and provides a practical demonstration of aligning the TwinLlama-3.1-8B model using the [[Unsloth]] library.
+Introduces techiniques for aligning language models with human preferences, focusing on Direct Preference Optimization (DPO). It covers creating custom preference datasets, implementing DPO, and provides a practical demonstration of aligning the TwinLlama-3.1-8B model using the Unsloth library.
 
 # Evaluating LLMs
 
-Details various methods for assessing the performance of language models and [[Large Language Model|LLM]] systems. It introduces general-purpose and domain-specific evaluations and discusses popular benchmarks. This chapter includes a practical evaluation of the TwinLlama-3.1-8B model using multiple criteria.
+Details various methods for assessing the performance of language models and Large Language Model systems. It introduces general-purpose and domain-specific evaluations and discusses popular benchmarks. This chapter includes a practical evaluation of the TwinLlama-3.1-8B model using multiple criteria.
 
 # Inference Optimization
 
@@ -340,7 +340,7 @@ Explore advanced RAG tachniques by implementing method such as self-query, reran
 
 # Inference Pipeline Deployment
 
-ML deployment strategies, such as online, asynchronous and batch inference, which will help in architecting and deploying the LLM Twin fine-tuned model to AWS SageMaker and building a [[FastAPI]] microservice to expose the RAG inference pipeline as RESTful API
+ML deployment strategies, such as online, asynchronous and batch inference, which will help in architecting and deploying the LLM Twin fine-tuned model to AWS SageMaker and building a FastAPI microservice to expose the RAG inference pipeline as RESTful API
 
 # MLOps and LLMOps
 

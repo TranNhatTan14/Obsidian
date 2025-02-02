@@ -3,8 +3,6 @@
 ### Types of scholarship
 
 - Government scholarship
-    - Học bổng Anh quốc Chevening (UK)
-    - Học bổng Fulbright cho sinh viên quốc tế (USA)
     - Học bổng Huber Humphrey (Quốc hội Hoa Kỳ)
     - Học bổng sau đại học Endeavour (Úc)
     - Học bổng New Zealand ASEAN
@@ -15,7 +13,7 @@
     - Học bổng quốc tế Adelaide (Úc)
     - Học bổng TU Delft Excellence (Hà Lan)
     - Học bổng Amsterdam Excellence (Hà Lan)
-    - Học bổng ETH Zurich Excellence Masters (Thụy Sĩ)
+
     - Học bổng International Leader of Tomorrow Award của trường Đại học British Columbia (Canada)
     - Học bổng Joint Japan World Bank
 

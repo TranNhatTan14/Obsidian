@@ -1,6 +1,5 @@
 ---
 tags:
-  - YouTube
   - Podcast
 links:
   - "[[Have A Sip]]"

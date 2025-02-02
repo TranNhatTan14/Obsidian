@@ -1,7 +1,4 @@
 ---
-links:
-  - "[[Knowledge]]"
-  - "[[Information]]"
 aliases:
   - DIKW
 ---

@@ -1,6 +1,5 @@
 ---
 tags:
-  - Tool
   - Application
   - Apple
 ---

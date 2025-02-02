@@ -1,8 +1,8 @@
 ---
 tags:
-  - Resource
+  - Memory
 links:
-  - "[[Memory]]"
+  - "[[Timeline and Memory]]"
 description: Music related to memory
 ---
 # Archived

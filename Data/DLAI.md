@@ -1,17 +1,7 @@
 ---
-links:
-  - "[[Transformer]]"
-  - "[[Natural Language Processing]]"
 aliases:
   - DeepLearning.AI
 ---
-%% Begin Waypoint %%
-- [[Preprocessing Unstructured Data for LLM Applications]]
-- [[Retrieval Optimization From Tokenization to Vector Quantization]]
-- [[Vector Databases from Embeddings to Applications]]
-
-%% End Waypoint %%
-
 # Topics
 
 - Agents

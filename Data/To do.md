@@ -1,3 +1,4 @@
+
 ## Self
 
 - Strategy, cải thiện điểm yếu, hoặc biến yếu điểm thành thế mạnh [[Strengths and Weaknesses]]
@@ -17,7 +18,6 @@
 	- Use Chatbot to get the data from these resources and gain knowledge and about how
 - Review learning courses
 - Crawl all [[Google Chrome]] history to analyze as time tracking
-- Xem video của [[Huy Nguyen]] trên YouTube
 - Template cho [[Journaling]]
 - Học cách chụp ảnh đẹp [[Photography]]
 - Build [[Clothes]]

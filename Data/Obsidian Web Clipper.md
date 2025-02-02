@@ -1,10 +1,9 @@
 ---
 tags:
-  - Highlight
   - Extension
   - Markdown
+  - Obsidiian
 links:
-  - "[[Obsidian]]"
   - "[[Google Chrome]]"
 URL: https://obsidian.md/clipper
 ---

@@ -22,7 +22,12 @@ Custom instruction: Go in full detail about every single topic in the sources. n
 
 Use of random to generate something better or unexpected
 
-https://www.reddit.com/r/notebooklm/comments/1gt6v16/best_prompts_thread/
+https://www.reddit.com/r/notebooklm/comments/1gt6v16/best_prompts_thread
+
+# Tips and Tricks
+
+- Use Google Slide from Google Drive or paste image to Google Slide to work with images and charts
+- Link the source with prompt when save note
 
 
 # Input

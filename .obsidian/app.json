@@ -10,7 +10,6 @@
   "livePreview": true,
   "showLineNumber": false,
   "showInlineTitle": true,
-  "showRibbon": true,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
@@ -20,7 +19,8 @@
   "propertiesInDocument": "visible",
   "autoConvertHtml": false,
   "userIgnoreFilters": [
-    "Archived/",
-    "Resources/Vocabulary/"
+    "Archives/",
+    "Resources/Vocabulary/",
+    "Resources/Templates/"
   ]
 }

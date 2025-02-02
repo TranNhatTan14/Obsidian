@@ -1,6 +1,0 @@
----
-tags:
-  - Data
-aliases:
-  - ETL
----

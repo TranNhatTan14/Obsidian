@@ -16,11 +16,11 @@
   "folder_templates": [
     {
       "folder": "Vocabulary",
-      "template": "Templates/Vocabulary Template.md"
+      "template": "Resources/Templates/Vocabulary Template.md"
     },
     {
       "folder": "Data",
-      "template": "Templates/Data Template.md"
+      "template": "Resources/Templates/Data Template.md"
     }
   ],
   "enable_file_templates": false,
@@ -33,9 +33,6 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Test template.md",
-    "T",
-    ""
   ],
   "startup_templates": [
     ""

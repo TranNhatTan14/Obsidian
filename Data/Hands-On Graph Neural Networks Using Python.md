@@ -86,7 +86,7 @@ We'll cover the following topics
 
 #### Graph datasets
 
-The Cora dataset represents a networks of 2,708 publications, where each connection is a reference. Each publication is described as a binary vector of 1,433 unique words, where 0 and 1 indicate the absence or presence of the corresponding word, respectively. This representation is also called a binary bag of words in [[Natural Language Processing]]. Our goal is to classify each node into one of senven categories
+The Cora dataset represents a networks of 2,708 publications, where each connection is a reference. Each publication is described as a binary vector of 1,433 unique words, where 0 and 1 indicate the absence or presence of the corresponding word, respectively. This representation is also called a binary bag of words in Natural Language Processing. Our goal is to classify each node into one of senven categories
 
 ### Classifying nodes with vanilla graph neural networks
 
@@ -159,7 +159,7 @@ Graph Attention Networks (GATs) are a theoretical improvement over GCNs
 
 ### Multi-head attention
 
-Self-attention is not very stable. This issue was already noticed in the original [[Transformer]] paper. Their proposed solution consists of calculating multiple embedding with their own attention scores instead of a single one. This technique is called multi-head attention.
+Self-attention is not very stable. This issue was already noticed in the original Transformer paper. Their proposed solution consists of calculating multiple embedding with their own attention scores instead of a single one. This technique is called multi-head attention.
 
 ### Summary
 
@@ -292,4 +292,3 @@ Self-attention is not very stable. This issue was already noticed in the origina
 ### Implementing the LightGCN architecture
 
 ## Chapter 18: Unlocking the Potential of Graph Neural Networks for Real-World Applications
-# [[Q&A]]

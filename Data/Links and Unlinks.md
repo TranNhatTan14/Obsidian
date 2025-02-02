@@ -1,2 +1,0 @@
-- Fixed [[Mindset]] and Growth [[Mindset]]
-- [[Lifelong learning]] + Doing + Improving = Success ![[Pasted image 20241109165707.png]]

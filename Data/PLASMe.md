@@ -2,9 +2,8 @@
 tags:
   - Research
   - Paper
-  - Hybrid
 links:
-  - "[[Identify of bacterial plasmid with assembly graph using Graph Transformer]]"
+  - "[[Submit Graph Transformer paper in ICLR]]"
 aliases:
   - "PLASMe: a tool to identify PLASMid contigs from short-read assemblies using transformer"
 URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10450166/pdf/gkad578.pdf

@@ -1,23 +1,4 @@
-### What are my values?
 
-Innovation, problem-solving
-Bill Gates has consistently focused on using technology to tackle big challenges and create a more equitable world
-
-Innovation, risk-taking, humanity's progress, and long-term thinking
-Musk consistently pushes boundaries, embraces challenges, and focuses on solutions with a far-reaching impact
-
-Curiosity, intellectual rigor, clarity of thought, and sharing knowledge. Karpathy emphasizes the importance of questioning, understanding deeply, expressing ideas, and making technical concepts accessible to others
-
-Discipline, hard work, ambition, and the pursuit of greatness. Ronaldo embodies these values through his rigorous training, competitive spirit, and constant drive for improvement.
-humility, teamwork, perseverance, and leting my action speak louder than words
-
-- Scientific rigor, clarity of communication, empowering others through knowledge, and optimizing human potential. Huberman emphasizes the importance of using envidence-based information to understand the brain and the body, explain complex concept in a way that's accessible to everyone, and providing practical tools for improving health and well-being
-- Dedication, perseverance, continous improvement, and respect opponents
-- Rose, authenticity, kindness, hard work, and pursuing my dream with passion
-- Integrity, patience, rationality, and long-term thinking
-- Efficiency, teamwork, and a commitment to doing my job to the best of my ability
-- Pushing the boundaries of technology
-- Scientific rigor, human-centered AI
 ### What are my passions?
 
 Technology, 
@@ -277,24 +258,7 @@ Do you want to start your own business?
 
 - AI phát triển nhanh quá, mình cần làm gì để theo kịp xu hướng
 
-### Determine what's most important in your life
-
-- Prioritize your well-being: Consider how different areas of your life contribute to your overall well-being and happiness.
-- Reflect on what you talk about: Consider what you talk about the most.
-- Think about your values: Write down your top values and compare them to each other to determine the correct order.
-- Consider your past: Recognize moments and experiences that form a pattern or direction that can bring meaning and purpose.
-- Consider your passions: Passions can give life purpose and make everything easier.
-- Consider your time: Look at how you spend your time.
-- Consider your qualities: Think about your qualities and what you're good at.
-- Consider your enjoyable activities: Identify what you enjoy doing most.
-- Consider your most important people: Consider the most important people in your life
-
-    
-- Mình muốn học nước nào #Master
-- Mình có muốn làm việc tại nước mình theo học sau Master không? #Master 
-
-
-- What is the difference between [[relationships and connections]]
+- What is the difference between relationships and connections
 - [What is the most painful thing you've ever been told](https://www.tiktok.com/@hunterprosper/video/7096174664774438187) #Family #Love 
 
 - Why I journaling?

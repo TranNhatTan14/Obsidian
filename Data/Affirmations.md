@@ -30,6 +30,7 @@ modified date: 2025-01-09 09:26
 # Health
 
 - I can fully control how my body looks
+- I continuously push myself to learn and develop in areas of life that bring me happiness, freedom, and purpose
 
 - Everything will be okay
 - I've survived this before, I'll survive now

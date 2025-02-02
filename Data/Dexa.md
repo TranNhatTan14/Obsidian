@@ -2,7 +2,6 @@
 tags:
   - AI
   - Website
-  - Attention
 links:
   - "[[Andrew Huberman]]"
 URL: https://dexa.ai

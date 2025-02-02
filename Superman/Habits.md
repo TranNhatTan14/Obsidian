@@ -9,7 +9,6 @@ Healthy habits are built through consistency.
 Phần lớn thói quen của bạn là thói quen tốt, điều này giúp bạn có thể thực hiện công việc một cách hiệu quả, một cách tự động và không tốn quá nhiều năng lượng. Giúp bạn có thể dành năng lượng cho những việc quan trọng hơn
 
 Tools help me to manage habits, [[Habitify]], Focus, Smartphone.
-Break bad habits with [[Habitify]] for check and [Redirector](Data/Google.md#Redirector). We need to have reminder and data, streak
 Use people to trigger
 
 > [!tip] 
@@ -55,8 +54,6 @@ Use screen time to reduce screen time
 - Sau này mình sẽ review lại 1 tháng qua mình đã viết những gì
 
 # Bad habits
-
-Block or redirect with [[Redirector]] in [[Google Chrome]]
 
 > [!danger]
 > - Mở điện thoại nghĩ đến TikTok

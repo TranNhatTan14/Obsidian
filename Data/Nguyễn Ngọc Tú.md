@@ -2,8 +2,9 @@
 tags:
   - People
   - Connection
-links:
-  - "[[Crush on you]]"
 aliases:
   - Tú Nguyễn
 ---
+# Information
+
+- Crush on you

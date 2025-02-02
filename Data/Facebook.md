@@ -2,7 +2,6 @@
 tags:
   - Meta
   - Application
-  - Archived
   - Social
 links:
   - "[[Laptop]]"

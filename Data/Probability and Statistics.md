@@ -1,10 +1,8 @@
 ---
 tags:
   - Knowledge
-  - Math
-aliases:
-  - Probability
-  - Statistics
+  - Mathematics
+aliases: []
 ---
 ### Chi-squared test
 

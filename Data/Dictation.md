@@ -2,11 +2,11 @@
 tags:
   - Method
   - Language
+  - Writing
 aliases:
   - Diction
 links:
-  - "[[Listening]]"
-  - "[[Writing]]"
+  - "[[Active Listening]]"
 ---
 # Definition
 
