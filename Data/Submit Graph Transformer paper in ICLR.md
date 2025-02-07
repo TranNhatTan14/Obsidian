@@ -81,7 +81,7 @@ Hybrid
 - PlasmidVerify train a Naive Bayes classifier using protein domain alighment-based feature
 - PlasForest using homology search results as features
 - Also exhibit decreased accuracy on short contigs
-- [[PLASMe]]: treat plasmid as a language defined on a vocabulary of protein. Transformer, to learn the protein importantce and their associations for plasmid
+- PLASMe: treat plasmid as a language defined on a vocabulary of protein. Transformer, to learn the protein importantce and their associations for plasmid
 - Plasmids have a large diversity, novel plasmids may contain proteins that cannot be aligned with the current database, leading to inaccurate predictions
 - The current tokens contain only proteins of plasmids. Studies have shown that proteins critical for bacterial survival are more likely to be found in chromosomes
 - The interpretation of the Transformer identified potentially unannotated PCs that may also play an important role in the life of plasmids
@@ -142,8 +142,8 @@ Kết hợp theo 3 hướng
 
 - Coverage depth
 - Sequencing composition
-	- GC content [[plASgraph2]] for relative idea
-	- k-mer frequencies [[UnitigBIN]]
+	- GC content plASgraph2 for relative idea
+	- k-mer frequencies UnitigBIN
 	- Length of contigs
 	- Node connectivity patterns
     

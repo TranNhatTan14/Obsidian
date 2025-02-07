@@ -2,6 +2,7 @@
 tags:
   - Application
   - Chatbot
-  - AI
+links:
+  - "[[Artificial Intelligence]]"
 URL: https://claude.ai
 ---

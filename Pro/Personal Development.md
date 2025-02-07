@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Superman]]"
+  - "[[Trần Nhật Tân]]"
 ---
 - People also ask in Google Search and ask more questions
 

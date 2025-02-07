@@ -1,11 +1,15 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-07
+aliases:
+date: 2025-02-04 17:56
+sr-due: 2025-02-08
 sr-interval: 4
-sr-ease: 280
+sr-ease: 285
 ---
-List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "visionary" in bullet list.
+### Information
+
+List the CEFR level, pronunciation IPA (with syllable breaks and stress, e.g., EX-am-ple), word parts (prefix, root, suffix), provide examples for each word form (noun, verb, adjective, etc.), common phrases or idioms (if applicable), a mnemonic, Vietnamese translation of "visionary" and its frequency per 100,000,000 words. Format the response in bullet points.
 
 <iframe
     height="800"

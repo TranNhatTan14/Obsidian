@@ -1,9 +1,7 @@
 ---
-tags: 
-date: 2025-01-05 14:21
-modified date: 2025-01-05 14:21
+tags: []
+date: 2025-02-02 10:44
 ---
-
 # Information
 
 - Information 1

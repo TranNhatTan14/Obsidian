@@ -2,6 +2,7 @@
 tags:
   - People
   - Expert
-  - AI
+links:
+  - "[[Artificial Intelligence]]"
 URL: https://www.andrewng.org
 ---

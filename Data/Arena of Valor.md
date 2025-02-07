@@ -4,9 +4,9 @@ tags:
 links:
   - "[[iPhone]]"
 ---
-# Screen Time
+# Information
 
-- Time limit to 30 minutes
+- Follow the [[Apple Ecosystem#Screen Time|Screen Time]] 30 minutes
 - And only play in company with colleague
 # Champions
 

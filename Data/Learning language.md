@@ -13,8 +13,8 @@ tags:
 
 # Language
 
-- [[English]]
-- [[Chinese]]
+- English
+- Chinese
 
 # To do
 

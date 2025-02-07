@@ -2,6 +2,6 @@
 - Sáng dậy sớm và nấu được đồ ăn ngon từ đồ mẹ cho
 - Hoàn thành được check list buổi sáng
 - Biết ơn vì thầy Hiệp và anh Hoàn đã tạo điều kiện cho mình
-- Trời lúc đi làm về rất đẹp, có thể thấy trên ứng dụng thời tiết của điện thoại #Work #Motivation
+- Trời lúc đi làm về rất đẹp, có thể thấy trên ứng dụng thời tiết của điện thoại #Work
 - When you drink water, remember the spring. Gratitude sustains the spirit. 
 - Hiệp gọi dậy sớm đi tập và cắm cơm

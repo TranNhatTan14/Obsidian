@@ -1,8 +1,9 @@
 ---
 tags:
   - People
-  - AI
   - Inspiration
+links:
+  - "[[Artificial Intelligence]]"
 date: 2025-01-26 22:49
 ---
 

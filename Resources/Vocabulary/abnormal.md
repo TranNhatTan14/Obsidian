@@ -1,11 +1,22 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-06
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-05-27
+sr-interval: 112
+sr-ease: 270
 ---
 List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "abnormal" in bullet list.
+
+- Word Parts:
+	- Prefix: "ab-" (away from)
+	- Root: "normal" (conforming to a standard; usual)
+- Example for Each Word Form:
+	- Adjective: abnormal (e.g., "His behavior was considered abnormal.")
+	- Noun: abnormality (e.g., "The doctor found an abnormality in the test results.")
+	- Adverb: abnormally (e.g., "She reacted abnormally to the medication.")
+- Common Phrases or Idioms:
+	- "Abnormal behavior" (referring to actions that deviate from the norm)
+	- "Abnormal results" (often used in medical or scientific contexts)
 
 <iframe
     height="800"

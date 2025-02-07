@@ -1,7 +1,6 @@
 ---
 tags:
   - Goal
-  - AI
   - Education
   - Healthcare
 description: Secure a fully-funded scholarship for a Master’s degree in AI Healthcare

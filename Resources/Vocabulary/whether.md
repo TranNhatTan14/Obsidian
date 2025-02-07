@@ -13,7 +13,7 @@ List the definition, CEFR level, pronunciation (include help to pronunciation li
 - Common phrases
 	- "Whether you like it or not"
 	- "Whether or not"
-- Mnemonic: Think of "whether" as a [[decision tree]]; it helps you choose between two paths, like asking "Which way?".
+- Mnemonic: Think of "whether" as a decision tree; it helps you choose between two paths, like asking "Which way?".
 - Examples
 	- "I don't know whether to go or stay."
 

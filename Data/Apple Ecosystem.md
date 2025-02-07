@@ -1,6 +1,7 @@
 ## Macbook
 
-- Macbook Air M2 16 Gb 31
+- https://mac24h.vn/macbook-pro-m1-14-inch-2021-new.html
+- Macbook Air M2 16 Gb
 - Nhu cầu của mình là gì
 - 8 hay 16 Gb
 - 13 inch hay 15 inch 
@@ -31,18 +32,42 @@ TrollDecrypt
 
 # Features
 
+## Focus
+
+See [[Daily Routine#Time-Based Routine|Time-Based Routine]] for information about time
+
+### Do Not Disturb
+
+### Driving
+
+### Fitness
+
+### Gaming
+
+### Personal
+
+### Sleep
+
+### Work
+
 ## Screen Time
 
-## Appication and Website Activity
+### Downtime
 
-Get insights about your screen time and set limits for what you want to manage
+Set a schedule for Time away from the screen
 
-- Weekly reports
-	- Get a weekly report with insights, about you screen [[Time]]
-- Downtime
-	- Set a schedule for [[Time]] away from the screen
-- App limits
-	- Set daily [[Time]] limits for app categories you want to manage
+### App Limits
+
+Set daily time limits for app categories you want to manage
+
+- Games: 30 minutes
+- Social: 1 hour
+- TikTok: 15 minutes
+
+### Weekly reports
+### Screen Distance
+
+Turn on to reduce eye strain
 
 ## Notification Summary
 

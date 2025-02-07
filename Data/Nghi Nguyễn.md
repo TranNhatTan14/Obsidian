@@ -1,6 +1,7 @@
 ---
-tags: 
-date: 2025-02-02 10:44
+tags:
+  - People
+date: 2025-02-02 17:43
 ---
 
 # Information

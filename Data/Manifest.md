@@ -1,4 +1,4 @@
-Manifest means to show or display something clearly. For example, if you have a [[Superman/Goal]] and you make a plan to achieve it, you're manifesting that goal.
+Manifest means to show or display something clearly. For example, if you have a [[Goal]] and you make a plan to achieve it, you're manifesting that goal.
 
 To manifest something means to bring an idea or desire into reality through thoughts, actions, or intentions. For example, if you really want to achieve a dream job, manifesting might involve visualizing it, setting goals, and taking steps to make it happen.
 

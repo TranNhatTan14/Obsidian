@@ -7,7 +7,7 @@ aliases:
 # Purpose
 
 - More productive
-- Save [[Time]] and [[Energy]]
+- Save time and energy
 - [[Automaticity]]
 
 # Paths

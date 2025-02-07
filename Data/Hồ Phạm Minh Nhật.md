@@ -1,5 +1,6 @@
 ---
 tags:
   - People
-  - AI
+links:
+  - "[[Artificial Intelligence]]"
 ---

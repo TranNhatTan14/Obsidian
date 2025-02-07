@@ -1,11 +1,11 @@
 The goals are save time and automation, and we can get more information, more insight from this
 
-1. [[Superman]]
+1. [[Trần Nhật Tân]]
 	1. [[Improve Eyesight]]
 3. [[Most Important Tasks]]
 4. [[To do]]
 
-- [[Superman]]
+- [[Trần Nhật Tân]]
 	- [[Values and Beliefs]]
 - [[Why do we have to make an effort]]
 - Publication
@@ -61,7 +61,7 @@ The goals are save time and automation, and we can get more information, more in
 - [ ] Write [[Motivation Letter]]
 
 
-- Most of daily routines and [[Most Important Tasks]] should be Automation to save [[Time]] and [[Energy]]
+- Most of daily routines and [[Most Important Tasks]] should be Automation to save Time and Energy
 	- 20% is for creative and insight
 
 ### Work

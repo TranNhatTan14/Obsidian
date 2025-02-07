@@ -1,11 +1,11 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-06
-sr-interval: 1
-sr-ease: 220
+sr-due: 2025-05-04
+sr-interval: 90
+sr-ease: 240
 ---
-List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "luculent" in bullet list.
+# Information
 
 - Word Parts:
 	- Root: "luc-" from Latin "lux" meaning "light"
@@ -17,8 +17,6 @@ List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple
 	- Common Phrases/Idioms:
 		- "luculent speech" (clear and effective communication)
 		- "luculent writing" (writing that is clear and easy to understand)
-- Mnemonic:
-	- Think of "luculent" as "lucid" plus "abundant," suggesting clarity that shines brightly.
 - Vietnamese Translation:
 	- rõ ràng, sáng sủa, có sức thuyết phục, minh bạch
 
@@ -27,15 +25,6 @@ List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple
     width="100%"
     style="padding: 0; margin: 0;"
     src="https://www.perplexity.ai">
-</iframe>
-
-### Visual Association
-
-<iframe
-    height="800"
-    width="100%"
-    style="padding: 0; margin: 0;"
-    src="https://www.google.com/search?tbm=isch&q=luculent">
 </iframe>
 
 ### Pronunciation

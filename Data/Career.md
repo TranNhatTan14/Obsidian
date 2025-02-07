@@ -2,8 +2,68 @@
 tags:
   - Work
   - Important
-description: Advancing in AI for healthcare genetics, with aspirations for a Master’s program and global opportunities
 ---
+# Purpose
+
+- Work internationally career in AI for [[Healthcare]] align with IKIGAI
+- Advancing in AI for [[healthcare]] genetics, with aspirations for a Master’s program and global opportunities
+- Học chương trình thạc sĩ và tiến sĩ trên chương trình Illnois của VinGroup
+- Giải quyết các bài toán của Việt Nam
+- Biết được mình thích làm gì và theo đuổi lâu dài
+- Become an AI Engineer, Researcher or Data Scientist in [[Healthcare]], [[Finance]] fields
+	- Can work remote in global company 
+- Mình cảm thấy mình phù hợp hơn với việc 'ứng dụng' kiến thức trong lĩnh vực như là ứng dụng công nghệ trong các lĩnh vực sức khỏe, cuộc sống, không giỏi trong việc tối ưu như là làm sao để optimize mô hình, 
+
+# Expectations
+
+- Làm việc từ thứ 2 đến thứ 6, không làm thứ 7 và Chủ Nhật
+- Thời gian làm việc theo tiếng một ngày, thoải mái hơn về thời gian vào làm và thời gian về
+- Có thể làm việc hybrid trong một số trường hợp
+- Đãi ngộ tốt
+
+# Interview
+
+You get paid for
+
+- [[Knowledge]] 
+- Your skillset
+- Contributions to the world
+- Experience is important, but for us the ==biggest measure of success is people who can live and breathe our values==. Show us what you can bring to the table, and we’ll empower you to let your talents shine.
+- Nghiêm túc trong công việc, mới bắt đầu nên làm tốt một thứ
+- Ý THỨC, THÁI ĐỘ và TINH THẦN là quan trọng còn tư duy tốt thì đổi ngành không vấn đề
+- Cần chủ động hơn trao đổi với mọi người về những việc mình muốn làm
+- Tự tin
+- Hiểu rõ về những dự án đã thực hiện
+- Cảm ơn anh chị về buổi phỏng vấn và thể hiện mong muốn có cơ hội được làm việc cùng anh chị
+- Customize CV for each job
+- Think about question to ask during interview
+- Write thank you letter after interview
+
+# The STAR method
+
+The STAR method for interviews involves sharing
+- the context of the situation
+- the task you had to accomplish
+- the action you took
+- the end result
+
+# Requirements
+
+- [[Resume]]
+- [[Knowledge]]
+- [[Personal Experience]]
+- [[Professional Experience]]
+
+# Reources
+
+- https://www.ziprecruiter.co.uk
+- https://nodesk.co
+- https://remoteai.io
+- https://www.ycombinator.com
+- https://nodesk.co/remote-jobs/ai
+- https://nodesk.co/remote-jobs/machine-learning
+- https://startup.jobs/?remote=true&q=Machine+Learning+Engineer
+
 # Role
 
 Xác định rõ được công việc mình muốn thực hiện giúp hạn chế lan man
@@ -12,25 +72,11 @@ Xác định rõ được công việc mình muốn thực hiện giúp hạn ch
 
 ### Data Scientist
 
-- Analyzes and interprets complex data to provide insights and build AI models.
-- Assess the performance of the machine learning model according to the performance requirements
-- Develop and implement ML model to solve specific bussiness problems
-- Perform hyperparameter tuning to make sure the model training process is optimized
+### Team Lead or Project Manager
 
-Understanding Machine Learning Operations (MLOps) is essential for any data scientist, engineer, or leader to ==take machine learning models from a local notebook to a functioning model in production==. This course introduces you to the key processes, phases, and levels of MLOps, including ==design, development, deployment, and monitoring==. You'll discover how ==automation== enables organizations to efficiently launch, monitor, and update their machine learning models.
-
-## Lead or PM
-
-- Designs the overall structure of AI systems, ensuring scalability, performance, and security
-- Oversees the development and deployment of AI-powered products.
-
-## AI Research Scientist
-
-- Conducts cutting-edge research to develop new AI algorithms, models, and technologies.
+### AI Research Scientist
 
 ### AI Engineer
-
-- Develops, tests, and implements AI solutions, typically involving both software and hardware aspects.
 
 ## Not
 

@@ -1,9 +1,9 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-06
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-05-23
+sr-interval: 109
+sr-ease: 270
 ---
 List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "cryptologist" in bullet list.
 

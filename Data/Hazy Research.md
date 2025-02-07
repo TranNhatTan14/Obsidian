@@ -2,7 +2,8 @@
 tags:
   - Blog
   - Stanford
-  - AI
   - Bioinformatics
+links:
+  - "[[Artificial Intelligence]]"
 URL: https://hazyresearch.stanford.edu
 ---

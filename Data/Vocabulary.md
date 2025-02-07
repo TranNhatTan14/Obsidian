@@ -73,8 +73,8 @@ description: Not only learn vocabulary but also learn new knowledge and culture
 - You ==don't have to make up for== anything! It was no problem!
 - It't time to call it a day (to stop for the rest of the day)
 
-```dataview
-TABLE definition AS "Short Definition", sentences AS "Sentences", related AS "Related"
-from #Vocabulary 
-WHERE !icontains(file.name, "vocabulary_template")
-```
+---
+
+# Known vocabulary
+
+- language

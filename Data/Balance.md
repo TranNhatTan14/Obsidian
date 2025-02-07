@@ -3,7 +3,7 @@ tags:
   - Application
 description: A meditation and sleep program that adapts to you
 ---
-# [[What is my purpose]]
+# Purpose
 
 - Reduce [[How to dealing with stress]]
 - Increase focus

@@ -1,19 +1,27 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-06
-sr-interval: 1
-sr-ease: 220
+aliases:
+date: 2025-02-03 20:31
 ---
-List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "impeccable" in bullet list.
+### Information
 
-- Think of "impeccable" as "I'm pecking at a perfect apple," which helps remember that it means perfect or without flaws.
+List the CEFR level, pronunciation (with syllable breaks and stress, e.g., EX-am-ple), word parts (prefix, root, suffix), provide examples for each word form (noun, verb, adjective, etc.), common phrases or idioms (if applicable), a mnemonic, Vietnamese translation of "impeccable" and its frequency per 1,000,000 words. Format the response in bullet points.
 
 <iframe
     height="800"
     width="100%"
     style="padding: 0; margin: 0;"
     src="https://www.perplexity.ai">
+</iframe>
+
+### Visual Association
+
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=impeccable">
 </iframe>
 
 ### Pronunciation

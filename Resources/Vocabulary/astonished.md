@@ -1,11 +1,19 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-06
-sr-interval: 3
-sr-ease: 260
+aliases:
+date: 2025-02-03 20:35
+sr-due: 2025-02-08
+sr-interval: 4
+sr-ease: 275
 ---
-List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "astonished" in bullet list.
+### Information
+
+List the CEFR level, pronunciation (with syllable breaks and stress, e.g., EX-am-ple), word parts (prefix, root, suffix), provide examples for each word form (noun, verb, adjective, etc.), common phrases or idioms (if applicable), a mnemonic, Vietnamese translation of "astonished" and its frequency per 100,000,000 words. Format the response in bullet points.
+
+- Noun: astonishment (e.g., "Her astonishment was evident.")
+- Verb: astonish (e.g., "The magician can astonish the audience.")
+- Adjective: astonished (e.g., "I was astonished by the results.")
 
 <iframe
     height="800"

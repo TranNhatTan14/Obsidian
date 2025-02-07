@@ -12,7 +12,7 @@ description: Improve eyesight through regular eye exercises, proper nutrition, a
 # Action
 
 - Prioritize using [[iPad]] instead of [[iPhone]]
-- Limit the [[Apple#Screen Time|Screen Time]]
+- Limit the [[Apple Ecosystem#Screen Time|Screen Time]]
 - Use Screen Distance
 - Increased Outdoor Time
 - Reducing Near-Work Activities

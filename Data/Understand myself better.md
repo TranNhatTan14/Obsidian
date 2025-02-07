@@ -9,7 +9,7 @@ Use [[ChatGPT]]'s memory to learn more about myself
 Mình hạnh phúc vì điều gì?
 
 - Hôm trước mình đi tìm nhà, trời mưa nhưng mình thấy đây là một trải nghiệm thú vị. Mình đã cười rất nhiều và cảm thấy thoải mái vào lúc đó
-- [[Superman|Trần Nhật Tân]] thích cảm giác on top như bảng xếp hạng học tập
+- [[Trần Nhật Tân|Trần Nhật Tân]] thích cảm giác on top như bảng xếp hạng học tập
     
 Mình "Negative" vì điều gì
 

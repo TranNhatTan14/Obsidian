@@ -2,7 +2,6 @@
 tags:
   - Finance
   - Technology
-  - Attention
 ---
 # Information
 
@@ -35,16 +34,9 @@ Short after the price go hype, especially for coin not good
     - Time in the market
 
 ~~Bơi theo cá mập~~ → Đứng trên vai người khổng lồ
-
 Bơi theo cá mập hay bơi theo để cá mập ăn?
-
 Learn how cryptographic primitives power the blockchain and digital currencies.
-
 Đừng bỏ quên những coin liên quan đến công nghệ đặc biệt là AI
-
-
-TradingView
-
 
 Đòn bẩy tài chính
 
@@ -78,13 +70,9 @@ Mua 100 với đòn bẩy X10 thì chỉ tốn 10 USDT
 ### Chốt lời, Chốt Lỗ
 
 LỢi nhuận khi thua lỗ sẽ thấp 60
-
 Lợi nhuận lên cao 200
-
 Short cùng lắm giảm 100%
-
 Long có thể lên moon
-
 Lực mua, lực bán của thị trường
 
 **Emotion**
@@ -97,7 +85,7 @@ Rứt khoát cắt lỗ
 
 **Advice**
 
-- Mức rủi ro 5-10% số vốn
+- Mức rủi ro 5-10 % số vốn
 
 Cố gắng để có nhiều lệnh thắng, thay vì nghĩ cố gắng để đạt kết quả cao, step by step
 

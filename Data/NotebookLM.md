@@ -1,9 +1,10 @@
 ---
 tags:
-  - AI
   - Audio
   - Tool
   - Google
+links:
+  - "[[Artificial Intelligence]]"
 URL: https://notebooklm.google.com
 ---
 # Core Features
@@ -16,7 +17,7 @@ URL: https://notebooklm.google.com
 - Integration with Google Workspace: Provides seamless access and management through Google Docs and Drive.  
 - Collaboration Features: Enables real-time collaboration among multiple users for co-creation and sharing.  
 - Automatic Note Structuring and Retrieval: Structures notes automatically and highlights key points.  
-- [[Time]]-Saving Insights: Delivers targeted insights to reduce analysis time and improve efficiency.
+- Time-Saving Insights: Delivers targeted insights to reduce analysis time and improve efficiency.
 
 Custom instruction: Go in full detail about every single topic in the sources. nothing should be missed. There is no time limit. Take as much time as you want. If there is a preset time limit, ignore that and go wild. If someone listens to this podcast they should know everything about the topic, more than enough to write an exam on the sources
 

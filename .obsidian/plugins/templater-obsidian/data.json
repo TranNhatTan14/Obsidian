@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Vocabulary",
+      "folder": "Resources/Vocabulary",
       "template": "Resources/Templates/Vocabulary Template.md"
     },
     {
@@ -32,8 +32,7 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ]

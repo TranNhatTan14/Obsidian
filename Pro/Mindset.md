@@ -12,7 +12,7 @@ tags:
 ### [[Accomplishments and Achievements]]
 
 - Prioritizing meaningful accomplishments that accumulate over time and have future value.
-- Minimizing [[Time]] spent on superficial or purely symbolic achievements.
+- Minimizing time spent on superficial or purely symbolic achievements.
 	- Will this matter in 5 years
 	- When you 30 or 80 did you proud of
 	- If you achieve this does it make you proud
@@ -20,10 +20,6 @@ tags:
 # [[How to dealing with stress]]
 
 - How stressful is it? Now and after 1 year
-
-# Work
-
-![[Pasted image 20241117184034.png]]
 
 Mindset can significantly affect motivation, resilience, and overall success, influencing how one approaches challenges, [[Lifelong learning]] and failures.
 
@@ -36,10 +32,16 @@ Mindset can significantly affect motivation, resilience, and overall success, in
 - Tận hưởng cuộc sống, mỗi ngày phát triển bản thân hơn, đón nhận những khó khăn khuyết điểm.
 - I will be better in next month
 - You can learn from everything, learn from people around you, learn good thing To do and learn not [[To do]] bad thing #[[Lifelong learning]] 
-- Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc #Work 
 - Nhìn thấy nhiều cơ hội hơn, sẵn sàng cho cơ hội mới
 - Hãy ở những nơi những người xung quanh có tư duy tốt, để cùng phát triển
 - Work smarter, not harder
 - Celebrate small wins along the way to larger goals
 - Xuất phát điểm của tôi thấp hơn người khác, nếu không xuất phát thì sẽ già mất. Tôi không thể nào về già mới đăng ký các chuyến du lịch dành cho người cao tuổi, như vậy thì có lỗi với tuổi trẻ
 - Tuổi trẻ không du lịch đây đóm không phiêu lưu mạo hiểm, không cố giành học bổng, không trải nghiệm đa dạng cách sống, cả ngày lướt điện thoại. chơi game, chuyện mà 80 tuổi cũng làm được thì cần tuổi trẻ để làm gì 
+
+# Work
+
+- Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc
+- Mọi người không quan tâm là mình ăn trưa như thế nào đâu
+
+![[Pasted image 20241117184034.png]]

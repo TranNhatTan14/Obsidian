@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Superman]]"
+  - "[[Trần Nhật Tân]]"
 ---
 # Chăm sóc sức khỏe thể chất và tinh thần
 

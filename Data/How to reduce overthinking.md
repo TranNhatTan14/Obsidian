@@ -1,4 +1,4 @@
-1. Practice [[mindfulness]] meditation
+1. Practice [[Mindfulness]] meditation
 2. Challenge negative thoughts
 3. Set time limits for decisions
 4. Focus on solutions, not problems

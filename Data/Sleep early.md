@@ -21,7 +21,6 @@ To avoid hitting the snooze button, implement these strategies
 - Use light
 - Set realistic wake-up time
 - Incorporate rewards: Have something enjoyable planned for the morning like favorite breakfast or activity, to motivate you to get out of bed
-- Limit [[Apple#Screen Time]] before bed
 - Use gradual alarm tones
  
 Muốn dậy được sớm thì phải ngủ sớm

@@ -2,36 +2,38 @@
 tags:
   - Vocabulary
 aliases:
-  - virtually
-sr-due: 2025-01-07
-sr-interval: 44
+  - virtuality
+  - virtualize
+date: 2025-02-04 17:58
+sr-due: 2025-02-08
+sr-interval: 4
 sr-ease: 290
 ---
-- Definition: Existing or occurring on computers or through digital means, not physically present.
-- IPA: /ˈvɜː.tju.əl/
-- Pronunciation: [VUR-chu-uhl](https://www.google.com/search?q=how+to+pronounce+virtual)
-- Synonyms: digital, simulated, online
-- Antonym: physical, real
-- Prefix: None
-- Root: Latin virtus - meaning "strength" or "power," later adapted to mean "almost" or "near"
-- Suffix: -ual meaning "pertaining to"
-- Connotation: Neutral to positive, often associated with technology and innovation.
+### Information
 
-### [Visual Association](https://www.google.com/search?tbm=isch&q=virtual)
+List the CEFR level, pronunciation IPA (with syllable breaks and stress, e.g., EX-am-ple), word parts with explain (prefix, root, suffix), provide examples for each word form (noun, verb, adjective, etc.), common phrases or idioms (if applicable), a mnemonic, Vietnamese translation of "virtual" and its frequency per 100,000,000 words. Format the response in bullet points.
 
-Imagine a digital landscape or virtual meeting space, symbolizing something created by computers.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-![](https://vlr.1cdn.vn/2020/12/16/vlr.vn-file-entry-2020-t12-16-_1608086538-1-hnsi4kai4feu7kn5vznjqa.jpeg)
+### Visual Association
 
-### Mnemonic
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=virtual">
+</iframe>
 
-Imagine a computer screen that can create *virtual* environments, symbolizing things that exist digitally but not physically.
+### Pronunciation
 
-### Word Family
-
-- **Adjective**: The *virtual* reality experience was immersive.
-- **Adverb**: He *virtually* completed the task, just needing a few final steps.
-
-### Personal Connection
-
-We interact with *virtual* things every day, like using digital tools or participating in online meetings, making them integral to modern life.
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+virtual&hl=en">
+</iframe>

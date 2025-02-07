@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Superman]]"
+  - "[[Trần Nhật Tân]]"
 ---
 # Core Values
 

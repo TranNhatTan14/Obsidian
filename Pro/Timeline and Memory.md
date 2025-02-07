@@ -1,6 +1,6 @@
 ---
 links:
-  - "[[Superman]]"
+  - "[[Trần Nhật Tân]]"
 ---
 # 2018
 
@@ -24,6 +24,10 @@ links:
 
 - Mình về sớm trong đám cưới Việt Giang rồi mình đi qua đám lần nũa
 
+## 202412
+
+- Trekking Lùng Cúng cùng [[Nguyễn Tuấn Hiệp]] và [[Ngô Thị Phương Duyên]] và [[Ngọc Anh Phạm]] và [[Nghi Nguyễn]] và [[Đào Thanh Nga]]
+
 # 2025
 
 ## 202501
@@ -33,4 +37,4 @@ links:
 # Tips
 
 - Focus on keywords and cues as you listen to help you recall the most important information
-- To help yourself recall new information, try to link it to a [[personal experience]] or [[Knowledge]]
+- To help yourself recall new information, try to link it to a [[Personal Experience]] or [[Knowledge]]

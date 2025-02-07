@@ -3,7 +3,7 @@ tags:
   - Mindset
   - Role
 links:
-  - "[[Superman]]"
+  - "[[Trần Nhật Tân]]"
 ---
 - Mọi người gọi mình là em bé? Mình thấy thế nào
 - Được khen trẻ
