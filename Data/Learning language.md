@@ -7,7 +7,7 @@ tags:
 # Purpose
 
 - Watch film without subtitle
-- [[Lifelong learning]] faster, understand better
+- Learning faster, understand better
 - More oppotunities
 - Make more money
 
@@ -69,3 +69,40 @@ i:
 - để lưỡi tự nhiên, âm cuống họng đây ra 
 
 # Grammar
+
+- An adverb is needed to modify the adverb
+	- Margaret wrote the newspaper article unbelievably quickly
+- An adverb ending in -ly is needed to modify the verb
+	- They eagerly waited for the pie to finish baking
+
+# Tense
+
+## Present Tense
+
+### Simple Present
+
+### Present Continuous
+
+### Present Perfect
+
+### Present Perfect Continuous
+
+## Past Tense
+
+### Simple Past
+
+### Past Continuous
+
+### Past Perfect
+
+### Past Perfect Continuous
+
+## Future Tense
+
+### Simple Future
+
+### Future Continuous
+
+### Future Perfect
+
+### Future Perfect Continuous

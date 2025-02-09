@@ -1,4 +1,6 @@
 ---
+tags:
+  - Attention
 aliases:
   - Accomplishment
   - Achievement

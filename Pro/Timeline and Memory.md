@@ -16,13 +16,44 @@ links:
 
 - Dịch COVID và [[Nguyễn Hồng Giang]]
 
+## 202011
+
+- Vân tay [[Nguyễn Thị Dung|mẹ]] không rõ nữa
+
+# 2021
+
+- Annual Scholarship for outstanding students; University of Engineering and Technology, VNU
+- Second prize in The Scientific Research Conference for Undergraduates; Faculty of Information Technology, University of Engineering and Technology, VNU.
+
 # 2022
 
 - [[Real Madrid]] C1 2022
 
+# 2023
+
+- Vingroup AI Engineer Training Program
+
 # 2024
 
 - Mình về sớm trong đám cưới Việt Giang rồi mình đi qua đám lần nũa
+- Mình đổ xăng lần đầu ở cây kỷ niệm
+
+## 202401
+
+- Work in [[VIASM]]
+
+## 202404
+
+- Đăng ký chương trình FPT Software AI Residency và mình đã nhận được mail reject vào ngày 2024/04/16
+
+## 202405
+
+- Hoàn thành chương trình đào tạo kĩ sư AI
+- Kết thúc chương trình đào tạo kĩ sư AI, cảm xúc thay đổi lẫn lộn vì công ty [[GeneStory]] xử lý hợp đồng không chuyên nghiệp.
+
+## 202406
+
+- Nghe tin [[Nguyễn Thị Dung|mẹ]] bị sỏi thận đau bụng phải đi viện, mình đã rất buồn và khóc
 
 ## 202412
 
@@ -37,4 +68,4 @@ links:
 # Tips
 
 - Focus on keywords and cues as you listen to help you recall the most important information
-- To help yourself recall new information, try to link it to a [[Personal Experience]] or [[Knowledge]]
+- To help yourself recall new information, try to link it to a Personal Experience or Knowledge

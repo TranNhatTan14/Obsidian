@@ -3,7 +3,6 @@ tags:
   - Technology
 links:
   - "[[Finance]]"
-  - "[[Technology]]"
 ---
 A blockchain is a special type of database
 https://academy.binance.com/en/courses/track/beginner-track/blockchain-fundamentals/introduction-to-blockchain-technology

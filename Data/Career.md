@@ -70,14 +70,11 @@ Xác định rõ được công việc mình muốn thực hiện giúp hạn ch
 
 ## Yes
 
-### Data Scientist
-
-### Team Lead or Project Manager
-
-### AI Research Scientist
-
-### AI Engineer
+- Data Scientist
+- Team Lead or Project Manager
+- AI Research Scientist
+- AI Engineer
 
 ## Not
 
-### Data Engineer
+- Data Engineer

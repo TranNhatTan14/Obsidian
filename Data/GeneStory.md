@@ -2,6 +2,7 @@
 tags:
   - Vingroup
   - Place
+  - Healthcare
 ---
 # Pros
 

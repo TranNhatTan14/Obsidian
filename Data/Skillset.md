@@ -29,3 +29,7 @@ links:
 - Priority
 - Teamwork
 - Independent work
+- Cloud Computing
+- Objectives and Key Results
+- Self-Learning
+- Lifelong learning

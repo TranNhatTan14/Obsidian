@@ -3,4 +3,4 @@ tags:
   - People
   - Game
 ---
-- Faker is [[meditation]] in the important game
+- Faker is [[Meditation and Mindfulness]] in the important game

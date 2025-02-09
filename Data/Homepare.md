@@ -31,11 +31,10 @@ The goals are save time and automation, and we can get more information, more in
 - [[Github Copilot]]
 - [[Cryptocurrency]]
 - [[Scholarship essay]]
-- [[Technology]]
 - [[Computational Biology]] and [[Bioinformatics]]
 - [[Hands-On Graph Neural Networks Using Python]]
 - [[Google Research]]
-- [[DLAI]]
+- [[DeepLearning.AI]]
 - https://www.youtube.com/@WIRED
 - https://www.youtube.com/@TEDEd
 - [[Secure Offline RAG System]]
@@ -74,3 +73,58 @@ The goals are save time and automation, and we can get more information, more in
 - Machine are faster than human in almost tasks: [[Reading book]], ...
 	- How to work with machine effective
 		- Prompt for all tasks, prompt is like language 
+
+---
+# Information
+
+- Master Program
+- IELTS
+- Learn English With TV Series
+- Apple Shortcut
+- Pareto Principle
+- Brilliant
+- Ideas
+- Draw Your Brain
+- Strategy
+	- Geographic Arbitrage
+	- Divide and Conquer
+- Skill
+	- Programming
+	- Public Speaking
+- Obsidian
+- Q&A
+- iPhone
+- iPad
+- Application
+	- Binance
+	- Balance
+- Good, Better, Best
+- All-In-One
+
+- Artificial Intelligence
+- Shortcut
+- Automation
+- Time and Energy and Attention
+- Online and Offline
+- Interactive
+- Minimalism
+- Principle
+- Metaphor
+- Law
+- Method
+- [[Keywords]]
+
+```dataview
+TABLE file.ctime AS Created, file.mtime AS Modified, file.path AS Path
+FROM "" AND -#People AND -#Journal AND -#Film
+WHERE !contains(file.path, "Resources/") 
+AND !contains(file.path, "Archives/") 
+SORT file.ctime DESC
+```
+
+- Cognitive restructuring
+- Proverb
+- Rules
+- mtDNA Matching
+- Thinking
+- Attention

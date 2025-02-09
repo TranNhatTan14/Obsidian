@@ -17,7 +17,7 @@ tags:
 - [ ] Write [[Scholarship essay]]
 - [ ] Write [[Research Proposal]]
 
-- [ ] Complete [[MongoDB Associate DBA Exam]]
+- [ ] Complete MongoDB Associate DBA Exam
 - [ ] Mua sim mạng hoặc đăng ký gọi mạng trên [[iPhone]] để học [[Public Speaking]] với [[ChatGPT]] and [[Google Gemini]]
 - [ ] Tập mắt với bài tập thái dương công và hạn chế thời gian sử dụng thiết bị điện tử
 - [ ] Complete [[Azure AI Engineer Associate|Microsoft Certified: Azure AI Engineer Associate]]

@@ -13,7 +13,7 @@ date: 2025-02-01 14:27
 
 ### [[Claude]]
 
-### [[Perpelexity]]
+### [[Perpelexity AI]]
 
 - Not free to use the Voice mode
 
@@ -38,3 +38,9 @@ date: 2025-02-01 14:27
 # Links
 
 - Zotero + Obsidian + NotebookLM + Perplexity AI
+
+---
+
+### Bitbucket
+
+- https://support.atlassian.com/bitbucket-cloud/docs/set-up-personal-ssh-keys-on-linux

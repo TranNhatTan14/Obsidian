@@ -1,3 +1,10 @@
+---
+tags: 
+date: 2025-02-09 10:34
+---
+
+# Information
+
 Mitochondrial DNA (mtDNA)
 
 Genetic material found within mitochondria, organelles responsible for energy production within cells.

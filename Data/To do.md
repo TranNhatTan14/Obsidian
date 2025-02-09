@@ -11,6 +11,7 @@
 - Template cho [[Journaling]]
 - Học cách chụp ảnh đẹp [[Photography]]
 - Build [[Clothes]]
+- https://www.threads.net/@sleep__wise
 
 # [[Exercise]]
 
@@ -21,7 +22,7 @@
 - [ ] Sửa máy rung thay ốc dài
 - [ ] Protocol to reading book with [[NotebookLM]]
 - [ ] Giặt áo mưa
-- [ ] Fix [[Headphone|Sony WH-1000XM4 Headphone]]: Failed hoặc kết nối với dây xem chất lượng âm thanh tốt hơn không?
+- [ ] Fix [[Sony WH-1000XM4 Headphone|Sony WH-1000XM4 Headphone]]: Failed hoặc kết nối với dây xem chất lượng âm thanh tốt hơn không?
 - [ ] Mua tăm nước
 - [ ] Nhắn tin cho [[Đỗ Mạnh Tuấn]] về học bổng
 - [ ] How to make ChatGPT more personalize

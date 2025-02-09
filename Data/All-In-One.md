@@ -15,7 +15,7 @@ aliases:
 - Learning + everyday + work 
 - Working everyday
 - Reading research paper and summary with assistant, ask question
-- [[Templater]] + [[Obsidian]] + [[Perpelexity]] for learning [[Vocabulary]]
+- [[Templater]] + [[Obsidian]] + [[Perpelexity AI]] for learning [[Vocabulary]]
 # Components are tag and links
 
 - Learning

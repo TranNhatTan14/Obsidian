@@ -1,3 +1,0 @@
-- Mình đổ xăng lần đầu ở cây kỷ niệm
-- Đừng xem những nội dung ngắn, gây ảnh hưởng xấu đến não bộ. Khó khăn thì mới có sự trân trọng
-- Đi xe không cẩn thận, mắt mình cũng không tốt đâu

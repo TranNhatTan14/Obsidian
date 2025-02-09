@@ -2,5 +2,4 @@
 tags:
   - Application
   - Apple
-  - Photo
 ---

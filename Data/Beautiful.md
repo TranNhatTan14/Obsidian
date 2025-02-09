@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - Important
 date: 2025-01-22 22:14
 ---
 

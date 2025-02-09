@@ -1,6 +1,7 @@
 ---
 tags:
   - People
+  - Instagram
 ---
 # Information
 

@@ -1,6 +1,0 @@
----
-tags:
-  - Certification
-links:
-  - "[[MongoDB]]"
----

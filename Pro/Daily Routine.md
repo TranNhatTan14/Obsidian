@@ -12,19 +12,20 @@ Time: 05:45 to 08:30
 
 Time: 05:45 to 06:45
 
-- [ ] [[Wake up early]] and make your bed at the same time daily (even weekends).
-- [ ] Hydrate → sunlight → movement → nourishing breakfast.
-- [ ] Drink a glass of water
-- [ ] [[Exercise]]
-- [ ] [[Stretch]]
-- [ ] [[Take a shower]] and get dressed
-	- [ ] Không sử dụng [[iPhone]] khi đi vệ sinh
-- [ ] [[Meditation]] with [[Balance]] for 10 minutes
-- [ ] [[Charging devices]]
-- [ ] [[Elevate]]
-- [ ] [[Cooking]] and listening to podcast
-- [ ] Driving and listening to podcast
-- [ ] Eat a healthy Breakfast
+- [[Wake up early]] and make your bed at the same time daily (even weekends).
+- Hydrate → sunlight → movement → nourishing breakfast.
+- Drink a glass of water
+- [[Exercise]]
+- [[Stretch]]
+- Take a shower and listening podcast
+	- Không sử dụng [[iPhone]] khi đi vệ sinh
+- Get dressed
+- [[Meditation and Mindfulness]] with [[Balance]] for 10 minutes
+- [[Charging devices]]
+- [[Elevate]]
+- [[Cooking]] and listening to podcast
+- Driving and listening to podcast
+- Eat a healthy Breakfast
 
 ### 05:45 - 06:45: Fitness focus
 
@@ -81,7 +82,7 @@ Wind-down ritual (e.g., no screens 1 hour before bed, gratitude journaling).
 - [[Reading book]]
 - Reflect on your days in the evening
 - 22:00: Journal (gratitude + brain dump)
-- Consistent bedtime [[Sleep early]]
+- Consistent bedtime [[Sleep]]
 - Đánh răng
 - [[Stretch]] và thiền với Balance
 - Để điện thoại ra xa

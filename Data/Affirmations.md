@@ -1,7 +1,6 @@
 ---
 tags: 
 date: 2025-01-09 09:26
-modified date: 2025-01-09 09:26
 ---
 # Information
 

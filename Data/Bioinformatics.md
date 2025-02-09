@@ -17,7 +17,6 @@ Genetic variation is the difference in DNA sequences between individuals within 
 **VCF is the standard file format** for storing variation data. It is used by large scale variant mapping projects.
 
 VCF is a preferred format because it is **unambiguous, scalable and flexible**, allowing extra information to be added to the info field. Many millions of variants can be stored in a single VCF file.
-
 VCF files are tab delimited text files.
 
 ### Linkage Disequilibrium

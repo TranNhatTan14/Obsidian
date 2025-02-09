@@ -4,7 +4,7 @@ aliases:
 ---
 # Definition
 
-Process the moments and emotions of your day so you can drift to [[Sleep early]] easier.
+Process the moments and emotions of your day so you can drift to [[Sleep]] easier.
 
 ### Reflection:
 

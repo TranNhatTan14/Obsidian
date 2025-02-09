@@ -17,16 +17,6 @@ tags:
 
 ## Emotional Intelligence
 
-# Q&A
-
-==What best describes this feeling?==
-
-Narrowing down to the thing you are're feeling most can help you understand how you're responding and what you may need in a given moment
-
-What's having the biggest impact on you
-
-Adding context to a moment can help you see patterns in the things that are having an effect on your mental wellbeing
-
 # Mood
 
 - Accomplished
@@ -53,3 +43,32 @@ Adding context to a moment can help you see patterns in the things that are havi
 https://www.tiktok.com/@themotivationmentor777
 https://www.tiktok.com/@mdmotivator
 https://www.tiktok.com/@hunterprosper
+
+
+# Q&A
+
+### What best describes this feeling?
+
+Narrowing down to the thing you are're feeling most can help you understand how you're responding and what you may need in a given moment
+
+What's having the biggest impact on you
+
+Adding context to a moment can help you see patterns in the things that are having an effect on your mental wellbeing
+### How to reduce overthinking
+
+1. Practice [[Mindfulness]] meditation
+2. Challenge negative thoughts
+3. Set time limits for decisions
+4. Focus on solutions, not problems
+5. [[Exercise]] regularly
+6. Limit information intake
+7. Practice self-compassion
+8. Engage in distracting activities
+9. Seek professional help if needed
+
+### How to dealing with stress
+
+- Căng thẳng, bất lực hãy [[Exercise]], đi cà phê, [[Reading book]], learning đừng nằm ở trong phòng
+- How stressful is it
+
+![[Pasted image 20241109165611.png]]

@@ -1,5 +1,8 @@
 ---
-tags: 
+tags:
+  - Extension
+links:
+  - "[[Google Chrome]]"
 date: 2025-01-26 23:29
 ---
 

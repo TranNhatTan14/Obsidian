@@ -3,7 +3,6 @@ tags:
   - People
   - Music
 date: 2025-01-12 18:20
-modified date: 2025-01-12 18:20
 ---
 
 # Information

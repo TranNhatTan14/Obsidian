@@ -4,7 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Links": "multitext",
-    "date": "date",
-    "modified date": "date"
+    "date": "date"
   }
 }

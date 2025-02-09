@@ -2,7 +2,6 @@
 tags:
   - Film
 date: 2025-01-15 09:28
-modified date: 2025-01-15 09:28
 ---
 
 # Information

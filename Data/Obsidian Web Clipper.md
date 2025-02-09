@@ -1,7 +1,6 @@
 ---
 tags:
   - Extension
-  - Markdown
   - Obsidiian
 links:
   - "[[Google Chrome]]"

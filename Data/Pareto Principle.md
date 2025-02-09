@@ -1,7 +1,6 @@
 ---
 tags:
   - Principle
-  - Rule
   - Productivity
 links:
   - "[[Minimalism]]"

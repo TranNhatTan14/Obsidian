@@ -4,7 +4,6 @@ tags:
   - Connection
   - GeneStory
 date: 2025-01-12 10:59
-modified date: 2025-01-12 10:59
 ---
 
 # Information

@@ -17,11 +17,11 @@ tags:
 	- When you 30 or 80 did you proud of
 	- If you achieve this does it make you proud
 
-# [[How to dealing with stress]]
+# Stress
 
 - How stressful is it? Now and after 1 year
 
-Mindset can significantly affect motivation, resilience, and overall success, influencing how one approaches challenges, [[Lifelong learning]] and failures.
+Mindset can significantly affect motivation, resilience, and overall success, influencing how one approaches challenges, learning and failures.
 
 - Loving your present self
 - Every day is a [[Feedback system]] that allows you to develop and optimize yourself further
@@ -31,7 +31,7 @@ Mindset can significantly affect motivation, resilience, and overall success, in
 - Những thứ mình làm, mình đều học được kiến thức mới
 - Tận hưởng cuộc sống, mỗi ngày phát triển bản thân hơn, đón nhận những khó khăn khuyết điểm.
 - I will be better in next month
-- You can learn from everything, learn from people around you, learn good thing To do and learn not [[To do]] bad thing #[[Lifelong learning]] 
+- You can learn from everything, learn from people around you, learn good thing To do and learn not [[To do]] bad thing  learning]] 
 - Nhìn thấy nhiều cơ hội hơn, sẵn sàng cho cơ hội mới
 - Hãy ở những nơi những người xung quanh có tư duy tốt, để cùng phát triển
 - Work smarter, not harder
@@ -45,3 +45,7 @@ Mindset can significantly affect motivation, resilience, and overall success, in
 - Mọi người không quan tâm là mình ăn trưa như thế nào đâu
 
 ![[Pasted image 20241117184034.png]]
+
+### Dục tốc bất đạt
+
+- Người bị hói muốn mọc tóc nhanh

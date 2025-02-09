@@ -3,6 +3,8 @@ tags:
   - Goal
   - Education
   - Healthcare
+  - Important
+  - Attention
 description: Secure a fully-funded scholarship for a Master’s degree in AI Healthcare
 ---
 # Approach
@@ -11,27 +13,20 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 2. Nhận diện học bổng phù hợp với bản thân (theo profile và khả năng tài chính)
 3. Phân tích Case study đã nhận được học bổng toàn phần Thạc sĩ thành công
 
-### Major
-
-- Computer Science
-- Artificial Intelligence
-- Data Science in Healthcare
-- Robotics and AI (Human Robot Interaction)
-- Mechatronics
-- Engineering with AIoT, Smart and Digital Health
-
 # Degrees
 
+- Engineering + Healthcare + Interdisciplinary + Artificial Intelligence
+
 - ==Master of Science in Artificial Intelligence for Healthcare==
-- Master of Data Science
 - Master of Engineering in Artificial Intelligence
-- MSc Computational Biology (University of Toronto, ETH Zurich)
-- MSc Artificial Intelligence for Health (KU Leuven)
 - MSc Biomedical Data Science (ETH Zurich)
 - MSc Biomedical Engineering (ETH Zurich, TU Munich)
 - MSc Engineering in AI for Medicine (Johns Hopkins University)
-- MSc Computer Science – Biomedical Applications (University of Southern California)
-- MSc Data Science – Health Track (EPFL, Switzerland)
+
+### Not
+
+- Computer Science
+- Data Science
 
 # Universities
 
@@ -44,13 +39,10 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 ### University of Sydney
 
 - https://www.sydney.edu.au/scholarships/d/the-usyd-vingroup-scholarships.html
-- [University of Technology Sydney](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/global-engagement/vietnam/vingroup?fbclid=IwAR3wTs-aYktXOZo0LDXYnLyNbQvuQmYbJwqe8ltXAyMTL0kvb27hwrgKrqk)
 
 ### University of Melbourne
     
 - [Long Nguyen PhD in Biomedical Engineering](https://www.linkedin.com/in/longvhnguyen)
-- [Master of Computer Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-computer-science)
-- [Master of Data Science](https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science)
 
 ### Monash University
 
@@ -59,14 +51,10 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 
 ### UNSW
 
-- https://medicalrobotics-lab.com
+- ==https://medicalrobotics-lab.com==
 - https://medicalrobotics-lab.weebly.com
-- [Cong (Brian) Nguyen](https://www.linkedin.com/in/chicong-brian/)
 - https://www.unsw.edu.au/research/hdr/scholarships
 ### UTS
-    
-- [Tien Thong Do](https://www.facebook.com/groups/14115377990/user/100000406471894/)
-- [Hubert Nguyen](https://www.facebook.com/groups/14115377990/user/100000104374361/)
 
 - https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre
 - https://www.uts.edu.au/research/computational-intelligence-and-brain-computer-interface-centre
@@ -82,11 +70,6 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 - MSc Artificial Intelligence (specialize in healthcare applications).
 - Funding: NTU Research Scholarship.
 
-[Master of Science in Biomedical Data Science](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-biomedical-data-science#admission)
-[Master of Engineering (by Research) | Computer Science and Engineering](https://www.ntu.edu.sg/education/graduate-programme/scse-master-of-engineering)
-[Master of Science in Artificial Intelligence (MSAI)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-artificial-intelligence)
-[Master of Science in Data Science (MSDS)](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-data-science-(msds))
-
 [VinGroup Graduate Scholarship](https://www.ntu.edu.sg/graduate-college/admissions/scholarships/vingroup-graduate-scholarship)
 
 ### [National University of Singapore](http://www.nus.edu.sg/)
@@ -94,14 +77,9 @@ description: Secure a fully-funded scholarship for a Master’s degree in AI Hea
 - https://masters.nus.edu.sg/programmes
 - [Khanh Linh Nguyen](https://www.linkedin.com/in/linhnguyenkhanh/)
 
-- MSc Biomedical Informatics (AI for genomics/healthcare).
-- MSc Data Science and Machine Learning (healthcare analytics projects).
-
 Funding: NUS Research Scholarship (monthly stipend + tuition waiver).
 
 Scholarships:
-
-Interview Prep: Be ready to discuss your AI projects in healthcare (e.g., “How would you scale your plasmid ID system for real-time data?”).
 
 A*STAR Collaboration: Mention interest in joint industry-academia projects in your SOP.
 
@@ -116,19 +94,11 @@ Why: Low tuition fees (CHF 730–1,500/semester at public universities) + presti
 
 - MSc Biomedical Engineering (focus on AI for biosignal analysis, genomics).
 - MSc Computer Science (specialize in ML with projects at the AI Center for Health).
-- MSc Data Science
 
 Funding: ETH Excellence Scholarship (covers living expenses + tuition).
 Học bổng ETH Zurich Excellence Masters
 
 ### [Ecole Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en)
-
-- MSc Data Science (Health/Genomics track).
-- MSc Bioengineering (AI for synthetic biology).
-
-Research Proposal: Optional but recommended for ETH Excellence Scholarship. Focus on a topic like “Graph Transformers for Antimicrobial Resistance Prediction.”
-
-Faculty Contact: Email professors 2–3 months before applying (e.g., “I’d like to discuss plasmid ID challenges in your Synthetic Biology lab”).
 
 ## Germany
 
@@ -173,20 +143,16 @@ By March 2026, secure a fully-funded scholarship covering at least 80% of tuitio
 
 Next steps:
 
-1. Begin research paper on healthcare AI by December 2024
-2. Research scholarship deadlines for target universities
-3. Start university applications by January 2025
+4. Begin research paper on healthcare AI by December 2024
+5. Research scholarship deadlines for target universities
+6. Start university applications by January 2025
 
 # Resources
 
 - [[Scholarship Hunters]]
-- [[VietPhD]]
+- [VietPhD](https://www.facebook.com/groups/vietphd)
 - https://institute.vinbigdata.org/programs/application-driven-mathematics
 - https://www.facebook.com/VEF2.0
 - Hoài Phạm
 - [[Hoa Dinh]]
-
-Scholarship-rich regions:
-
-- Nordic countries (e.g., Sweden’s KTH Royal Institute, Denmark’s DTU) with low/no tuition + stipends.
-- Germany/Netherlands: DAAD scholarships, TU Munich, TU Delft (exemptions for non-EU students).
+- https://www.facebook.com/groups/phd.hub

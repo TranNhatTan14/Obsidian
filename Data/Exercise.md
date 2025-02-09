@@ -16,7 +16,7 @@ tags:
 
 - **Location**: [MD Fitness](https://goo.gl/maps/meaB1ZjtBYJcRwzs9)
 - **Time**: 06:00
-- Listening to [[Listening podcast]]
+- Listening to podcast
 - With [[Nguyễn Tuấn Hiệp]]
 
 # People
