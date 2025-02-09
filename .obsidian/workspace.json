@@ -19,7 +19,36 @@
                 "backlinks": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Homepare"
+=======
+              "title": "unthinkable"
+            }
+          },
+          {
+            "id": "a0532f100f153573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/Submit Graph Transformer paper in ICLR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Submit Graph Transformer paper in ICLR"
+            }
+          },
+          {
+            "id": "b634c1d58a43fe75",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+>>>>>>> f89b4d791344670a7bccb3020605cbf5d0441141
             }
           }
         ]
@@ -166,9 +195,105 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+<<<<<<< HEAD
           }
         ],
         "currentTab": 2
+=======
+          },
+          {
+            "id": "720f950af600a5b4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e8c40b0b31c31adf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "96afcb257464db80",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "eb0c4562f143071d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "952fc733bb2dba3e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "08ca3927172bac25",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b70859e1ea593427",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "dfad554681596084",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "903303512eb16d41",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 13
+>>>>>>> f89b4d791344670a7bccb3020605cbf5d0441141
       }
     ],
     "direction": "horizontal",
@@ -183,13 +308,14 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "random-note:Open random note": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "c95d07e6c706e911",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Data/Homepare.md",
     "Data/Knowledge.md",
     "Data/Rapid DNA Asia-Pacific Webinar.md",
@@ -203,6 +329,27 @@
     "Data/Lifelong learning.md",
     "Pro/Values and Beliefs.md",
     "Pro/Mindset.md",
+=======
+    "Journals/20250207.md",
+    "Data/Untitled.md",
+    "Data/To do.md",
+    "Data/Perpelexity.md",
+    "Resources/Vocabulary/beige.md",
+    "Archives/Chess.md",
+    "Archives/Benjamin Tran.md",
+    "Archives/AoE.md",
+    "Journals/20250206.md",
+    "Resources/Vocabulary/simplicity.md",
+    "Data/Submit Graph Transformer paper in ICLR.md",
+    "Resources/Vocabulary/unthinkable.md",
+    "Data/Career.md",
+    "empty files.md",
+    "broken links output.md",
+    "Data/Pareto Principle.md",
+    "Data/Insights.md",
+    "Data/Meditation.md",
+    "Data/Balance.md",
+>>>>>>> f89b4d791344670a7bccb3020605cbf5d0441141
     "Data/Learning language.md",
     "Data/Emotions and Feeling and Moods.md",
     "Data/Elevate.md",
