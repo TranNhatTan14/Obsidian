@@ -1,6 +1,7 @@
 ---
 tags:
   - Application
+  - Markdown
 ---
 # Definition
 
@@ -81,4 +82,4 @@ Tại sao minh sử dụng Obsidian thay vi Notion
 ### Contextual Typography
 ### Tasks
 
-### [Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition)
+# Obsidian and [[Visual Studio Code]] and [[Github Copilot]]

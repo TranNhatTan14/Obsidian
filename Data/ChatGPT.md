@@ -4,7 +4,8 @@ tags:
   - Chatbot
 links:
   - "[[iPhone]]"
-  - "[[Laptop]]"
+  - "[[Laptop MSI GF63 9RCX]]"
+  - "[[Large Language Model]]"
 URL: https://chatgpt.com
 ---
 # Prompt

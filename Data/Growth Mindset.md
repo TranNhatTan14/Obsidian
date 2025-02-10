@@ -2,7 +2,6 @@
 tags:
   - Mindset
 date: 2025-01-15 10:16
-modified date: 2025-01-15 10:16
 ---
 
 # Information

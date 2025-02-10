@@ -7,6 +7,8 @@
 - 13 inch hay 15 inch 
 - Pro hay Air
 
+Mac mini M4
+
 ### MacOS
 
 ## [[iPhone#iPhone 11 Pro Max]]

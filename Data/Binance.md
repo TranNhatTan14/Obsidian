@@ -5,7 +5,7 @@ tags:
   - Finance
 links:
   - "[[Cryptocurrency]]"
-  - "[[Laptop]]"
+  - "[[Laptop MSI GF63 9RCX]]"
 ---
 
 

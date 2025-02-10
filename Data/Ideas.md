@@ -169,7 +169,7 @@ Quan sát nhiều hơn nghĩ có thể làm giảm Overthinking và How to deali
 
 ### Breathe
 
-Thở bằng mũi vầ căng bụng ra có thể làm giảm [[How to dealing with stress]]
+Thở bằng mũi vầ căng bụng ra có thể làm giảm stress
 
 We can learn from machine and machine can learn from human.
 - Vui vẻ và hạnh phúc vì điều mình sẽ thực hiện
@@ -201,7 +201,7 @@ lựa chọn quan trọng hơn nỗ lực
 - Việc nhớ đường đi về giống như đạt được mục tiêu #Analogy 
 	- Giống như love process
 - 
-- Ghi lại [[Dream]] xong nhờ ChatGPT giải mã
+- Ghi lại [[Sleep#Dream]] xong nhờ ChatGPT giải mã
 
 Mình vừa có ý tưởng liệu mình có thể đăng ký nhiều tài khoản dựa trên Google Qwiklabs
 Kỷ luật định nghĩa thành công

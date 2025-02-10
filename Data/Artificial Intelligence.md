@@ -1,10 +1,15 @@
 ---
 tags: 
-date: 2025-02-02 10:36
+date: 2025-02-09 21:20
 ---
 
 # Information
 
-- Information 1
-- Information 2
-- Information 3
+- Multimodal
+- Tasks - Agents (long, coherent, error-correcting contexts)
+- pervasive, invisible
+- computer-using
+- test-time training
+
+TogetherAI
+Hyperbolic

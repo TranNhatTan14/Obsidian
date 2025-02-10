@@ -1,37 +1,37 @@
 ---
 tags:
   - Vocabulary
-aliases: []
-sr-due: 2025-01-07
-sr-interval: 44
-sr-ease: 270
+aliases:
+date: 2025-02-09 14:10
+sr-due: 2025-02-13
+sr-interval: 4
+sr-ease: 280
 ---
-- Definition: Not able to be changed or modified; fixed and permanent.
-- IPA: /ʌnˈɔltərəbəl/
-- Pronunciation: [un-AWL-ter-uh-buhl](https://www.google.com/search?q=how+to+pronounce+unalterable)
-- Synonyms: immutable, fixed, unchangeable
-- Antonym: flexible, changeable, modifiable
-- Prefix: un- meaning "not"
-- Root: alter (Latin alterare - meaning "to change")
-- Suffix: -able meaning "capable of being"
-- Connotation: Neutral to negative, can imply rigidity or lack of flexibility.i
+### Information
 
-### Mnemonic
+I have the word "unalterable". List the CEFR level, pronunciation IPA (with syllable breaks and stress, e.g., EX-am-ple), word parts with explain (prefix, root, suffix), provide examples for each word form (noun, verb, adjective, etc.), common phrases or idioms (if applicable), a mnemonic, Vietnamese translation of the word and its frequency per 100,000,000 words. Format the response in bullet points.
 
-Imagine a stone sculpture that cannot be reshaped, symbolizing *unalterable*.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.perplexity.ai">
+</iframe>
 
-### Word Family
+### Visual Association
 
-- **Adjective**: Her opinion on the matter was *unalterable*.
-  
-- Example with ==common phrase==: The decision was ==unalterable== and final.
-- Example sentence: Certain laws are *unalterable* once passed.
-- Regular example sentence: The core values of the organization are *unalterable*.
+<iframe
+    height="800"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?tbm=isch&q=unalterable">
+</iframe>
 
-### Personal Connection
+### Pronunciation
 
-*Unalterable* things in life might include fundamental beliefs or irreversible decisions.
-
-### [Visual Association](https://www.google.com/search?tbm=isch&q=unalterable)
-
-Imagine a stone statue that cannot be reshaped, symbolizing *unalterable*.
+<iframe
+    height="500"
+    width="100%"
+    style="padding: 0; margin: 0;"
+    src="https://www.google.com/search?q=how+to+pronounce+unalterable&hl=en">
+</iframe>

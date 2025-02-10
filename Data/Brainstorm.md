@@ -81,4 +81,4 @@ Hãy tìm hiểu về Ikigai, và trong lần đổi việc kế tiếp, không 
 
 # Information
 
-- One Mount do [[Vingroup]] và TCB thành lập nhận nhiệm vụ đầu từ 300M USD làm [[Blockchain]] Layer 1
+- One Mount do Vingroup và TCB thành lập nhận nhiệm vụ đầu từ 300M USD làm [[Blockchain]] Layer 1

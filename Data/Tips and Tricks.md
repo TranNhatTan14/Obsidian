@@ -14,3 +14,6 @@ Luôn sẵn sàng cho công việc trong mọi trường hợp
 - Listen without judging or jumping to conclusion to better understand and remember what you hear
 - To help yourself remember information about people, plasces, or things, create a mental map and associate the items to differrent areas of it
 - Use the first letter of each word or phase in the information you hear to create a memmorable acronym or mnemonic
+
+- Focus on keywords and cues as you listen to help you recall the most important information
+- To help yourself recall new information, try to link it to a Personal Experience or Knowledge

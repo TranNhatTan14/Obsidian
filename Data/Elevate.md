@@ -7,9 +7,6 @@ links:
   - "[[iPad]]"
   - "[[Vocabulary|Vocabulary]]"
 description: Brain workout with Elevate
-sr-due: 2024-11-13
-sr-interval: 4
-sr-ease: 270
 ---
 Elevate help practice Writing, Speaking, Reading, Math, Memory skills
 
@@ -256,7 +253,7 @@ Learn how to develop a stronger speaking voice
 
 ## [[Vocabulary|Vocabulary]] Building
 
-- Master unfamiliar words by [[Lifelong learning]] roots, prefixes, and suffixes
+- Master unfamiliar words by learning roots, prefixes, and suffixes
 - Learn strategies to improve your [[Vocabulary|Vocabulary]]
 - Identify unfamiliar words based on context
 - Use words with greater precision

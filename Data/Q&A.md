@@ -259,7 +259,7 @@ Do you want to start your own business?
 - AI phát triển nhanh quá, mình cần làm gì để theo kịp xu hướng
 
 - What is the difference between relationships and connections
-- [What is the most painful thing you've ever been told](https://www.tiktok.com/@hunterprosper/video/7096174664774438187) #Family #Love 
+- [What is the most painful thing you've ever been told](https://www.tiktok.com/@hunterprosper/video/7096174664774438187) #Family
 
 - Why I journaling?
 	- When I need to answer some questions but I don't have enough data of myself, so I need to write journal more

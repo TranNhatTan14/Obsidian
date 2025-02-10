@@ -32,6 +32,73 @@ Key Results
 
 **Success Criteria:** Innovative Graph Transformer approach for accurate and efficient bacterial plasmid identification.
 
+---
+
+- Recommended Journals:
+	- Bioinformatics (Oxford): This journal may be suitable, especially if your work has relevance to biology1.
+	- PLOS Computational Biology: It is a reputable journal1.
+	- The Journal of the American Medical Informatics Association (JAMIA): Ranked highly in the health informatics category1.
+
+	- Bioinformatics (Oxford Academic)
+	- BMC Bioinformatics
+	- IEEE Journal of Biomedical and Health Informatics
+	- Journal of Biomedical Informatics
+
+1. **Frontiers in Microbiology**  
+   - **Focus**: AI applications in microbial genomics and antimicrobial resistance.  
+   - **Why**: Published similar studies (e.g., plASgraph2, which uses GNNs for plasmid detection) .  
+
+3. **IEEE Journal of Biomedical and Health Informatics**  
+   - **Focus**: AI/ML innovations in healthcare data analysis.  
+   - **Why**: Aligns with your engineering-focused methodology (Graph Transformers) .  
+
+4. **PLOS Computational Biology**  
+   - **Focus**: Open-access research on computational methods in biology.  
+   - **Why**: Has published plasmid classification tools like PlasClass .  
+
+5. **Bioinformatics**  
+   - **Focus**: Algorithms for genomic and metagenomic data.  
+   - **Why**: Ideal for technical papers on assembly graph-based classification .  
+
+
+- Recommended Conferences:
+	- MLHC: This is a general machine learning in healthcare conference [1, 7].
+	- MICCAI: A top conference for AI in medical imaging [4, 7, 10].
+	- ML4H (colocated at NeurIPS): Another option to consider7.
+	
+	- ISMB (Intelligent Systems for Molecular Biology)
+	- RECOMB (Research in Computational Molecular Biology)
+	- IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+	- CIBB (International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics)
+
+6. **SAIL 2024 (Symposium on Artificial Intelligence in Learning Health Systems)**  
+   - **Focus**: AI applications in surgical procedures, diagnostics, and patient management.  
+   - **Why**: Your work on plasmid detection using graph-based AI aligns with SAIL's emphasis on integrating AI into clinical workflows .  
+
+7. **COTS-2024 (Conference of Texas Statisticians)**  
+   - **Focus**: Technical aspects of AI/ML and statistical techniques in healthcare.  
+   - **Why**: Ideal for highlighting the computational methodology (Graph Transformers) in plasmid classification .  
+
+8. **Machine Learning for Healthcare 2024 (Toronto)**  
+   - **Focus**: Advanced ML algorithms in disease prediction and health monitoring. 
+   - **Why**: Your use of Graph Transformers fits its technical emphasis on novel healthcare AI models .  
+
+9. **International Conference on Artificial Intelligence for Healthcare (San Francisco)**  
+   - **Focus**: Cutting-edge AI innovations in diagnostics and patient management.  
+   - **Why**: Strong match for AI-driven genomic analysis in a tech-forward environment .  
+
+10. **AIME 2024 (Artificial Intelligence in Medicine)**  
+   - **Focus**: AI in clinical trials, predictive analytics, and personalized medicine.  
+   - **Why**: Suitable for demonstrating how plasmid identification can improve precision medicine .  
+
+### **Submission Strategy**  
+- **Conferences**: Prioritize SAIL 2024 or COTS-2024 for immediate feedback and networking.  
+- **Journals**: Submit to *Frontiers in Microbiology* or *Bioinformatics* for rapid publication, or aim for *Nature Biotechnology* if the methodology is groundbreaking.  
+
+For further details on conference dates/venues, refer to [Webpage 1](https://themedicalpractice.com/technology/innovation/best-ai-healthcare-conferences/). For journal examples, see plASgraph2 in *Frontiers in Microbiology*  and geNomad in *Nature Biotechnology* .
+
+---
+
 # Problem definition
 
 - DNA assembly to short read to unitig to contig and unitig assembly graph and contig assembly graph
@@ -91,24 +158,24 @@ Hybrid
 - Download complete genome and short-read data
 ## Data preparation
 
-1. **Input Data**:
+11. **Input Data**:
    - Download Illumina paired-end short-read sequencing data from SRA (Sequence Read Archive).
    - Download complete genomes of target bacteria (e.g., *E. coli*, *K. pneumoniae*, *S. aureus*) from NCBI.
    
-1. **Data Preparation**:
+12. **Data Preparation**:
    - Perform **assembly** using **metaSPAdes** to generate **unitig assembly graphs**.
    - Extract **contigs** and **unitigs** from the assembly graph.
    
-1. **Ground Truth**:
+13. **Ground Truth**:
    - Use known plasmid sequences from databases like **PlasmidDB** or **PLSDB**.
    - For novel plasmids, use tools like **PlasmidEC** or **gplas2** to infer plasmid sequences.
 
 ## Quality Control
 
-1. Filter by length < 100 bp
-2. Alignment with chromosome database to exclude high predict chromosome, markers, ... to get information about gene (both plasmid and chromosome)
-4. Extract information from assembly graph
-5. Create unitig or assembly graph file
+14. Filter by length < 100 bp
+15. Alignment with chromosome database to exclude high predict chromosome, markers, ... to get information about gene (both plasmid and chromosome)
+16. Extract information from assembly graph
+17. Create unitig or assembly graph file
 
 Kết hợp theo 3 hướng
 
@@ -234,7 +301,6 @@ Kết hợp theo 3 hướng
 
 ---
 
-1. Download the data
-2. Clean data
-3. Assembly with metaSPAdes
-4. 
+18. Download the data
+19. Clean data
+20. Assembly with metaSPAdes

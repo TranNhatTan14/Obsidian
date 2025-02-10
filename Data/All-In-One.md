@@ -9,6 +9,8 @@ aliases:
 - More productive
 - Save time and energy
 - [[Automaticity]]
+- Good, Better, Best
+	- Manual - Bot - Agent
 
 # Paths
 

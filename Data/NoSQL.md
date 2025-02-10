@@ -1,5 +1,0 @@
----
-tags:
-  - Technology
-  - Database
----

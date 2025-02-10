@@ -55,3 +55,7 @@ Only watch Real Madrid's highlight on Real Madrid channel. Except important matc
 - Thói quen hay xem đánh giá thấp sao của app
 - Open [[Facebook]] in [[Messenger]]
 - Ngoáy mũi
+- Adult content
+	- Manga For Free
+	- Thiên Địa
+	- Toonily

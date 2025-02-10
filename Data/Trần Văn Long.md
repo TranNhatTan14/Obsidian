@@ -1,5 +1,6 @@
 ---
 tags:
+  - People
   - Family
   - Relationship
 aliases:

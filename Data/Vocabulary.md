@@ -72,6 +72,7 @@ description: Not only learn vocabulary but also learn new knowledge and culture
 - Keep an eye on Dragon Slayder in Arena of Valor
 - You ==don't have to make up for== anything! It was no problem!
 - It't time to call it a day (to stop for the rest of the day)
+- Resilient Rebound - Bứt phá kiên cường
 
 ---
 

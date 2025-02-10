@@ -1,39 +1,40 @@
 {
   "main": {
-    "id": "18215ed1ea7a6654",
+    "id": "741aa4bef5feab8d",
     "type": "split",
     "children": [
       {
-        "id": "13dea4eb942e026b",
+        "id": "f261a7fe7df97d17",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c43596f8e192a1",
+            "id": "18c92b760597d712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Vocabulary/unthinkable.md",
+                "file": "Data/Most Important Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "unthinkable"
+              "title": "Most Important Tasks"
             }
           },
           {
-            "id": "a0532f100f153573",
+            "id": "afa0ea1e26288aca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data/Submit Graph Transformer paper in ICLR.md",
+                "file": "Data/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Submit Graph Transformer paper in ICLR"
             }
           },
@@ -50,24 +51,27 @@
               },
               "icon": "lucide-file",
               "title": "20250210"
+=======
+              "title": "Artificial Intelligence"
+>>>>>>> 5f2165e4cc4e1755574ebe44724a729180d70a7b
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ac646a614b459f04",
+    "id": "2bd3d72d5c51aca5",
     "type": "split",
     "children": [
       {
-        "id": "f0def893d645e368",
+        "id": "f1adc8f5cc3456bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5361e3dea2f5487d",
+            "id": "03390ee1568b7dc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,22 +84,16 @@
             }
           },
           {
-            "id": "9e38cca523a44c19",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "26e96d74047f81e1",
+            "id": "a8421ead72ccc918",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "docker",
+=======
+                "query": "",
+>>>>>>> 5f2165e4cc4e1755574ebe44724a729180d70a7b
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,78 +103,88 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "dc840c7bdeaf5a01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 377.5
   },
   "right": {
-    "id": "685661460335a225",
+    "id": "9f2b21f8697bf940",
     "type": "split",
     "children": [
       {
-        "id": "e70f57567e99048a",
+        "id": "a4f0d17ba2739090",
         "type": "tabs",
         "children": [
           {
-            "id": "e0dbe7a7aeef20fe",
+            "id": "8db05fc8e98600e1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "orphaned files output.md",
+                "file": "Data/Artificial Intelligence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of orphaned files output"
+              "title": "Outline of Artificial Intelligence"
             }
           },
           {
-            "id": "661e85bfa5a3caf8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Trần Nhật Tân.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Trần Nhật Tân"
-            }
-          },
-          {
-            "id": "1bddd6c72b2b75db",
+            "id": "fce3dbcdd5fe61ec",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orphaned files output.md",
+                "file": "Data/Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for orphaned files output"
+              "title": "Backlinks for Artificial Intelligence"
             }
           },
           {
-            "id": "95c54f3434d7d575",
+            "id": "bdcb6768fc9b7b9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data/Artificial Intelligence.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Artificial Intelligence"
+            }
+          },
+          {
+            "id": "c9c36ba6b25a5e0a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -185,7 +193,7 @@
             }
           },
           {
-            "id": "3b7e289dc2ce3e6e",
+            "id": "7da0db10a4e35f5d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -197,6 +205,7 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+<<<<<<< HEAD
           },
           {
             "id": "720f950af600a5b4",
@@ -320,11 +329,14 @@
           }
         ],
         "currentTab": 16
+=======
+          }
+        ]
+>>>>>>> 5f2165e4cc4e1755574ebe44724a729180d70a7b
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 421.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,15 +344,16 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
       "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b634c1d58a43fe75",
+  "active": "afa0ea1e26288aca",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Data/Bitbucket.md",
     "Journals/20250210.md",
     "Data/Current Work.md",
@@ -351,17 +364,26 @@
     "Resources/Vocabulary/regulate.md",
     "Resources/Vocabulary/disallow.md",
     "Data/Untitled.md",
+=======
+    "Data/Artificial Intelligence.md",
+    "Data/Most Important Tasks.md",
+    "Data/Homepare.md",
+>>>>>>> 5f2165e4cc4e1755574ebe44724a729180d70a7b
     "Data/To do.md",
-    "Data/Perpelexity.md",
-    "Resources/Vocabulary/beige.md",
-    "Archives/Chess.md",
-    "Archives/Benjamin Tran.md",
-    "Archives/AoE.md",
-    "Journals/20250206.md",
-    "Resources/Vocabulary/simplicity.md",
+    "Data/Azure AI Engineer Associate.md",
+    "Journals/20250101.md",
+    "Data/GeneStory.md",
     "Data/Submit Graph Transformer paper in ICLR.md",
-    "Resources/Vocabulary/unthinkable.md",
+    "Data/LLM Engineer's Handbook.md",
+    "Data/Time Management.md",
+    "Data/Standing on the Shoulders of Giants.md",
+    "Data/Tips and Tricks.md",
+    "Pro/Timeline and Memory and Milestones.md",
+    "Data/Planner.md",
+    "Data/Duong Vu.md",
+    "Data/What I've learned.md",
     "Data/Career.md",
+<<<<<<< HEAD
     "empty files.md",
     "broken links output.md",
     "Data/Pareto Principle.md",
@@ -388,5 +410,23 @@
     "vocabulary",
     "Second Brain",
     "Untitled.canvas"
+=======
+    "Trần Nhật Tân.md",
+    "Journals/20250209.md",
+    "Data/VinRobotics.md",
+    "Data/Exercise.md",
+    "Data/VinMotion.md",
+    "Data/Vingroup.md",
+    "Data/Physical Health.md",
+    "Resources/Vocabulary/hypertrophy.md",
+    "Resources/Files/Pasted image 20241201082848.png",
+    "Resources/Files/Pasted image 20241201082843.png",
+    "Resources/Files/Pasted image 20241201082838.png",
+    "Resources/Files/Pasted image 20241201082829.png",
+    "Resources/Files/Pasted image 20241201082824.png",
+    "Resources/Files/Pasted image 20241201082813.png",
+    "Resources/Files/Pasted image 20241201082805.png",
+    "Data/Multimodal Personal Assistant.md"
+>>>>>>> 5f2165e4cc4e1755574ebe44724a729180d70a7b
   ]
 }

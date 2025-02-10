@@ -8,6 +8,13 @@ tags:
 - [[Automaticity|Automation]] work
 - Make money
 
+# Workflow
+
+- Ask the initial question
+- Elaborate it with [[Claude]]
+- Ask question in [[Perpelexity]] and [[ChatGPT]] and [[DeepSeek]]
+- Save the answer to Obsidan
+
 # Research + Reason + Summarization
 
 ## Reseaching
