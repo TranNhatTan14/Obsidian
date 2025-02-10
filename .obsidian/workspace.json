@@ -41,10 +41,15 @@
             "id": "b634c1d58a43fe75",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Journals/20250210.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "20250210"
             }
           }
         ],
@@ -90,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Important  ",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +106,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -278,12 +284,42 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "84a48120c47aed0a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8a343518ea04e125",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9f4244c3673135fd",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -305,7 +341,15 @@
   },
   "active": "b634c1d58a43fe75",
   "lastOpenFiles": [
+    "Data/Bitbucket.md",
+    "Journals/20250210.md",
+    "Data/Current Work.md",
+    "Data/Visual Studio Code.md",
+    "Data/Docker.md",
     "Journals/20250207.md",
+    "Data/Nguyễn Minh Huyền.md",
+    "Resources/Vocabulary/regulate.md",
+    "Resources/Vocabulary/disallow.md",
     "Data/Untitled.md",
     "Data/To do.md",
     "Data/Perpelexity.md",
@@ -323,14 +367,6 @@
     "Data/Pareto Principle.md",
     "Data/Insights.md",
     "Data/Meditation.md",
-    "Data/Balance.md",
-    "Data/Learning language.md",
-    "Data/Chinese.md",
-    "Pro/Daily Routine.md",
-    "Resources/Vocabulary/whether.md",
-    "Data/S.M.A.R.T.md",
-    "orphaned files output.md",
-    "Data/Medium.md",
     "Resources/Files/Pasted image 20240910114457.png",
     "Resources/Files/Pasted image 20240910110834.png",
     "Resources/Files/Pasted image 20240910114813.png",
