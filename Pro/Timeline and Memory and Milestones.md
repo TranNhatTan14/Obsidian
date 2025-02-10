@@ -64,8 +64,3 @@ links:
 ## 202501
 
 - Mình ký hợp đồng chính thức với [[GeneStory]]
-
-# Tips
-
-- Focus on keywords and cues as you listen to help you recall the most important information
-- To help yourself recall new information, try to link it to a Personal Experience or Knowledge

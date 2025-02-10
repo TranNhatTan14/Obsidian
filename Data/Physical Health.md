@@ -5,6 +5,18 @@ tags:
 date: 2025-01-27 16:26
 ---
 
+# Purpose
+
+### Beautiful
+
+- What is the definition of beautiful
+	- Da trắng
+	- Mắt sáng
+	- Thông minh
+	- MBI
+		- Giảm cân
+		- Tăng cơ , giảm mỡ
+
 # Information
 
 Cần tăng cơ, giảm mỡ
@@ -18,6 +30,10 @@ Cần tăng cơ, giảm mỡ
 5. Tập cười thật tự tin
 
 # Eye
+
+### Eye exercises
+
+https://www.tiktok.com/@heiafitness
 
 Lutein nên dùng từ 10-25 mg kèm Zeaxanthin (1-5 mg) càng tốt, dùng ngay sau khi ăn sáng hoặc ăn trưa
 Khuyến khích nên dùng kết hợp Lutein và dầu cá

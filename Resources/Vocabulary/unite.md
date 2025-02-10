@@ -1,9 +1,9 @@
 ---
 tags:
   - Vocabulary
-sr-due: 2025-01-07
-sr-interval: 4
-sr-ease: 270
+sr-due: 2025-06-28
+sr-interval: 139
+sr-ease: 290
 ---
 List the CEFR level, pronunciation (include help to pronunciation like EX-am-ple, stress information), word parts, example for each word forms including common phrases or idioms where applicable, mnemonic, Vietnamese translation of "unite" in bullet list.
 

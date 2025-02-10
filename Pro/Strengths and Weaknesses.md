@@ -15,6 +15,7 @@ links:
 
 - Background liên quan đến Mechatronics, có thể học trong lĩnh vực liên quan đến phần cứng hơn
 - Hiện giờ mình đang theo tốt hướng [[Healthcare]]
+- Biến background Mechatronics thành lợi thế 
 
 # Weaknesses
 

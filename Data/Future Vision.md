@@ -3,6 +3,10 @@ tags:
   - Future
 date: 2025-02-08 10:04
 ---
+# Future Plan
+
+- Đặt mục tiêu công bố bài báo
+- Đặt mục tiêu thay đổi công việc
 
 # Information
 

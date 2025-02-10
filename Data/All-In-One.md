@@ -9,13 +9,15 @@ aliases:
 - More productive
 - Save time and energy
 - [[Automaticity]]
+- Good, Better, Best
+	- Manual - Bot - Agent
 
 # Paths
 
 - Learning + everyday + work 
 - Working everyday
 - Reading research paper and summary with assistant, ask question
-- [[Templater]] + [[Obsidian]] + [[Perpelexity AI]] for learning [[Vocabulary]]
+- [[Templater]] + [[Obsidian]] + [[Perpelexity]] for learning [[Vocabulary]]
 # Components are tag and links
 
 - Learning

@@ -21,6 +21,10 @@
     {
       "folder": "Data",
       "template": "Resources/Templates/Data Template.md"
+    },
+    {
+      "folder": "Journals",
+      "template": "Resources/Templates/Journaling Template.md"
     }
   ],
   "enable_file_templates": false,

@@ -13,7 +13,7 @@ date: 2025-02-01 14:27
 
 ### [[Claude]]
 
-### [[Perpelexity AI]]
+### [[Perpelexity]]
 
 - Not free to use the Voice mode
 

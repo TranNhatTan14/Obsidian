@@ -1,6 +1,7 @@
 ---
 tags:
   - Game
+  - Application
 links:
   - "[[iPhone]]"
 ---

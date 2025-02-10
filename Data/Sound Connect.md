@@ -1,11 +1,11 @@
 ---
 tags:
-  - Chatbot
   - Application
+  - Sony
+  - Audio
+date: 2025-02-09 13:08
 links:
-  - "[[Large Language Model]]"
   - "[[iPhone]]"
-date: 2025-02-01 14:36
 ---
 
 # Information

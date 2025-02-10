@@ -13,6 +13,13 @@ tags:
 - Become an AI Engineer, Researcher or Data Scientist in [[Healthcare]], [[Finance]] fields
 	- Can work remote in global company 
 - Mình cảm thấy mình phù hợp hơn với việc 'ứng dụng' kiến thức trong lĩnh vực như là ứng dụng công nghệ trong các lĩnh vực sức khỏe, cuộc sống, không giỏi trong việc tối ưu như là làm sao để optimize mô hình, 
+- ==Nên có back-up công việc==
+- ==Cảm giác mình thiếu kinh nghiệm, thiếu kiến thức, thiếu tự tin==
+
+# [[Mindset]]
+
+- Hãy yêu công việc hiện tại, nhìn thấy nhiều điểm tích cực hơn của công việc
+- Mọi người không quan tâm là mình ăn trưa như thế nào đâu
 
 # Expectations
 

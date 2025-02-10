@@ -2,8 +2,10 @@
 tags:
   - Programming
   - Github
+  - Application
 links:
   - "[[Artificial Intelligence]]"
+  - "[[iPhone]]"
 ---
 # Information
 

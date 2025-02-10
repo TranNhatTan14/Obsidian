@@ -1,7 +1,7 @@
 ---
 tags:
   - Application
-description: Stay focused, be present
 links:
   - "[[iPhone]]"
+date: 2025-02-09 13:06
 ---

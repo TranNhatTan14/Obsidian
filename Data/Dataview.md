@@ -18,4 +18,12 @@ AND file.name != this.file.name
 AND file.folder != "Vocabulary"
 AND file.name != "TODOs"
 SORT file.mtime DESC 
-```
+
+---
+
+```dataview
+TABLE file.ctime AS Created, file.mtime AS Modified, file.path AS Path
+FROM "" AND -#People AND -#Journal AND -#Film
+WHERE !contains(file.path, "Resources/") 
+AND !contains(file.path, "Archives/") 
+SORT file.ctime DESC

@@ -1,7 +1,9 @@
 ---
 tags:
   - Application
-description: Stay focused, be present
+  - Google
 links:
+  - "[[iPad]]"
   - "[[iPhone]]"
+date: 2025-02-09 12:47
 ---

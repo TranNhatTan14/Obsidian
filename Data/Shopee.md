@@ -1,11 +1,9 @@
 ---
 tags:
-  - Chatbot
   - Application
 links:
-  - "[[Large Language Model]]"
   - "[[iPhone]]"
-date: 2025-02-01 14:36
+date: 2025-02-09 12:49
 ---
 
 # Information

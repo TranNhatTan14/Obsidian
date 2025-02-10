@@ -1,6 +1,7 @@
 ---
 tags:
   - Chatbot
+  - Website
 links:
   - "[[Large Language Model]]"
 URL: https://chat.deepseek.com
