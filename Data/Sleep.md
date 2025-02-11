@@ -59,13 +59,14 @@ Nhịp sinh học, nếu thức dậy khoảng 05:00 như mình thì đến kho�
 Dream is creative
 https://www.quora.com/Why-are-my-dreams-much-more-creative-than-I-am-in-reality
 
-Mơ vào đón anh Học tại nhà Hiệp ăn nem chua xong có đám cưới chị An kiss
-Giấc mơ về ăn cưới Viểtk đợi mn trong nhà bà. Đi xe đạp cùng Hiệp lên nhà Việt. Tháng ra đi họp lớp cấp 3. Ngồi cùng em Quỳnh. Có nối chuyện. Được viets văn trở lại kể về món ăn
-Mơ những thứ không hay
-Mơ yêu Minh Anh. Dự lễ bế giảng rooof biến thành sân đấu của Real Madrid. Đi tìm bố đi lạc. Về thành đám ma nhà bên nội. Em Giang nhắn tin. Em Xoan muốn gặp mn. Nói chuyện về trước.
-Sao mình hay mơ bố làm khó mình
+- Mơ vào đón anh Học tại nhà Hiệp ăn nem chua xong có đám cưới chị An kiss
+- Giấc mơ về ăn cưới Viểtk đợi mn trong nhà bà. Đi xe đạp cùng Hiệp lên nhà Việt. Tháng ra đi họp lớp cấp 3. Ngồi cùng em Quỳnh. Có nối chuyện. Được viets văn trở lại kể về món ăn
+- Mơ những thứ không hay
+- Mơ yêu Minh Anh. Dự lễ bế giảng rooof biến thành sân đấu của Real Madrid. Đi tìm bố đi lạc. Về thành đám ma nhà bên nội. Em Giang nhắn tin. Em Xoan muốn gặp mn. Nói chuyện về trước.
+- Sao mình hay mơ bố làm khó mình
 - Hôm qua mình mơ là nói chuyện với thầy [[Dinh Tran Hiep]] và thầy bảo mình là học trò tốt
 - Mơ là về thời cấp 2 nhưng ở lớp cấp 3, [[Kiều Thái Sơn]] f mọi người mình được học bổng
+- Mình mơ có chị An. trong một văn phòng cùn làm việc nhưnddang ở một khu trường cấp 3
 
 - Hôm qua mình có một giấc mơ tham gia chính trị
 	- Mình về quê và chuẩn bị đồ bị chậm nên là lên HN muộn

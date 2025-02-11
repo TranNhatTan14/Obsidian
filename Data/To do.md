@@ -20,3 +20,4 @@ tags:
 - Exercise more often
 - Eat healthier foods
 - Tập mắt với bài tập thái dương công và hạn chế thời gian sử dụng thiết bị điện tử
+- Giặt gối

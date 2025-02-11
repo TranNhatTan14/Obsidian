@@ -11,6 +11,7 @@ tags:
 # Workflow
 
 - Ask the initial question
+- Brainstorm to get the new idea
 - Elaborate it with [[Claude]]
 - Ask question in [[Perpelexity]] and [[ChatGPT]] and [[DeepSeek]]
 - Save the answer to Obsidan
@@ -81,3 +82,8 @@ Tools: [[NotebookLM]]
 - Learn from high-level concept
 - Dive dive with [[NotebookLM]]
 - Get insight
+
+# Programming
+
+- Define the task to work with
+- Let [[Github Copilot#Agent|Github Copilot Agent]] code

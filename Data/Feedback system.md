@@ -41,7 +41,7 @@ It's okaaay to
 
 ---
 
-
+- Ốm ăn cơm sẽ không ngon nên cần thận trọng, bảo vệ sức khỏe
 - Đừng xem những nội dung ngắn, gây ảnh hưởng xấu đến não bộ. Khó khăn thì mới có sự trân trọng
 - Đi xe không cẩn thận, mắt mình cũng không tốt đâu
 - Thiếu kiến thức, cảm thấy mình chưa sẵn sàng cho công việc mới
@@ -65,6 +65,8 @@ It's okaaay to
 - Chơi game khi đi làm về
 - Search chữ để dịch xong lại quên
 - Khi cảm thấy không xong việc mình có thức cố xong dậy muộn
+- Ý tưởng mình có định hướng tốt nhưng thực hiện chưa mạnh
+- Cho mình nhiều trải nghiệm vì đọc bao nhiêu sách hay nghe bao nhiêu cũng là của người ta
 
 # No
 

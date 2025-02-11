@@ -1,7 +1,5 @@
 [
-  "obsidian-contextual-typography",
-  "dataview",
-  "obsidian-spaced-repetition",
   "templater-obsidian",
-  "find-unlinked-files"
+  "obsidian-spaced-repetition",
+  "obsidian-contextual-typography"
 ]

@@ -13,11 +13,51 @@ description: Not only learn vocabulary but also learn new knowledge and culture
 
 # Word Parts
 
+## Prefixes
+
+- anti
+- ex
+- mis
+- ac
+- contra
+- im
+- multi
+- ob
+- re
+- dis
+
 ## Root
+
+- dict
+- fort
+- strong
+- script
+- celer
+- dict
+- dur
+- mort
+- lingu
+- struct
+- port
+- vent
+- loc
+- anthrop
+- chron
+- civ
+- mal
+- phil
+- scrib
 
 ## Suffixes
 
 - ic
+- ion
+- al
+- ful
+- ness
+- ate
+- able
+- er
 
 # Word form
 

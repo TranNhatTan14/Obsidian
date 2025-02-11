@@ -25,6 +25,8 @@ Time management helps you organize your day to get things done efficiently. It�
 - [[Apple Calendar]]
 - [[Forest]]
 - [[Apple Ecosystem#Screen Time|Screen Time]]
+- Time block
+
 # Definition
 
 Thời gian bị lãng phí hoặc coi là lãng phí và có thể tối ưu được

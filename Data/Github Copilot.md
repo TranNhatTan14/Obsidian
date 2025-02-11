@@ -21,3 +21,7 @@ links:
 - Work best with specific folder
 
 - https://github.com/features/copilot/whats-new?utm_source=agent-awakens-announcement
+
+### Agent
+
+- How to restore to checkpoint
